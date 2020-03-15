@@ -1,891 +1,181 @@
-<?xml-model href=”https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng”
-type=”application/xml” schematypens=”http://relaxng.org/ns/structure/1.0”?><?xml-model href=”https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng”
-type=”application/xml” schematypens=”http://purl.oclc.org/dsdl/schematron”?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der arme Heinrich. Textgeschichtliche elektronische Ausgabe</title>
-            <author>Hartmann von Aue</author>
-            <respStmt>
-               <resp>hrsg. von</resp>
-               <persName ref="https://orcid.org/0000-0002-7683-8892">Victor Millet</persName>
-               <persName ref="https://orcid.org/0000-0002-2202-6354">Gustavo Fernández Riva&gt;</persName>
-            </respStmt>
-            <respStmt>
-               <resp>unter Mitarbeit von</resp>
-               <persName ref="http://d-nb.info/gnd/1037976495">Jakub Šimek</persName>
-            </respStmt>
-            <respStmt>
-               <resp>Übersetzungen von</resp>
-               <persName>Dietmar Peschel</persName>
-            </respStmt>
-            <sponsor>Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R</sponsor>
-            <sponsor>Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020</sponsor>
+            <title> Der  <w> arme </w>  Heinrich. Textgeschichtliche elektronische Ausgabe </title>
+            <author> Hartmann von Aue </author>
+            <respStmt><resp> hrsg. von </resp><persName ref="https://orcid.org/0000-0002-7683-8892"> Victor Millet </persName><persName ref="https://orcid.org/0000-0002-2202-6354"> Gustavo Fernández Riva </persName></respStmt>
+            <respStmt><resp> unter Mitarbeit von </resp><persName ref="http://d-nb.info/gnd/1037976495"> Jakub Šimek </persName></respStmt>
+            <respStmt><resp> Übersetzungen von </resp><persName> Dietmar Peschel </persName></respStmt>
+            <sponsor> Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R </sponsor>
+            <sponsor> Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020 </sponsor>
          </titleStmt>
          <publicationStmt>
-            <publisher>Universitätsbibliothek Heidelberg</publisher>
-            <pubPlace>Heidelberg</pubPlace>
-            <idno type="d.o.i.">10.11588/edition.ahd</idno>
+            <publisher> Heidelberg University Publishing </publisher>
+            <pubPlace> Heidelberg </pubPlace>
+            <idno> https://doi.org/10.11588/edition.ahd </idno>
             <availability>
-               <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
+               <p> Creative Commons-Lizenz 4.0 (CC BY-SA 4.0) </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <listWit>
-               <witness xml:id="A">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Straßburg</settlement>
-                        <repository>Stadtbibliothek</repository>
-                        <idno>Cod. A 94</idno>
-                     </msIdentifier>
-                     <p>Vermisst seit 1870</p>
-                  </msDesc>
-               </witness>
-               <witness xml:id="tr_A">
-                  Übersetzung der Fassung A von <persName>Dietmar Peschel</persName>
-               </witness>
-               <witness xml:id="Ba">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Heidelberg</settlement>
-                        <repository> Universitätsbibliothek</repository>
-                        <idno>Cod. Pal. germ. 341</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="Bb">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Cologny-Genf</settlement>
-                        <repository>Fondation Martin Bodmer</repository>
-                        <idno>Cod. Bodmer 72</idno>
-                        <altIdentifier>
-                           <settlement>Kalocsa</settlement>
-                           <repository>Katedralbibl.</repository>
-                           <idno>Ms. 1</idno>
-                        </altIdentifier>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="tr_Ba">
-                  Übersetzung der Fassung Ba nach der Handschrift Ba von <persName>Dietmar Peschel</persName>
-               </witness>
-               <witness xml:id="tr_Bb">
-                  Übersetzung der Fassung Bb nach der Handschrift Bb von <persName>Dietmar Peschel</persName>
-               </witness>
-               <witness xml:id="C">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Berlin</settlement>
-                        <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
-                        <idno>Ms. germ. fol. 923 Nr. 7a</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="D">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>München</settlement>
-                        <repository>Bayerische Staatsbibliothek</repository>
-                        <idno>cgm. 5249 (29a/30a)</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="E">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>München</settlement>
-                        <repository>Bayerische Staatsbibliothek</repository>
-                        <idno>cgm. 5249 (29b)</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="F">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Freiburg</settlement>
-                        <repository>Universitätsbibliothek</repository>
-                        <idno>Hs. 381, fol. 72r</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
+               <witness xml:id="C"><msDesc>
+                  <msIdentifier>
+                     <settlement> Berlin </settlement>
+                     <repository> Staatsbibliothek zu Berlin - Preußischer Kulturbesitz </repository>
+                     <idno> Ms. germ. fol. 923 Nr. 7a </idno>
+                  </msIdentifier>
+                  </msDesc></witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl>
-            <p>The editorial principles are described under <ref target="http://digi.ub.uni-heidelberg.de/en/ahd/information/editionsprinzipien.html"/>
-            </p>
-         </editorialDecl>
          <listPrefixDef>
-            <prefixDef ident="hc"
-                       matchPattern="(.+)"
-                       replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1">
-            </prefixDef>
+            <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
          </listPrefixDef>
       </encodingDesc>
-      <revisionDesc>
-         <listChange>
-            <change type="internal"
-                    when="2018-06-01"
-                    who="https://orcid.org/0000-0002-7683-8892 https://orcid.org/0000-0002-2202-6354">introduced xml:id for verses tagged as 'missing', corrected sequence of pieces in fragment C</change>
-            <change type="internal"
-                    when="2019-01-23"
-                    who="https://orcid.org/0000-0002-7683-8892 https://orcid.org/0000-0002-2202-6354">corrections in fragments C and E based on new images, smaller encoding corrections</change>
-            <change type="internal"
-                    when="2019-04-04"
-                    who="https://orcid.org/0000-0002-7683-8892 https://orcid.org/0000-0002-2202-6354">corrections verse-correspondences, smaller encoding corrections</change>
-         </listChange>
-      </revisionDesc>
    </teiHeader>
-   <text>
+   <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
       <body>
          <div>
-            <pb edRef="#C" facs="#C_1r-2r" n="1r/2r"/>
-            <cb edRef="#C" facs="#C_1r-2r-a"/>
-            <l xml:id="v_644" n="0001">
-               <lb n=""/>
-               <witStart wit="#C"/>
-               <gap reason="cut_off" quantity="12" unit="chars"/>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_645" n="0002">
-               <lb n=""/>
-               <gap reason="cut_off" quantity="18" unit="chars"/>
-            </l>
-            <l xml:id="v_646" n="0003">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> lanc lip <choice>
-                  <orig>vf</orig>
-                  <reg>uf</reg>
-               </choice> 
-               <choice>
-                  <abbr>
-                     <am>d ͛</am>
-                  </abbr>
-                  <expan>d<ex>er</ex>
-                  </expan> 
-               </choice> 
-               <choice>
-                  <abbr>er<am>ð</am>
-                  </abbr>
-                  <expan>er<ex>de</ex>
-                  </expan>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_647" n="0004">
-               <lb n=""/>
-               <choice>
-                  <orig>dv</orig>
-                  <reg>du</reg>
-               </choice> 
-               <choice>
-                  <orig>ieheſt</orig>
-                  <reg>jeheſt</reg>
-               </choice>
-               <pc type="editorial">,</pc> 
-               <choice>
-                  <orig>dv</orig>
-                  <reg>du</reg>
-               </choice> welleſt<lb type="in_verse" xml:id="C_1r-2r-a.v_647_line_3" break="yes"/>din leben<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_648" n="0005">
-               <lb n=""/>
-               <choice>
-                  <orig>dvrch</orig>
-                  <reg>durch</reg>
-               </choice> 
-               <choice>
-                  <orig>vnſer</orig>
-                  <reg>unſer</reg>
-               </choice> 
-               <choice>
-                  <abbr>bei<am>d ͛</am>
-                  </abbr>
-                  <expan>beid<ex>er</ex>
-                  </expan>
-               </choice> frowede<lb type="in_verse" xml:id="C_1r-2r-a.v_648_line_4" break="yes"/>geben<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_649" n="0006">
-               <lb n=""/>
-               <choice>
-                  <orig>dv</orig>
-                  <reg>du</reg>
-               </choice> wilt iedoch <choice>
-                  <orig>vnſ</orig>
-                  <reg>unſ</reg>
-               </choice> beiden<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_650" n="0007">
-               <lb n=""/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice>
-               <lb xml:id="C_1r-2r-a.v_650_line_5" type="in_verse" break="yes"/>leben vaſte leid<gap reason="perforated" quantity="2" unit="chars"/>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_651" n="0008">
-               <lb n=""/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> din <choice>
-                  <abbr>va<am>t  ͛</am>
-                  </abbr>
-                  <expan>vat<ex>er</ex>
-                  </expan>
-               </choice> 
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> ich<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_652" n="0009">
-               <lb n=""/>
-               <choice>
-                  <abbr>
-                     <am>g͛</am>ne</abbr>
-                  <expan>
-                     <ex>ger</ex>ne</expan>
-               </choice>
-               <lb type="in_verse" xml:id="C_1r-2r-a.v_652_line_6" break="yes"/>leben<pc type="editorial">,</pc> 
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> iſt <choice>
-                  <orig>dv</orig>
-                  <reg>du</reg>
-               </choice>
-               <gap reason="perforation" quantity="3" unit="chars"/> dich<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_652a" n="0010">
-               <lb n=""/>waz ſcholte <choice>
-                  <orig>vnſ</orig>
-                  <reg>unſ</reg>
-               </choice>
-               <lb type="in_verse" xml:id="C_1r-2r-a.v_652a_line_7" break="yes"/>lip <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> 
-               <choice>
-                  <orig>gvt</orig>
-                  <reg>gut</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_652b" n="0011">
-               <lb n=""/>waz ſcholte <choice>
-                  <orig>vnſ</orig>
-                  <reg>unſ</reg>
-               </choice> 
-               <choice>
-                  <abbr>werltlic<am>h͛ ͛</am>
-                  </abbr>
-                  <expan>wertlic<ex>her</ex>
-                  </expan>
-               </choice>
-               <lb type="in_verse" xml:id="C_1r-2r-a.v_652b_line_8" break="yes"/>
-               <choice>
-                  <orig>mvt</orig>
-                  <reg>mut</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_652c" n="0012">
-               <lb n=""/>ſwenne wir din enbæren<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_652d" n="0013">
-               <lb n=""/>
-               <choice>
-                  <orig>dvne</orig>
-                  <reg>dune</reg>
-               </choice>
-               <lb type="in_verse" xml:id="C_1r-2r-a.v_652d_line_9" break="yes"/>
-               <unclear rend="cut_off">ſcholt <choice>
-                     <orig>vnſ</orig>
-                     <reg>unſ</reg>
-                  </choice> niht ſwæren</unclear>
-               <witEnd wit="#C"/>
-            </l>
-            <l xml:id="v_662a" n="0014">
-               <lb n=""/>
-               <witStart wit="#C"/>
-               <gap reason="cut_off" extent="unknown"/>
-               <lb type="in_verse" xml:id="C_1r-2r-a.v_662a_line_11" break="yes"/>weſen <choice>
-                  <orig>gvt</orig>
-                  <reg>gut</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_662b" n="0015">
-               <lb n=""/>ſo ſcholt <choice>
-                  <orig>dv</orig>
-                  <reg>du</reg>
-               </choice> 
-               <choice>
-                  <abbr>re<am>ð</am>
-                  </abbr>
-                  <expan>re<ex>de</ex>
-                  </expan>
-               </choice> 
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> den <choice>
-                  <orig>mvt</orig>
-                  <reg>mut</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <witEnd wit="#C"/>
-            </l>
-            <pb edRef="#C" facs="#C_1v-2v" n="1v/2v"/>
-            <cb edRef="#C" facs="#C_1v-2v-a"/>
-            <l xml:id="v_671" n="0016">
-               <lb n=""/>
-               <witStart wit="#C"/>ſele <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und </reg>
-               </choice> einen ſchonen lip<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_672" n="0017">
-               <lb n=""/>mich lobet man<lb type="in_verse" xml:id="C_1v-2v-a.v-672_line_2" break="yes"/>
-               <choice>
-                  <abbr>v<am>n̄</am>
-                  </abbr>
-                  <expan>v<ex>nd</ex>
-                  </expan>
-               </choice> wip<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_673" n="0018">
-               <lb n=""/>alle<pc type="editorial">,</pc> die mich <choice>
-                  <abbr>ſehen<am>ð</am>
-                  </abbr>
-                  <expan>ſehen<ex>de</ex>
-                  </expan>
-               </choice> ſint<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_674" n="0019">
-               <lb n=""/>ich ſi<lb type="in_verse" xml:id="C_1v-2v-a.v-674_line_3" break="yes"/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> ſchoneſte kint<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_675" n="0020">
-               <lb n=""/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> ſie zir lebene haben<lb type="in_verse" xml:id="C_1v-2v-a.v-675_line_4" break="yes"/>geſehen<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_676" n="0021">
-               <lb n=""/>wem ſcholte <gap reason="perforation" quantity="3" unit="chars"/>
-               <choice>
-                  <abbr>
-                     <am>d ͛</am>
-                  </abbr>
-                  <expan>
-                     <ex>der</ex>
-                  </expan>
-               </choice> gnaden <choice>
-                  <orig>iehen</orig>
-                  <reg>jehen</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-            </l>
-            <l xml:id="v_677" n="0022">
-               <lb n=""/>niuwan <choice>
-                  <orig>iv</orig>
-                  <reg>iu</reg>
-               </choice> zwein n<gap reason="perforation" quantity="3" unit="chars"/> gote<pc type="ms">·</pc>
-               <pc type="editorial">?</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_678" n="0023">
-               <lb n=""/>deſ ſchol<lb type="in_verse" xml:id="C_1v-2v-a.v-678_line_6" break="yes"/>ich ze <choice>
-                  <orig>ivwerem</orig>
-                  <reg>iuwerem</reg>
-               </choice> gebote<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_679" n="0024">
-               <lb n=""/>
-               <choice>
-                  <abbr>ie<am>m̄</am>
-                  </abbr>
-                  <expan>iem<ex>er</ex>
-                  </expan>
-               </choice> vil <choice>
-                  <abbr>
-                     <am>g͛</am>ne</abbr>
-                  <expan>
-                     <ex>ger</ex>ne</expan>
-               </choice>
-               <lb type="in_verse" xml:id="C_1v-2v-a.v_679_line_7" break="yes"/>ſtan<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_680" n="0025">
-               <lb n=""/>wie michel reht ich deſ han<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_681" n="0026">
-               <lb n=""/>
-               <gap reason="cut_off" extent="unknown"/>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_682" n="0027">
-               <lb n=""/>
-               <gap reason="cut_off" extent="unknown"/>
-               <witEnd wit="#C"/>
-            </l>
-            <l xml:id="v_693" n="0028">
-               <lb n=""/>
-               <witStart wit="#C"/>
-               <gap reason="cut_off" extent="unknown"/>
-            </l>
-            <l xml:id="v_694" n="0029">
-               <lb n=""/>in minen <choice>
-                  <orig>ivngen</orig>
-                  <reg>jungen</reg>
-               </choice> tagen<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_695" n="0030">
-               <lb n=""/>mir die ſinne<witEnd wit="#C"/>
-            </l>
-            <pb edRef="#C" facs="#C_3r-4r" n="3r/4r"/>
-            <cb edRef="#C" facs="#C_3r-4r-a"/>
-            <l xml:id="v_827" n="0031">
-               <lb n=""/>
-               <witStart wit="#C"/>wen ſi <choice>
-                  <orig>oͮch</orig>
-                  <reg>ouch</reg>
-               </choice> ze vil<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_828" n="0032">
-               <lb n=""/>wie <choice>
-                  <abbr>
-                     <am>g͛</am>ne</abbr>
-                  <expan>
-                     <ex>ger</ex>ne</expan>
-               </choice> ich <choice>
-                  <orig>iv</orig>
-                  <reg>iu</reg>
-               </choice> deſ volgen<lb type="in_verse" xml:id="C_3r-4r-a.v_828_line_2" break="yes"/>wil<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_829" n="0033">
-               <lb n=""/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> ich <choice>
-                  <orig>iv</orig>
-                  <reg>iu</reg>
-               </choice> 
-               <choice>
-                  <orig>trivwe</orig>
-                  <reg>triuwe</reg>
-               </choice> leiſte<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_830" n="0034">
-               <lb n=""/>mir ſelber doch<lb type="in_verse" xml:id="C_3r-4r-a.v_830_line_3" break="yes"/>die meiſte<pc type="ms">.</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_831" n="0035">
-               <lb n=""/>welt <gap reason="perforation" quantity="5" unit="chars"/> wenden min heil<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-            </l>
-            <l xml:id="v_832" n="0036">
-               <lb n=""/>ſo laze ich <choice>
-                  <orig>ivch</orig>
-                  <reg>iuch</reg>
-               </choice> ein <gap reason="perforation" quantity="3" unit="chars"/>l<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_833" n="0037">
-               <lb n=""/>e nach mir <w part="I">ge</w>
-               <lb type="in_verse" xml:id="C_3r-4r-a.v_833_line_5" break="no"/>
-               <w part="F">weinen</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_834" n="0038">
-               <lb n=""/>ich enwelle mir erſcheinen<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-            </l>
-            <l xml:id="v_835" n="0039">
-               <lb n=""/>weſ ich mir <choice>
-                  <orig>ſchvldic</orig>
-                  <reg>ſchuldic</reg>
-               </choice> bin<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_836" n="0040">
-               <lb n=""/>ich wil iemer <w part="I">da</w>
-               <lb type="in_verse" xml:id="C_3r-4r-a.v_836_line_7" break="no"/>
-               <w part="F">
-                  <damage agent="cut_off">hin</damage>
-               </w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_837" n="0041">
-               <lb n=""/>
-               <damage agent="cut_off">da</damage> ich volle <choice>
-                  <orig>
-                     <choice>
-                        <abbr>froͤwe<am>ð</am>
-                        </abbr>
-                        <expan>froͤwe<ex>de</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>fröwede</reg>
-               </choice> 
-               <choice>
-                  <abbr>vin<am>ð</am>
-                  </abbr>
-                  <expan>vind<ex>de</ex>
-                  </expan>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_838" n="0042">
-               <lb n=""/>ir habet <choice>
-                  <orig>oͮch</orig>
-                  <reg>ouch</reg>
-               </choice>
-               <witEnd wit="#C"/>
-            </l>
-            <l xml:id="v_850" n="0043">
-               <lb n=""/>
-               <witStart wit="#C"/>
-               <choice>
-                  <abbr>
-                     <am>ð</am>
-                  </abbr>
-                  <expan>
-                     <ex>der</ex>
-                  </expan>
-               </choice> tot geſchiht<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_851" n="0044">
-               <lb n=""/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> enlat dich nieman<lb type="in_verse" xml:id="C_3r-4r-a.v_851_line_9" break="yes"/>ſehen<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_852" n="0045">
-               <lb n=""/>ez ſchol ze <choice>
-                  <orig>ſalerne</orig>
-                  <reg>Salerne</reg>
-               </choice> geſechen<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_852a" n="0046">
-               <lb n=""/>da ſchol<witEnd wit="#C"/>
-            </l>
-            <pb edRef="#C" facs="#C_3v-4v" n="3v/4v"/>
-            <cb edRef="#C" facs="#C_3v-4v-a"/>
-            <l xml:id="v_860" n="0047">
-               <lb n=""/>
-               <witStart wit="#C"/>den<gap reason="stain"/>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_861" n="0048">
-               <lb n=""/>
-               <gap reason="stain"/>erzeigen <choice>
-                  <orig>kvnde</orig>
-                  <reg>kunde</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_862" n="0049">
-               <lb n=""/>dechein<lb type="in_verse" xml:id="C_3v-4v-a.v_862_line_2" break="yes"/>
-               <choice>
-                  <orig>zvnge</orig>
-                  <reg>zunge</reg>
-               </choice> in kindeſ <choice>
-                  <orig>
-                     <choice>
-                        <abbr>mvn<am>ð</am>
-                        </abbr>
-                        <expan>mvn<ex>de</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>munde</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_863" n="0050">
-               <lb n=""/>ſi <choice>
-                  <orig>iahen</orig>
-                  <reg>jahen</reg>
-               </choice>
-               <pc type="editorail">,</pc> 
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> 
-               <choice>
-                  <abbr>
-                     <am>d ͛</am>
-                  </abbr>
-                  <expan>
-                     <ex>der</ex>
-                  </expan>
-               </choice>
-               <lb type="in_verse" xml:id="C_3v-4v-a.v_863_line_3" break="yes"/> 
-               <unclear rend="stained">heilige geist</unclear>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_864" n="0051">
-               <lb n=""/>
-               <gap reason="stain" extent="unkown"/>ir volleiſt</l>
-            <l xml:id="v_865" n="0052">
-               <lb n=""/>
-               <choice>
-                  <abbr>
-                     <am>d ͛</am>
-                  </abbr>
-                  <expan>
-                     <ex>der</ex>
-                  </expan>
-               </choice> 
-               <choice>
-                  <orig>oͮch</orig>
-                  <reg>ouch</reg>
-               </choice> ſante<gap reason="stain" extent="unkown"/>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_866" n="0053">
-               <lb n=""/>
-               <gap reason="stain" extent="unkown"/>
-               <lb type="in_verse" xml:id="C_3v-4v-a.v_866_line_5" break="yes"/>wagen lac<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_867" n="0054">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> in die wiſheit lerte<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_868" n="0055">
-               <lb n=""/>
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> er ze gote kerte<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_869" n="0056">
-               <lb n=""/>ſin <unclear rend="stained">kintlich <choice>
-                     <orig>gemvͤte</orig>
-                     <reg>gemüte</reg>
-                  </choice>
-               </unclear>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_870" n="0057">
-               <lb n=""/>ſich bedahte <unclear rend="stained">in ir <choice>
-                     <orig>mvͤte</orig>
-                     <reg>müte</reg>
-                  </choice>
-               </unclear>
-               <gap reason="stain" extent="unkown"/>
-               <witEnd wit="#C"/>
-            </l>
-            <l xml:id="v_885" n="0058">
-               <lb n=""/>
-               <witStart wit="#C"/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>mvͦ<am>t͛</am>
-                        </abbr>
-                        <expan>mvͦ<ex>ter</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>muoter</reg>
-               </choice> vor <choice>
-                  <abbr>lei<am>ð</am>
-                  </abbr>
-                  <expan>lei<ex>de</ex>
-                  </expan>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_886" n="0059">
-               <lb n=""/>
-               <choice>
-                  <orig>ſvſ</orig>
-                  <reg>ſuſ</reg>
-               </choice> geſazen ſie <choice>
-                  <abbr>bei<am>ð</am>
-                  </abbr>
-                  <expan>bei<ex>de</ex>
-                  </expan>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_887" n="0060">
-               <lb n=""/>
-               <gap reason="stained" extent="unkown"/>
-               <lb type="in_verse" xml:id="C_3v-4v-a.v_887_line_8" break="no"/>ec <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> 
-               <choice>
-                  <orig>vnfro</orig>
-                  <reg>unfro</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_888" n="0061">
-               <lb n=""/>
-               <choice>
-                  <orig>vnz</orig>
-                  <reg>unz</reg>
-               </choice> 
-               <choice>
-                  <abbr>d<am>c</am>
-                  </abbr>
-                  <expan>d<ex>az</ex>
-                  </expan>
-               </choice> ſie ſich be<gap reason="cut_off" extent="unknown"/>
-               <witEnd wit="#C"/>
-            </l>
+            <pb n="1r/2r"/>
+            <cb n="a"/>
+            <lg>
+               <l n="644"><lb n="1"/><damage ana="hc:CutOff" quantity="12" unit="chars"/></l>
+            </lg>
+            <lg>
+               <l n="645"><damage ana="hc:CutOff" quantity="18" unit="chars"/></l>
+               <l n="646"><lb n="2"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>lanc</w><w>lip</w><w><choice><orig>vf</orig><reg>uf</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan>d<ex>er</ex></expan></choice></w><w><choice><abbr>er<am>ð</am></abbr><expan>er<ex>de</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+            </lg>
+            <lg>
+               <l n="647"><w><w><choice><orig>dv</orig><reg>du</reg></choice></w><choice><orig>ieheſt</orig><reg>jeheſt</reg></choice></w><pc ana="editorial">,</pc><w><w><choice><orig>dv</orig><reg>du</reg></choice></w></w><w>welleſt</w><lb n="3"/><w>din</w><w><w>leben</w></w><pc>·</pc></l>
+               <l n="648"><w><choice><orig>dvrch</orig><reg>durch</reg></choice></w><w><choice><orig>vnſer</orig><reg>unſer</reg></choice></w><w><choice><abbr>bei<am>d ͛</am></abbr><expan>beid<ex>er</ex></expan></choice></w><w>frowede</w><lb n="4"/><w>geben</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="649"><w><choice><orig>dv</orig><reg>du</reg></choice></w><w>wilt</w><w>iedoch</w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w>beiden</w><pc>·</pc></l>
+               <l n="650"><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><lb n="5"/><w>leben</w><w>vaſte</w><w>leid</w><gap ana="hc:Perforated" quantity="2" unit="chars"/><pc>·</pc><pc ana="editorial">.</pc></l>
+            </lg>
+            <lg>
+               <l n="651"><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>din</w><w><choice><abbr>va<am>t ͛</am></abbr><expan>vat<ex>er</ex></expan></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ich</w><pc>·</pc></l>
+               <l n="652"><w><choice><abbr><am>g͛</am>ne</abbr><expan><ex>ger</ex>ne</expan></choice></w><lb n="6"/><w>leben</w><pc ana="editorial">,</pc><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>iſt</w><w><choice><orig>dv</orig><reg>du</reg></choice></w><gap ana="hc:Perforated" quantity="3" unit="chars"/><w>dich</w><pc>·</pc><pc ana="editorial">.</pc></l>
+            </lg>
+            <lg>
+               <l n="652a"><w>waz</w><w>ſcholte</w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><lb n="7"/><w>lip</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>gvt</orig><reg>gut</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="652b"><w>waz</w><w>ſcholte</w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w><choice><abbr>werltlic<am>h͛</am></abbr><expan>wertlic<ex>her</ex></expan></choice></w><lb n="8"/><w><choice><orig>mvt</orig><reg>mut</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="652c"><w>ſwenne</w><w>wir</w><w>din</w><w>enbæren</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="652d"><w join="right"><choice><orig>dv</orig><reg>du</reg></choice></w><w join="left">ne</w><lb n="9"/><unclear ana="hc:CutOff"><w>ſcholt</w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w>niht</w><w>ſwæren</w></unclear></l>
+            </lg>
+            <gap ana="hc:CutOff"/>
+            <lg>
+               <l n="662a"><lb n="10"/><w>weſen</w><w><choice><orig>gvt</orig><reg>gut</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="662b"><w>ſo</w><w>ſcholt</w><w><choice><orig>dv</orig><reg>du</reg></choice></w><w><choice><abbr>re<am>ð</am></abbr><expan>re<ex>de</ex></expan></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>den</w><w><choice><orig>mvt</orig><reg>mut</reg></choice></w><pc>·</pc></l>
+            </lg>
+            <pb n="1v/2v"/>
+            <cb n="a"/>
+            <lg>
+               <l n="671"><lb n="1"/><w>ſele</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>einen</w><w>ſchonen</w><w>lip</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="672"><w>mich</w><w>lobet</w><w>man</w><lb n="2"/><w><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></w><w>wip</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="673"><w>alle</w><pc ana="editorial">,</pc><w>die</w><w>mich</w><w><choice><abbr>ſehen<am>ð</am></abbr><expan>ſehen<ex>de</ex></expan></choice></w><w>ſint</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="674"><w>ich</w><w>ſi</w><lb n="3"/><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ſchoneſte</w><w>kint</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="675"><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ſie</w><w join="right">z</w><w join="left">ir</w><w>lebene</w><w>haben</w><lb n="4"/><w>geſehen</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="676"><w>wem</w><w>ſcholte</w><gap ana="hc:Perforated" quantity="3" unit="chars"/><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>gnaden</w><w><choice><orig>iehen</orig><reg>jehen</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="677"><lb n="5"/><w>niuwan</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w>zwein</w><w>n</w><gap ana="hc:Perforated" quantity="3" unit="chars"/><w>gote</w><pc>·</pc><pc ana="editorial">?</pc></l>
+               <l n="678"><w>deſ</w><w>ſchol</w><lb n="6"/><w>ich</w><w>ze</w><w><choice><orig>ivwerem</orig><reg>iuwerem</reg></choice></w><w>gebote</w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="679"><w><choice><abbr>ie<am>m̄</am></abbr><expan>iem<ex>er</ex></expan></choice></w><w>vil</w><w><choice><abbr><am>g͛</am>ne</abbr><expan><ex>ger</ex>ne</expan></choice></w><lb n="7"/><w>ſtan</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="680"><w>wie</w><w>michel</w><w>reht</w><w>ich</w><w>deſ</w><w>han</w><pc>·</pc></l>
+            </lg>
+            <gap ana="hc:CutOff" extent="unknown"/>
+            <lg>
+               <l n="694"><lb n="8"/><w>in</w><w>minen</w><w><choice><orig>ivngen</orig><reg>jungen</reg></choice></w><w>tagen</w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="695"><w>mir</w><w>die</w><w>ſinne</w></l>
+            </lg>
+            <pb n="3r/4r"/>
+            <cb n="a"/>
+            <lg>
+               <l n="827"><lb n="1"/><w>wen</w><w>ſi</w><w><choice><orig>oͮch</orig><reg>ouch</reg></choice></w><w>ze</w><w>vil</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="828"><w>wie</w><w><choice><abbr><am>g͛</am>ne</abbr><expan><ex>ger</ex>ne</expan></choice></w><w>ich</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w>deſ</w><w>volgen</w><lb n="2"/><w>wil</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="829"><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ich</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w><choice><orig>trivwe</orig><reg>triuwe</reg></choice></w><w>leiſte</w><pc>·</pc></l>
+               <l n="830"><w>mir</w><w>ſelber</w><w>doch</w><lb n="3"/><w>die</w><w>meiſte</w><pc>.</pc><pc ana="editorial">.</pc></l>
+            </lg>
+            <lg>
+               <l n="831"><w>welt</w><gap ana="hc:Perforated" quantity="5" unit="chars"/><w>wenden</w><w>min</w><w>heil</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="832"><lb n="4"/><w>ſo</w><w>laze</w><w>ich</w><w><choice><orig>ivch</orig><reg>iuch</reg></choice></w><w>ein</w><gap ana="hc:Perforated" quantity="3" unit="chars"/><w>l</w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="833"><w>e</w><w>nach</w><w>mir</w><w part="I">ge</w><lb n="5" break="no"/><w part="F">weinen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="834"><w>ich</w><w join="right">en</w><w join="left">welle</w><w>mir</w><w>erſcheinen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="835"><lb n="6"/><w>weſ</w><w>ich</w><w>mir</w><w><choice><orig>ſchvldic</orig><reg>ſchuldic</reg></choice></w><w>bin</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="836"><w>ich</w><w>wil</w><w>iemer</w><w part="I">da</w><lb n="7" break="no"/><damage ana="hc:CutOff"><w part="F">hin</w></damage><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="837"><damage ana="hc:CutOff"><w>da</w></damage><w>ich</w><w>volle</w><w><choice><orig><choice><abbr>froͤwe<am>ð</am></abbr><expan>froͤwe<ex>de</ex></expan></choice></orig><reg>fröwede</reg></choice></w><w><choice><abbr>vin<am>ð</am></abbr><expan>vind<ex>de</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="838"><w>ir</w><w>habet</w><w><choice><orig>oͮch</orig><reg>ouch</reg></choice></w></l>
+            </lg>
+            <gap ana="hc:CutOff"/>
+            <lg>
+               <l n="850"><lb n="8"/><w><choice><abbr><am>ð</am></abbr><expan><ex>der</ex></expan></choice></w><w>tot</w><w>geſchiht</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="851"><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w join="right">en</w><w join="left">lat</w><w>dich</w><w>nieman</w><lb n="9"/><w>ſehen</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="852"><w>ez</w><w>ſchol</w><w>ze</w><w><choice><orig>ſalerne</orig><reg>Salerne</reg></choice></w><w>geſcehen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+            </lg>
+            <lg>
+               <l n="852a"><w>da</w><w>ſchol</w></l>
+            </lg>
+            <pb n="3v/4v"/>
+            <cb n="a"/>
+            <lg>
+               <l n="860"><lb n="1"/><w>den</w><gap ana="hc:Stained"/></l>
+            </lg>
+            <lg>
+               <l n="861"><gap ana="hc:Stained"/><w>erzeigen</w><w><choice><orig>kvnde</orig><reg>kunde</reg></choice></w><pc>·</pc></l>
+               <l n="862"><w>dechein</w><lb n="2"/><w><choice><orig>zvnge</orig><reg>zunge</reg></choice></w><w>in</w><w>kindeſ</w><w><choice><orig><choice><abbr>mvn<am>ð</am></abbr><expan>mvn<ex>de</ex></expan></choice></orig><reg>munde</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+            </lg>
+            <lg>
+               <l n="863"><w>ſi</w><w><choice><orig>iahen</orig><reg>jahen</reg></choice></w><pc ana="editorial">,</pc><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><lb n="3"/><unclear ana="hc:Stained"><w>heilige</w><w>geist</w></unclear><pc>·</pc></l>
+               <l n="864"><gap ana="hc:Stained" extent="unkown"/><w>ir</w><w>volleiſt</w></l>
+            </lg>
+            <lg>
+               <l n="865"><lb n="4"/><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><orig>oͮch</orig><reg>ouch</reg></choice></w><w>ſante</w><gap ana="hc:Stained" extent="unkown"/></l>
+               <l n="866"><gap ana="hc:Stained" extent="unkown"/><lb n="5"/><w>wagen</w><w>lac</w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="867"><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>in</w><w>die</w><w>wiſheit</w><w>lerte</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="868"><lb n="6"/><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>er</w><w>ze</w><w>gote</w><w>kerte</w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="869"><w>ſin</w><unclear ana="hc:Stained"><w>kintlich</w><w><choice><orig>gemvͤte</orig><reg>gemüte</reg></choice></w></unclear></l>
+               <l n="870"><w>ſich</w><w>bedahte</w><unclear ana="hc:Stained"><w>in</w><w>ir</w><w><choice><orig>mvͤte</orig><reg>müte</reg></choice></w></unclear><gap ana="hc:Stained" extent="unkown"/></l>
+            </lg>
+            <gap ana="hc:CutOff"/>
+            <lg>
+               <l n="885"><lb n="7"/><w><choice><orig><choice><abbr>mvͦ<am>t͛</am></abbr><expan>mvͦ<ex>ter</ex></expan></choice></orig><reg>muoter</reg></choice></w><w>vor</w><w><choice><abbr>lei<am>ð</am></abbr><expan>lei<ex>de</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="886"><w><choice><orig>ſvſ</orig><reg>ſuſ</reg></choice></w><w>geſazen</w><w>ſie</w><w><choice><abbr>bei<am>ð</am></abbr><expan>bei<ex>de</ex></expan></choice></w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="887"><gap ana="hc:Stained" extent="unkown"/><lb n="8"/><w>ec</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>vnfro</orig><reg>unfro</reg></choice></w><pc>·</pc></l>
+               <l n="888"><w><choice><orig>vnz</orig><reg>unz</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ſie</w><w>ſich</w><w>be</w><gap ana="hc:CutOff"/></l>
+            </lg>
          </div>
       </body>
    </text>
