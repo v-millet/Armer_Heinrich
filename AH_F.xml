@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Der <w>arme</w> Heinrich. Textgeschichtliche elektronische Ausgabe</title>
+            <author>Hartmann von Aue</author>
+            <respStmt><resp>hrsg. von</resp><persName ref="https://orcid.org/0000-0002-7683-8892">Victor Millet</persName><persName ref="https://orcid.org/0000-0002-2202-6354">Gustavo Fernández Riva</persName></respStmt>
+            <respStmt><resp>unter Mitarbeit von</resp><persName ref="http://d-nb.info/gnd/1037976495">Jakub Šimek</persName></respStmt>
+            <respStmt><resp>Übersetzungen von</resp><persName>Dietmar Peschel</persName></respStmt>
+            <sponsor>Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R</sponsor>
+            <sponsor>Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020</sponsor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Heidelberg University Publishing</publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <idno>https://doi.org/10.11588/edition.ahd</idno>
+            <availability>
+               <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F"><msDesc>
+                  <msIdentifier>
+                     <settlement>Freiburg</settlement>
+                     <repository>Universitätsbibliothek</repository>
+                     <idno>Hs. 381, fol. 72r</idno>
+                  </msIdentifier>
+                  </msDesc></witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+   </teiHeader>
+   <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
+      <body>
+         <div>
+            <pb n="72r"/>
+            <cb n="a"/>
+            <lg>
+               <l n="199"><lb n="1"/><w><choice><abbr><am>d ͛</am></abbr><expan>d<ex>er</ex></expan></choice></w><w><choice><abbr>wer<am>ī</am>t</abbr><expan>weri<ex>n</ex>t</expan></choice></w><w>ir</w><w>geniſelich</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="200"><w>nu</w><w join="right">n</w><w join="left">iſt</w><w><choice><abbr>a<am>b ͛</am></abbr><expan>ab<ex>er</ex></expan></choice></w><w>do</w><w><choice><abbr>ke<am>ī</am></abbr><expan>kei<ex>n</ex></expan></choice></w><w><choice><abbr>kun<am>ī</am>c</abbr><expan>kuni<ex>n</ex>c</expan></choice></w><w>ſo</w><w>rich</w><pc>·</pc></l>
+            </lg>
+            <lg>
+               <l n="201"><lb n="2"/><w>noch</w><w>von</w><w>ſo</w><w>ſtarken</w><w><choice><abbr>ſinn<am>ē</am></abbr><expan>ſinne<ex>n</ex></expan></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="202"><w><choice><abbr><am>d ͛</am></abbr><expan>d<ex>er</ex></expan></choice></w><w>ſi</w><w>mit</w><w><choice><orig>vwo<unclear>ci</unclear></orig><reg>vuoci</reg></choice></w><w>muge</w><w><choice><abbr>gewinn<am>ē</am></abbr><expan>gewinne<ex>n</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+            </lg>
+            <lg>
+               <l n="203"><lb n="3"/><w>deſ</w><w>ſint</w><w>ir</w><w><choice><abbr>ym<am>m ͛</am></abbr><expan>ymm<ex>er</ex></expan></choice></w><w>unge<add hei:placeRef="hc:AboveLine">ne</add>ſen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="204"><w>got</w><w join="right">en</w><w join="left">welle</w><w>ſelbe</w><w><choice><abbr><am>d ͛</am></abbr><expan>d<ex>er</ex></expan></choice></w><w>ar<unclear>cza</unclear>t</w><lb n="4"/><w>weſen</w><pc>.</pc></l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
