@@ -1,1675 +1,296 @@
-<?xml-model href=”https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng”
-type=”application/xml” schematypens=”http://relaxng.org/ns/structure/1.0”?><?xml-model href=”https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng”
-type=”application/xml” schematypens=”http://purl.oclc.org/dsdl/schematron”?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der arme Heinrich. Textgeschichtliche elektronische Ausgabe</title>
-            <author>Hartmann von Aue</author>
-            <respStmt>
-               <resp>hrsg. von</resp>
-               <persName ref="https://orcid.org/0000-0002-7683-8892">Victor Millet</persName>
-               <persName ref="https://orcid.org/0000-0002-2202-6354">Gustavo Fernández Riva&gt;</persName>
-            </respStmt>
-            <respStmt>
-               <resp>unter Mitarbeit von</resp>
-               <persName ref="http://d-nb.info/gnd/1037976495">Jakub Šimek</persName>
-            </respStmt>
-            <respStmt>
-               <resp>Übersetzungen von</resp>
-               <persName>Dietmar Peschel</persName>
-            </respStmt>
-            <sponsor>Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R</sponsor>
-            <sponsor>Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020</sponsor>
+            <title> Der  <w> arme </w>  Heinrich. Textgeschichtliche elektronische Ausgabe </title>
+            <author> Hartmann von Aue </author>
+            <respStmt><resp> hrsg. von </resp><persName ref="https://orcid.org/0000-0002-7683-8892"> Victor Millet </persName><persName ref="https://orcid.org/0000-0002-2202-6354"> Gustavo Fernández Riva </persName></respStmt>
+            <respStmt><resp> unter Mitarbeit von </resp><persName ref="http://d-nb.info/gnd/1037976495"> Jakub Šimek </persName></respStmt>
+            <respStmt><resp> Übersetzungen von </resp><persName> Dietmar Peschel </persName></respStmt>
+            <sponsor> Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R </sponsor>
+            <sponsor> Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020 </sponsor>
          </titleStmt>
          <publicationStmt>
-            <publisher>Universitätsbibliothek Heidelberg</publisher>
-            <pubPlace>Heidelberg</pubPlace>
-            <idno type="d.o.i.">10.11588/edition.ahd</idno>
+            <publisher> Heidelberg University Publishing </publisher>
+            <pubPlace> Heidelberg </pubPlace>
+            <idno> https://doi.org/10.11588/edition.ahd </idno>
             <availability>
-               <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
+               <p> Creative Commons-Lizenz 4.0 (CC BY-SA 4.0) </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <listWit>
-               <witness xml:id="A">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Straßburg</settlement>
-                        <repository>Stadtbibliothek</repository>
-                        <idno>Cod. A 94</idno>
-                     </msIdentifier>
-                     <p>Vermisst seit 1870</p>
-                  </msDesc>
-               </witness>
-               <witness xml:id="tr_A">
-                  Übersetzung der Fassung A von <persName>Dietmar Peschel</persName>
-               </witness>
-               <witness xml:id="Ba">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Heidelberg</settlement>
-                        <repository> Universitätsbibliothek</repository>
-                        <idno>Cod. Pal. germ. 341</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="Bb">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Cologny-Genf</settlement>
-                        <repository>Fondation Martin Bodmer</repository>
-                        <idno>Cod. Bodmer 72</idno>
-                        <altIdentifier>
-                           <settlement>Kalocsa</settlement>
-                           <repository>Katedralbibl.</repository>
-                           <idno>Ms. 1</idno>
-                        </altIdentifier>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="tr_Ba">
-                  Übersetzung der Fassung Ba nach der Handschrift Ba von <persName>Dietmar Peschel</persName>
-               </witness>
-               <witness xml:id="tr_Bb">
-                  Übersetzung der Fassung Bb nach der Handschrift Bb von <persName>Dietmar Peschel</persName>
-               </witness>
-               <witness xml:id="C">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Berlin</settlement>
-                        <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
-                        <idno>Ms. germ. fol. 923 Nr. 7a</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="D">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>München</settlement>
-                        <repository>Bayerische Staatsbibliothek</repository>
-                        <idno>cgm. 5249 (29a/30a)</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="E">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>München</settlement>
-                        <repository>Bayerische Staatsbibliothek</repository>
-                        <idno>cgm. 5249 (29b)</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-               <witness xml:id="F">
-                  <msDesc>
-                     <msIdentifier>
-                        <settlement>Freiburg</settlement>
-                        <repository>Universitätsbibliothek</repository>
-                        <idno>Hs. 381, fol. 72r</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
+               <witness xml:id="D"> <msDesc>
+                  <msIdentifier>
+                     <settlement>München</settlement>
+                     <repository>Bayerische Staatsbibliothek</repository>
+                     <idno>cgm. 5249 (29a/30a)</idno>
+                  </msIdentifier>
+                  </msDesc> </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl>
-            <p>The editorial principles are described under <ref target="http://digi.ub.uni-heidelberg.de/en/ahd/information/editionsprinzipien.html"/>
-            </p>
-         </editorialDecl>
          <listPrefixDef>
-            <prefixDef ident="hc"
-                       matchPattern="(.+)"
-                       replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1">
-            </prefixDef>
+            <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
          </listPrefixDef>
       </encodingDesc>
-      <revisionDesc>
-         <listChange>
-            <change type="internal"
-                    when="2018-06-01"
-                    who="https://orcid.org/0000-0002-7683-8892 https://orcid.org/0000-0002-2202-6354">introduced xml:id for verses tagged as 'missing', corrected sequence of pieces in fragment C</change>
-            <change type="internal"
-                    when="2019-01-23"
-                    who="https://orcid.org/0000-0002-7683-8892 https://orcid.org/0000-0002-2202-6354">corrections in fragments C and E based on new images, smaller encoding corrections</change>
-            <change type="internal"
-                    when="2019-04-04"
-                    who="https://orcid.org/0000-0002-7683-8892 https://orcid.org/0000-0002-2202-6354">corrections verse-correspondences, smaller encoding corrections</change>
-         </listChange>
-      </revisionDesc>
    </teiHeader>
-   <text>
+   <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
       <body>
          <div>
-            <l xml:id="v_1280a" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280b" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280c" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280d" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280e" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280f" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280g" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280h" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280i" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280j" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280k" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280l" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280m" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280n" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280o" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280t" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1280u" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1297" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1298" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1299" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1300" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1301" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1302" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1303" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1304" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1305" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1306" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1307" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1308" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332e" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332f" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332g" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332h" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332i" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332j" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332k" n="">
-               <lb n=""/>
-            </l>
-            <l xml:id="v_1332l" n="">
-               <lb n=""/>
-            </l>
-            <pb edRef="#D" facs="#D_1r" n="1r"/>
-            <cb edRef="#D" facs="#D_1r-a"/>
-            <l xml:id="v_1266" n="0001">
-               <lb n=""/>
-               <witStart wit="#D"/>
-               <unclear reason="cut_off">et</unclear> mich e<pc type="ms">·</pc>
-               <pc type="editorial">.‹</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1267" n="0002">
-               <lb n=""/>
-               <pc type="editorial">›</pc>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">N</hi>u</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">n</hi>u</reg>
-               </choice> ſait mirz her durch di<lb type="in_verse" xml:id="D_1r-a.v_1267_line_2" break="yes"/>want<pc type="ms">·</pc>
-               <pc type="editorial">.‹</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1268" n="0003">
-               <lb n=""/>
-               <pc type="editorial">›</pc>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">M</hi>aister</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">m</hi>aister</reg>
-               </choice>
-               <pc type="editorial">,</pc> ez iſt niht ſo gewant<pc type="ms">·</pc>
-               <pc type="editorial">.‹</pc>
-            </l>
-            <l xml:id="v_1269" n="0004">
-               <lb n=""/>
-               <choice>
-                  <orig>Alſuz</orig>
-                  <reg>alſuz</reg>
-               </choice> liez er in da<gap reason="perforated"/>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1270" n="0005">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>o</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>o</reg>
-               </choice> 
-               <unclear reason="stained">gie</unclear> 
-               <choice>
-                  <abbr>
-                     <am>d ͛</am>
-                  </abbr>
-                  <expan>
-                     <ex>der</ex>
-                  </expan>
-               </choice> arm<lb type="in_verse" xml:id="D_1r-a.v_1270_line_4" break="yes"/>
-               <choice>
-                  <orig>hainreih</orig>
-                  <reg>Hainreih</reg>
-               </choice> hin<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1271" n="0006">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>o</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>o</reg>
-               </choice> 
-               <gap reason="perforated" extent="3" unit="chars"/>ei g<gap reason="perforated" extent="1" unit="chars"/>punden ſach<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-            </l>
-            <l xml:id="v_1272" n="0007">
-               <lb n=""/>
-               <choice>
-                  <orig>Zv</orig>
-                  <reg>zu</reg>
-               </choice> dem maiſter er do ſprach<pc type="ms">·</pc>
-               <pc type="editorial">:</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1273" n="0008">
-               <lb n=""/>
-               <choice>
-                  <orig>Dicz</orig>
-                  <reg>dicz</reg>
-               </choice> chind<lb type="in_verse" xml:id="D_1r-a.v_1273_line_6" break="yes"/>iſt so <choice>
-                  <orig>ſȧub<unclear reason="perforated">er</unclear>leih</orig>
-                  <reg>ſäub<unclear reason="perforated">er</unclear>leih</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1274" n="0009">
-               <lb n=""/>z<unclear reason="stained">war</unclear> 
-               <choice>
-                  <orig>ia</orig>
-                  <reg>ja</reg>
-               </choice> 
-               <choice>
-                  <orig>en mach</orig>
-                  <reg>enmach</reg>
-               </choice> ich<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_1275" n="0010">
-               <lb n=""/>ir todez niht guſehen<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1276" n="0011">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">G</hi>otez</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">g</hi>otez</reg>
-               </choice> wil <choice>
-                  <orig>mu͑z</orig>
-                  <reg>muoz</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_1r-a.v_1276_line_8" break="yes"/>an mir guſchehen<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1277" n="0012">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">N</hi>u</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">n</hi>u</reg>
-               </choice> 
-               <gap reason="stained" extent="1" unit="chars"/>
-               <unclear reason="stained">at</unclear> ſei wider auf<lb type="in_verse" xml:id="D_1r-a.v_1277_line_9"/>ſtan<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1278" n="0013">
-               <lb n=""/>alſo ich mit <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> g<gap reason="stained" extent="2" unit="chars"/>inget han<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1279" n="0014">
-               <lb n=""/>daz<lb type="in_verse" xml:id="D_1r-a.v_1279_line_10" break="yes"/>selb gu͑t wil ich eu geben<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1280" n="0015">
-               <lb n=""/>
-               <gap reason="stained" extent="5" unit="chars"/>il nah<lb type="in_verse" xml:id="D_1r-a.v_1280_line_11" break="yes"/>gotez gnaden leben<pc type="ms">·</pc>
-               <pc type="editorial">.‹</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1280p" n="0016">
-               <lb n=""/>
-               <choice>
-                  <orig>Daz</orig>
-                  <reg>daz</reg>
-               </choice> hort vil gern<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_1280q" n="0017">
-               <lb n=""/>
-               <choice>
-                  <orig>Der</orig>
-                  <reg>der</reg>
-               </choice> maiſter von <choice>
-                  <orig>ſalern</orig>
-                  <reg>Salern</reg>
-               </choice>
-               <pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_1280r" n="0018">
-               <lb n=""/>
-               <choice>
-                  <orig>Vnd</orig>
-                  <reg>und</reg>
-               </choice> voligt im<lb type="in_verse" xml:id="D_1r-a.v_1280u_line_13" break="yes"/>zehant<pc type="ms">·</pc>
-               <pc type="editorial">:</pc>
-            </l>
-            <l xml:id="v_1280s" n="0019">
-               <lb n=""/>di mait er wider auf pant<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-            </l>
-            <l xml:id="v_1281" n="0020">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>o</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>o</reg>
-               </choice> di <choice>
-                  <orig>iunch fraw</orig>
-                  <reg>junchfraw</reg>
-               </choice> erſach<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1282" n="0021">
-               <lb n=""/>daz ir ſterben<lb type="in_verse" xml:id="D_1r-a.v_1282_line_15" break="yes"/>niht geſchah<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1283" n="0022">
-               <lb n=""/>do wart ir <choice>
-                  <orig>mu͑t</orig>
-                  <reg>muot</reg>
-               </choice> 
-               <w part="I">beſwær</w>
-               <lb type="in_verse" xml:id="D_1r-a.v_1283_line_16" break="no"/>
-               <w part="F">et</w> mit<pc type="ms">·</pc>
-               <pc type="editorial">;</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1284" n="0023">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>i</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>i</reg>
-               </choice> brach ir zuht<pc type="ms">·</pc> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> 
-               <add place="above">ir</add> ſit<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1284b" n="0024">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>i</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>i</reg>
-               </choice> het<lb type="in_verse" xml:id="D_1r-a.v_1284b_line_17" break="yes"/>laidez <choice>
-                  <orig>genu͑ch</orig>
-                  <reg>genuoch</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">:</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1284a" n="0025">
-               <lb n=""/>
-               <choice>
-                  <orig>zv</orig>
-                  <reg>zu</reg>
-               </choice> den bruſten si ſich<lb type="in_verse" xml:id="D_1r-a.v_1284a_line_18" break="yes"/>
-               <unclear reason="cut_off">
-                  <choice>
-                     <orig>ſluͦg</orig>
-                     <reg>ſluog</reg>
-                  </choice>
-               </unclear>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1285" n="0026">
-               <lb n=""/>
-               <gap reason="stained" extent="unknown"/>
-               <unclear reason="cut_off">
-                  <choice>
-                     <abbr>v<am>n̄</am>
-                     </abbr>
-                     <expan>v<ex>nd</ex>
-                     </expan>
-                  </choice> rauft sich<pc type="ms">·</pc>
-               </unclear>
-               <witEnd wit="#D"/>
-            </l>
+            <pb n="1r"/>
+            <cb n="a"/>
+            <lg>
+               <l xml:id="v_1266"> <lb n="1"/> <damage ana="hc:CutOff"><w>et</w></damage> <w>mich</w> <w>e</w><pc>·</pc> <pc ana="editorial">.‹</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1267"> <pc ana="editorial">›</pc> <w><choice><orig><hi rendition="hc:RedStroke">N</hi>u</orig> <reg> <hi rendition="hc:RedStroke">n</hi>u</reg> </choice></w> <w>ſait</w> <w join="right">mir</w><w join="left">z</w> <w>her</w> <w>durch</w> <w>di</w><lb n="2"/><w>want</w><pc>·</pc> <pc ana="editorial">.‹</pc> </l>
+               <l xml:id="v_1268"> <pc ana="editorial">›</pc> <w><choice><orig><hi rendition="hc:RedStroke">M</hi>aister</orig> <reg> <hi rendition="hc:RedStroke">m</hi>aister</reg> </choice></w> <pc ana="editorial">,</pc> <w>ez</w> <w>iſt</w> <w>niht</w> <w>ſo</w> <w>gewant</w><pc>·</pc> <pc ana="editorial">.‹</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1269"> <w><choice> <orig>Alſuz</orig> <reg>alſuz</reg> </choice></w> <w>liez</w> <w>er</w> <w>in</w> <w>da</w><gap ana="hc:Perforated"/> <pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1270"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig> <reg> <hi rendition="hc:RedStroke">d</hi>o</reg> </choice></w> <damage ana="hc:Stained"><w>gie</w></damage> <w><choice> <abbr> <am>d ͛</am> </abbr> <expan> <ex>der</ex> </expan> </choice></w> <w>arm</w><lb xml:id="D_1r-a.v_1270_line_4"/> <w><choice> <orig>hainreih</orig> <reg>Hainreih</reg> </choice></w> <w>hin</w><pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1271"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig> <reg> <hi rendition="hc:RedStroke">d</hi>o</reg> </choice></w> <gap ana="hc:Perforated" extent="3" unit="chars"/><w>ei</w> <w>g<gap ana="hc:Perforated" extent="1" unit="chars"/>punden</w> <w>ſach</w><pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1272"> <w><choice> <orig>Zv</orig> <reg>zu</reg> </choice></w> <w>dem</w> <w>maiſter</w> <w>er</w> <w>do</w> <w>ſprach</w><pc>·</pc> <pc ana="editorial">:</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1273"> <w><choice> <orig>Dicz</orig> <reg>dicz</reg> </choice></w> <w>chind</w><lb xml:id="D_1r-a.v_1273_line_6"/><w>iſt</w> so <w><choice> <orig>ſȧub<unclear ana="hc:Perforated">er</unclear>leih</orig> <reg>ſäub<unclear ana="hc:Perforated">er</unclear>leih</reg> </choice></w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1274"> <lb n=""/>z<unclear reason="stained">war</unclear> <w><choice> <orig>ia</orig> <reg>ja</reg> </choice></w> <w><choice> <orig>en mach</orig> <reg>enmach</reg> </choice></w> <w>ich</w><pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1275"> <lb n=""/>ir todez niht guſehen<pc>·</pc> </l>
+               <l xml:id="v_1276"> <w><choice><orig><hi rendition="hc:RedStroke">G</hi>otez</orig> <reg> <hi rendition="hc:RedStroke">g</hi>otez</reg> </choice></w> wil <w><choice> <orig>mu͑z</orig> <reg>muoz</reg> </choice></w> <lb xml:id="D_1r-a.v_1276_line_8"/>an mir guſchehen<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1277"> <w><choice><orig><hi rendition="hc:RedStroke">N</hi>u</orig> <reg> <hi rendition="hc:RedStroke">n</hi>u</reg> </choice></w> <gap reason="stained" extent="1" unit="chars"/> <unclear reason="stained">at</unclear> ſei wider auf<lb xml:id="D_1r-a.v_1277_line_9"/>ſtan<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1278"> <lb n=""/>alſo <w>ich</w> mit <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> g<gap reason="stained" extent="2" unit="chars"/>inget han<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1279"> <lb n=""/><w>daz</w><lb xml:id="D_1r-a.v_1279_line_10"/>selb gu͑t wil <w>ich</w> eu geben<pc>·</pc> </l>
+               <l xml:id="v_1280"> <gap reason="stained" extent="5" unit="chars"/>il nah<lb xml:id="D_1r-a.v_1280_line_11"/>gotez gnaden leben<pc>·</pc> <pc ana="editorial">.‹</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1280p"> <w><choice> <orig>Daz</orig> <reg>daz</reg> </choice></w> hort <w>vil</w> gern<pc>·</pc> </l>
+               <l xml:id="v_1280q"> <w><choice> <orig>Der</orig> <reg>der</reg> </choice></w> <w>maiſter</w> von <w><choice> <orig>ſalern</orig> <reg>Salern</reg> </choice></w> <pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1280r"> <w><choice> <orig>Vnd</orig> <reg>und</reg> </choice></w> voligt im<lb xml:id="D_1r-a.v_1280u_line_13"/>zehant<pc>·</pc> <pc ana="editorial">:</pc> </l>
+               <l xml:id="v_1280s"> <lb n=""/>di mait <w>er</w> wider auf pant<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1281"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig> <reg> <hi rendition="hc:RedStroke">d</hi>o</reg> </choice></w> di <w><choice> <orig>iunch fraw</orig> <reg>junchfraw</reg> </choice></w> erſach<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1282"> <lb n=""/><w>daz</w> ir ſterben<lb xml:id="D_1r-a.v_1282_line_15"/>niht geſchah<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1283"> <lb n=""/>do wart ir <w><choice> <orig>mu͑t</orig> <reg>muot</reg> </choice></w> <w part="I">beſwær</w> <lb xml:id="D_1r-a.v_1283_line_16" break="no"/> <w part="F">et</w> mit<pc>·</pc> <pc ana="editorial">;</pc> </l>
+               <l xml:id="v_1284"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig> <reg> <hi rendition="hc:RedStroke">s</hi>i</reg> </choice></w> brach ir zuht<pc>·</pc> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> <add hei:placeRef="hc:AboveLine">ir</add> <w>ſit</w><pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1284b"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig> <reg> <hi rendition="hc:RedStroke">s</hi>i</reg> </choice></w> het<lb xml:id="D_1r-a.v_1284b_line_17"/>laidez <w><choice> <orig>genu͑ch</orig> <reg>genuoch</reg> </choice></w> <pc>·</pc> <pc ana="editorial">:</pc> </l>
+               <l xml:id="v_1284a"> <w><choice> <orig>zv</orig> <reg>zu</reg> </choice></w> den bruſten si <w>ſich</w><lb xml:id="D_1r-a.v_1284a_line_18"/> <unclear reason="cut_off"> <w><choice> <orig>ſluͦg</orig> <reg>ſluog</reg> </choice></w> </unclear> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1285"> <gap reason="stained" extent="unknown"/> <unclear reason="cut_off"> <w><choice> <abbr>v<am>n̄</am> </abbr> <expan>v<ex>nd</ex> </expan> </choice></w> rauft sich<pc>·</pc> </unclear> <witEnd wit="#D"/> </l>
+            </lg>
             <pb edRef="#D" facs="#D_1v" n="1v"/>
             <cb edRef="#D" facs="#D_1v-a"/>
-            <l xml:id="v_1291" n="0028">
-               <lb n=""/>
-               <witStart wit="#D"/>er gan<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1292" n="0029">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>ol</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>ol</reg>
-               </choice> ich alſo <choice>
-                  <abbr>
-                     <am>v͛</am>lorn</abbr>
-                  <expan>
-                     <ex>ver</ex>lorn</expan>
-               </choice> han<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1293" n="0030">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>i reich<lb type="in_verse" xml:id="D_1v-a.v_1293_line_2" break="yes"/>himel chron<pc type="ms">·</pc>
-               <pc type="editorial">?</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1294" n="0031">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>eu wær mir ze lon<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1295" n="0032">
-               <lb n=""/>
-               <w part="I">ge</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1295_line_3" break="no"/>
-               <w part="F">
-                  <choice>
-                     <orig>uallen</orig>
-                     <reg>vallen</reg>
-                  </choice>
-               </w> fur diſeu <gap reason="perforated" extent="2" unit="chars"/>t<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1296" n="0033">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">n</hi>u alreſt pin<lb type="in_verse" xml:id="D_1v-a.v_1296_line_4" break="yes"/>ich tod<pc type="ms">·</pc>
-               <pc type="editorial">!‹</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1309" n="0034">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>o <unclear reason="perforated">h</unclear>ue<gap reason="perforated" extent="1" unit="chars"/> ſich <gap reason="perforated" extent="3" unit="chars"/> ſchelten<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1310" n="0035">
-               <lb n=""/>
-               <choice>
-                  <orig>Si</orig>
-                  <reg>si</reg>
-               </choice> 
-               <w part="I">ſp</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1310_line_5" break="no"/>
-               <w part="F">rach</w>
-               <pc type="editorial">:</pc> 
-               <pc type="editorial">›</pc>ich <choice>
-                  <orig>múz</orig>
-                  <reg>muoz</reg>
-               </choice> engelten<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1311" n="0036">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">M</hi>einez</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">m</hi>einez</reg>
-               </choice> 
-               <w part="I">herr</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1311_line_6" break="no"/>
-               <w part="F">en</w> zaghait<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1312" n="0037">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>ie leut habent mir <w part="I">miz</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1312_line_7" break="no"/>
-               <w part="F">zait</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1313" n="0038">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">A</hi>uh</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">a</hi>uh</reg>
-               </choice> han ich ez ſelb wol <w part="I">geſeh</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1313_line_8" break="no"/>
-               <w part="F">en</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1314" n="0039">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">i</hi>ch hort <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> ie di leut <choice>
-                  <orig>iehen</orig>
-                  <reg>jehen</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1315" n="0040">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">I</hi>r</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">i</hi>r</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_1v-a.v_1315_line_9" break="yes"/>wærd pider <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> 
-               <choice>
-                  <orig>gu͑t</orig>
-                  <reg>guot</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1316" n="0041">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>
-                           <hi rend="decoration-colour:red">v</hi>
-                           <am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> het veſtez<lb type="in_verse" xml:id="D_1v-a.v_1316_line_10" break="yes"/>mannez <choice>
-                  <orig>mu͑t</orig>
-                  <reg>muot</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1317" n="0042">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>o</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>o</reg>
-               </choice> helf mir got<pc type="editorial">,</pc> 
-               <choice>
-                  <orig>ſev</orig>
-                  <reg>ſeu</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_1v-a.v_1317_line_11" break="yes"/>hant gelogen<pc type="ms">·</pc>
-               <pc type="editorial">!</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1318" n="0043">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>i welt waz ie an <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_1v-a.v_1318_line_12" break="yes"/>
-               <w xml:id="w_D_1318_7">wetrogen</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-               <note type="editorial" target="#w_D_1318_7">
-                  <emph>Die Form </emph> wetrogen <emph>ist zwar selten und meist spät, aber doch genügend belegt, um einen Eingriff unnötig zu machen</emph>
-               </note>
-            </l>
-            <l xml:id="v_1319" n="0044">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">I</hi>r</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">i</hi>r</reg>
-               </choice> ward all eur tag<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1320" n="0045">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">V</hi>nd</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_1v-a.v_1320_line_13" break="yes"/>ſeit heut ein pöſer zag<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1321" n="0046">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>ez</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>ez</reg>
-               </choice> nim<lb type="in_verse" xml:id="D_1v-a.v_1321_line_13" break="yes"/>ich do pei vil wol war<pc type="ms">·</pc>
-               <pc type="editorial">:</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322" n="0047">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>az ich <w part="I">lei</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1322_line_14" break="no"/>
-               <w part="F">den</w> getar<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322a" n="0048">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>ez</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>ez</reg>
-               </choice> getürret ir niht <w part="I">ge</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1435_line_15" break="no"/>
-               <w part="F">ſehen</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322b" n="0049">
-               <lb n=""/>
-               <choice>
-                  <orig>Ich</orig>
-                  <reg>ich</reg>
-               </choice> hor<add place="above">t</add> manigen <choice>
-                  <orig>iehen</orig>
-                  <reg>jehen</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322c" n="0050">
-               <lb n=""/>
-               <choice>
-                  <orig>Eu</orig>
-                  <reg>eu</reg>
-               </choice> 
-               <w part="I">lob</w>
-               <lb type="in_verse" xml:id="D_1v-a.v_1437_line_16" break="no"/>
-               <w part="F">ez</w> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> warhait<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322d" n="0051">
-               <lb n=""/>
-               <choice>
-                  <orig>Nv</orig>
-                  <reg>nu</reg>
-               </choice> iſt <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> daz für<lb type="in_verse" xml:id="D_1v-a.v_1438_line_17" break="yes"/>
-               <milestone unit="no_end_of_line"/>
-               <damage agent="cut_off" extent="unknown"/>
-            </l>
-            <l xml:id="v_1322e" n="0052">
-               <lb n=""/>
-               <damage agent="cut_off" extent="27" unit="chars"/>
-               <witEnd wit="#D"/>
-            </l>
+            <lg>
+               <l xml:id="v_1291"> <witStart wit="#D"/><w>er</w> gan<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1292"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>ol</orig> <reg> <hi rendition="hc:RedStroke">s</hi>ol</reg> </choice></w> <w>ich</w> alſo <w><choice> <abbr> <am>v͛</am>lorn</abbr> <expan> <ex>ver</ex>lorn</expan> </choice></w> han<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1293"> <hi rendition="hc:RedStroke">d</hi>i reich<lb xml:id="D_1v-a.v_1293_line_2"/>himel chron<pc>·</pc> <pc ana="editorial">?</pc> </l>
+               <l xml:id="v_1294"> <hi rendition="hc:RedStroke">d</hi>eu wær mir ze lon<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1295"> <w part="I">ge</w> <lb xml:id="D_1v-a.v_1295_line_3" break="no"/> <w part="F"> <w><choice> <orig>uallen</orig> <reg>vallen</reg> </choice></w> </w> fur diſeu <gap ana="hc:Perforated" extent="2" unit="chars"/>t<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1296"> <hi rendition="hc:RedStroke">n</hi>u alreſt pin<lb xml:id="D_1v-a.v_1296_line_4"/><w>ich</w> tod<pc>·</pc> <pc ana="editorial">!‹</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1309"> <hi rendition="hc:RedStroke">d</hi>o <unclear ana="hc:Perforated">h</unclear>ue<gap ana="hc:Perforated" extent="1" unit="chars"/> <w>ſich</w> <gap ana="hc:Perforated" extent="3" unit="chars"/> ſchelten<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1310"> <w><choice> <orig>Si</orig> <reg>si</reg> </choice></w> <w part="I">ſp</w> <lb xml:id="D_1v-a.v_1310_line_5" break="no"/> <w part="F">rach</w> <pc ana="editorial">:</pc> <pc ana="editorial">›</pc><w>ich</w> <w><choice> <orig>múz</orig> <reg>muoz</reg> </choice></w> engelten<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1311"> <w><choice><orig><hi rendition="hc:RedStroke">M</hi>einez</orig> <reg> <hi rendition="hc:RedStroke">m</hi>einez</reg> </choice></w> <w part="I">herr</w> <lb xml:id="D_1v-a.v_1311_line_6" break="no"/> <w part="F">en</w> zaghait<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1312"> <hi rendition="hc:RedStroke">d</hi>ie leut habent mir <w part="I">miz</w> <lb xml:id="D_1v-a.v_1312_line_7" break="no"/> <w part="F">zait</w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1313"> <w><choice><orig><hi rendition="hc:RedStroke">A</hi>uh</orig> <reg> <hi rendition="hc:RedStroke">a</hi>uh</reg> </choice></w> han <w>ich</w> ez ſelb wol <w part="I">geſeh</w> <lb xml:id="D_1v-a.v_1313_line_8" break="no"/> <w part="F">en</w> <pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1314"> <hi rendition="hc:RedStroke">i</hi>ch hort <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> ie di leut <w><choice> <orig>iehen</orig> <reg>jehen</reg> </choice></w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1315"> <w><choice><orig><hi rendition="hc:RedStroke">I</hi>r</orig> <reg> <hi rendition="hc:RedStroke">i</hi>r</reg> </choice></w> <lb xml:id="D_1v-a.v_1315_line_9"/>wærd pider <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> <w><choice> <orig>gu͑t</orig> <reg>guot</reg> </choice></w> <pc>·</pc> </l>
+               <l xml:id="v_1316"> <w><choice> <orig> <w><choice> <abbr> <hi rendition="hc:RedStroke">v</hi> <am>n̄</am> </abbr> <expan>v<ex>nd</ex> </expan> </choice></w> </orig> <reg>und</reg> </choice></w> het veſtez<lb xml:id="D_1v-a.v_1316_line_10"/>mannez <w><choice> <orig>mu͑t</orig> <reg>muot</reg> </choice></w> <pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1317"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig> <reg> <hi rendition="hc:RedStroke">s</hi>o</reg> </choice></w> helf mir got<pc ana="editorial">,</pc> <w><choice> <orig>ſev</orig> <reg>ſeu</reg> </choice></w> <lb xml:id="D_1v-a.v_1317_line_11"/>hant gelogen<pc>·</pc> <pc ana="editorial">!</pc> </l>
+               <l xml:id="v_1318"> <hi rendition="hc:RedStroke">d</hi>i welt waz ie an <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> <lb xml:id="D_1v-a.v_1318_line_12"/> <w xml:id="w_D_1318_7">wetrogen</w> <pc>·</pc> <pc ana="editorial">.</pc> <note ana="hc:TextCriticalNote" target="#w_D_1318_7"> <emph>Die Form </emph> wetrogen <emph>ist zwar selten und meist spät, aber doch genügend belegt, um einen Eingriff unnötig zu machen</emph> </note> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1319"> <w><choice><orig><hi rendition="hc:RedStroke">I</hi>r</orig> <reg> <hi rendition="hc:RedStroke">i</hi>r</reg> </choice></w> ward all eur tag<pc>·</pc> </l>
+               <l xml:id="v_1320"> <w><choice><orig><hi rendition="hc:RedStroke">V</hi>nd</orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> <lb xml:id="D_1v-a.v_1320_line_13"/>ſeit heut <w>ein</w> pöſer zag<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1321"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>ez</orig> <reg> <hi rendition="hc:RedStroke">d</hi>ez</reg> </choice></w> nim<lb xml:id="D_1v-a.v_1321_line_13"/><w>ich</w> do pei <w>vil</w> wol war<pc>·</pc> <pc ana="editorial">:</pc> </l>
+               <l xml:id="v_1322"> <hi rendition="hc:RedStroke">d</hi>az <w>ich</w> <w part="I">lei</w> <lb xml:id="D_1v-a.v_1322_line_14" break="no"/> <w part="F">den</w> getar<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1322a"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>ez</orig> <reg> <hi rendition="hc:RedStroke">d</hi>ez</reg> </choice></w> getürret ir niht <w part="I">ge</w> <lb xml:id="D_1v-a.v_1435_line_15" break="no"/> <w part="F">ſehen</w> <pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1322b"> <w><choice> <orig>Ich</orig> <reg>ich</reg> </choice></w> hor<add hei:placeRef="hc:AboveLine">t</add> manigen <w><choice> <orig>iehen</orig> <reg>jehen</reg> </choice></w> <pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1322c"> <w><choice> <orig>Eu</orig> <reg>eu</reg> </choice></w> <w part="I">lob</w> <lb xml:id="D_1v-a.v_1437_line_16" break="no"/> <w part="F">ez</w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> warhait<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1322d"> <w><choice> <orig>Nv</orig> <reg>nu</reg> </choice></w> <w>iſt</w> <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> <w>daz</w> für<lb xml:id="D_1v-a.v_1438_line_17"/> <damage agent="cut_off" extent="unknown"/> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1322e"> <damage agent="cut_off" extent="27" unit="chars"/> <witEnd wit="#D"/> </l>
+            </lg>
             <pb edRef="#D" facs="#D_2r" n="2r"/>
             <cb edRef="#D" facs="#D_2r-a"/>
-            <l xml:id="v_1322m" n="0053">
-               <lb n=""/>
-               <witStart wit="#D"/>daz hart vil guſehen<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322n" n="0054">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">e</hi>z iſt aber <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2r-a.v_1322n_line_2" break="yes"/>niht<pc type="ms">·</pc> 
-               <hi rend="decoration-colour:red">g</hi>uſchehen<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322o" n="0055">
-               <lb n=""/>daz ein man <hi rend="decoration-colour:red">d</hi>reiſich<lb type="in_verse" xml:id="D_2r-a.v_1442_line_3" break="yes"/>slueg<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322p" n="0056">
-               <lb n=""/>
-               <choice>
-                  <orig>Vnd</orig>
-                  <reg>und</reg>
-               </choice> ſih dez todez <choice>
-                  <orig>vber</orig>
-                  <reg>uber</reg>
-               </choice> trueg<pc type="editorial">.</pc>
-            </l>
-            <l xml:id="v_1322q" n="0057">
-               <lb n=""/>
-               <choice>
-                  <orig>nv</orig>
-                  <reg>nu</reg>
-               </choice> hulf <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> einz chindez tod<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322r" n="0058">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">A</hi>uz</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">a</hi>uz</reg>
-               </choice> aller <choice>
-                  <orig>evr</orig>
-                  <reg>eur</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2r-a.v_1322r_line_5" break="yes"/>
-               <choice>
-                  <orig>no͑t</orig>
-                  <reg>not</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322s" n="0059">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>eſt <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> 
-               <choice>
-                  <orig>vnlaſterbær</orig>
-                  <reg>unlaſterbær</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1322t" n="0060">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">V</hi>nd</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice> an <w part="I">
-                  <choice>
-                     <orig>sn</orig>
-                     <reg>sün</reg>
-                  </choice>
-               </w>
-               <lb type="in_verse" xml:id="D_2r-a.v_1322t_line_6" break="no"/>
-               <w part="F">de</w> wær<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1323" n="0061">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>ez müget ir niht verdulden<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-            </l>
-            <l xml:id="v_1324" n="0062">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">h</hi>err<pc type="editorial">,</pc> von welhen ſchulden<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1325" n="0063">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">E</hi>rſchracht</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">e</hi>rſchracht</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2r-a.v_1325_line_8" break="yes"/>ir<pc type="editorial">,</pc> do man mih pant<pc type="ms">·</pc>
-               <pc type="editorial">?</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1326" n="0064">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">N</hi>v</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">n</hi>u</reg>
-               </choice> waz doch ein<lb type="in_verse" xml:id="D_2r-a.v_1326_line_9" break="yes"/>dicheu <hi rend="decoration-colour:red">w</hi>and<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1327" n="0065">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">Z</hi>wischen</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">z</hi>wischen</reg>
-               </choice> 
-               <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> und mier<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-            </l>
-            <l xml:id="v_1328" n="0066">
-               <lb n=""/>herr<pc type="editorial">,</pc> getürret ir<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1329" n="0067">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">E</hi>in</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">e</hi>in</reg>
-               </choice> vrömden tod niht<lb type="in_verse" xml:id="D_2r-a.v_1329_line_11" break="yes"/>
-               <choice>
-                  <abbr>
-                     <am>v͛</am>tragen</abbr>
-                  <expan>
-                     <ex>ver</ex>tragen</expan>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">?</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1330" n="0068">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">I</hi>ch</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">i</hi>ch</reg>
-               </choice> wil eu gehaizzen <choice>
-                  <orig>
-                     <choice>
-                        <abbr>v<am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> ſagen<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-            </l>
-            <l xml:id="v_1331" n="0069">
-               <lb n=""/>daz <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice> niement nicht <choice>
-                  <orig>tu͑t</orig>
-                  <reg>tuot</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1332" n="0070">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">V</hi>nd</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice> iſt <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2r-a.v_1332_line_13" break="yes"/>nütz <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> guet<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1332a" n="0071">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">o</hi>b irz durch eur <choice>
-                  <abbr>t<am>w͛</am>
-                  </abbr>
-                  <expan>t<ex>rew</ex>
-                  </expan>
-               </choice> lat<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1332b" n="0072">
-               <lb n=""/>daz iſt ein vil ſwacher rat<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1332c" n="0073">
-               <lb n=""/>
-               <choice>
-                  <orig>Dez</orig>
-                  <reg>dez</reg>
-               </choice> 
-               <choice>
-                  <orig>ev</orig>
-                  <reg>eu</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2r-a.v_1322c_line_15" break="yes"/>got niht lonen wil<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1332d" n="0074">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">W</hi>an</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">w</hi>an</reg>
-               </choice> der <choice>
-                  <abbr>t<am>w͛</am>n</abbr>
-                  <expan>t<ex>rew</ex>n</expan>
-               </choice> iſt ze<lb type="in_verse" xml:id="D_2r-a.v_1322d_line_16" break="yes"/>
-               <choice>
-                  <orig>uil</orig>
-                  <reg>vil</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1333" n="0075">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>wi</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>wi</reg>
-               </choice> vil si ſcheltens <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> pet<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1334" n="0076">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>
-                           <hi rend="decoration-colour:red">v</hi>
-                           <am>n̄</am>
-                        </abbr>
-                        <expan>v<ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> 
-               <w part="I">fl<unclear>u</unclear>ch</w>
-               <lb type="in_verse" xml:id="D_2r-a.v_1334_line_17" break="no"/>
-               <w part="F">enz</w> getet<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1335" n="0077">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="recoration-colour:red">D</hi>az</orig>
-                  <reg>
-                     <hi rend="recoration-colour:red">d</hi>az</reg>
-               </choice> moht ir dehain frum<lb type="in_verse" xml:id="D_2r-a.v_1335_line_18" break="yes"/>weſen<pc type="ms">·</pc>
-               <pc type="editorial">:</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1336" n="0078">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>i</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>i</reg>
-               </choice> 
-               <choice>
-                  <orig>mu͑ſt</orig>
-                  <reg>muoſt</reg>
-               </choice> dannoch geneſen<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-               <pc type="editorial">.</pc>
-            </l>
-            <l xml:id="v_1337" n="0079">
-               <lb n=""/>ſwaz<lb type="in_verse" xml:id="D_2r-a.v_1337_line_19" break="yes"/>do ſcheltenz ergie<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1338" n="0080">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>er</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>er</reg>
-               </choice> arm <choice>
-                  <orig>hainreich</orig>
-                  <reg>Hainreich</reg>
-               </choice>
-               <choice>
-                  <sic/>
-                  <corr resp="editor">ez</corr>
-               </choice>
-               <lb type="in_verse" xml:id="D_2r-a.v_1338_line_20" break="yes"/>enphie<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1340" n="0081">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">T</hi>ugentleich</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">t</hi>ugentleich</reg>
-               </choice> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> wol<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1339" n="0082">
-               <lb n=""/>alz ein<lb type="in_verse" xml:id="D_2r-a.v_1339_line_21" break="yes"/>frumer ritter ſol<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1341" n="0083">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>em</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>em</reg>
-               </choice> ſchöner ſinn<lb type="in_verse" xml:id="D_2r-a.v_1341_line_22" break="yes"/>niht zebraſt<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1342" n="0084">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>o <choice>
-                  <abbr>
-                     <am>d ͛</am>
-                  </abbr>
-                  <expan>
-                     <ex>der</ex>
-                  </expan>
-               </choice> gnadloz gaſt<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
+            <lg>
+               <l xml:id="v_1322m"> <witStart wit="#D"/><w>daz</w> hart <w>vil</w> guſehen<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1322n"> <hi rendition="hc:RedStroke">e</hi>z <w>iſt</w> aber <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> <lb xml:id="D_2r-a.v_1322n_line_2"/>niht<pc>·</pc> <hi rendition="hc:RedStroke">g</hi>uſchehen<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1322o"> <lb n=""/><w>daz</w> <w>ein</w> man <hi rendition="hc:RedStroke">d</hi>reiſich<lb xml:id="D_2r-a.v_1442_line_3"/>slueg<pc>·</pc> </l>
+               <l xml:id="v_1322p"> <w><choice> <orig>Vnd</orig> <reg>und</reg> </choice></w> ſih dez todez <w><choice> <orig>vber</orig> <reg>uber</reg> </choice></w> trueg<pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1322q"> <w><choice> <orig>nv</orig> <reg>nu</reg> </choice></w> hulf <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> einz chindez tod<pc>·</pc> </l>
+               <l xml:id="v_1322r"> <w><choice><orig><hi rendition="hc:RedStroke">A</hi>uz</orig> <reg> <hi rendition="hc:RedStroke">a</hi>uz</reg> </choice></w> aller <w><choice> <orig>evr</orig> <reg>eur</reg> </choice></w> <lb xml:id="D_2r-a.v_1322r_line_5"/> <w><choice> <orig>no͑t</orig> <reg>not</reg> </choice></w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1322s"> <hi rendition="hc:RedStroke">d</hi>eſt <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> <w><choice> <orig>vnlaſterbær</orig> <reg>unlaſterbær</reg> </choice></w> <pc>·</pc> </l>
+               <l xml:id="v_1322t"> <w><choice><orig><hi rendition="hc:RedStroke">V</hi>nd</orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> an <w part="I"> <w><choice> <orig>sn</orig> <reg>sün</reg> </choice></w> </w> <lb xml:id="D_2r-a.v_1322t_line_6" break="no"/> <w part="F">de</w> wær<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1323"> <hi rendition="hc:RedStroke">d</hi>ez müget ir niht verdulden<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1324"> <hi rendition="hc:RedStroke">h</hi>err<pc ana="editorial">,</pc> von welhen ſchulden<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1325"> <w><choice><orig><hi rendition="hc:RedStroke">E</hi>rſchracht</orig> <reg> <hi rendition="hc:RedStroke">e</hi>rſchracht</reg> </choice></w> <lb xml:id="D_2r-a.v_1325_line_8"/>ir<pc ana="editorial">,</pc> do man mih pant<pc>·</pc> <pc ana="editorial">?</pc> </l>
+               <l xml:id="v_1326"> <w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig> <reg> <hi rendition="hc:RedStroke">n</hi>u</reg> </choice></w> waz doch <w>ein</w><lb xml:id="D_2r-a.v_1326_line_9"/>dicheu <hi rendition="hc:RedStroke">w</hi>and<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1327"> <w><choice><orig><hi rendition="hc:RedStroke">Z</hi>wischen</orig> <reg> <hi rendition="hc:RedStroke">z</hi>wischen</reg> </choice></w> <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> und mier<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1328"> <lb n=""/>herr<pc ana="editorial">,</pc> getürret ir<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1329"> <w><choice><orig><hi rendition="hc:RedStroke">E</hi>in</orig> <reg> <hi rendition="hc:RedStroke">e</hi>in</reg> </choice></w> vrömden tod niht<lb xml:id="D_2r-a.v_1329_line_11"/> <w><choice> <abbr> <am>v͛</am>tragen</abbr> <expan> <ex>ver</ex>tragen</expan> </choice></w> <pc>·</pc> <pc ana="editorial">?</pc> </l>
+               <l xml:id="v_1330"> <w><choice><orig><hi rendition="hc:RedStroke">I</hi>ch</orig> <reg> <hi rendition="hc:RedStroke">i</hi>ch</reg> </choice></w> wil eu gehaizzen <w><choice> <orig> <w><choice> <abbr>v<am>n̄</am> </abbr> <expan>v<ex>nd</ex> </expan> </choice></w> </orig> <reg>und</reg> </choice></w> ſagen<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1331"> <lb n=""/><w>daz</w> <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> niement nicht <w><choice> <orig>tu͑t</orig> <reg>tuot</reg> </choice></w> <pc>·</pc> </l>
+               <l xml:id="v_1332"> <w><choice><orig><hi rendition="hc:RedStroke">V</hi>nd</orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> <w>iſt</w> <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> <lb xml:id="D_2r-a.v_1332_line_13"/>nütz <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> guet<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1332a"> <hi rendition="hc:RedStroke">o</hi>b irz durch eur <w><choice> <abbr>t<am>w͛</am> </abbr> <expan>t<ex>rew</ex> </expan> </choice></w> lat<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1332b"> <lb n=""/><w>daz</w> <w>iſt</w> <w>ein</w> <w>vil</w> ſwacher rat<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1332c"> <w><choice> <orig>Dez</orig> <reg>dez</reg> </choice></w> <w><choice> <orig>ev</orig> <reg>eu</reg> </choice></w> <lb xml:id="D_2r-a.v_1322c_line_15"/>got niht lonen wil<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1332d"> <w><choice><orig><hi rendition="hc:RedStroke">W</hi>an</orig> <reg> <hi rendition="hc:RedStroke">w</hi>an</reg> </choice></w> der <w><choice> <abbr>t<am>w͛</am>n</abbr> <expan>t<ex>rew</ex>n</expan> </choice></w> <w>iſt</w> ze<lb xml:id="D_2r-a.v_1322d_line_16"/> <w><choice> <orig>uil</orig> <reg>vil</reg> </choice></w> <pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1333"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>wi</orig> <reg> <hi rendition="hc:RedStroke">s</hi>wi</reg> </choice></w> <w>vil</w> si ſcheltens <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> pet<pc>·</pc> </l>
+               <l xml:id="v_1334"> <w><choice> <orig> <w><choice> <abbr> <hi rendition="hc:RedStroke">v</hi> <am>n̄</am> </abbr> <expan>v<ex>nd</ex> </expan> </choice></w> </orig> <reg>und</reg> </choice></w> <w part="I">fl<unclear>u</unclear>ch</w> <lb xml:id="D_2r-a.v_1334_line_17" break="no"/> <w part="F">enz</w> getet<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1335"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>az</orig> <reg> <hi rendition="hc:RedStroke">d</hi>az</reg> </choice></w> moht ir dehain frum<lb xml:id="D_2r-a.v_1335_line_18"/>weſen<pc>·</pc> <pc ana="editorial">:</pc> </l>
+               <l xml:id="v_1336"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig> <reg> <hi rendition="hc:RedStroke">s</hi>i</reg> </choice></w> <w><choice> <orig>mu͑ſt</orig> <reg>muoſt</reg> </choice></w> dannoch geneſen<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1337"> <lb n=""/>ſwaz<lb xml:id="D_2r-a.v_1337_line_19"/>do ſcheltenz ergie<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1338"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>er</orig> <reg> <hi rendition="hc:RedStroke">d</hi>er</reg> </choice></w> arm <w><choice> <orig>hainreich</orig> <reg>Hainreich</reg> </choice></w> <w><choice> <sic/> <corr resp="editor">ez</corr> </choice></w> <lb xml:id="D_2r-a.v_1338_line_20"/>enphie<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1340"> <w><choice><orig><hi rendition="hc:RedStroke">T</hi>ugentleich</orig> <reg> <hi rendition="hc:RedStroke">t</hi>ugentleich</reg> </choice></w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> wol<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1339"> <lb n=""/>alz <w>ein</w><lb xml:id="D_2r-a.v_1339_line_21"/>frumer ritter ſol<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1341"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>em</orig> <reg> <hi rendition="hc:RedStroke">d</hi>em</reg> </choice></w> ſchöner ſinn<lb xml:id="D_2r-a.v_1341_line_22"/>niht zebraſt<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1342"> <hi rendition="hc:RedStroke">d</hi>o <w><choice> <abbr> <am>d ͛</am> </abbr> <expan> <ex>der</ex> </expan> </choice></w> gnadloz gaſt<pc>·</pc> </l>
+            </lg>
             <pb edRef="#D" facs="#D_2v" n="2v"/>
             <cb edRef="#D" facs="#D_2v-a"/>
-            <l xml:id="v_1343" n="0085">
-               <lb n=""/>di<lb type="in_verse" xml:id="D_2r-a.v_1343_line_23" break="yes"/>mait wider gechlait<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1344" n="0086">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>V<am>n̄</am>
-                        </abbr>
-                        <expan>Vn<ex>d</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>und</reg>
-               </choice> den arczt<pb edRef="#D" facs="#D_2v" n="2v"/>
-               <cb edRef="#D" facs="#D_2v-a"/>
-               <lb type="in_verse" xml:id="D_2v-a.v_1344_line_1" break="yes"/>berait<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1345" n="0087">
-               <lb n=""/>alz er gedinget hat<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1346" n="0088">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>o cherat<lb type="in_verse" xml:id="D_2v-a.v_1346_line_2" break="yes"/>er <choice>
-                  <orig>uil</orig>
-                  <reg>vil</reg>
-               </choice> drat<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1347" n="0089">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">W</hi>ider</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">w</hi>ider</reg>
-               </choice> haim zelant<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1348" n="0090">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">W</hi>ie</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">w</hi>ie</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2v-a.v_1348_line_3" break="yes"/>wol er daz erchand<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1349" n="0091">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>az er do niht <w part="I">en</w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1349_line_4" break="no"/>
-               <w part="F">fund</w>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1350" n="0092">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">W</hi>an</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">w</hi>an</reg>
-               </choice> mit gemainem mund<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1351" n="0093">
-               <lb n=""/>
-               <w part="I">
-                  <choice>
-                     <orig>
-                        <hi rend="decoration-colour:red">G</hi>r</orig>
-                     <reg>
-                        <hi rend="decoration-colour:red">g</hi>r</reg>
-                  </choice>
-               </w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1351_line_5" break="no"/>
-               <w part="F">ozz</w> lazz<add place="above">t</add>er <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> spot<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1352" n="0094">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>az lie er allez<lb type="in_verse" xml:id="D_2v-a.v_1352_line_6" break="yes"/>an got<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1353" n="0095">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">N</hi>u</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">n</hi>u</reg>
-               </choice> het auch di rain maget<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_1354" n="0096">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">s</hi>o gar <choice>
-                  <orig>ver wainet</orig>
-                  <reg>verwainet</reg>
-               </choice> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> 
-               <choice>
-                  <abbr>
-                     <am>v͛</am>chlaget</abbr>
-                  <expan>
-                     <ex>ver</ex>chlaget</expan>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-            </l>
-            <l xml:id="v_1355" n="0097">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">v</hi>il nahen <choice>
-                  <orig>vntz</orig>
-                  <reg>untz</reg>
-               </choice> an ir tod<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1356" n="0098">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">d</hi>o erchant<lb type="in_verse" xml:id="D_2v-a.v_1356_line_9" break="yes"/>ir <choice>
-                  <abbr>t<am>w͛</am>
-                  </abbr>
-                  <expan>
-                     <ex>tre</ex>w</expan>
-               </choice> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> ir <choice>
-                  <orig>nót</orig>
-                  <reg>not</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1357" n="0099">
-               <lb n=""/>
-               <w xml:lang="lat">
-                  <choice>
-                     <orig>
-                        <hi rend="decoration-colour:red">C</hi>ordis</orig>
-                     <reg>
-                        <hi rend="decoration-colour:red">c</hi>ordis</reg>
-                  </choice>
-               </w> 
-               <w xml:lang="lat" part="I">ſpecu</w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1357_line_10" break="no"/>
-               <w xml:lang="lat" part="F">lator</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1358" n="0100">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>em</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>em</reg>
-               </choice> dehain hertz vor<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1359" n="0101">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">B</hi>enam</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">b</hi>enam</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2v-a.v_1359_line_11" break="yes"/>verborgen iſt<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1360" n="0102">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>er</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>er</reg>
-               </choice> durch ſein ſüzzen<lb type="in_verse" xml:id="D_2v-a.v_1360_line_12" break="yes"/>liſt<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1361" n="0103">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>ev</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>eu</reg>
-               </choice> 
-               <choice>
-                  <orig>paidev</orig>
-                  <reg>paideu</reg>
-               </choice> 
-               <choice>
-                  <orig>berúcht</orig>
-                  <reg>bruocht</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1362" n="0105">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">V</hi>nd</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice> auch ſeu<lb type="in_verse" xml:id="D_2v-a.v_1362_line_13" break="yes"/>
-               <choice>
-                  <orig>verſúcht</orig>
-                  <reg>verſuocht</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1363" n="0105">
-               <lb n=""/>alſo vollichleichen<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1364" n="0106">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">S</hi>am</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">s</hi>am</reg>
-               </choice> 
-               <choice>
-                  <orig>iob</orig>
-                  <reg>Iob</reg>
-               </choice>
-               <lb type="in_verse" xml:id="D_2v-a.v_1364_line_14" break="yes"/>den reichen<pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1364a" n="0107">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>o</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>o</reg>
-               </choice> er in dez ſiechen <w part="I">ha</w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1364a_line_15" break="no"/>
-               <w part="F">nt</w>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1364b" n="0108">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">B</hi>arme</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">b</hi>arme</reg>
-               </choice> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> trew vant<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1364c" n="0109">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">V</hi>nd</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice> auh<lb type="in_verse" xml:id="D_2v-a.v_1364c_line_16" break="yes"/>di vil rain maget<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1364d" n="0110">
-               <lb n=""/>
-               <hi rend="decoration-colour:red">a</hi>n <choice>
-                  <abbr>t<am>w͛</am>n</abbr>
-                  <expan>t<ex>rew</ex>n</expan>
-               </choice> vant <hi rend="decoration-colour:red">s</hi>o<lb type="in_verse" xml:id="D_2v-a.v_1364d_line_17" break="yes"/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>vn<am>u͛</am>zaget</abbr>
-                        <expan>vn<ex>uer</ex>zaget</expan>
-                     </choice>
-                  </orig>
-                  <reg>unverzaget</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1364e" n="0111">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>az</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>az</reg>
-               </choice> si benam ir leben<pc type="ms">·</pc>
-            </l>
-            <l xml:id="v_1364f" n="0112">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">J</hi>ngotez</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">i</hi>n gotez</reg>
-               </choice> guet wolt geben<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1365" n="0113">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <sic>
-                           <hi rend="decoration-colour:red">D</hi>u</sic>
-                        <corr resp="editor">
-                           <hi rend="decoration-colour:red">D</hi>o</corr>
-                     </choice>
-                  </orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>o</reg>
-               </choice> 
-               <w part="I">erzai</w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1365_line_19" break="no"/>
-               <w part="F">get</w> der genædich <choice>
-                  <orig>chriſt</orig>
-                  <reg>Chriſt</reg>
-               </choice>
-               <pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1366" n="0114">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">W</hi>ie</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">w</hi>ie</reg>
-               </choice> lieb im<lb type="in_verse" xml:id="D_2v-a.v_1366_line_20" break="yes"/>trew <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> barmde iſt<pc type="ms">·</pc>
-               <pc type="editorial">,</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1367" n="0115">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">v</hi>nd</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice> ſchied ſi<lb type="in_verse" xml:id="D_2v-a.v_1367_line_21" break="yes"/>paid<add place="above">e</add>
-               <pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1368" n="0116">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">V</hi>or</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">v</hi>or</reg>
-               </choice> allem irm laide<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1369" n="0117">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <choice>
-                        <abbr>
-                           <hi rend="decoration-colour:red">V</hi>
-                           <am>n̄</am>
-                        </abbr>
-                        <expan>
-                           <hi rend="decoration-colour:red">V</hi>
-                           <ex>nd</ex>
-                        </expan>
-                     </choice>
-                  </orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">u</hi>nd</reg>
-               </choice> 
-               <w part="I">mach</w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1369_line_22" break="no"/>
-               <w part="F">et</w> ſeu ſazeſtund<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1370" n="0118">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">R</hi>ain</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">r</hi>ain</reg>
-               </choice> 
-               <choice>
-                  <orig>vnd</orig>
-                  <reg>und</reg>
-               </choice> wol <w part="I">geſ</w>
-               <lb type="in_verse" xml:id="D_2v-a.v_1370_line_23" break="no"/>
-               <w part="F">unt</w>
-               <pc type="ms">·</pc>
-               <pc type="editorial">.</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1371" n="0119">
-               <lb n=""/>alſo bezzert do ſih<pc type="ms">·</pc>
-               <milestone unit="no_end_of_line"/>
-            </l>
-            <l xml:id="v_1372" n="0120">
-               <lb n=""/>
-               <choice>
-                  <orig>
-                     <hi rend="decoration-colour:red">D</hi>er</orig>
-                  <reg>
-                     <hi rend="decoration-colour:red">d</hi>er</reg>
-               </choice> guet<witEnd wit="#D"/>
-            </l>
+            <lg>
+               <l xml:id="v_1343"> <lb n=""/>di<lb xml:id="D_2r-a.v_1343_line_23"/>mait wider gechlait<pc>·</pc> </l>
+               <l xml:id="v_1344"> <w><choice> <orig> <w><choice> <abbr>V<am>n̄</am> </abbr> <expan>Vn<ex>d</ex> </expan> </choice></w> </orig> <reg>und</reg> </choice></w> den arczt<pb edRef="#D" facs="#D_2v" n="2v"/> <cb edRef="#D" facs="#D_2v-a"/> <lb xml:id="D_2v-a.v_1344_line_1"/>berait<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1345"> <lb n=""/>alz <w>er</w> gedinget hat<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1346"> <hi rendition="hc:RedStroke">d</hi>o cherat<lb xml:id="D_2v-a.v_1346_line_2"/><w>er</w> <w><choice> <orig>uil</orig> <reg>vil</reg> </choice></w> drat<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1347"> <w><choice><orig><hi rendition="hc:RedStroke">W</hi>ider</orig> <reg> <hi rendition="hc:RedStroke">w</hi>ider</reg> </choice></w> haim zelant<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1348"> <w><choice><orig><hi rendition="hc:RedStroke">W</hi>ie</orig> <reg> <hi rendition="hc:RedStroke">w</hi>ie</reg> </choice></w> <lb xml:id="D_2v-a.v_1348_line_3"/>wol <w>er</w> <w>daz</w> erchand<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1349"> <hi rendition="hc:RedStroke">d</hi>az <w>er</w> do niht <w part="I">en</w> <lb xml:id="D_2v-a.v_1349_line_4" break="no"/> <w part="F">fund</w> <pc>·</pc> </l>
+               <l xml:id="v_1350"> <w><choice><orig><hi rendition="hc:RedStroke">W</hi>an</orig> <reg> <hi rendition="hc:RedStroke">w</hi>an</reg> </choice></w> mit gemainem mund<pc>·</pc> </l>
+            </lg>
+            <lg>
+                 <l xml:id="v_1351"> <w part="I"> <w><choice><orig><hi rendition="hc:RedStroke">G</hi>r</orig> <reg> <hi rendition="hc:RedStroke">g</hi>r</reg> </choice></w> </w> <lb xml:id="D_2v-a.v_1351_line_5" break="no"/> <w part="F">ozz</w> lazz<add hei:placeRef="hc:AboveLine">t</add>er <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> spot<pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1352"> <hi rendition="hc:RedStroke">d</hi>az lie <w>er</w> allez<lb xml:id="D_2v-a.v_1352_line_6"/>an got<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1353"> <w><choice><orig><hi rendition="hc:RedStroke">N</hi>u</orig> <reg> <hi rendition="hc:RedStroke">n</hi>u</reg> </choice></w> het auch di rain maget<pc>·</pc> </l>
+               <l xml:id="v_1354"> <hi rendition="hc:RedStroke">s</hi>o gar <w><choice> <orig>ver wainet</orig> <reg>verwainet</reg> </choice></w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> <w><choice> <abbr> <am>v͛</am>chlaget</abbr> <expan> <ex>ver</ex>chlaget</expan> </choice></w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1355"> <hi rendition="hc:RedStroke">v</hi>il nahen <w><choice> <orig>vntz</orig> <reg>untz</reg> </choice></w> an ir tod<pc>·</pc> <pc ana="editorial">.</pc> </l>
+               <l xml:id="v_1356"> <hi rendition="hc:RedStroke">d</hi>o erchant<lb xml:id="D_2v-a.v_1356_line_9"/>ir <w><choice> <abbr>t<am>w͛</am> </abbr> <expan> <ex>tre</ex>w</expan> </choice></w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> ir <w><choice> <orig>nót</orig> <reg>not</reg> </choice></w> <pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1357"> <w xml:lang="lat"> <w><choice><orig><hi rendition="hc:RedStroke">C</hi>ordis</orig> <reg> <hi rendition="hc:RedStroke">c</hi>ordis</reg> </choice></w> </w> <w xml:lang="lat" part="I">ſpecu</w> <lb xml:id="D_2v-a.v_1357_line_10" break="no"/> <w xml:lang="lat" part="F">lator</w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1358"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>em</orig> <reg> <hi rendition="hc:RedStroke">d</hi>em</reg> </choice></w> dehain hertz vor<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1359"> <w><choice><orig><hi rendition="hc:RedStroke">B</hi>enam</orig> <reg> <hi rendition="hc:RedStroke">b</hi>enam</reg> </choice></w> <lb xml:id="D_2v-a.v_1359_line_11"/>verborgen <w>iſt</w><pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1360"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>er</orig> <reg> <hi rendition="hc:RedStroke">d</hi>er</reg> </choice></w> durch ſein ſüzzen<lb xml:id="D_2v-a.v_1360_line_12"/>liſt<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1361"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>ev</orig> <reg> <hi rendition="hc:RedStroke">s</hi>eu</reg> </choice></w> <w><choice> <orig>paidev</orig> <reg>paideu</reg> </choice></w> <w><choice> <orig>berúcht</orig> <reg>bruocht</reg> </choice></w> <pc>·</pc> </l>
+               <l xml:id="v_1362"> <w><choice><orig><hi rendition="hc:RedStroke">V</hi>nd</orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> auch ſeu<lb xml:id="D_2v-a.v_1362_line_13"/> <w><choice> <orig>verſúcht</orig> <reg>verſuocht</reg> </choice></w> <pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1363"> <lb n=""/>alſo vollichleichen<pc>·</pc> </l>
+               <l xml:id="v_1364"> <w><choice><orig><hi rendition="hc:RedStroke">S</hi>am</orig> <reg> <hi rendition="hc:RedStroke">s</hi>am</reg> </choice></w> <w><choice> <orig>iob</orig> <reg>Iob</reg> </choice></w> <lb xml:id="D_2v-a.v_1364_line_14"/>den reichen<pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1364a"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig> <reg> <hi rendition="hc:RedStroke">d</hi>o</reg> </choice></w> <w>er</w> in dez ſiechen <w part="I">ha</w> <lb xml:id="D_2v-a.v_1364a_line_15" break="no"/> <w part="F">nt</w> <pc>·</pc> </l>
+               <l xml:id="v_1364b"> <w><choice><orig><hi rendition="hc:RedStroke">B</hi>arme</orig> <reg> <hi rendition="hc:RedStroke">b</hi>arme</reg> </choice></w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> trew vant<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1364c"> <w><choice><orig><hi rendition="hc:RedStroke">V</hi>nd</orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> auh<lb xml:id="D_2v-a.v_1364c_line_16"/>di <w>vil</w> rain maget<pc>·</pc> </l>
+               <l xml:id="v_1364d"> <hi rendition="hc:RedStroke">a</hi>n <w><choice> <abbr>t<am>w͛</am>n</abbr> <expan>t<ex>rew</ex>n</expan> </choice></w> vant <hi rendition="hc:RedStroke">s</hi>o<lb xml:id="D_2v-a.v_1364d_line_17"/> <w><choice> <orig> <w><choice> <abbr>vn<am>u͛</am>zaget</abbr> <expan>vn<ex>uer</ex>zaget</expan> </choice></w> </orig> <reg>unverzaget</reg> </choice></w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1364e"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>az</orig> <reg> <hi rendition="hc:RedStroke">d</hi>az</reg> </choice></w> si benam ir leben<pc>·</pc> </l>
+               <l xml:id="v_1364f"> <w><choice><orig><hi rendition="hc:RedStroke">J</hi>ngotez</orig> <reg> <hi rendition="hc:RedStroke">i</hi>n gotez</reg> </choice></w> guet wolt geben<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1365"> <w><choice> <orig> <w><choice> <sic> <hi rendition="hc:RedStroke">D</hi>u</sic> <corr resp="editor"> <hi rendition="hc:RedStroke">D</hi>o</corr> </choice></w> </orig> <reg> <hi rendition="hc:RedStroke">d</hi>o</reg> </choice></w> <w part="I">erzai</w> <lb xml:id="D_2v-a.v_1365_line_19" break="no"/> <w part="F">get</w> der genædich <w><choice> <orig>chriſt</orig> <reg>Chriſt</reg> </choice></w> <pc>·</pc> <pc ana="editorial">,</pc> </l>
+               <l xml:id="v_1366"> <w><choice><orig><hi rendition="hc:RedStroke">W</hi>ie</orig> <reg> <hi rendition="hc:RedStroke">w</hi>ie</reg> </choice></w> lieb im<lb xml:id="D_2v-a.v_1366_line_20"/>trew <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> barmde iſt<pc>·</pc> <pc ana="editorial">,</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1367"> <w><choice><orig><hi rendition="hc:RedStroke">v</hi>nd</orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> ſchied <w>ſi</w><lb xml:id="D_2v-a.v_1367_line_21"/>paid<add hei:placeRef="hc:AboveLine">e</add> <pc>·</pc> </l>
+               <l xml:id="v_1368"> <w><choice><orig><hi rendition="hc:RedStroke">V</hi>or</orig> <reg> <hi rendition="hc:RedStroke">v</hi>or</reg> </choice></w> allem irm laide<pc>·</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1369"> <w><choice> <orig> <w><choice> <abbr> <hi rendition="hc:RedStroke">V</hi> <am>n̄</am> </abbr> <expan> <hi rendition="hc:RedStroke">V</hi> <ex>nd</ex> </expan> </choice></w> </orig> <reg> <hi rendition="hc:RedStroke">u</hi>nd</reg> </choice></w> <w part="I">mach</w> <lb xml:id="D_2v-a.v_1369_line_22" break="no"/> <w part="F">et</w> ſeu ſazeſtund<pc>·</pc> </l>
+               <l xml:id="v_1370"> <w><choice><orig><hi rendition="hc:RedStroke">R</hi>ain</orig> <reg> <hi rendition="hc:RedStroke">r</hi>ain</reg> </choice></w> <w><choice> <orig>vnd</orig> <reg>und</reg> </choice></w> wol <w part="I">geſ</w> <lb xml:id="D_2v-a.v_1370_line_23" break="no"/> <w part="F">unt</w> <pc>·</pc> <pc ana="editorial">.</pc> </l>
+            </lg>
+            <lg>
+               <l xml:id="v_1371"> <lb n=""/>alſo bezzert do ſih<pc>·</pc> </l>
+               <l xml:id="v_1372"> <w><choice><orig><hi rendition="hc:RedStroke">D</hi>er</orig> <reg> <hi rendition="hc:RedStroke">d</hi>er</reg> </choice></w> guet<witEnd wit="#D"/> </l>
+            </lg>
          </div>
       </body>
    </text>
