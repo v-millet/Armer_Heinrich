@@ -5,18 +5,28 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><w>der</w><w> arme </w>  Heinrich. Textgeschichtliche elektronische Ausgabe </title>
-            <author> Hartmann <w>von</w> Aue </author>
-            <respStmt><resp> hrsg. von </resp><persName ref="https://orcid.org/0000-0002-7683-8892"> Victor Millet </persName><persName ref="https://orcid.org/0000-0002-2202-6354"> Gustavo Fernández Riva </persName></respStmt>
-            <respStmt><resp> unter Mitarbeit von </resp><persName ref="http://d-nb.info/gnd/1037976495"> Jakub Šimek </persName></respStmt>
-            <respStmt><resp> Übersetzungen von </resp><persName> Dietmar Peschel </persName></respStmt>
-            <sponsor> Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R </sponsor>
-            <sponsor> Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020 </sponsor>
+            <title>Der arme Heinrich. Textgeschichtliche elektronische Ausgabe</title>
+            <author>Hartmann von Aue</author>
+            <respStmt>
+               <resp>hrsg. von</resp>
+               <persName ref="https://orcid.org/0000-0002-7683-8892">Victor Millet</persName>
+               <persName ref="https://orcid.org/0000-0002-2202-6354">Gustavo Fernández Riva</persName>
+            </respStmt>
+            <respStmt>
+               <resp>unter Mitarbeit von</resp>
+               <persName ref="http://d-nb.info/gnd/1037976495">Jakub Šimek</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Übersetzungen von</resp>
+               <persName>Dietmar Peschel</persName>
+            </respStmt>
+            <sponsor>Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R</sponsor>
+            <sponsor>Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020</sponsor>
          </titleStmt>
          <publicationStmt>
-            <publisher> Heidelberg University Publishing </publisher>
-            <pubPlace> Heidelberg </pubPlace>
-            <idno> https://doi.org/10.11588/edition.ahd </idno>
+            <publisher>Heidelberg University Publishing</publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <idno>https://doi.org/10.11588/edition.ahd</idno>
             <availability>
                <p> Creative Commons-Lizenz 4.0 (CC BY-SA 4.0) </p>
             </availability>
@@ -49,361 +59,361 @@
          <div>
             <lg>
                <l n="29"><lb n="1"/><w><choice><orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>nſ</orig><reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial>nſ</reg></choice></w><w>ſaget</w><w>diz</w><w>ſelbe</w><w>mere</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="30"><lb n="2"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>ein</w><w>herre</w><w>were</w><pc>·</pc></l>
+               <l n="30"><lb n="2"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>az</orig><reg>daz</reg></choice></w><w>ein</w><w>herre</w><w>were</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="31"><lb n="3"/><w><choice><orig>Ze</orig><reg>ze</reg></choice></w><w><choice><orig>ſwaben</orig><reg>Swaben</reg></choice></w><w>geſezzen</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="32"><lb n="4"/><w><choice><orig>Des</orig><reg>des</reg></choice></w><w join="right">in</w><w join="left">was</w><w>nit</w><w><choice><orig><choice><abbr><am>u͛</am>gezzen</abbr><expan><ex>uer</ex>gezzen</expan></choice></orig><reg>vergessen</reg></choice></w><pc>·</pc></l>
+               <l n="31"><lb n="3"/><w><choice><orig><hi rendition="hc:RedStroke">Z</hi>e</orig><reg>ze</reg></choice></w><w><choice><orig>ſwaben</orig><reg>Swaben</reg></choice></w><w>geſezzen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="32"><lb n="4"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>es</orig><reg>des</reg></choice></w><w join="right">in</w><w join="left">was</w><w>nit</w><w><choice><orig><choice><abbr><am>u͛</am>gezzen</abbr><expan><ex>uer</ex>gezzen</expan></choice></orig><reg>vergessen</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="33"><lb n="5"/><w><choice><orig>An</orig><reg>an</reg></choice></w><w><choice><abbr>dehei<am>n͛</am></abbr><expan>dehei<ex>ner</ex></expan></choice></w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="34"><lb n="6"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>ein</w><w>rittere</w><w>in</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><orig>iugent</orig><reg>jugent</reg></choice></w><pc>·</pc></l>
+               <l n="33"><lb n="5"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>n</orig><reg>an</reg></choice></w><w><choice><abbr>dehei<am>n͛</am></abbr><expan>dehei<ex>ner</ex></expan></choice></w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="34"><lb n="6"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>ein</w><w>rittere</w><w>in</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><orig>iugent</orig><reg>jugent</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="35"><lb n="7"/><w><choice><orig>Ze</orig><reg>ze</reg></choice></w><w>vollem</w><w>lobe</w><w>haben</w><w>sol</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="36"><lb n="8"/><w><choice><orig>Man</orig><reg>man</reg></choice></w><w>sprach</w><w>do</w><w><choice><abbr>niem<am>ā</am>ne</abbr><expan>niem<ex>an</ex>ne</expan></choice></w><w>alſe</w><w>wol</w><pc>·</pc></l>
+               <l n="35"><lb n="7"/><w><choice><orig><hi rendition="hc:RedStroke">Z</hi>e</orig><reg>ze</reg></choice></w><w>vollem</w><w>lobe</w><w>haben</w><w>sol</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="36"><lb n="8"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>an</orig><reg>man</reg></choice></w><w>sprach</w><w>do</w><w><choice><abbr>niem<am>ā</am>ne</abbr><expan>niem<ex>an</ex>ne</expan></choice></w><w>alſe</w><w>wol</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="37"><lb n="9"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w>allen</w><w>ſinen</w><w>landen</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="38"><lb n="10"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>hete</w><w>in</w><w>ſinen</w><w>handen</w><pc>·</pc></l>
+               <l n="37"><lb n="9"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w>allen</w><w>ſinen</w><w>landen</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="38"><lb n="10"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w>hete</w><w>in</w><w>ſinen</w><w>handen</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="39"><lb n="11"/><w><choice><orig>Gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>richeit</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="40"><lb n="12"/><w><choice><orig>Ovch</orig><reg>ouch</reg></choice></w><w>was</w><w>ſin</w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><w>vil</w><w>gereit</w><pc>·</pc><pc ana="editorial">;</pc></l>
+               <l n="39"><lb n="11"/><w><choice><orig><hi rendition="hc:RedStroke">G</hi>ebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>richeit</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="40"><lb n="12"/><w><choice><orig><hi rendition="hc:RedStroke">O</hi>vch</orig><reg>ouch</reg></choice></w><w>was</w><w>ſin</w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><w>vil</w><w>gereit</w><pc>·</pc><pc ana="editorial">;</pc></l>
             </lg>
             <lg>
-               <l n="41"><lb n="13"/><w><choice><orig>Swie</orig><reg>swie</reg></choice></w><w>ganze</w><w>ſin</w><w>habe</w><w>were</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="42"><lb n="14"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig>vnwandelbere</orig><reg>unwandelbere</reg></choice></w><pc>·</pc></l>
+               <l n="41"><lb n="13"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>wie</orig><reg>swie</reg></choice></w><w>ganze</w><w>ſin</w><w>habe</w><w>were</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="42"><lb n="14"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig>vnwandelbere</orig><reg>unwandelbere</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="43"><lb n="15"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wol</w><w>den</w><w><choice><orig>fvrsten</orig><reg>fursten</reg></choice></w><w>gelich</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="44"><lb n="16"/><w><choice><orig>Doch</orig><reg>doch</reg></choice></w><w>waſ</w><w>er</w><w><choice><orig>vnnah</orig><reg>unnah</reg></choice></w><w>ſo</w><w>rich</w><pc>·</pc></l>
+               <l n="43"><lb n="15"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wol</w><w>den</w><w><choice><orig>fvrsten</orig><reg>fursten</reg></choice></w><w>gelich</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="44"><lb n="16"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>och</orig><reg>doch</reg></choice></w><w>waſ</w><w>er</w><w><choice><orig>vnnah</orig><reg>unnah</reg></choice></w><w>ſo</w><w>rich</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="45"><lb n="17"/><w><choice><orig><choice><abbr><am>D ͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>vn̄</abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>deſ</w><w><choice><orig>gtes</orig><reg>guotes</reg></choice></w><pc>.</pc></l>
-               <l n="46"><lb n="18"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>eren</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>des</w><w><choice><orig>mtes</orig><reg>muotes</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="45"><lb n="17"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi> ͛</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>er</ex></expan></choice></orig><reg>der</reg></choice></w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>vn̄</abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>deſ</w><w><choice><orig>gtes</orig><reg>guotes</reg></choice></w><pc>.</pc></l>
+               <l n="46"><lb n="18"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>eren</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>des</w><w><choice><orig>mtes</orig><reg>muotes</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="47"><lb n="19"/><w><choice><orig>Sin</orig><reg>sin</reg></choice></w><w>name</w><w>waſ</w><w><choice><orig>gnc</orig><reg>genuog</reg></choice></w><w><choice><abbr>erk<am>ē</am>nelich</abbr><expan>erk<ex>en</ex>nelich</expan></choice></w><pc>·</pc><pc ana="editorial">:</pc></l>
-               <l n="48"><lb n="20"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>hiez</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>herre</w><w><choice><orig>heinrich</orig><reg>Heinrich</reg></choice></w><pc>·</pc></l>
+               <l n="47"><lb n="19"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>in</orig><reg>sin</reg></choice></w><w>name</w><w>waſ</w><w><choice><orig>gnc</orig><reg>genuog</reg></choice></w><w><choice><abbr>erk<am>ē</am>nelich</abbr><expan>erk<ex>en</ex>nelich</expan></choice></w><pc>·</pc><pc ana="editorial">:</pc></l>
+               <l n="48"><lb n="20"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w>hiez</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>herre</w><w><choice><orig>heinrich</orig><reg>Heinrich</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="49"><lb n="21"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>was</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><w>geborn</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="50"><lb n="22"/><w><choice><orig>Sin</orig><reg>sin</reg></choice></w><w><choice><abbr>h<am>z͛</am>e</abbr><expan>h<ex>erz</ex>e</expan></choice></w><w>hete</w><w><choice><abbr><am>v͛</am>ſworn</abbr><expan><ex>ver</ex>ſworn</expan></choice></w><pc>·</pc></l>
+               <l n="49"><lb n="21"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>was</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><w>geborn</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="50"><lb n="22"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>in</orig><reg>sin</reg></choice></w><w><choice><abbr>h<am>z͛</am>e</abbr><expan>h<ex>erz</ex>e</expan></choice></w><w>hete</w><w><choice><abbr><am>v͛</am>ſworn</abbr><expan><ex>ver</ex>ſworn</expan></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="51"><lb n="23"/><w><choice><orig>Valſch</orig><reg>valſch</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><damage><w>alle</w></damage><w>dorperheit</w><pc>·</pc></l>
-               <l n="52"><lb n="24"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>behielt</w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>den</w><w>eit</w><pc>·</pc></l>
+               <l n="51"><lb n="23"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>alſch</orig><reg>valſch</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><damage><w>alle</w></damage><w>dorperheit</w><pc>·</pc></l>
+               <l n="52"><lb n="24"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>behielt</w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>den</w><w>eit</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="53"><lb n="25"/><w><choice><orig>Stete</orig><reg>stete</reg></choice></w><w><choice><orig>vnze</orig><reg>unze</reg></choice></w><w>an</w><w>ſin</w><w>ende</w><pc>·</pc><pc ana="editorial">;</pc></l>
-               <l n="54"><lb n="26"/><w><choice><orig>Ane</orig><reg>ane</reg></choice></w><w><choice><abbr>miſſew<am>ē</am>de</abbr><expan>miſſew<ex>en</ex>de</expan></choice></w><pc>·</pc></l>
+               <l n="53"><lb n="25"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>tete</orig><reg>stete</reg></choice></w><w><choice><orig>vnze</orig><reg>unze</reg></choice></w><w>an</w><w>ſin</w><w>ende</w><pc>·</pc><pc ana="editorial">;</pc></l>
+               <l n="54"><lb n="26"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>ne</orig><reg>ane</reg></choice></w><w><choice><abbr>miſſew<am>ē</am>de</abbr><expan>miſſew<ex>en</ex>de</expan></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="55"><lb n="27"/><w><choice><orig>Stnt</orig><reg>stuont</reg></choice></w><w>ſin</w><w>ere</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſin</w><w>leben</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="56"><lb n="28"/><w><choice><orig>Jm</orig><reg>im</reg></choice></w><w>was</w><w>der</w><w>rehte</w><w><choice><orig>wnſ</orig><reg>wunſ</reg></choice></w><w><choice><abbr>gegeb<am>ē</am></abbr><expan>gegeb<ex>en</ex></expan></choice></w><pc>·</pc></l>
+               <l n="55"><lb n="27"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>tnt</orig><reg>stuont</reg></choice></w><w>ſin</w><w>ere</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſin</w><w>leben</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="56"><lb n="28"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>m</orig><reg>im</reg></choice></w><w>was</w><w>der</w><w>rehte</w><w><choice><orig>wnſ</orig><reg>wunſ</reg></choice></w><w><choice><abbr>gegeb<am>ē</am></abbr><expan>gegeb<ex>en</ex></expan></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="57"><lb n="29"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w>werltlichen</w><w>eren</w><pc>·</pc><pc ana="editorial">;</pc></l>
-               <l n="58"><lb n="30"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>konde</w><w>er</w><w>wol</w><w>gemeren</w><pc>·</pc></l>
+               <l n="57"><lb n="29"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w>werltlichen</w><w>eren</w><pc>·</pc><pc ana="editorial">;</pc></l>
+               <l n="58"><lb n="30"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>konde</w><w>er</w><w>wol</w><w>gemeren</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="59"><lb n="31"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>aller</w><w>ſchlahte</w><w>lone</w><pc>·</pc></l>
-               <l n="86"><lb n="32"/><w><choice><orig><subst><del rendition="hc:Adapted">D</del><add rendition="hc:Adapted">N</add></subst><subst><del rendition="hc:Erased">c</del><add hei:placeRef="hc:AboveLine">u</add></subst></orig><reg>nu</reg></choice></w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w><choice><orig>vppige</orig><reg>uppige</reg></choice></w><w>crone</w><pc>·</pc></l>
+               <l n="59"><lb n="31"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w>aller</w><w>ſchlahte</w><w>lone</w><pc>·</pc></l>
+               <l n="86"><lb n="32"/><w><choice><orig><subst><del rendition="hc:Adapted"><hi rendition="hc:RedStroke">D</hi></del><add rendition="hc:Adapted">N</add></subst><subst><del rendition="hc:Erased">c</del><add hei:placeRef="hc:AboveLine">u</add></subst></orig><reg>nu</reg></choice></w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w><choice><orig>vppige</orig><reg>uppige</reg></choice></w><w>crone</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="87"><lb n="33"/><w><choice><orig>Werltlicher</orig><reg>werltlicher</reg></choice></w><w><choice><orig>ſvͤze</orig><reg>ſüze</reg></choice></w><pc>·</pc></l>
-               <l n="88"><lb n="34"/><w>Vellet</w><w><choice><orig><choice><abbr>vn<am>d ͛</am></abbr><expan>vn<ex>der</ex></expan></choice></orig><reg>under</reg></choice></w><w>die</w><w><choice><orig>fvͤze</orig><reg>füze</reg></choice></w><pc>·</pc></l>
+               <l n="87"><lb n="33"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>erltlicher</orig><reg>werltlicher</reg></choice></w><w><choice><orig>ſvͤze</orig><reg>ſüze</reg></choice></w><pc>·</pc></l>
+               <l n="88"><lb n="34"/><w><hi rendition="hc:RedStroke">V</hi>ellet</w><w><choice><orig><choice><abbr>vn<am>d ͛</am></abbr><expan>vn<ex>der</ex></expan></choice></orig><reg>under</reg></choice></w><w>die</w><w><choice><orig>fvͤze</orig><reg>füze</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="89"><lb n="35"/><w><choice><orig>Ab</orig><reg>ab</reg></choice></w><add hei:placeRef="hc:ColumnMarginLeft"><w>ir</w></add><w>beſte</w><w>werdekeit</w><pc>·</pc><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="90"><lb n="36"/><w><choice><orig>Sam</orig><reg>sam</reg></choice></w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w>ſchrifte</w><w>hat</w><w>geſeit</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="89"><lb n="35"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>b</orig><reg>ab</reg></choice></w><add hei:placeRef="hc:ColumnMarginLeft"><w>ir</w></add><w>beſte</w><w>werdekeit</w><pc>·</pc><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="90"><lb n="36"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>am</orig><reg>sam</reg></choice></w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w>ſchrifte</w><w>hat</w><w>geſeit</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="91"><lb n="37"/><w><choice><orig>Siv</orig><reg>siu</reg></choice></w><w>ſprichet</w><w>in</w><w><choice><abbr>ei<am>n ͛</am></abbr><expan>ei<ex>ner</ex></expan></choice></w><w>ſtet</w><w>da</w><pc>·</pc><pc ana="editorial">:</pc></l>
-               <l n="92"><lb n="38"/><w xml:lang="lat"><w><choice><orig>Media</orig><reg>media</reg></choice></w></w><w xml:lang="lat"><w><choice><orig>uita</orig><reg>vita</reg></choice></w></w></l>
+               <l n="91"><lb n="37"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>iv</orig><reg>siu</reg></choice></w><w>ſprichet</w><w>in</w><w><choice><abbr>ei<am>n ͛</am></abbr><expan>ei<ex>ner</ex></expan></choice></w><w>ſtet</w><w>da</w><pc>·</pc><pc ana="editorial">:</pc></l>
+               <l n="92"><lb n="38"/><w xml:lang="lat"><choice><orig><hi rendition="hc:RedStroke">M</hi>edia</orig><reg>media</reg></choice></w><w xml:lang="lat"><choice><orig>uita</orig><reg>vita</reg></choice></w></l>
             </lg>
             <lg>
                <l n="93"><w xml:lang="lat"><choice><abbr><am>ī</am></abbr><expan><ex>in</ex></expan></choice></w><w xml:lang="lat">morte</w><w xml:lang="lat"><choice><abbr>su<am>mꝰ</am></abbr><expan>sum<ex>us</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="94"><lb n="39"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>tv́tet</orig><reg>tütet</reg></choice></w><w>ſich</w><w>alſus</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="94"><lb n="39"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>tv́tet</orig><reg>tütet</reg></choice></w><w>ſich</w><w>alſus</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="95"><lb n="40"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>wir</w><w>in</w><w>deme</w><w>tode</w><w>ſweben</w><pc>·</pc></l>
-               <l n="96"><lb n="41"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>wir</w><w>alre</w><w>beſte</w><w>leben</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="95"><lb n="40"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>wir</w><w>in</w><w>deme</w><w>tode</w><w>ſweben</w><pc>·</pc></l>
+               <l n="96"><lb n="41"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w>wir</w><w>alre</w><w>beſte</w><w>leben</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="97"><lb n="42"/><w><choice><orig>Dirre</orig><reg>dirre</reg></choice></w><w>werlt</w><w>veſte</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="98"><lb n="43"/><w><choice><orig>Div</orig><reg>diu</reg></choice></w><w>ſteteſt</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w>beſte</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="97"><lb n="42"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>irre</orig><reg>dirre</reg></choice></w><w>werlt</w><w>veſte</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="98"><lb n="43"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>diu</reg></choice></w><w>ſteteſt</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w>beſte</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="99"><lb n="44"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ir</w><w>groſte</w><w>mancraft</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="100"><lb n="45"/><w><choice><orig>Div</orig><reg>Diu</reg></choice></w><w>ſtat</w><w>ane</w><w><choice><abbr>meiſ<am>t ͛</am>ſchaft</abbr><expan>meiſ<ex>ter</ex>ſchaft</expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="99"><lb n="44"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ir</w><w>groſte</w><w>mancraft</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="100"><lb n="45"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>Diu</reg></choice></w><w>ſtat</w><w>ane</w><w><choice><abbr>meiſ<am>t ͛</am>ſchaft</abbr><expan>meiſ<ex>ter</ex>ſchaft</expan></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="101"><lb n="46"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>mvgen</orig><reg>mugen</reg></choice></w><w>wir</w><w>an</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><abbr>kerz<am>ē</am></abbr><expan>kerz<ex>en</ex></expan></choice></w><w>ſehen</w><pc>·</pc></l>
-               <l n="102"><lb n="47"/><w><choice><orig>Ein</orig><reg>ein</reg></choice></w><w>warez</w><w>bilde</w><w>geſchehen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="101"><lb n="46"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>mvgen</orig><reg>mugen</reg></choice></w><w>wir</w><w>an</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><abbr>kerz<am>ē</am></abbr><expan>kerz<ex>en</ex></expan></choice></w><w>ſehen</w><pc>·</pc></l>
+               <l n="102"><lb n="47"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>in</orig><reg>ein</reg></choice></w><w>warez</w><w>bilde</w><w>geſchehen</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="103"><lb n="48"/><w><choice><orig>Wande</orig><reg>wande</reg></choice></w><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><w><choice><orig>z</orig><reg>zuo</reg></choice></w><w><choice><abbr>ei<am>n ͛</am></abbr><expan>ein<ex>er</ex></expan></choice></w><w>aſchen</w><w>wirt</w><pc>·</pc></l>
-               <l n="104"><lb n="49"/><w><choice><orig>Ie</orig><reg>ie</reg></choice></w><w><choice><abbr>imm<am>e͛</am></abbr><expan>imm<ex>er</ex></expan></choice></w><pc ana="editorial">,</pc><w>do</w><w>ſi</w><w>lieht</w><w>gebirt</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="103"><lb n="48"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>ande</orig><reg>wande</reg></choice></w><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><w><choice><orig>z</orig><reg>zuo</reg></choice></w><w><choice><abbr>ei<am>n ͛</am></abbr><expan>ein<ex>er</ex></expan></choice></w><w>aſchen</w><w>wirt</w><pc>·</pc></l>
+               <l n="104"><lb n="49"/><w><choice><orig><hi rendition="hc:RedStroke">I</hi>e</orig><reg>ie</reg></choice></w><w><choice><abbr>imm<am>e͛</am></abbr><expan>imm<ex>er</ex></expan></choice></w><pc ana="editorial">,</pc><w>do</w><w>ſi</w><w>lieht</w><w>gebirt</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="105"><lb n="50"/><w><choice><orig>Wir</orig><reg>wir</reg></choice></w><w>sin</w><w>von</w><w><choice><orig>broͤden</orig><reg>broeden</reg></choice></w><w>ſachen</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="106"><lb n="51"/><w><choice><orig>Sehet</orig><reg>sehet</reg></choice></w><pc ana="editorial">,</pc><w>wie</w><w><choice><orig><choice><abbr>vn<am>ſ  ͛</am></abbr><expan>vn<ex>ſer</ex></expan></choice></orig><reg>unſer</reg></choice></w><w>lachen</w><pc>·</pc></l>
+               <l n="105"><lb n="50"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>ir</orig><reg>wir</reg></choice></w><w>sin</w><w>von</w><w><choice><orig>broͤden</orig><reg>broeden</reg></choice></w><w>ſachen</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="106"><lb n="51"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>ehet</orig><reg>sehet</reg></choice></w><pc ana="editorial">,</pc><w>wie</w><w><choice><orig><choice><abbr>vn<am>ſ ͛</am></abbr><expan>vn<ex>ſer</ex></expan></choice></orig><reg>unſer</reg></choice></w><w>lachen</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="107"><lb n="52"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w><choice><abbr>wein<am>ē</am>ne</abbr><expan>wein<ex>en</ex>ne</expan></choice></w><w>erliſchet</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="108"><lb n="53"/><w><choice><orig><choice><abbr>Vn<am>ſ͛</am></abbr><expan>Vn<ex>ſer</ex></expan></choice></orig><reg>unſer</reg></choice></w><w>honic</w><w>ist</w><w>gemiſchet</w><pc>·</pc></l>
+               <l n="107"><lb n="52"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w><choice><abbr>wein<am>ē</am>ne</abbr><expan>wein<ex>en</ex>ne</expan></choice></w><w>erliſchet</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="108"><lb n="53"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi>n<am>ſ͛</am></abbr><expan><hi rendition="hc:RedStroke">V</hi>n<ex>ſer</ex></expan></choice></orig><reg>unſer</reg></choice></w><w>honic</w><w>ist</w><w>gemiſchet</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="109"><lb n="54"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w><choice><abbr>bit<am>t ͛</am>en</abbr><expan>bit<ex>ter</ex>en</expan></choice></w><w>gallen</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="110"><lb n="55"/><w><choice><orig>Vnſer</orig><reg>unſer</reg></choice></w><w><choice><orig>blme</orig><reg>bluome</reg></choice></w><w><choice><orig>mz</orig><reg>muoz</reg></choice></w><w>vallen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="109"><lb n="54"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w><choice><abbr>bit<am>t ͛</am>en</abbr><expan>bit<ex>ter</ex>en</expan></choice></w><w>gallen</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="110"><lb n="55"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>nſer</orig><reg>unſer</reg></choice></w><w><choice><orig>blme</orig><reg>bluome</reg></choice></w><w><choice><orig>mz</orig><reg>muoz</reg></choice></w><w>vallen</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="111"><lb n="56"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>er</w><w>aller</w><w>gerneſte</w><w>wenet</w><w>ſin</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="112"><lb n="57"/><w><choice><orig>Dem</orig><reg>dem</reg></choice></w><w>herren</w><w><choice><orig>heinrich</orig><reg>Heinrich</reg></choice></w><w>wart</w><w>schin</w><pc>·</pc><pc ana="editorial">:</pc></l>
+               <l n="111"><lb n="56"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w>er</w><w>aller</w><w>gerneſte</w><w>wenet</w><w>ſin</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="112"><lb n="57"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>em</orig><reg>dem</reg></choice></w><w>herren</w><w><choice><orig>heinrich</orig><reg>Heinrich</reg></choice></w><w>wart</w><w>schin</w><pc>·</pc><pc ana="editorial">:</pc></l>
             </lg>
             <lg>
-               <l n="113"><lb n="58"/><w><choice><orig>Swer</orig><reg>swer</reg></choice></w><w>in</w><w>deme</w><w>hoheſt</w><damage><w>werde</w></damage></l>
-               <l n="114"><lb n="59"/><w><choice><orig>Lebet</orig><reg>lebet</reg></choice></w><w>nach</w><w>dirre</w><w>erde</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="113"><lb n="58"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>wer</orig><reg>swer</reg></choice></w><w>in</w><w>deme</w><w>hoheſt</w><damage><w>werde</w></damage></l>
+               <l n="114"><lb n="59"/><w><choice><orig><hi rendition="hc:RedStroke">L</hi>ebet</orig><reg>lebet</reg></choice></w><w>nach</w><w>dirre</w><w>erde</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="115"><lb n="60"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>iſt</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><damage>ſw</damage>echeſte</w><w>nah</w><w>gote</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="115"><lb n="60"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D͛</hi></am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>iſt</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><damage>ſw</damage>echeſte</w><w>nah</w><w>gote</w><pc>·</pc><pc ana="editorial">.</pc></l>
                <pb n="5v/4v"/>
                <cb n="a"/>
-               <l n="116"><lb n="1"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>viel</w><w>von</w><w>ſime</w><w>gebote</w><pc>·</pc></l>
+               <l n="116"><lb n="1"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w>viel</w><w>von</w><w>ſime</w><w>gebote</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="117"><lb n="2"/><w><choice><orig>Ab</orig><reg>ab</reg></choice></w><w>ſiner</w><w>beſten</w><w>wirdikeit</w><pc>·</pc></l>
-               <l n="118"><lb n="3"/><w><choice><orig>In</orig><reg>in</reg></choice></w><w>ein</w><w>ſmehlichez</w><w>leit</w><pc>·</pc><pc ana="editorial">:</pc></l>
+               <l n="117"><lb n="2"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>b</orig><reg>ab</reg></choice></w><w>ſiner</w><w>beſten</w><w>wirdikeit</w><pc>·</pc></l>
+               <l n="118"><lb n="3"/><w><choice><orig><hi rendition="hc:RedStroke">I</hi>n</orig><reg>in</reg></choice></w><w>ein</w><w>ſmehlichez</w><w>leit</w><pc>·</pc><pc ana="editorial">:</pc></l>
             </lg>
             <lg>
-               <l n="119"><lb n="4"/><w><choice><orig>In</orig><reg>in</reg></choice></w><w>ergreif</w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w><choice><orig>miſelſvhte</orig><reg>miſelſuhte</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="120"><lb n="5"/><w><choice><orig>Do</orig><reg>do</reg></choice></w><w>man</w><w>die</w><w>ſwere</w><w>gotes</w><w><choice><orig>zvhte</orig><reg>zuhte</reg></choice></w><pc>·</pc></l>
+               <l n="119"><lb n="4"/><w><choice><orig><hi rendition="hc:RedStroke">I</hi>n</orig><reg>in</reg></choice></w><w>ergreif</w><w><choice><orig>div</orig><reg>diu</reg></choice></w><w><choice><orig>miſelſvhte</orig><reg>miſelſuhte</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="120"><lb n="5"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig><reg>do</reg></choice></w><w>man</w><w>die</w><w>ſwere</w><w>gotes</w><w><choice><orig>zvhte</orig><reg>zuhte</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="121"><lb n="6"/><w><choice><orig>Er ſach</orig><reg>erſach</reg></choice></w><w>an</w><w>ſime</w><w>libe</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="122"><lb n="7"/><w><choice><orig>Manne</orig><reg>manne</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wibe</w><pc>·</pc></l>
+               <l n="121"><lb n="6"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r ſach</orig><reg>erſach</reg></choice></w><w>an</w><w>ſime</w><w>libe</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="122"><lb n="7"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>anne</orig><reg>manne</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wibe</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="123"><lb n="8"/><w><choice><orig>Wart</orig><reg>wart</reg></choice></w><w>er</w><w>do</w><w><choice><abbr>wi<am>d ͛</am></abbr><expan>wi<ex>der</ex></expan></choice></w><w>zeme</w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="124"><lb n="9"/><w><choice><orig>Nv</orig><reg>nu</reg></choice></w><w>ſeht</w><pc ana="editorial">,</pc><w>wie</w><w>vil</w><w>geneme</w><pc>·</pc></l>
+               <l n="123"><lb n="8"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>art</orig><reg>wart</reg></choice></w><w>er</w><w>do</w><w><choice><abbr>wi<am>d ͛</am></abbr><expan>wi<ex>der</ex></expan></choice></w><w>zeme</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="124"><lb n="9"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig><reg>nu</reg></choice></w><w>ſeht</w><pc ana="editorial">,</pc><w>wie</w><w>vil</w><w>geneme</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="125"><lb n="10"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>e</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>werlte</w><w>were</w><pc>·</pc><pc ana="editorial">–</pc></l>
-               <l n="126"><lb n="11"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>wart</w><w>alſ</w><w><choice><orig>vnmere</orig><reg>unmere</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="125"><lb n="10"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w>e</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>werlte</w><w>were</w><pc>·</pc><pc ana="editorial">–</pc></l>
+               <l n="126"><lb n="11"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w>wart</w><w>alſ</w><w><choice><orig>vnmere</orig><reg>unmere</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="126a"><lb n="12"/><w><choice><orig>Ze</orig><reg>ze</reg></choice></w><w>hewe</w><w>wart</w><w>ſin</w><w><choice><orig>grvͤnez</orig><reg>grünez</reg></choice></w><w>gras</w><pc>·</pc></l>
-               <l n="126b"><lb n="13"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>e</w><w>der</w><w>werlte</w><w>vanre</w><w>was</w><pc>·</pc></l>
+               <l n="126a"><lb n="12"/><w><choice><orig><hi rendition="hc:RedStroke">Z</hi>e</orig><reg>ze</reg></choice></w><w>hewe</w><w>wart</w><w>ſin</w><w><choice><orig>grvͤnez</orig><reg>grünez</reg></choice></w><w>gras</w><pc>·</pc></l>
+               <l n="126b"><lb n="13"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>e</w><w>der</w><w>werlte</w><w>vanre</w><w>was</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="127"><lb n="14"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>den</w><w><choice><orig>nv</orig><reg>nu</reg></choice></w><w>nieman</w><w><choice><abbr><am>g͛</am>ne</abbr><expan>g<ex>er</ex>ne</expan></choice></w><w>ſach</w><pc>·</pc><pc ana="editorial">!</pc></l>
-               <l n="128"><lb n="15"/><w><choice><orig>Alſe</orig><reg>alſe</reg></choice></w><w><choice><orig>iobe</orig><reg>Iobe</reg></choice></w><w>geſchach</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="127"><lb n="14"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>den</w><w><choice><orig>nv</orig><reg>nu</reg></choice></w><w>nieman</w><w><choice><abbr><am>g͛</am>ne</abbr><expan>g<ex>er</ex>ne</expan></choice></w><w>ſach</w><pc>·</pc><pc ana="editorial">!</pc></l>
+               <l n="128"><lb n="15"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>lſe</orig><reg>alſe</reg></choice></w><w><choice><orig>iobe</orig><reg>Iobe</reg></choice></w><w>geſchach</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="129"><lb n="16"/><w><choice><orig>Dem</orig><reg>dem</reg></choice></w><w>edelen</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>dem</w><w>richen</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="130"><lb n="17"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>vil</w><w><choice><orig><choice><abbr>ie<am>m͛</am>lichen</abbr><expan>ie<ex>mer</ex>lichen</expan></choice></orig><reg>jemerlichen</reg></choice></w><pc>·</pc></l>
+               <l n="129"><lb n="16"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>em</orig><reg>dem</reg></choice></w><w>edelen</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>dem</w><w>richen</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="130"><lb n="17"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>vil</w><w><choice><orig><choice><abbr>ie<am>m͛</am>lichen</abbr><expan>ie<ex>mer</ex>lichen</expan></choice></orig><reg>jemerlichen</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="131"><lb n="18"/><w><choice><orig>Dem</orig><reg>dem</reg></choice></w><w>miſte</w><w>wart</w><w>ze</w><w>teile</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="132"><lb n="19"/><w><choice><orig>In</orig><reg>in</reg></choice></w><w>mitten</w><w>in</w><w>ſime</w><w>heile</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="131"><lb n="18"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>em</orig><reg>dem</reg></choice></w><w>miſte</w><w>wart</w><w>ze</w><w>teile</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="132"><lb n="19"/><w><choice><orig><hi rendition="hc:RedStroke">I</hi>n</orig><reg>in</reg></choice></w><w>mitten</w><w>in</w><w>ſime</w><w>heile</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="133"><lb n="20"/><w><choice><orig>Do</orig><reg>do</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arme</w><w><choice><orig><choice><abbr>he<am>ī</am>rich</abbr><expan>he<ex>in</ex>rich</expan></choice></orig><reg>Heinrich</reg></choice></w><pc>·</pc></l>
-               <l n="134"><lb n="21"/><w><choice><orig>Aller</orig><reg>aller</reg></choice></w><w>erſt</w><w><choice><orig><choice><abbr><am>v͛</am>ſtvͦnt</abbr><expan><ex>ver</ex>ſtvͦnt</expan></choice></orig><reg>verſtuont</reg></choice></w><w>sich</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="133"><lb n="20"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig><reg>do</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arme</w><w><choice><orig><choice><abbr>he<am>ī</am>rich</abbr><expan>he<ex>in</ex>rich</expan></choice></orig><reg>Heinrich</reg></choice></w><pc>·</pc></l>
+               <l n="134"><lb n="21"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>ller</orig><reg>aller</reg></choice></w><w>erſt</w><w><choice><orig><choice><abbr><am>v͛</am>ſtvͦnt</abbr><expan><ex>ver</ex>ſtvͦnt</expan></choice></orig><reg>verſtuont</reg></choice></w><w>sich</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="135"><lb n="22"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>er</w><w>der</w><w>werlte</w><w><choice><abbr>wi<am>d ͛</am></abbr><expan>wi<ex>der</ex></expan></choice></w><w><choice><orig>stvͦnt</orig><reg>stuont</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="136"><lb n="23"/><w><choice><orig>Alſe</orig><reg>alſe</reg></choice></w><w>alle</w><w>ſine</w><w>geliche</w><w><choice><orig>tvͦnt</orig><reg>tuont</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="135"><lb n="22"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>er</w><w>der</w><w>werlte</w><w><choice><abbr>wi<am>d ͛</am></abbr><expan>wi<ex>der</ex></expan></choice></w><w><choice><orig>stvͦnt</orig><reg>stuont</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="136"><lb n="23"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>lſe</orig><reg>alſe</reg></choice></w><w>alle</w><w>ſine</w><w>geliche</w><w><choice><orig>tvͦnt</orig><reg>tuont</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="137"><lb n="24"/><w><choice><orig>Do</orig><reg>do</reg></choice></w><w>ſchiet</w><w>in</w><w>sin</w><w><choice><abbr>bit<am>t͛</am></abbr><expan>bitt<ex>er</ex></expan></choice></w><w>leit</w><pc>·</pc></l>
-               <l n="138"><lb n="25"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w><choice><orig>iobeſ</orig><reg>Iobeſ</reg></choice></w><w><choice><orig>gedvltekeit</orig><reg>gedultekeit</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="137"><lb n="24"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig><reg>do</reg></choice></w><w>ſchiet</w><w>in</w><w>sin</w><w><choice><abbr>bit<am>t͛</am></abbr><expan>bitt<ex>er</ex></expan></choice></w><w>leit</w><pc>·</pc></l>
+               <l n="138"><lb n="25"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w><choice><orig>iobeſ</orig><reg>Iobeſ</reg></choice></w><w><choice><orig>gedvltekeit</orig><reg>gedultekeit</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="139"><lb n="26"/><w><choice><orig>Wan</orig><reg>wan</reg></choice></w><w>ez</w><w>leit</w><w><choice><orig>iob</orig><reg>Iob</reg></choice></w><pc ana="editorial">,</pc><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><orig>gvͦte</orig><reg>guote</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="140"><lb n="27"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w><choice><orig>gedvltigem</orig><reg>gedultigem</reg></choice></w><w><choice><orig>mvͦte</orig><reg>muote</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="139"><lb n="26"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>an</orig><reg>wan</reg></choice></w><w>ez</w><w>leit</w><w><choice><orig>iob</orig><reg>Iob</reg></choice></w><pc ana="editorial">,</pc><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><orig>gvͦte</orig><reg>guote</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="140"><lb n="27"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w><choice><orig>gedvltigem</orig><reg>gedultigem</reg></choice></w><w><choice><orig>mvͦte</orig><reg>muote</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="141"><lb n="28"/><w><choice><orig>Swaz</orig><reg>swaz</reg></choice></w><w>dem</w><w>ze</w><w>lidenne</w><w>geſchach</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="142"><lb n="29"/><w><choice><orig>Dvrh</orig><reg>durh</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>ſele</w><w>gemach</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="141"><lb n="28"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>waz</orig><reg>swaz</reg></choice></w><w>dem</w><w>ze</w><w>lidenne</w><w>geſchach</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="142"><lb n="29"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>vrh</orig><reg>durh</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>ſele</w><w>gemach</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="169"><lb n="30"/><w><choice><orig>Sine</orig><reg>sine</reg></choice></w><w>betrahte</w><pc>·</pc></l>
-               <l n="170"><lb n="31"/><w><choice><orig>Was</orig><reg>was</reg></choice></w><w>vil</w><w><choice><abbr>mani<am>g͛</am></abbr><expan>mani<ex>ger</ex></expan></choice></w><w>ſlahte</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="169"><lb n="30"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>ine</orig><reg>sine</reg></choice></w><w>betrahte</w><pc>·</pc></l>
+               <l n="170"><lb n="31"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>as</orig><reg>was</reg></choice></w><w>vil</w><w><choice><abbr>mani<am>g͛</am></abbr><expan>mani<ex>ger</ex></expan></choice></w><w>ſlahte</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="171"><lb n="32"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>gedahte</w><pc ana="editorial">,</pc><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>er</w><w>were</w><pc>·</pc><del rendition="hc:Strikethrough"><w>vil</w><w>lihte</w></del></l>
-               <l n="172"><lb n="33"/><w><choice><orig>Vil</orig><reg>vil</reg></choice></w><w>lihte</w><w>geniſebere</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="171"><lb n="32"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w>gedahte</w><pc ana="editorial">,</pc><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>er</w><w>were</w><pc>·</pc><del rendition="hc:Strikethrough"><w>vil</w><w>lihte</w></del></l>
+               <l n="172"><lb n="33"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>il</orig><reg>vil</reg></choice></w><w>lihte</w><w>geniſebere</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="173"><lb n="34"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>vr</orig><reg>vuor</reg></choice></w><w>alſo</w><w>drate</w><pc>·</pc></l>
-               <l n="174"><lb n="35"/><w><choice><orig>Nah</orig><reg>nah</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arzate</w><w>rate</w><pc>·</pc></l>
+               <l n="173"><lb n="34"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>vr</orig><reg>vuor</reg></choice></w><w>alſo</w><w>drate</w><pc>·</pc></l>
+               <l n="174"><lb n="35"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>ah</orig><reg>nah</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arzate</w><w>rate</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="175"><lb n="36"/><w><choice><orig>Gegen</orig><reg>gegen</reg></choice></w><w><choice><orig>monpaſiliere</orig><reg>Monpaſiliere</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="176"><lb n="37"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>vant</w><w>er</w><w>alſo</w><w>ſchiere</w><pc>·</pc></l>
+               <l n="175"><lb n="36"/><w><choice><orig><hi rendition="hc:RedStroke">G</hi>egen</orig><reg>gegen</reg></choice></w><w><choice><orig>monpaſiliere</orig><reg>Monpaſiliere</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="176"><lb n="37"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>a</orig><reg>da</reg></choice></w><w>vant</w><w>er</w><w>alſo</w><w>ſchiere</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="177"><lb n="38"/><w><choice><orig>Niwan</orig><reg>niwan</reg></choice></w><w><choice><orig>vndroſt</orig><reg>undroſt</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="178"><lb n="39"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>er</w><w><choice><abbr>nie<am>m͛</am></abbr><expan>nie<ex>mer</ex></expan></choice></w><w><choice><orig>wrde</orig><reg>wurde</reg></choice></w><w>erloſt</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="177"><lb n="38"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>iwan</orig><reg>niwan</reg></choice></w><w><choice><orig>vndroſt</orig><reg>undroſt</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="178"><lb n="39"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>er</w><w><choice><abbr>nie<am>m͛</am></abbr><expan>nie<ex>mer</ex></expan></choice></w><w><choice><orig>wrde</orig><reg>wurde</reg></choice></w><w>erloſt</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="179"><lb n="40"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>horte</w><w>er</w><w><choice><orig><choice><abbr>vn<am>g͛</am>ne</abbr><expan>vn<ex>ger</ex>ne</expan></choice></orig><reg>ungerne</reg></choice></w><pc>·</pc></l>
-               <l n="180"><lb n="41"/><label ana="hc:ParagraphSign">¶</label><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>Und</reg></choice></w><w><choice><orig>fr</orig><reg>fuor</reg></choice></w><w>gegen</w><w><choice><orig><choice><abbr>ſa<am>l ͛</am>ne</abbr><expan>ſa<ex>ler</ex>ne</expan></choice></orig><reg>Salerne</reg></choice></w><pc>·</pc></l>
+               <l n="179"><lb n="40"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>horte</w><w>er</w><w><choice><orig><choice><abbr>vn<am>g͛</am>ne</abbr><expan>vn<ex>ger</ex>ne</expan></choice></orig><reg>ungerne</reg></choice></w><pc>·</pc></l>
+               <l n="180"><lb n="41"/><label ana="hc:ParagraphSign">¶</label><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>Und</reg></choice></w><w><choice><orig>fr</orig><reg>fuor</reg></choice></w><w>gegen</w><w><choice><orig><choice><abbr>ſa<am>l ͛</am>ne</abbr><expan>ſa<ex>ler</ex>ne</expan></choice></orig><reg>Salerne</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="181"><lb n="42"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ſvͦhte</orig><reg>ſuohte</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>da</w><w><choice><orig>dvrh</orig><reg>durh</reg></choice></w><w>geniſt</w><pc>·</pc></l>
-               <l n="182"><lb n="43"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>wiſen</w><w>arzate</w><w>liſt</w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="181"><lb n="42"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ſvͦhte</orig><reg>ſuohte</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>da</w><w><choice><orig>dvrh</orig><reg>durh</reg></choice></w><w>geniſt</w><pc>·</pc></l>
+               <l n="182"><lb n="43"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>wiſen</w><w>arzate</w><w>liſt</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="183"><lb n="44"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>beſte</w><pc ana="editorial">,</pc><w>den</w><w>er</w><w>da</w><w>vant</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="184"><lb n="45"/><w><choice><orig><choice><abbr><am>D ͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>ſagete</w><w>im</w><w join="right">ſa</w><w join="left">zehant</w><pc>·</pc></l>
+               <l n="183"><lb n="44"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>beſte</w><pc ana="editorial">,</pc><w>den</w><w>er</w><w>da</w><w>vant</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="184"><lb n="45"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi> ͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>ſagete</w><w>im</w><w join="right">ſa</w><w join="left">zehant</w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="185"><lb n="46"/><w><choice><orig>Eine</orig><reg>eine</reg></choice></w><w>ſeltsene</w><w>mere</w><pc>·</pc><pc ana="editorial">:</pc></l>
-               <l n="186"><lb n="47"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>er</w><w>geniſliche</w><w>were</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="185"><lb n="46"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>ine</orig><reg>eine</reg></choice></w><w>ſeltsene</w><w>mere</w><pc>·</pc><pc ana="editorial">:</pc></l>
+               <l n="186"><lb n="47"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>er</w><w>geniſliche</w><w>were</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="187"><lb n="48"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>were</w><w>doch</w><w><choice><abbr>ie<am>m͛</am></abbr><expan>ie<ex>mer</ex></expan></choice></w><w><choice><orig>vngeneſen</orig><reg>ungeneſen</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="188"><lb n="49"/><w><choice><orig>Do</orig><reg>do</reg></choice></w><w>ſprach</w><w>er</w><pc ana="editorial">,</pc><pc ana="editorial">›</pc><w>wie</w><w>mac</w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>weſen</w><pc>·</pc><pc ana="editorial">?</pc></l>
+               <l n="187"><lb n="48"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>were</w><w>doch</w><w><choice><abbr>ie<am>m͛</am></abbr><expan>ie<ex>mer</ex></expan></choice></w><w><choice><orig>vngeneſen</orig><reg>ungeneſen</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="188"><lb n="49"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig><reg>do</reg></choice></w><w>ſprach</w><w>er</w><pc ana="editorial">,</pc><pc ana="editorial">›</pc><w>wie</w><w>mac</w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>weſen</w><pc>·</pc><pc ana="editorial">?</pc></l>
             </lg>
             <lg>
-               <l n="189"><lb n="50"/><w><choice><orig>Div</orig><reg>diu</reg></choice></w><w>rede</w><w>iſt</w><w>harte</w><w><choice><orig>vnmvgelich</orig><reg>unmugelich</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
-               <l n="190"><lb n="51"/><w><choice><orig>Bin</orig><reg>bin</reg></choice></w><w>ich</w><w>geniſlich</w><pc ana="editorial">,</pc><w>ſo</w><w>geniſ</w><w>ich</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="189"><lb n="50"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>diu</reg></choice></w><w>rede</w><w>iſt</w><w>harte</w><w><choice><orig>vnmvgelich</orig><reg>unmugelich</reg></choice></w><pc>·</pc><pc ana="editorial">.</pc></l>
+               <l n="190"><lb n="51"/><w><choice><orig><hi rendition="hc:RedStroke">B</hi>in</orig><reg>bin</reg></choice></w><w>ich</w><w>geniſlich</w><pc ana="editorial">,</pc><w>ſo</w><w>geniſ</w><w>ich</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="191"><lb n="52"/><w><choice><orig>Wan</orig><reg>wan</reg></choice></w><w>ſwaz</w><w>mir</w><w>vur</w><w>wirt</w><w>geleit</w><pc>·</pc></l>
-               <l n="192"><lb n="53"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w><choice><orig>gvͦte</orig><reg>guote</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>von</w><w>arbeit</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="191"><lb n="52"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>an</orig><reg>wan</reg></choice></w><w>ſwaz</w><w>mir</w><w>vur</w><w>wirt</w><w>geleit</w><pc>·</pc></l>
+               <l n="192"><lb n="53"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w><choice><orig>gvͦte</orig><reg>guote</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>von</w><w>arbeit</w><pc>·</pc><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="193"><lb n="54"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>getrvwe</orig><reg>getruwe</reg></choice></w><w>ich</w><w>wol</w><w><choice><abbr>bring<am>ē</am></abbr><expan>bring<ex>en</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.‹</pc></l>
-               <l n="194"><lb n="55"/><pc ana="editorial">›</pc><w><choice><orig>Nv</orig><reg>nu</reg></choice></w><w>lat</w><w>den</w><w>gedingen</w><pc>·</pc><pc ana="editorial">‹,</pc></l>
+               <l n="193"><lb n="54"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>getrvwe</orig><reg>getruwe</reg></choice></w><w>ich</w><w>wol</w><w><choice><abbr>bring<am>ē</am></abbr><expan>bring<ex>en</ex></expan></choice></w><pc>·</pc><pc ana="editorial">.‹</pc></l>
+               <l n="194"><lb n="55"/><pc ana="editorial">›</pc><w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig><reg>nu</reg></choice></w><w>lat</w><w>den</w><w>gedingen</w><pc>·</pc><pc ana="editorial">‹,</pc></l>
             </lg>
             <lg>
-               <l n="195"><lb n="56"/><w><choice><orig>Sprach</orig><reg>sprach</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><abbr>meiſ<am>t͛</am></abbr><expan>meiſ<ex>ter</ex></expan></choice></w><w><choice><abbr>a<am>b͛</am></abbr><expan>a<ex>ber</ex></expan></choice></w><w>do</w><pc>·</pc><pc ana="editorial">,</pc></l>
-               <l n="196"><lb n="57"/><pc ana="editorial">›</pc><w><choice><orig><choice><abbr>Iv<am>w͛</am>re</abbr><expan>Iv<ex>wer</ex>re</expan></choice></orig><reg>iuwerre</reg></choice></w><w><choice><orig>ſvhte</orig><reg>ſuhte</reg></choice></w><w>iſt</w><w>ſo</w><pc>·</pc><pc ana="editorial">–</pc></l>
+               <l n="195"><lb n="56"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>prach</orig><reg>sprach</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><abbr>meiſ<am>t͛</am></abbr><expan>meiſ<ex>ter</ex></expan></choice></w><w><choice><abbr>a<am>b͛</am></abbr><expan>a<ex>ber</ex></expan></choice></w><w>do</w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="196"><lb n="57"/><pc ana="editorial">›</pc><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">I</hi>v<am>w͛</am>re</abbr><expan>Iv<ex>wer</ex>re</expan></choice></orig><reg>iuwerre</reg></choice></w><w><choice><orig>ſvhte</orig><reg>ſuhte</reg></choice></w><w>iſt</w><w>ſo</w><pc>·</pc><pc ana="editorial">–</pc></l>
             </lg>
             <lg>
-               <l n="197"><lb n="58"/><w><choice><orig>Waz</orig><reg>waz</reg></choice></w><w><choice><orig>frvmet</orig><reg>frumet</reg></choice></w><pc ana="editorial">,</pc><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ich</w><w>ez</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w><choice><orig><choice><abbr>k<am>v̄</am>t</abbr><expan>k<ex>vn</ex>t</expan></choice></orig><reg>kunt</reg></choice></w><w><choice><orig>tvͦn</orig><reg>tuon</reg></choice></w><pc>·</pc><pc ana="editorial">?</pc></l>
+               <l n="197"><lb n="58"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>az</orig><reg>waz</reg></choice></w><w><choice><orig>frvmet</orig><reg>frumet</reg></choice></w><pc ana="editorial">,</pc><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ich</w><w>ez</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w><choice><orig><choice><abbr>k<am>v̄</am>t</abbr><expan>k<ex>vn</ex>t</expan></choice></orig><reg>kunt</reg></choice></w><w><choice><orig>tvͦn</orig><reg>tuon</reg></choice></w><pc>·</pc><pc ana="editorial">?</pc></l>
                <cb n="b"/>
-               <l n="198"><lb n="1"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>horet</w><w>erzeneie</w><gap ana="hc:CutOff"/></l>
+               <l n="198"><lb n="1"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>a</orig><reg>da</reg></choice></w><w>horet</w><w>erzeneie</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="199"><lb n="2"/><w><choice><orig>Des</orig><reg>des</reg></choice></w><w>werent</w><w>ir</w><w>geni</w><gap ana="hc:CutOff"/></l>
-               <l n="200"><lb n="3"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w join="right">in</w><w join="left">iſt</w><w><choice><abbr>a<am>b͛</am></abbr><expan>ab<ex>er</ex></expan></choice></w><w><choice><abbr>niem<am>ā </am></abbr><expan>niem<ex>an</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="199"><lb n="2"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>es</orig><reg>des</reg></choice></w><w>werent</w><w>ir</w><w>geni</w><gap ana="hc:CutOff"/></l>
+               <l n="200"><lb n="3"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w join="right">in</w><w join="left">iſt</w><w><choice><abbr>a<am>b͛</am></abbr><expan>ab<ex>er</ex></expan></choice></w><w><choice><abbr>niem<am>ā </am></abbr><expan>niem<ex>an</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="201"><lb n="4"/><w><choice><orig>Noh</orig><reg>noh</reg></choice></w><w>von</w><w>so</w><w>ſtark<damage ana="hc:CutOff">e</damage></w><gap ana="hc:CutOff"/></l>
-               <l n="202"><lb n="5"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>ſi</w><w><choice><orig>mvge</orig><reg>muge</reg></choice></w><w><choice><abbr>gew<am>ī</am></abbr><expan>gew<ex>in</ex></expan></choice></w><gap ana="hc:CutOff" extent="2" unit="chars"/></l>
+               <l n="201"><lb n="4"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>oh</orig><reg>noh</reg></choice></w><w>von</w><w>so</w><w>ſtark<damage ana="hc:CutOff">e</damage></w><gap ana="hc:CutOff"/></l>
+               <l n="202"><lb n="5"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>ſi</w><w><choice><orig>mvge</orig><reg>muge</reg></choice></w><w><choice><abbr>gew<am>ī</am></abbr><expan>gew<ex>in</ex></expan></choice></w><gap ana="hc:CutOff" extent="2" unit="chars"/></l>
             </lg>
             <lg>
-               <l n="203"><lb n="6"/><w><choice><orig>Des</orig><reg>des</reg></choice></w><w>ſint</w><w>ir</w><w>iemer</w><w>v<damage ana="hc:CutOff">n</damage></w><gap ana="hc:CutOff"/></l>
-               <l n="204"><lb n="7"/><w><choice><orig>Got</orig><reg>got</reg></choice></w><w join="right">en</w><w join="left">welle</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arz</w><gap ana="hc:CutOff"/></l>
+               <l n="203"><lb n="6"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>es</orig><reg>des</reg></choice></w><w>ſint</w><w>ir</w><w>iemer</w><w>v<damage ana="hc:CutOff">n</damage></w><gap ana="hc:CutOff"/></l>
+               <l n="204"><lb n="7"/><w><choice><orig><hi rendition="hc:RedStroke">G</hi>ot</orig><reg>got</reg></choice></w><w join="right">en</w><w join="left">welle</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arz</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
                <l n="205"><lb n="8"/><label ana="hc:ParagraphSign">¶</label><w>Do</w><w>ſprah</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arme</w><w>he</w><gap ana="hc:CutOff"/></l>
-               <l n="206"><lb n="9"/><w join="right">War</w><w join="left"><choice><orig><choice><sic>vmde</sic><corr resp="editor">vmbe</corr></choice></orig><reg>umbe</reg></choice></w><w><choice><orig>vntro</orig><reg>untro</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="206"><lb n="9"/><pc ana="editorial">›</pc><w join="right"><choice><orig><hi rendition="hc:RedStroke">W</hi>ar</orig><reg><hi rendition="hc:RedStroke">w</hi>ar</reg></choice></w><w join="left"><choice><orig><choice><sic>vmde</sic><corr resp="editor">vmbe</corr></choice></orig><reg>umbe</reg></choice></w><w><choice><orig>vntro</orig><reg>untro</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="207"><lb n="10"/><w><choice><orig>Joch</orig><reg>joch</reg></choice></w><w>han</w><w>ich</w><w><choice><orig>gvͦteſ</orig><reg>guoteſ</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="208"><lb n="11"/><w join="right"><choice><orig>Jr</orig><reg>ir</reg></choice></w><w join="left">ne</w><w><choice><abbr>well<am>ē</am>t</abbr><expan>well<ex>en</ex>t</expan></choice></w><w><choice><abbr>d<am>ā</am>ne</abbr><expan>d<ex>an</ex>ne</expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="207"><lb n="10"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>och</orig><reg>joch</reg></choice></w><w>han</w><w>ich</w><w><choice><orig>gvͦteſ</orig><reg>guoteſ</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="208"><lb n="11"/><w join="right"><choice><orig><hi rendition="hc:RedStroke">J</hi>r</orig><reg>ir</reg></choice></w><w join="left">ne</w><w><choice><abbr>well<am>ē</am>t</abbr><expan>well<ex>en</ex>t</expan></choice></w><w><choice><abbr>d<am>ā</am>ne</abbr><expan>d<ex>an</ex>ne</expan></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="209"><lb n="12"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>iͮwer</orig><reg>iuwer</reg></choice></w><w>reht</w><w>bre</w><gap ana="hc:CutOff"/></l>
-               <l n="210"><lb n="13"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>da</w><w><choice><orig>zvͦ</orig><reg>zuo</reg></choice></w><w><choice><abbr><am>v͛</am>ſpreche</abbr><expan><ex>ver</ex>ſpreche</expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="209"><lb n="12"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>iͮwer</orig><reg>iuwer</reg></choice></w><w>reht</w><w>bre</w><gap ana="hc:CutOff"/></l>
+               <l n="210"><lb n="13"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>da</w><w><choice><orig>zvͦ</orig><reg>zuo</reg></choice></w><w><choice><abbr><am>v͛</am>ſpreche</abbr><expan><ex>ver</ex>ſpreche</expan></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="211"><lb n="14"/><w><choice><orig>Min</orig><reg>min</reg></choice></w><w><choice><abbr>ſil<am>b͛</am></abbr><expan>ſil<ex>ber</ex></expan></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>min</w><w>g</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
-               <l n="212"><lb n="15"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>mache</w><w>ich</w><w><choice><orig>ivch</orig><reg>iuch</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="211"><lb n="14"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>in</orig><reg>min</reg></choice></w><w><choice><abbr>ſil<am>b͛</am></abbr><expan>ſil<ex>ber</ex></expan></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>min</w><w>g</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
+               <l n="212"><lb n="15"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w>mache</w><w>ich</w><w><choice><orig>ivch</orig><reg>iuch</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="213"><lb n="16"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>ir</w><w>mich</w><w>harte</w><gap ana="hc:CutOff"/></l>
-               <l n="214"><lb n="17"/><pc ana="editorial">›</pc><w><choice><orig>Mir</orig><reg>mir</reg></choice></w><w>were</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>will</w><damage ana="hc:CutOff">e</damage><gap ana="hc:CutOff"/></l>
+               <l n="213"><lb n="16"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>az</orig><reg>daz</reg></choice></w><w>ir</w><w>mich</w><w>harte</w><gap ana="hc:CutOff"/></l>
+               <l n="214"><lb n="17"/><pc ana="editorial">›</pc><w><choice><orig><hi rendition="hc:RedStroke">M</hi>ir</orig><reg>mir</reg></choice></w><w>were</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>will</w><damage ana="hc:CutOff">e</damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="215"><lb n="18"/><w><choice><orig>Sprah</orig><reg>sprah</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><abbr>meiſ<am>t͛</am></abbr><expan>meiſ<ex>ter</ex></expan></choice></w><w><choice><abbr>a<am>b͛</am></abbr><expan>a<ex>ber</ex></expan></choice></w><w>d</w><gap ana="hc:CutOff" extent="1" unit="chars"/></l>
-               <l n="216"><lb n="19"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>were</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>erzen</w><gap ana="hc:CutOff"/></l>
+               <l n="215"><lb n="18"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>prah</orig><reg>sprah</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w><choice><abbr>meiſ<am>t͛</am></abbr><expan>meiſ<ex>ter</ex></expan></choice></w><w><choice><abbr>a<am>b͛</am></abbr><expan>a<ex>ber</ex></expan></choice></w><w>d</w><gap ana="hc:CutOff" extent="1" unit="chars"/></l>
+               <l n="216"><lb n="19"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>were</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>erzen</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="217"><lb n="20"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>man</w><w>ſi</w><w>veile</w><w>vu</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
-               <l n="218"><lb n="21"/><w><choice><orig><choice><abbr>O<am>d͛</am></abbr><expan>O<ex>der</ex></expan></choice></orig><reg>oder</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>man</w><w>ſi</w><w>kv</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
+               <l n="217"><lb n="20"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>man</w><w>ſi</w><w>veile</w><w>vu</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
+               <l n="218"><lb n="21"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">O</hi><am>d͛</am></abbr><expan>O<ex>der</ex></expan></choice></orig><reg>oder</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>man</w><w>ſi</w><w>kv</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
             </lg>
             <lg>
-               <l n="219"><lb n="22"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>deheime</w><w>liſte</w><gap ana="hc:CutOff"/></l>
-               <l n="220"><lb n="23"/><w><choice><orig>Jch</orig><reg>ich</reg></choice></w><w join="right">in</w><w join="left">lieze</w><w><choice><orig>ivch</orig><reg>iuch</reg></choice></w><damage ana="hc:CutOff"><w>n</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="219"><lb n="22"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w>deheime</w><w>liſte</w><gap ana="hc:CutOff"/></l>
+               <l n="220"><lb n="23"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>ch</orig><reg>ich</reg></choice></w><w join="right">in</w><w join="left">lieze</w><w><choice><orig>ivch</orig><reg>iuch</reg></choice></w><damage ana="hc:CutOff"><w>n</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="221"><lb n="24"/><w><choice><orig>Nv</orig><reg>nu</reg></choice></w><w join="right">en</w><w join="left">mac</w><w>deſ</w><w>alle</w><gap ana="hc:CutOff"/></l>
-               <l n="222"><lb n="25"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>von</w><w><choice><orig>mvͦz</orig><reg>muoz</reg></choice></w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w>d</w><gap ana="hc:CutOff"/></l>
+               <l n="221"><lb n="24"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig><reg>nu</reg></choice></w><w join="right">en</w><w join="left">mac</w><w>deſ</w><w>alle</w><gap ana="hc:CutOff"/></l>
+               <l n="222"><lb n="25"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>a</orig><reg>da</reg></choice></w><w>von</w><w><choice><orig>mvͦz</orig><reg>muoz</reg></choice></w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w>d</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="223"><lb n="26"/><w><choice><orig>Dvrh</orig><reg>durh</reg></choice></w><w>alle</w><w>not</w><w>ſin</w><w><choice><orig>v͛</orig><reg>ver</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="224"><lb n="27"/><w><choice><orig>Jr</orig><reg>ir</reg></choice></w><w><choice><orig>muͤzent</orig><reg>müzent</reg></choice></w><w>han</w><w>e</w><gap ana="hc:CutOff"/></l>
+               <l n="223"><lb n="26"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>vrh</orig><reg>durh</reg></choice></w><w>alle</w><w>not</w><w>ſin</w><w><choice><orig>v͛</orig><reg>ver</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="224"><lb n="27"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>r</orig><reg>ir</reg></choice></w><w><choice><orig>muͤzent</orig><reg>müzent</reg></choice></w><w>han</w><w>e</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="225"><lb n="28"/><w><choice><orig>Div</orig><reg>diu</reg></choice></w><w>volle</w><w>manbere</w><pc>·</pc></l>
-               <l n="226"><lb n="29"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>deſ</w><w>willen</w><w>we</w><gap ana="hc:CutOff" extent="2" unit="chars"/></l>
+               <l n="225"><lb n="28"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>diu</reg></choice></w><w>volle</w><w>manbere</w><pc>·</pc></l>
+               <l n="226"><lb n="29"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>deſ</w><w>willen</w><w>we</w><gap ana="hc:CutOff" extent="2" unit="chars"/></l>
             </lg>
             <lg>
-               <l n="227"><lb n="30"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><w>den</w><w>tot</w><w><choice><orig>dvr</orig><reg>dur</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="228"><lb n="31"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>en</w><w>iſt</w><w>ez</w><w>nit</w><damage ana="hc:CutOff"><w>d</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="227"><lb n="30"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><w>den</w><w>tot</w><w><choice><orig>dvr</orig><reg>dur</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="228"><lb n="31"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w>en</w><w>iſt</w><w>ez</w><w>nit</w><damage ana="hc:CutOff"><w>d</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="229"><lb n="32"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>ez</w><w>ieman</w><w>ger</w><gap ana="hc:CutOff"/></l>
-               <l n="230"><lb n="33"/><w join="right"><choice><orig>So</orig><reg>so</reg></choice></w><w join="left">ne</w><w>hort</w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>an</w><gap ana="hc:CutOff"/></l>
+               <l n="229"><lb n="32"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>az</orig><reg>daz</reg></choice></w><w>ez</w><w>ieman</w><w>ger</w><gap ana="hc:CutOff"/></l>
+               <l n="230"><lb n="33"/><w join="right"><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w join="left">ne</w><w>hort</w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>an</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="231"><lb n="34"/><w><choice><orig>Niwan</orig><reg>niwan</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>magede</w><gap ana="hc:CutOff"/></l>
-               <l n="232"><lb n="35"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>were</w><w><choice><orig>fvr</orig><reg>fur</reg></choice></w><w><choice><orig>iͮw</orig><reg>iuw</reg></choice></w><gap ana="hc:CutOff"/><pc ana="editorial">.‹</pc></l>
+               <l n="231"><lb n="34"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>iwan</orig><reg>niwan</reg></choice></w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>magede</w><gap ana="hc:CutOff"/></l>
+               <l n="232"><lb n="35"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>were</w><w><choice><orig>fvr</orig><reg>fur</reg></choice></w><w><choice><orig>iͮw</orig><reg>iuw</reg></choice></w><gap ana="hc:CutOff"/><pc ana="editorial">.‹</pc></l>
             </lg>
             <lg>
-               <l n="233"><lb n="36"/><label ana="hc:ParagraphSign">¶</label><w><choice><orig>Nv</orig><reg>Nu</reg></choice></w><w>erkande</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arme</w><gap ana="hc:CutOff"/></l>
-               <l n="234"><lb n="37"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ez</w><w>were</w><w><choice><orig>vnm</orig><reg>unm</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="233"><lb n="36"/><label ana="hc:ParagraphSign">¶</label><w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig><reg>Nu</reg></choice></w><w>erkande</w><w><choice><abbr><am>d͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>arme</w><gap ana="hc:CutOff"/></l>
+               <l n="234"><lb n="37"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ez</w><w>were</w><w><choice><orig>vnm</orig><reg>unm</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="235"><lb n="38"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ieman</w><w>den</w><w>erw</w><gap ana="hc:CutOff" extent="4" unit="chars"/></l>
-               <l n="236"><lb n="39"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>gerne</w><w><choice><orig>fvr</orig><reg>fur</reg></choice></w><w>in</w><w>ſ</w><gap ana="hc:CutOff" extent="5" unit="chars"/></l>
+               <l n="235"><lb n="38"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ieman</w><w>den</w><w>erw</w><gap ana="hc:CutOff" extent="4" unit="chars"/></l>
+               <l n="236"><lb n="39"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>er</orig><reg>der</reg></choice></w><w>gerne</w><w><choice><orig>fvr</orig><reg>fur</reg></choice></w><w>in</w><w>ſ</w><gap ana="hc:CutOff" extent="5" unit="chars"/></l>
             </lg>
             <lg>
-               <l n="237"><lb n="40"/><w><choice><orig>Alſus</orig><reg>alſus</reg></choice></w><w>was</w><w>im</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>tr</w><gap ana="hc:CutOff"/></l>
-               <l n="238"><lb n="41"/><w><choice><orig>Vf</orig><reg>uf</reg></choice></w><w>den</w><w>er</w><w>waſ</w><w>da</w><gap ana="hc:CutOff"/></l>
+               <l n="237"><lb n="40"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>lſus</orig><reg>alſus</reg></choice></w><w>was</w><w>im</w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>tr</w><gap ana="hc:CutOff"/></l>
+               <l n="238"><lb n="41"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>f</orig><reg>uf</reg></choice></w><w>den</w><w>er</w><w>waſ</w><w>da</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="239"><lb n="42"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>vur</w><w>die</w><w>ſ</w><gap ana="hc:CutOff"/></l>
-               <l n="240"><lb n="43"/><w join="right"><choice><orig>So</orig><reg>so</reg></choice></w><w join="left">ne</w><w>het</w><w>er</w><w>ze</w><w>ſin</w><gap ana="hc:CutOff"/></l>
+               <l n="239"><lb n="42"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>vur</w><w>die</w><w>ſ</w><gap ana="hc:CutOff"/></l>
+               <l n="240"><lb n="43"/><w join="right"><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w join="left">ne</w><w>het</w><w>er</w><w>ze</w><w>ſin</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="241"><lb n="44"/><w><choice><orig>Dehein</orig><reg>dehein</reg></choice></w><w>gedinge</w><w>m</w><gap ana="hc:CutOff"/></l>
-               <l n="242"><lb n="45"/><w><choice><orig>Ez</orig><reg>ez</reg></choice></w><w>wart</w><w>ſin</w><w><choice><abbr>bit<am>t ͛</am></abbr><expan>bit<ex>ter</ex></expan></choice></w><w>h</w><gap ana="hc:CutOff"/></l>
+               <l n="241"><lb n="44"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ehein</orig><reg>dehein</reg></choice></w><w>gedinge</w><w>m</w><gap ana="hc:CutOff"/></l>
+               <l n="242"><lb n="45"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>z</orig><reg>ez</reg></choice></w><w>wart</w><w>ſin</w><w><choice><abbr>bit<am>t ͛</am></abbr><expan>bit<ex>ter</ex></expan></choice></w><w>h</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="243"><lb n="46"/><w><choice><orig>Also</orig><reg>also</reg></choice></w><w>creftic</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſo</w><w>g</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
-               <l n="244"><lb n="47"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>in</w><w>deſ</w><w>aller</w><w>m</w><gap ana="hc:CutOff"/></l>
+               <l n="243"><lb n="46"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>lso</orig><reg>also</reg></choice></w><w>creftic</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſo</w><w>g</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
+               <l n="244"><lb n="47"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>in</w><w>deſ</w><w>aller</w><w>m</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="245"><lb n="48"/><w><choice><orig>Ob</orig><reg>ob</reg></choice></w><w>er</w><w>lange</w><w>ſolte</w><w>l</w><gap ana="hc:CutOff" extent="4" unit="chars"/></l>
-               <l n="246"><lb n="49"/><w><choice><orig>Nv</orig><reg>nu</reg></choice></w><w><choice><orig>fvͦr</orig><reg>fuor</reg></choice></w><w>er</w><w>hein</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="245"><lb n="48"/><w><choice><orig><hi rendition="hc:RedStroke">O</hi>b</orig><reg>ob</reg></choice></w><w>er</w><w>lange</w><w>ſolte</w><w>l</w><gap ana="hc:CutOff" extent="4" unit="chars"/></l>
+               <l n="246"><lb n="49"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig><reg>nu</reg></choice></w><w><choice><orig>fvͦr</orig><reg>fuor</reg></choice></w><w>er</w><w>hein</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="247"><lb n="50"/><w><choice><orig>Sin</orig><reg>sin</reg></choice></w><w>erbe</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><abbr>var<am>ē</am><damage ana="hc:CutOff">d</damage></abbr><expan>var<ex>en</ex><damage ana="hc:CutOff">d</damage></expan></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="248"><lb n="51"/><w><choice><orig>Dar</orig><reg>dar</reg></choice></w><w>nach</w><w>alſe</w><w>in</w><gap ana="hc:CutOff"/></l>
+               <l n="247"><lb n="50"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>in</orig><reg>sin</reg></choice></w><w>erbe</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><abbr>var<am>ē</am><damage ana="hc:CutOff">d</damage></abbr><expan>var<ex>en</ex><damage ana="hc:CutOff">d</damage></expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="248"><lb n="51"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ar</orig><reg>dar</reg></choice></w><w>nach</w><w>alſe</w><w>in</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="249"><lb n="52"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wiſer</w><w>rat</w><w>ler</w><gap ana="hc:CutOff" extent="2" unit="chars"/></l>
-               <l n="250"><lb n="53"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w join="right">er</w><w join="left">z</w><w>aller</w><w>beſt</w><gap ana="hc:CutOff"/></l>
+               <l n="249"><lb n="52"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wiſer</w><w>rat</w><w>ler</w><gap ana="hc:CutOff" extent="2" unit="chars"/></l>
+               <l n="250"><lb n="53"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>a</orig><reg>da</reg></choice></w><w join="right">er</w><w join="left">z</w><w>aller</w><w>beſt</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="251"><lb n="54"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w><choice><orig>begvnde</orig><reg>begunde</reg></choice></w><w>beschei</w><gap ana="hc:CutOff"/></l>
-               <l n="252"><lb n="55"/><w><choice><orig>Sine</orig><reg>sine</reg></choice></w><w>arme</w><w><choice><orig>friv</orig><reg>friu</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="251"><lb n="54"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>r</orig><reg>er</reg></choice></w><w><choice><orig>begvnde</orig><reg>begunde</reg></choice></w><w>beschei</w><gap ana="hc:CutOff"/></l>
+               <l n="252"><lb n="55"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>ine</orig><reg>sine</reg></choice></w><w>arme</w><w><choice><orig>friv</orig><reg>friu</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="253"><lb n="56"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>troſte</w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>fre<damage ana="hc:CutOff">m</damage></w><gap ana="hc:CutOff"/></l>
-               <l n="254"><lb n="57"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>ſich</w><w>got</w><w>erba</w><gap ana="hc:CutOff" extent="4" unit="chars"/></l>
+               <l n="253"><lb n="56"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>troſte</w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>fre<damage ana="hc:CutOff">m</damage></w><gap ana="hc:CutOff"/></l>
+               <l n="254"><lb n="57"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>az</orig><reg>daz</reg></choice></w><w>ſich</w><w>got</w><w>erba</w><gap ana="hc:CutOff" extent="4" unit="chars"/></l>
             </lg>
             <lg>
-               <l n="255"><lb n="58"/><w><choice><orig>Gervͦhte</orig><reg>geruohte</reg></choice></w><w><choice><orig><choice><abbr>v<am>b ͛</am></abbr><expan>v<ex>ber</ex></expan></choice></orig><reg>uber</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>ſele</w><w>h</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
+               <l n="255"><lb n="58"/><w><choice><orig><hi rendition="hc:RedStroke">G</hi>ervͦhte</orig><reg>geruohte</reg></choice></w><w><choice><orig><choice><abbr>v<am>b ͛</am></abbr><expan>v<ex>ber</ex></expan></choice></orig><reg>uber</reg></choice></w><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w><w>ſele</w><w>h</w><gap ana="hc:CutOff" extent="3" unit="chars"/></l>
             </lg>
             <pb n="10r"/>
             <cb n="c"/>
@@ -519,115 +529,115 @@
                <l n="1097"><lb n="55"/><gap ana="hc:CutOff"/><w>z</w><w>geſchehen</w><pc>·</pc></l>
                <pb n="10v"/>
                <cb n="a"/>
-               <l n="1098"><lb n="1"/><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ich</w><w>ez</w><w><choice><orig>tvͦ</orig><reg>tuo</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1098"><lb n="1"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">d</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ich</w><w>ez</w><w><choice><orig>tvͦ</orig><reg>tuo</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1099"><lb n="2"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>habe</w><w>ich</w><gap ana="hc:CutOff"/></l>
-               <l n="1100"><lb n="3"/><w>Swie</w><w>we</w><w>e</w><gap ana="hc:CutOff"/></l>
+               <l n="1099"><lb n="2"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>a</orig><reg>da</reg></choice></w><w>habe</w><w>ich</w><gap ana="hc:CutOff"/></l>
+               <l n="1100"><lb n="3"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>wie</orig><reg>swie</reg></choice></w><w>we</w><w>e</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
                <l n="1101"><lb n="4"/><w><choice><reg><damage>Ger</damage>iwet</reg><reg><damage>ger</damage>iwet</reg></choice></w><w>ez</w><w>d</w><gap ana="hc:CutOff"/></l>
-               <l n="1102"><lb n="5"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>habe</w><w>ich</w><gap ana="hc:CutOff"/></l>
+               <l n="1102"><lb n="5"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>o</orig><reg>so</reg></choice></w><w>habe</w><w>ich</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1103"><lb n="6"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig><damage>d</damage>v</orig><reg><damage>d</damage>u</reg></choice></w><w>den</w><w>li</w><gap ana="hc:CutOff"/></l>
-               <l n="1104"><lb n="7"/><damage ana="hc:RubbedOff"><w><choice><orig>Vil</orig><reg>vil</reg></choice></w></damage><w><choice><orig>tivre</orig><reg>tiure</reg></choice></w><w>w</w><gap ana="hc:CutOff"/></l>
+               <l n="1103"><lb n="6"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig><damage>d</damage>v</orig><reg><damage>d</damage>u</reg></choice></w><w>den</w><w>li</w><gap ana="hc:CutOff"/></l>
+               <l n="1104"><lb n="7"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">V</hi>il</orig><reg>vil</reg></choice></w></damage><w><choice><orig>tivre</orig><reg>tiure</reg></choice></w><w>w</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1105"><lb n="8"/><damage ana="hc:RubbedOff"><w><choice><orig>Siv</orig><reg>siu</reg></choice></w></damage><w>erkande</w><gap ana="hc:CutOff"/></l>
-               <l n="1106"><lb n="9"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w></damage><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><w>ſich</w><damage><w>e</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1105"><lb n="8"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">S</hi>iv</orig><reg>siu</reg></choice></w></damage><w>erkande</w><gap ana="hc:CutOff"/></l>
+               <l n="1106"><lb n="9"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w></damage><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><w>ſich</w><damage><w>e</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1107"><lb n="10"/><label ana="hc:ParagraphSign">¶</label><w><choice><orig>Div</orig><reg>Diu</reg></choice></w><w>maget</w><gap ana="hc:CutOff"/></l>
-               <l n="1108"><lb n="11"/><w><choice><orig>Wande</orig><reg>wande</reg></choice></w><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1107"><lb n="10"/><label ana="hc:ParagraphSign">¶</label><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>Diu</reg></choice></w><w>maget</w><gap ana="hc:CutOff"/></l>
+               <l n="1108"><lb n="11"/><w><choice><orig><hi rendition="hc:RedStroke">W</hi>ande</orig><reg>wande</reg></choice></w><w><choice><orig>ſiv</orig><reg>ſiu</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1109"><lb n="12"/><w><choice><orig>Jr</orig><reg>ir</reg></choice></w><damage ana="hc:RubbedOff"><w>hvl</w></damage><gap ana="hc:Illegible" extent="2" unit="chars"/><w>des</w><gap ana="hc:CutOff"/></l>
+               <l n="1109"><lb n="12"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>r</orig><reg>ir</reg></choice></w><damage ana="hc:RubbedOff"><w>hvl</w></damage><gap ana="hc:Illegible" extent="2" unit="chars"/><w>des</w><gap ana="hc:CutOff"/></l>
                <l n="1110"><lb n="13"/><gap ana="hc:Illegible" extent="3" unit="chars"/><w>er</w><w>werl</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1111"><lb n="14"/><w><choice><orig>Got</orig><reg>got</reg></choice></w><w>lone</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w>l</w><gap ana="hc:CutOff"/></l>
-               <l n="1112"><lb n="15"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ir</w></damage><w>mir</w><w>a</w><gap ana="hc:CutOff"/></l>
+               <l n="1111"><lb n="14"/><w><choice><orig><hi rendition="hc:RedStroke">G</hi>ot</orig><reg>got</reg></choice></w><w>lone</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w><w>l</w><gap ana="hc:CutOff"/></l>
+               <l n="1112"><lb n="15"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ir</w></damage><w>mir</w><w>a</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1113"><lb n="16"/><damage><w><choice><orig>Die</orig><reg>die</reg></choice></w></damage><w><damage>war</damage>heit</w><gap ana="hc:CutOff"/></l>
-               <l n="1114"><lb n="17"/><damage><w><choice><orig>Entriwen</orig><reg>entriwen</reg></choice></w></damage><w>i</w><gap ana="hc:CutOff"/></l>
+               <l n="1113"><lb n="16"/><damage><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w></damage><w><damage>war</damage>heit</w><gap ana="hc:CutOff"/></l>
+               <l n="1114"><lb n="17"/><damage><w><choice><orig><hi rendition="hc:RedStroke">E</hi>ntriwen</orig><reg>entriwen</reg></choice></w></damage><w>i</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1114a"><lb n="18"/><damage ana="hc:RubbedOff"><w><choice><orig>Ich</orig><reg>ich</reg></choice></w><gap ana="hc:Illegible" extent="2" unit="chars"/><w>mag</w></damage><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1114a"><lb n="18"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">I</hi>ch</orig><reg>ich</reg></choice></w><gap ana="hc:Illegible" extent="2" unit="chars"/><w>mag</w></damage><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
                <l n="1114b"><lb n="19"/><gap ana="hc:Illegible" extent="3" unit="chars"/><damage ana="hc:RubbedOff"><w><choice><orig>tvt</orig><reg>tut</reg></choice></w></damage><w>ein</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1115"><lb n="20"/><damage ana="hc:RubbedOff"><w><choice><orig>Mir</orig><reg>mir</reg></choice></w><w>iſt</w><w>ein</w></damage><w>z</w><gap ana="hc:CutOff"/></l>
-               <l n="1116"><lb n="21"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><damage ana="hc:RubbedOff"><w>wil</w></damage><w>ich</w><gap ana="hc:CutOff"/></l>
+               <l n="1115"><lb n="20"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">M</hi>ir</orig><reg>mir</reg></choice></w><w>iſt</w><w>ein</w></damage><w>z</w><gap ana="hc:CutOff"/></l>
+               <l n="1116"><lb n="21"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><damage ana="hc:RubbedOff"><w>wil</w></damage><w>ich</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1117"><lb n="22"/><damage ana="hc:RubbedOff"><w><choice><orig>Des</orig><reg>des</reg></choice></w><w>ich</w></damage><w><choice><orig>nv</orig><reg>nu</reg></choice></w><w>g</w><gap ana="hc:CutOff"/></l>
-               <l n="1118"><lb n="23"/><damage ana="hc:RubbedOff"><w><choice><orig>Wie</orig><reg>wie</reg></choice></w><damage><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w></damage> zwiv</damage><gap ana="hc:CutOff"/></l>
+               <l n="1117"><lb n="22"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">D</hi>es</orig><reg>des</reg></choice></w><w>ich</w></damage><w><choice><orig>nv</orig><reg>nu</reg></choice></w><w>g</w><gap ana="hc:CutOff"/></l>
+               <l n="1118"><lb n="23"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">W</hi>ie</orig><reg>wie</reg></choice></w><damage><w><choice><abbr><am>d ͛</am></abbr><expan><ex>der</ex></expan></choice></w></damage> zwiv</damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1119"><lb n="24"/><w><choice><orig>Jch</orig><reg>ich</reg></choice></w><damage ana="hc:RubbedOff"><w><choice><orig>fvrhte</orig><reg>furhte</reg></choice></w></damage><pc ana="editorial">,</pc><w>d<damage>c</damage></w><gap ana="hc:CutOff"/></l>
-               <l n="1120"><lb n="25"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w><choice><orig><choice><abbr>iv<am>w͛</am>re</abbr><expan>iv<ex>wer</ex>re</expan></choice></orig><reg>iuwerre</reg></choice></w><w>z</w><gap ana="hc:CutOff"/></l>
+               <l n="1119"><lb n="24"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>ch</orig><reg>ich</reg></choice></w><damage ana="hc:RubbedOff"><w><choice><orig>fvrhte</orig><reg>furhte</reg></choice></w></damage><pc ana="editorial">,</pc><w>d<damage>c</damage></w><gap ana="hc:CutOff"/></l>
+               <l n="1120"><lb n="25"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w><choice><orig><choice><abbr>iv<am>w͛</am>re</abbr><expan>iv<ex>wer</ex>re</expan></choice></orig><reg>iuwerre</reg></choice></w><w>z</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1121"><lb n="26"/><w><choice><orig><choice><abbr>Vn<am>d ͛</am></abbr><expan>Vn<ex>der</ex></expan></choice></orig><reg>under</reg></choice></w><w>wegen</w><damage><w>ḅ</w></damage><gap ana="hc:CutOff"/></l>
-               <l n="1122"><lb n="27"/><w><choice><orig>Jvwer</orig><reg>iuwer</reg></choice></w><w>rede</w><w>z</w><gap ana="hc:CutOff"/></l>
+               <l n="1121"><lb n="26"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi>n<am>d ͛</am></abbr><expan>Vn<ex>der</ex></expan></choice></orig><reg>under</reg></choice></w><w>wegen</w><damage><w>ḅ</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1122"><lb n="27"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>vwer</orig><reg>iuwer</reg></choice></w><w>rede</w><w>z</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1123"><lb n="28"/><w><choice><orig>Jr</orig><reg>ir</reg></choice></w><w>ſit</w><w>des</w><w>haſ</w><gap ana="hc:CutOff"/></l>
-               <l n="1124"><lb n="29"/><w><choice><orig>Ivwer</orig><reg>iuwer</reg></choice></w><w>ange</w><gap ana="hc:CutOff"/></l>
+               <l n="1123"><lb n="28"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>r</orig><reg>ir</reg></choice></w><w>ſit</w><w>des</w><w>haſ</w><gap ana="hc:CutOff"/></l>
+               <l n="1124"><lb n="29"/><w><choice><orig><hi rendition="hc:RedStroke">I</hi>vwer</orig><reg>iuwer</reg></choice></w><w>ange</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1125"><lb n="30"/><w><choice><orig>Dar</orig><reg>dar</reg></choice></w><w><choice><orig>vmbe</orig><reg>umbe</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="1126"><lb n="31"/><w>Deſ</w><w>war</w><w join="right">ir</w><w join="left">n</w><gap ana="hc:CutOff"/></l>
+               <l n="1125"><lb n="30"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ar</orig><reg>dar</reg></choice></w><w><choice><orig>vmbe</orig><reg>umbe</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1126"><lb n="31"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>eſ</orig><reg>deſ</reg></choice></w><w>war</w><w join="right">ir</w><w join="left">n</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1127"><lb n="32"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr>Jv<am>w͛</am>e</abbr><expan>Iv<ex>wer</ex>e</expan></choice></orig><reg>iuwere</reg></choice></w><w>groze</w> m</damage><gap ana="hc:CutOff"/></l>
-               <l n="1128"><lb n="33"/><damage ana="hc:RubbedOff"><w><choice><orig>Jc</orig><reg>ic</reg></choice>h</w></damage><gap ana="hc:Illegible" extent="4" unit="chars"/><damage ana="hc:RubbedOff"><w>ein</w><w>w</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1127"><lb n="32"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">J</hi>v<am>w͛</am>e</abbr><expan>Iv<ex>wer</ex>e</expan></choice></orig><reg>iuwere</reg></choice></w><w>groze</w> m</damage><gap ana="hc:CutOff"/></l>
+               <l n="1128"><lb n="33"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">J</hi>c</orig><reg>ic</reg></choice>h</w></damage><gap ana="hc:Illegible" extent="4" unit="chars"/><damage ana="hc:RubbedOff"><w>ein</w><w>w</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
                <l n="1129"><lb n="34"/><gap ana="hc:Illegible" extent="5" unit="chars"/><damage ana="hc:RubbedOff"><w><choice><abbr>r<am>ē</am>t</abbr><expan>r<ex>en</ex>t</expan></choice></w></damage><w>ir</w><w>m</w><gap ana="hc:CutOff"/></l>
-               <l n="1130"><lb n="35"/><damage ana="hc:RubbedOff"><w><choice><orig>Jch</orig><reg>ich</reg></choice></w></damage><w><damage>ge</damage>tar</w><w>ez</w><gap ana="hc:CutOff"/></l>
+               <l n="1130"><lb n="35"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">J</hi>ch</orig><reg>ich</reg></choice></w></damage><w><damage>ge</damage>tar</w><w>ez</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
                <l n="1130e"><lb n="36"/><label ana="hc:ParagraphSign">¶</label><damage ana="hc:RubbedOff">Den</damage><w><gap ana="hc:Illegible" extent="3" unit="chars"/><damage ana="hc:RubbedOff">mmek</damage>lic</w><gap ana="hc:CutOff"/></l>
-               <l n="1130f"><lb n="37"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w></damage><w>die</w><w>ang</w><gap ana="hc:CutOff"/></l>
+               <l n="1130f"><lb n="37"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w></damage><w>die</w><w>ang</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1131"><lb n="38"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w></damage><w>die</w><w>miſlic</w><gap ana="hc:CutOff"/></l>
-               <l n="1132"><lb n="39"/><damage ana="hc:RubbedOff"><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>ir</w></damage><w>mir</w><w>v</w><gap ana="hc:CutOff"/></l>
+               <l n="1131"><lb n="38"/><damage ana="hc:RubbedOff"><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w></damage><w>die</w><w>miſlic</w><gap ana="hc:CutOff"/></l>
+               <l n="1132"><lb n="39"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>ir</w></damage><w>mir</w><w>v</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1133"><lb n="40"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>habe</w><w>ich</w><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
-               <l n="1134"><lb n="41"/><w><choice><orig>Jch</orig><reg>ich</reg></choice></w><w join="right">en</w><w join="left">were</w><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1133"><lb n="40"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>habe</w><w>ich</w><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1134"><lb n="41"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>ch</orig><reg>ich</reg></choice></w><w join="right">en</w><w join="left">were</w><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1135"><lb n="42"/><w><choice><orig><choice><abbr>W<am>ā</am></abbr><expan>W<ex>an</ex></expan></choice></orig><reg>wan</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ich</w><w>mi<damage ana="hc:RubbedOff">ch</damage></w><gap ana="hc:CutOff"/></l>
-               <l n="1136"><lb n="43"/><w><choice><orig>Des</orig><reg>des</reg></choice></w><w><choice><abbr><am>h͛</am>zen</abbr><expan><ex>her</ex>zen</expan></choice></w><damage><w>alſo</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1135"><lb n="42"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">W</hi><am>ā</am></abbr><expan><hi rendition="hc:RedStroke">W</hi><ex>an</ex></expan></choice></orig><reg>wan</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ich</w><w>mi<damage ana="hc:RubbedOff">ch</damage></w><gap ana="hc:CutOff"/></l>
+               <l n="1136"><lb n="43"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>es</orig><reg>des</reg></choice></w><w><choice><abbr><am>h͛</am>zen</abbr><expan><ex>her</ex>zen</expan></choice></w><damage><w>alſo</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1137"><lb n="44"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ich</w><w>ez</w><w>wol</w><gap ana="hc:CutOff"/></l>
-               <l n="1138"><lb n="45"/><damage ana="hc:RubbedOff"><w><choice><orig>Mir</orig><reg>mir</reg></choice></w><w>ist</w><w>bi</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1137"><lb n="44"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ich</w><w>ez</w><w>wol</w><gap ana="hc:CutOff"/></l>
+               <l n="1138"><lb n="45"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">M</hi>ir</orig><reg>mir</reg></choice></w><w>ist</w><w>bi</w><w><choice><orig>iv</orig><reg>iu</reg></choice></w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1139"><lb n="46"/><w><choice><orig>Div</orig><reg>diu</reg></choice></w><w>brode</w><w>vor</w><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
-               <l n="1140"><lb n="47"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ein</w><w>ſo</w><w>veſ</w><gap ana="hc:CutOff"/></l>
+               <l n="1139"><lb n="46"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>diu</reg></choice></w><w>brode</w><w>vor</w><gap ana="hc:Illegible" extent="1" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1140"><lb n="47"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ein</w><w>ſo</w><w>veſ</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1141"><lb n="48"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ich</w><w>alſ</w><damage><w>ange</w></damage><gap ana="hc:CutOff"/></l>
-               <l n="1142"><lb n="49"/><w>Alſ</w><w>ich</w><w>ze</w><gap ana="hc:Illegible" extent="2" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1141"><lb n="48"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ich</w><w>alſ</w><damage><w>ange</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1142"><lb n="49"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>lſ</orig><reg>alſ</reg></choice></w><w>ich</w><w>ze</w><gap ana="hc:Illegible" extent="2" unit="chars"/><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1143"><lb n="50"/><damage ana="hc:RubbedOff"><w><choice><orig>Wan</orig><reg>wan</reg></choice></w><w join="right">en</w><w join="left">kein</w><w>n</w></damage><gap ana="hc:CutOff"/></l>
-               <l n="1144"><lb n="51"/><damage ana="hc:RubbedOff"><w><choice><orig>Div</orig><reg>diu</reg></choice></w></damage><gap ana="hc:Illegible" extent="1" unit="chars"/><damage ana="hc:RubbedOff"><w>ich</w></damage><gap ana="hc:Illegible" extent="2" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1143"><lb n="50"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">W</hi>an</orig><reg>wan</reg></choice></w><w join="right">en</w><w join="left">kein</w><w>n</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1144"><lb n="51"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>diu</reg></choice></w></damage><gap ana="hc:Illegible" extent="1" unit="chars"/><damage ana="hc:RubbedOff"><w>ich</w></damage><gap ana="hc:Illegible" extent="2" unit="chars"/><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1145"><lb n="52"/><damage ana="hc:RubbedOff"><w><choice><orig>An</orig><reg>an</reg></choice></w><w>mime</w><w>libe</w></damage><gap ana="hc:CutOff"/></l>
-               <l n="1146"><lb n="53"/><damage ana="hc:RubbedOff"><w><choice><orig>Mich</orig><reg>mich</reg></choice></w><w><choice><orig>endvnk</orig><reg>endunk</reg></choice></w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1145"><lb n="52"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">A</hi>n</orig><reg>an</reg></choice></w><w>mime</w><w>libe</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1146"><lb n="53"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">M</hi>ich</orig><reg>mich</reg></choice></w><w><choice><orig>endvnk</orig><reg>endunk</reg></choice></w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1147"><lb n="54"/><damage ana="hc:RubbedOff"><w><choice><orig>Gnvge</orig><reg>gnuge</reg></choice></w><w><choice><orig>tivre</orig><reg>tiure</reg></choice></w></damage><gap ana="hc:CutOff"/></l>
-               <l n="1148"><lb n="55"/><damage ana="hc:RubbedOff"><w><choice><orig>Vmbe</orig><reg>umbe</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ew</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1147"><lb n="54"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">G</hi>nvge</orig><reg>gnuge</reg></choice></w><w><choice><orig>tivre</orig><reg>tiure</reg></choice></w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1148"><lb n="55"/><damage ana="hc:RubbedOff"><w><choice><orig><hi rendition="hc:RedStroke">V</hi>mbe</orig><reg>umbe</reg></choice></w><w><choice><abbr>d<am>c</am></abbr><expan>d<ex>az</ex></expan></choice></w><w>ew</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <pb n="6r"/>
             <cb n="c"/>
@@ -742,76 +752,76 @@
             <pb n="6v"/>
             <cb n="a"/>
             <lg>
-               <l n="1383"><lb n="1"/><w><choice><orig>Sines</orig><reg>sines</reg></choice></w><w><choice><orig>gelvk</orig><reg>geluk</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="1384"><lb n="2"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w><choice><orig>ſchvld</orig><reg>ſchuld</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1383"><lb n="1"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>ines</orig><reg>sines</reg></choice></w><w><choice><orig>gelvk</orig><reg>geluk</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1384"><lb n="2"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w><choice><orig>ſchvld</orig><reg>ſchuld</reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1385"><lb n="3"/><w><choice><orig>Von</orig><reg>von</reg></choice></w><w>den</w><w>gna</w><gap ana="hc:CutOff"/></l>
-               <l n="1386"><lb n="4"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>got</w><w>an</w><gap ana="hc:CutOff"/></l>
+               <l n="1385"><lb n="3"/><w><choice><orig><hi rendition="hc:RedStroke">V</hi>on</orig><reg>von</reg></choice></w><w>den</w><w>gna</w><gap ana="hc:CutOff"/></l>
+               <l n="1386"><lb n="4"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>got</w><w>an</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1386a"><lb n="5"/><label ana="hc:ParagraphSign">¶</label><w>Diz</w><w>werte</w><gap ana="hc:CutOff"/></l>
-               <l n="1386b"><lb n="6"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>geneſe</w><gap ana="hc:CutOff"/></l>
+               <l n="1386a"><lb n="5"/><label ana="hc:ParagraphSign">¶</label><w><hi rendition="hc:RedStroke">D</hi>iz</w><w>werte</w><gap ana="hc:CutOff"/></l>
+               <l n="1386b"><lb n="6"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>geneſe</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1386c"><lb n="7"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w><choice><orig>gvote</orig><reg>guote</reg></choice></w><w><choice><orig><choice><abbr>he<am>ī</am></abbr><expan>he<ex>in</ex></expan></choice></orig><reg>Hein</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="1386d"><lb n="8"/><w><choice><orig>Des</orig><reg>des</reg></choice></w><w>vrowe</w><gap ana="hc:CutOff"/></l>
+               <l n="1386c"><lb n="7"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w><choice><orig>gvote</orig><reg>guote</reg></choice></w><w><choice><orig><choice><abbr>he<am>ī</am></abbr><expan>he<ex>in</ex></expan></choice></orig><reg>Hein</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1386d"><lb n="8"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>es</orig><reg>des</reg></choice></w><w>vrowe</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1386e"><lb n="9"/><w><choice><orig>Iz</orig><reg>iz</reg></choice></w><w join="right">en</w><w join="left">benem</w><gap ana="hc:CutOff"/></l>
-               <l n="1386f"><lb n="10"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>ſit</w><w>ada</w><gap ana="hc:CutOff"/></l>
+               <l n="1386e"><lb n="9"/><w><choice><orig><hi rendition="hc:RedStroke">I</hi>z</orig><reg>iz</reg></choice></w><w join="right">en</w><w join="left">benem</w><gap ana="hc:CutOff"/></l>
+               <l n="1386f"><lb n="10"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>ſit</w><w>ada</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1386g"><lb n="11"/><w><choice><orig>Jn</orig><reg>in</reg></choice></w><w>der</w><w>werl</w><gap ana="hc:CutOff"/></l>
-               <l n="1386h"><lb n="12"/><w><choice><orig>Noch</orig><reg>noch</reg></choice></w><w>gelig</w><gap ana="hc:CutOff"/></l>
+               <l n="1386g"><lb n="11"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>n</orig><reg>in</reg></choice></w><w>der</w><w>werl</w><gap ana="hc:CutOff"/></l>
+               <l n="1386h"><lb n="12"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>och</orig><reg>noch</reg></choice></w><w>gelig</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1387"><lb n="13"/><label ana="hc:ParagraphSign">¶</label><w>Sine</w><w><choice><orig>frivn</orig><reg>friun</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="1388"><lb n="14"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>ſine</w><damage><w>k</w></damage><gap ana="hc:CutOff"/></l>
+               <l n="1387"><lb n="13"/><label ana="hc:ParagraphSign">¶</label><w><hi rendition="hc:RedStroke">S</hi>ine</w><w><choice><orig>frivn</orig><reg>friun</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1388"><lb n="14"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>ſine</w><damage><w>k</w></damage><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1389"><lb n="15"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>riten</w><w>v</w><gap ana="hc:CutOff"/></l>
-               <l n="1390"><lb n="16"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>ſi</w><w>in</w><w>enp</w><gap ana="hc:CutOff"/></l>
+               <l n="1389"><lb n="15"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>riten</w><w>v</w><gap ana="hc:CutOff"/></l>
+               <l n="1390"><lb n="16"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>a</orig><reg>da</reg></choice></w><w>ſi</w><w>in</w><w>enp</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1391"><lb n="17"/><w><choice><orig>Gegen</orig><reg>gegen</reg></choice></w><w>i<damage>m</damage>e</w><gap ana="hc:CutOff"/></l>
-               <l n="1392"><lb n="18"/><w join="right"><choice><orig>Si</orig><reg>si</reg></choice></w><w join="left">en</w><w><choice><orig>gelo<damage>v</damage></orig><reg>gelo<damage>u</damage></reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1391"><lb n="17"/><w><choice><orig><hi rendition="hc:RedStroke">G</hi>egen</orig><reg>gegen</reg></choice></w><w>i<damage>m</damage>e</w><gap ana="hc:CutOff"/></l>
+               <l n="1392"><lb n="18"/><w join="right"><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig><reg>si</reg></choice></w><w join="left">en</w><w><choice><orig>gelo<damage>v</damage></orig><reg>gelo<damage>u</damage></reg></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1393"><lb n="19"/><w><choice><orig>Danne</orig><reg>danne</reg></choice></w><w>ir</w><w>ſel</w><gap ana="hc:CutOff"/></l>
-               <l n="1394"><lb n="20"/><w><choice><orig>Si</orig><reg>si</reg></choice></w><w><choice><orig>kvrn</orig><reg>kurn</reg></choice></w><w>d</w><gap ana="hc:CutOff"/></l>
+               <l n="1393"><lb n="19"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>anne</orig><reg>danne</reg></choice></w><w>ir</w><w>ſel</w><gap ana="hc:CutOff"/></l>
+               <l n="1394"><lb n="20"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig><reg>si</reg></choice></w><w><choice><orig>kvrn</orig><reg>kurn</reg></choice></w><w>d</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1395"><lb n="21"/><w><choice><orig>An</orig><reg>an</reg></choice></w><w>ſineme</w><gap ana="hc:CutOff"/></l>
-               <l n="1396"><lb n="22"/><w><choice><orig>Dem</orig><reg>dem</reg></choice></w><w>meier</w><gap ana="hc:CutOff"/></l>
+               <l n="1395"><lb n="21"/><w><choice><orig><hi rendition="hc:RedStroke">A</hi>n</orig><reg>an</reg></choice></w><w>ſineme</w><gap ana="hc:CutOff"/></l>
+               <l n="1396"><lb n="22"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>em</orig><reg>dem</reg></choice></w><w>meier</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1397"><lb n="23"/><w><choice><orig>Den</orig><reg>den</reg></choice></w><w>mac</w><w>m</w><gap ana="hc:CutOff"/></l>
-               <l n="1398"><lb n="24"/><w><choice><orig>Man</orig><reg>man</reg></choice></w><w>wel</w><gap ana="hc:CutOff"/></l>
+               <l n="1397"><lb n="23"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>en</orig><reg>den</reg></choice></w><w>mac</w><w>m</w><gap ana="hc:CutOff"/></l>
+               <l n="1398"><lb n="24"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>an</orig><reg>man</reg></choice></w><w>wel</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1399"><lb n="25"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ſi</w><w>da</w><w>heim</w><gap ana="hc:CutOff"/></l>
-               <l n="1400"><lb n="26"/><w><choice><orig>Siv</orig><reg>siu</reg></choice></w><w>ist</w><w><choice><abbr>ie<am>m͛</am></abbr><expan>ie<ex>mer</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1399"><lb n="25"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ſi</w><w>da</w><w>heim</w><gap ana="hc:CutOff"/></l>
+               <l n="1400"><lb n="26"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>iv</orig><reg>siu</reg></choice></w><w>ist</w><w><choice><abbr>ie<am>m͛</am></abbr><expan>ie<ex>mer</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1401"><lb n="27"/><w><choice><orig>Div</orig><reg>diu</reg></choice></w><w>vrowe</w><w>d</w><gap ana="hc:CutOff"/></l>
-               <l n="1402"><lb n="28"/><w><choice><orig>Si</orig><reg>si</reg></choice></w><w>hete</w><w>got</w><gap ana="hc:CutOff"/></l>
+               <l n="1401"><lb n="27"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>iv</orig><reg>diu</reg></choice></w><w>vrowe</w><w>d</w><gap ana="hc:CutOff"/></l>
+               <l n="1402"><lb n="28"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig><reg>si</reg></choice></w><w>hete</w><w>got</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1403"><lb n="29"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>lieber</w><w>o</w><gap ana="hc:CutOff"/></l>
-               <l n="1404"><lb n="30"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>gaben</w><gap ana="hc:CutOff"/></l>
+               <l n="1403"><lb n="29"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w>lieber</w><w>o</w><gap ana="hc:CutOff"/></l>
+               <l n="1404"><lb n="30"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>ie</orig><reg>die</reg></choice></w><w>gaben</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1405"><lb n="31"/><w><choice><orig>Jr</orig><reg>ir</reg></choice></w><w><choice><abbr>tohet<am>e͛</am></abbr><expan>tohet<ex>er</ex></expan></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><gap ana="hc:CutOff"/></l>
-               <l n="1406"><lb n="32"/><w><choice><orig>Ez</orig><reg>ez</reg></choice></w><w join="right">en</w><w join="left">wart</w><gap ana="hc:CutOff"/></l>
+               <l n="1405"><lb n="31"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>r</orig><reg>ir</reg></choice></w><w><choice><abbr>tohet<am>e͛</am></abbr><expan>tohet<ex>er</ex></expan></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1406"><lb n="32"/><w><choice><orig><hi rendition="hc:RedStroke">E</hi>z</orig><reg>ez</reg></choice></w><w join="right">en</w><w join="left">wart</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1407"><lb n="33"/><w><choice><orig>Denne</orig><reg>denne</reg></choice></w><w>in</w><w>bei</w><gap ana="hc:CutOff"/></l>
-               <l n="1408"><lb n="34"/><w><choice><orig>Do</orig><reg>do</reg></choice></w><w>ſi</w><w>heten</w><gap ana="hc:CutOff"/></l>
+               <l n="1407"><lb n="33"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>enne</orig><reg>denne</reg></choice></w><w>in</w><w>bei</w><gap ana="hc:CutOff"/></l>
+               <l n="1408"><lb n="34"/><w><choice><orig><hi rendition="hc:RedStroke">D</hi>o</orig><reg>do</reg></choice></w><w>ſi</w><w>heten</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1409"><lb n="35"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ſi</w><w><choice><orig>geſvn</orig><reg>geſun</reg></choice></w><gap ana="hc:Illegible" extent="3" unit="chars"/><gap ana="hc:CutOff"/></l>
-               <l n="1410"><lb n="36"/><w><choice><orig>Si</orig><reg>si</reg></choice></w><w join="right">en</w><w join="left">weſ</w><gap ana="hc:CutOff"/></l>
+               <l n="1409"><lb n="35"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ſi</w><w><choice><orig>geſvn</orig><reg>geſun</reg></choice></w><gap ana="hc:Illegible" extent="3" unit="chars"/><gap ana="hc:CutOff"/></l>
+               <l n="1410"><lb n="36"/><w><choice><orig><hi rendition="hc:RedStroke">S</hi>i</orig><reg>si</reg></choice></w><w join="right">en</w><w join="left">weſ</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
                <l n="1410a"><lb n="37"/><damage ana="hc:RubbedOff" extent="7" unit="chars"/><gap ana="hc:CutOff"/></l>
@@ -819,23 +829,23 @@
             </lg>
             <lg>
                <l n="1411"><lb n="39"/><damage ana="hc:RubbedOff" extent="8" unit="chars"/><gap ana="hc:CutOff"/></l>
-               <l n="1412"><lb n="40"/><damage><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>ir</w></damage><w>ſel</w><gap ana="hc:CutOff"/></l>
+               <l n="1412"><lb n="40"/><damage><w><choice><orig><hi rendition="hc:RedStroke">M</hi>it</orig><reg>mit</reg></choice></w><w>ir</w></damage><w>ſel</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1413"><lb n="41"/><w><choice><orig>Jr</orig><reg>ir</reg></choice></w><w><choice><abbr><am>h͛</am>ze</abbr><expan><ex>her</ex>ze</expan></choice></w><w><damage>l</damage>iebe</w><gap ana="hc:CutOff"/></l>
-               <l n="1414"><lb n="42"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ir</w><w><choice><abbr>klei<am>d͛</am></abbr><expan>klei<ex>der</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
+               <l n="1413"><lb n="41"/><w><choice><orig><hi rendition="hc:RedStroke">J</hi>r</orig><reg>ir</reg></choice></w><w><choice><abbr><am>h͛</am>ze</abbr><expan><ex>her</ex>ze</expan></choice></w><w><damage>l</damage>iebe</w><gap ana="hc:CutOff"/></l>
+               <l n="1414"><lb n="42"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ir</w><w><choice><abbr>klei<am>d͛</am></abbr><expan>klei<ex>der</ex></expan></choice></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1415"><lb n="43"/><w><choice><orig><choice><abbr><am>D͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>regen</w><w>von</w><gap ana="hc:CutOff"/></l>
-               <l n="1416"><lb n="44"/><w><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ist</w><w>dehei<damage>n</damage></w><gap ana="hc:CutOff"/></l>
+               <l n="1415"><lb n="43"/><w><choice><orig><choice><abbr><am><hi rendition="hc:RedStroke">D</hi>͛</am></abbr><expan><ex>Der</ex></expan></choice></orig><reg>der</reg></choice></w><w>regen</w><w>von</w><gap ana="hc:CutOff"/></l>
+               <l n="1416"><lb n="44"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">D</hi><am>c</am></abbr><expan><hi rendition="hc:RedStroke">D</hi><ex>az</ex></expan></choice></orig><reg>daz</reg></choice></w><w>ist</w><w>dehei<damage>n</damage></w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1416a"><lb n="45"/><w><choice><orig>Nv</orig><reg>nu</reg></choice></w><w>hant</w><w>ſi</w><w>v</w><gap ana="hc:CutOff"/></l>
-               <l n="1416b"><lb n="46"/><damage><w><choice><orig>Got</orig><reg>got</reg></choice></w></damage><w><choice><orig>dvrch</orig><reg>durch</reg></choice></w><w>ſi</w><gap ana="hc:CutOff"/></l>
+               <l n="1416a"><lb n="45"/><w><choice><orig><hi rendition="hc:RedStroke">N</hi>v</orig><reg>nu</reg></choice></w><w>hant</w><w>ſi</w><w>v</w><gap ana="hc:CutOff"/></l>
+               <l n="1416b"><lb n="46"/><damage><w><choice><orig><hi rendition="hc:RedStroke">G</hi>ot</orig><reg>got</reg></choice></w></damage><w><choice><orig>dvrch</orig><reg>durch</reg></choice></w><w>ſi</w><gap ana="hc:CutOff"/></l>
             </lg>
             <lg>
-               <l n="1416c"><lb n="47"/><w><choice><orig>Mvͦze</orig><reg>muoze</reg></choice></w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w>di</w><gap ana="hc:CutOff"/></l>
-               <l n="1416d"><lb n="48"/><w><choice><orig><choice><abbr>V<am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ze</w><w>ſelden</w><gap ana="hc:CutOff"/></l>
+               <l n="1416c"><lb n="47"/><w><choice><orig><hi rendition="hc:RedStroke">M</hi>vͦze</orig><reg>muoze</reg></choice></w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w>di</w><gap ana="hc:CutOff"/></l>
+               <l n="1416d"><lb n="48"/><w><choice><orig><choice><abbr><hi rendition="hc:RedStroke">V</hi><am>n̄</am></abbr><expan><hi rendition="hc:RedStroke">V</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ze</w><w>ſelden</w><gap ana="hc:CutOff"/></l>
             </lg>
          </div>
       </body>
