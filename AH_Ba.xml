@@ -56,7 +56,7 @@
                <l n="4"><lb n="22"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>was</w><w><choice><orig>hartman</orig><reg>Hartman</reg></choice></w><w>genant</w></l>
             </lg>
             <lg>
-               <l n="5"><lb n="23"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal"></hi>v<am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>was</w><w>ein</w><w>dinſteman</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="5"><lb n="23"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">v</hi><am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>was</w><w>ein</w><w>dinſteman</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="6"><lb n="24"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>nam</w><w>im</w><w>eine</w><w>ſchowe</w></l>
             </lg>
             <lg>
@@ -64,44 +64,44 @@
                <l n="8"><lb n="26"/><w><choice><orig>Dar</orig><reg>dar</reg></choice></w><w>an</w><w>begond</w><w>er</w><w xml:id="Ba_w_8_5"><w><choice><orig>ſvche</orig><reg>ſuche</reg></choice></w></w><pc ana="editorial">,</pc><note ana="hc:TextCriticalNote" target="#Ba_w_8_5"><emph>Den (ostmitteldeutschen) endungslosen Infinitiv behalten <w>wir</w> bei, denn zum einen wiederholt er sich in V. 110, 643 und 686 (hat also System) und zum anderen ist er durch das singularisierte</emph> bvche <emph>im vorangehenden Vers reimmäßig vorbereitet</emph></note></l>
             </lg>
             <lg>
-               <l n="9"><lb n="27"/><w><choice><orig>Ob</orig><reg>ob</reg></choice></w><w>er</w><w>icht</w><w>des</w><w>vunde</w><pc ana="editorial">,</pc></l>
+               <l n="9"><lb n="27"/><w><choice><orig><hi rendition="hc:Versal">O</hi>b</orig><reg>ob</reg></choice></w><w>er</w><w>icht</w><w>des</w><w>vunde</w><pc ana="editorial">,</pc></l>
                <l n="10"><lb n="28"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>mit</w><w>er</w><w>ſwere</w><w><choice><orig>ſtvnde</orig><reg>ſtunde</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="11"><lb n="29"/><w><choice><orig>Senfter</orig><reg>senfter</reg></choice></w><w>mochte</w><w>machen</w></l>
+               <l n="11"><lb n="29"/><w><choice><orig><hi rendition="hc:Versal">S</hi>enfter</orig><reg>senfter</reg></choice></w><w>mochte</w><w>machen</w></l>
                <l n="12"><lb n="30"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>ſo</w><w>geweren</w><w>ſachen</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="13"><lb n="31"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>zu</w><w>gotes</w><w>eren</w><w><choice><orig>toͤchte</orig><reg>töchte</reg></choice></w><pc ana="editorial">,</pc></l>
+               <l n="13"><lb n="31"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w>zu</w><w>gotes</w><w>eren</w><w><choice><orig>toͤchte</orig><reg>töchte</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="14"><lb n="32"/><w><choice><orig>Da</orig><reg>da</reg></choice></w><w>mit</w><w>er</w><w>ſich</w><w><choice><orig>moͤchte</orig><reg>möchte</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="15"><lb n="33"/><w><choice><orig>Gelieben</orig><reg>gelieben</reg></choice></w><w>den</w><w><choice><orig>levten</orig><reg>leuten</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="15"><lb n="33"/><w><choice><orig><hi rendition="hc:Versal">G</hi>elieben</orig><reg>gelieben</reg></choice></w><w>den</w><w><choice><orig>levten</orig><reg>leuten</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="16"><lb n="34"/><w>hie</w><w>beginnet</w><w>er</w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w><choice><orig>devten</orig><reg>deuten</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="17"><lb n="35"/><w><choice><orig>Ein</orig><reg>ein</reg></choice></w><w>rede</w><pc ana="editorial">,</pc><w>die</w><w>er</w><w>geſchriben</w><w>vant</w><pc ana="editorial">.</pc></l>
+               <l n="17"><lb n="35"/><w><choice><orig><hi rendition="hc:Versal">E</hi>in</orig><reg>ein</reg></choice></w><w>rede</w><pc ana="editorial">,</pc><w>die</w><w>er</w><w>geſchriben</w><w>vant</w><pc ana="editorial">.</pc></l>
                <l n="18"><lb n="36"/><w><choice><orig>Dar</orig><reg>dar</reg></choice></w><w><choice><orig>vmbe</orig><reg>umbe</reg></choice></w><w>hat</w><w>er</w><w>ſich</w><w>genant</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="19"><lb n="37"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>er</w><w>ſiner</w><w>arebeit</w><pc ana="editorial">,</pc></l>
+               <l n="19"><lb n="37"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w>er</w><w>ſiner</w><w>arebeit</w><pc ana="editorial">,</pc></l>
                <l n="20"><lb n="38"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>er</w><w>an</w><w>ditz</w><w><choice><orig>bvch</orig><reg>buch</reg></choice></w><w>hat</w><w>geleit</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="21"><lb n="39"/><w>ane</w><w>lon</w><w>icht</w><w>belibe</w><pc ana="editorial">;</pc></l>
+               <l n="21"><lb n="39"/><w><hi rendition="hc:Versal">a</hi>ne</w><w>lon</w><w>icht</w><w>belibe</w><pc ana="editorial">;</pc></l>
                <cb n="b"/>
                <l n="22"><lb n="1"/><w><choice><orig>Swer</orig><reg>swer</reg></choice></w><w>iz</w><w>nach</w><w>ſinem</w><w>libe</w></l>
             </lg>
             <lg>
-               <l n="23"><lb n="2"/><w><choice><orig>hoͤre</orig><reg>höre</reg></choice></w><w>ſagen</w><w>oder</w><w>leſe</w><pc ana="editorial">,</pc></l>
+               <l n="23"><lb n="2"/><w><choice><orig><hi rendition="hc:Versal">h</hi>oͤre</orig><reg>höre</reg></choice></w><w>ſagen</w><w>oder</w><w>leſe</w><pc ana="editorial">,</pc></l>
                <l n="24"><lb n="3"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>er</w><w>bitende</w><w>weſe</w></l>
             </lg>
             <lg>
-               <l n="25"><lb n="4"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>ſele</w><w>heiles</w><w>hin</w><w><choice><orig>zv</orig><reg>zu</reg></choice></w><w><choice><orig>gotê</orig><reg>gote</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="25"><lb n="4"/><w><choice><orig><hi rendition="hc:Versal">D</hi>er</orig><reg>der</reg></choice></w><w>ſele</w><w>heiles</w><w>hin</w><w><choice><orig>zv</orig><reg>zu</reg></choice></w><w><choice><orig>gotê</orig><reg>gote</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="26"><lb n="5"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>gicht</w><pc ana="editorial">,</pc><w>er</w><w>ſei</w><w>ſin</w><w>ſelbes</w><w>bote</w></l>
             </lg>
             <lg>
-               <l n="27"><lb n="6"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>loͤse</orig><reg>löse</reg></choice></w><w>ſich</w><w>ſelber</w><w>da</w><w>mite</w><pc ana="editorial">,</pc></l>
+               <l n="27"><lb n="6"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">v</hi><am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>loͤse</orig><reg>löse</reg></choice></w><w>ſich</w><w>ſelber</w><w>da</w><w>mite</w><pc ana="editorial">,</pc></l>
                <l n="28"><lb n="7"/><w><choice><orig>Swer</orig><reg>swer</reg></choice></w><w>vor</w><w>des</w><w>andern</w><w><choice><orig>ſvnde</orig><reg>ſunde</reg></choice></w><w>bite</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
@@ -109,35 +109,35 @@
                <l n="30"><lb n="9"/><w>wie</w><w>daz</w><w>ein</w><w>herre</w><w>were</w></l>
             </lg>
             <lg>
-               <l n="31"><lb n="10"/><w><choice><orig>zv</orig><reg>zu</reg></choice></w><w><choice><orig>ſwaben</orig><reg>Swaben</reg></choice></w><w>geſezzen</w><pc ana="editorial">,</pc></l>
+               <l n="31"><lb n="10"/><w><choice><orig><hi rendition="hc:Versal">z</hi>v</orig><reg>zu</reg></choice></w><w><choice><orig>ſwaben</orig><reg>Swaben</reg></choice></w><w>geſezzen</w><pc ana="editorial">,</pc></l>
                <l n="32"><lb n="11"/><w>an</w><w>dem</w><w>was</w><w>niht</w><w>vergezzen</w></l>
             </lg>
             <lg>
-               <l n="33"><lb n="12"/><w>aller</w><w>der</w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc ana="editorial">,</pc></l>
+               <l n="33"><lb n="12"/><w><hi rendition="hc:Versal">a</hi>ller</w><w>der</w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="34"><lb n="13"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>ein</w><w><choice><orig>Ritter</orig><reg>ritter</reg></choice></w><w>in</w><w>ſiner</w><w><choice><orig>jvgent</orig><reg>jugent</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="35"><lb n="14"/><w><choice><orig>zv</orig><reg>zu</reg></choice></w><w>ganzem</w><w>lobe</w><w>haben</w><w>ſol</w><pc ana="editorial">.</pc></l>
+               <l n="35"><lb n="14"/><w><choice><orig><hi rendition="hc:Versal">z</hi>v</orig><reg>zu</reg></choice></w><w>ganzem</w><w>lobe</w><w>haben</w><w>ſol</w><pc ana="editorial">.</pc></l>
                <l n="36"><lb n="15"/><w>man</w><w>ſprach</w><w>niman</w><w>alſo</w><w>wol</w></l>
             </lg>
             <lg>
-               <l n="37"><lb n="16"/><w><choice><orig>Jn</orig><reg>in</reg></choice></w><w>allen</w><w>den</w><w>richen</w><pc ana="editorial">.</pc></l>
+               <l n="37"><lb n="16"/><w><choice><orig><hi rendition="hc:Versal">J</hi>n</orig><reg>in</reg></choice></w><w>allen</w><w>den</w><w>richen</w><pc ana="editorial">.</pc></l>
                <l n="38"><lb n="17"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>hatte</w><w>werlichen</w></l>
             </lg>
             <lg>
-               <l n="39"><lb n="18"/><w><choice><orig>Gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wiſheit</w><pc ana="editorial">,</pc></l>
+               <l n="39"><lb n="18"/><w><choice><orig><hi rendition="hc:Versal">G</hi>ebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wiſheit</w><pc ana="editorial">,</pc></l>
                <l n="40"><lb n="19"/><w><choice><orig>Sin</orig><reg>sin</reg></choice></w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc ana="editorial">,</pc><w>die</w><w>was</w><w>vil</w><w>breit</w><pc ana="editorial">;</pc></l>
             </lg>
             <lg>
-               <l n="41"><lb n="20"/><w><choice><orig>Swie</orig><reg>swie</reg></choice></w><w>gantz</w><w>ſin</w><w>habe</w><w>were</w><pc ana="editorial">,</pc></l>
+               <l n="41"><lb n="20"/><w><choice><orig><hi rendition="hc:Versal">S</hi>wie</orig><reg>swie</reg></choice></w><w>gantz</w><w>ſin</w><w>habe</w><w>were</w><pc ana="editorial">,</pc></l>
                <l n="42"><lb n="21"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>was</w><w>ſin</w><w><choice><orig>bvrt</orig><reg>burt</reg></choice></w><w><choice><orig><choice><abbr>vnwandel<am>b͛</am>e</abbr><expan>vnwandelbere</expan></choice></orig><reg>unwandelbere</reg></choice></w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="43"><lb n="22"/><w>andern</w><w>vurſten</w><w>gelich</w><pc ana="editorial">.</pc></l>
+               <l n="43"><lb n="22"/><w><hi rendition="hc:Versal">a</hi>ndern</w><w>vurſten</w><w>gelich</w><pc ana="editorial">.</pc></l>
                <l n="44"><lb n="23"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w><choice><orig>vnnahe</orig><reg>unnahe</reg></choice></w><w>alſo</w><w>rich</w></l>
             </lg>
             <lg>
-               <l n="45"><lb n="24"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>des</w><w><choice><orig>gvtes</orig><reg>gutes</reg></choice></w></l>
+               <l n="45"><lb n="24"/><w><choice><orig><hi rendition="hc:Versal">D</hi>er</orig><reg>der</reg></choice></w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>des</w><w><choice><orig>gvtes</orig><reg>gutes</reg></choice></w></l>
                <l n="46"><lb n="25"/><w>alſe</w><w>der</w><w>eren</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>des</w><w><choice><orig>mvtes</orig><reg>mutes</reg></choice></w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
@@ -145,57 +145,57 @@
                <l n="48"><lb n="27"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w>geheizen</w><w><choice><orig>heinrich</orig><reg>Heinrich</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="49"><lb n="28"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>was</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><w>geborn</w><pc ana="editorial">.</pc></l>
+               <l n="49"><lb n="28"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">v</hi><am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>was</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><w>geborn</w><pc ana="editorial">.</pc></l>
                <l n="50"><lb n="29"/><w><choice><orig>Sin</orig><reg>sin</reg></choice></w><w><choice><abbr><am>h͛</am>ze</abbr><expan><ex>her</ex>ze</expan></choice></w><w>daz</w><w>hatte</w><w>im</w><w><choice><abbr><am>v͛</am>ſworn</abbr><expan><ex>ver</ex>ſworn</expan></choice></w></l>
             </lg>
             <lg>
-               <l n="51"><lb n="30"/><w>valſch</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>alle</w><w xml:id="Ba_w_51_4">dorpheit</w><pc ana="editorial">.</pc><note ana="hc:Gloss" hei:placeRef="hc:ColumnMarginRight" target="#Ba_w_51_4" xml:lang="lat"><w><choice><abbr><am>·Ɩ·</am></abbr><expan><ex>id est</ex></expan></choice></w><w><choice><abbr><am>r᷒</am>ticitaſ</abbr><expan><ex>rus</ex>ticitaſ</expan></choice></w></note></l>
+               <l n="51"><lb n="30"/><w><hi rendition="hc:Versal">v</hi>alſch</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>alle</w><w xml:id="Ba_w_51_4">dorpheit</w><pc ana="editorial">.</pc><note ana="hc:Gloss" hei:placeRef="hc:ColumnMarginRight" target="#Ba_w_51_4" xml:lang="lat"><w><choice><abbr><am>·Ɩ·</am></abbr><expan><ex>id est</ex></expan></choice></w><w><choice><abbr><am>r᷒</am>ticitaſ</abbr><expan><ex>rus</ex>ticitaſ</expan></choice></w></note></l>
                <l n="52"><lb n="31"/><w>vil</w><w>wol</w><w>behielt</w><w>er</w><w>den</w><w>eit</w></l>
             </lg>
             <lg>
-               <l n="53"><lb n="32"/><w><choice><orig>Stet</orig><reg>stet</reg></choice></w><w>biz</w><w>an</w><w>ſin</w><w>ende</w><pc ana="editorial">;</pc></l>
+               <l n="53"><lb n="32"/><w><choice><orig><hi rendition="hc:Versal">S</hi>tet</orig><reg>stet</reg></choice></w><w>biz</w><w>an</w><w>ſin</w><w>ende</w><pc ana="editorial">;</pc></l>
                <l n="54"><lb n="33"/><w>an</w><w>alle</w><w xml:id="Ba_w_54_3">miſſewende</w><note ana="hc:Gloss" hei:placeRef="hc:AboveLine" xml:lang="lat" target="#Ba_w_54_3"><w>ſine</w><w><choice><orig>dvbio</orig><reg>dubio</reg></choice></w></note></l>
             </lg>
             <lg>
-               <l n="55"><lb n="34"/><w><choice><orig>Stvnt</orig><reg>stunt</reg></choice></w><w>ſin</w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſin</w><w>leben</w><pc ana="editorial">,</pc></l>
+               <l n="55"><lb n="34"/><w><choice><orig><hi rendition="hc:Versal">S</hi>tvnt</orig><reg>stunt</reg></choice></w><w>ſin</w><w><choice><orig>gebvrt</orig><reg>geburt</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſin</w><w>leben</w><pc ana="editorial">,</pc></l>
                <l n="56"><lb n="35"/><w><choice><orig>Jm</orig><reg>im</reg></choice></w><w>was</w><w>der</w><w>rechter</w><w>wunſch</w><w><choice><abbr>gegeb<am>ē</am></abbr><expan>gegeb<ex>en</ex></expan></choice></w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="57"><lb n="36"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>werltlichen</w><w>eren</w></l>
+               <l n="57"><lb n="36"/><w><choice><orig><hi rendition="hc:Versal">D</hi>ie</orig><reg>die</reg></choice></w><w>werltlichen</w><w>eren</w></l>
                <l n="58"><lb n="37"/><w>konde</w><w>er</w><w>wol</w><w>gemeren</w></l>
             </lg>
             <lg>
-               <l n="59"><lb n="38"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>mancher</w><w>hande</w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="59"><lb n="38"/><w><choice><orig><hi rendition="hc:Versal">M</hi>it</orig><reg>mit</reg></choice></w><w>mancher</w><w>hande</w><w><choice><orig>tvgent</orig><reg>tugent</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="60"><lb n="39"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w>ein</w><w><choice><orig>blvme</orig><reg>blume</reg></choice></w><w>der</w><w><choice><orig>Jvgent</orig><reg>jugent</reg></choice></w><pc ana="editorial">,</pc></l>
             </lg>
             <pb n="249v"/>
             <cb n="a"/>
             <lg>
-               <l n="61"><lb n="1"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>werlde</w><w><choice><orig>vrevde</orig><reg>vreude</reg></choice></w><w>ein</w><w>ſpigel glas</w><pc ana="editorial">,</pc></l>
+               <l n="61"><lb n="1"/><w><choice><orig><hi rendition="hc:Versal">D</hi>er</orig><reg>der</reg></choice></w><w>werlde</w><w><choice><orig>vrevde</orig><reg>vreude</reg></choice></w><w>ein</w><w>ſpigel glas</w><pc ana="editorial">,</pc></l>
                <l n="62"><lb n="2"/><w><choice><orig>Steter</orig><reg>steter</reg></choice></w><w>trewe</w><w>ein</w><w>adamas</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="64a"><lb n="3"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w>milde</w><w>des</w><w><choice><orig>gvtes</orig><reg>gutes</reg></choice></w><pc ana="editorial">,</pc></l>
+               <l n="64a"><lb n="3"/><w><choice><orig><hi rendition="hc:Versal">E</hi>r</orig><reg>er</reg></choice></w><w>was</w><w>milde</w><w>des</w><w><choice><orig>gvtes</orig><reg>gutes</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="64b"><lb n="4"/><w><choice><orig>Ein</orig><reg>ein</reg></choice></w><w>lewe</w><w>ſines</w><w><choice><orig>mvtes</orig><reg>mutes</reg></choice></w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="65"><lb n="5"/><w><choice><orig>Ein</orig><reg>ein</reg></choice></w><w>ſchilt</w><w>ſiner</w><w>mage</w><pc ana="editorial">,</pc></l>
+               <l n="65"><lb n="5"/><w><choice><orig><hi rendition="hc:Versal">E</hi>in</orig><reg>ein</reg></choice></w><w>ſchilt</w><w>ſiner</w><w>mage</w><pc ana="editorial">,</pc></l>
                <l n="66"><lb n="6"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>milde</w><w>ein</w><w>geliche</w><w>wage</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="67"><lb n="7"/><w><choice><orig>Jme</orig><reg>ime</reg></choice></w><w>wart</w><w><choice><orig>vber</orig><reg>uber</reg></choice></w><w>noch</w><w>gebraſt</w><pc ana="editorial">.</pc></l>
+               <l n="67"><lb n="7"/><w><choice><orig><hi rendition="hc:Versal">J</hi>me</orig><reg>ime</reg></choice></w><w>wart</w><w><choice><orig>vber</orig><reg>uber</reg></choice></w><w>noch</w><w>gebraſt</w><pc ana="editorial">.</pc></l>
                <l n="68"><lb n="8"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w><choice><orig>trvck</orig><reg>truck</reg></choice></w><w>die</w><w>erbeit</w><w>alſe</w><w>ein</w><w>laſt</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="69"><lb n="9"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>ere</w><w><choice><orig>vber</orig><reg>uber</reg></choice></w><w><choice><orig>rvcke</orig><reg>rucke</reg></choice></w><pc ana="editorial">,</pc></l>
+               <l n="69"><lb n="9"/><w><choice><orig><hi rendition="hc:Versal">D</hi>ie</orig><reg>die</reg></choice></w><w>ere</w><w><choice><orig>vber</orig><reg>uber</reg></choice></w><w><choice><orig>rvcke</orig><reg>rucke</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="70"><lb n="10"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w>des</w><w>rates</w><w><choice><orig>brvcke</orig><reg>brucke</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="71"><lb n="11"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſanch</w><w>ſo</w><w>wol</w><w>von</w><w>minnen</w><pc ana="editorial">.</pc></l>
+               <l n="71"><lb n="11"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">v</hi><am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>ſanch</w><w>ſo</w><w>wol</w><w>von</w><w>minnen</w><pc ana="editorial">.</pc></l>
                <l n="72"><lb n="12"/><w><choice><orig>alſvſt</orig><reg>alſuſt</reg></choice></w><w>chonde</w><w>er</w><w>gewinnen</w></l>
             </lg>
             <lg>
-               <l n="73"><lb n="13"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>werlde</w><w>lob</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>iren</w><w>pris</w><pc ana="editorial">,</pc></l>
+               <l n="73"><lb n="13"/><w><choice><orig><hi rendition="hc:Versal">D</hi>er</orig><reg>der</reg></choice></w><w>werlde</w><w>lob</w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>iren</w><w>pris</w><pc ana="editorial">,</pc></l>
                <l n="74"><lb n="14"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w>ſchone</w><pc ana="editorial">,</pc><pc>·</pc><w><choice><orig>Jvnc </orig><reg>junc</reg></choice></w><pc ana="editorial">,</pc><pc>·</pc><w><choice><orig>hvbſch </orig><reg>hubſch</reg></choice></w><pc>·</pc><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>wis</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
@@ -203,35 +203,35 @@
                <l n="76"><lb n="16"/><w><choice><orig>alſvs</orig><reg>alſus</reg></choice></w><w>geniete</w><w>ſich</w></l>
             </lg>
             <lg>
-               <l n="77"><lb n="17"/><w><choice><orig>Eren</orig><reg>eren</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>gvtes</orig><reg>gutes</reg></choice></w></l>
+               <l n="77"><lb n="17"/><w><choice><orig><hi rendition="hc:Versal">E</hi>ren</orig><reg>eren</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>gvtes</orig><reg>gutes</reg></choice></w></l>
                <l n="78"><lb n="18"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>vroliches</w><w><choice><orig>mvtes</orig><reg>mutes</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="78a"><lb n="19"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>in</w><w>der</w><w>werde</w><w>lebete</w><pc ana="editorial">,</pc></l>
+               <l n="78a"><lb n="19"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">v</hi><am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>in</w><w>der</w><w>werde</w><w>lebete</w><pc ana="editorial">,</pc></l>
                <l n="78b"><lb n="20"/><w><choice><orig>Jn</orig><reg>in</reg></choice></w><w>dirre</w><w><choice><orig>ſvze</orig><reg>ſuze</reg></choice></w><w>ſwebete</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="79"><lb n="21"/><w><choice><orig>Jn</orig><reg>in</reg></choice></w><w>der</w><w>werltlicher</w><w>wunne</w><pc ana="editorial">,</pc></l>
+               <l n="79"><lb n="21"/><w><choice><orig><hi rendition="hc:Versal">J</hi>n</orig><reg>in</reg></choice></w><w>der</w><w>werltlicher</w><w>wunne</w><pc ana="editorial">,</pc></l>
                <l n="80"><lb n="22"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>was</w><w><choice><orig>vber</orig><reg>uber</reg></choice></w><w>allez</w><w>ſin</w><w><choice><orig>kvnne</orig><reg>kunne</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="81"><lb n="23"/><w><choice><orig>Gehoet</orig><reg>gehoet</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ge eret</orig><reg>geeret</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="81"><lb n="23"/><w><choice><orig><hi rendition="hc:Versal">G</hi>ehoet</orig><reg>gehoet</reg></choice></w><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ge eret</orig><reg>geeret</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="82"><lb n="24"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>wart</w><w>im</w><w>ſchire</w><w><choice><abbr><am>v͛</am>keret</abbr><expan><ex>ver</ex>keret</expan></choice></w><pc ana="editorial">!</pc></l>
             </lg>
             <lg>
-               <l n="83"><lb n="25"/><w><choice><orig>Er</orig><reg>er</reg></choice></w><w>wart</w><w>vil</w><w>gachs</w><w>geneiget</w><pc ana="editorial">.</pc></l>
+               <l n="83"><lb n="25"/><w><choice><orig><hi rendition="hc:Versal">E</hi>r</orig><reg>er</reg></choice></w><w>wart</w><w>vil</w><w>gachs</w><w>geneiget</w><pc ana="editorial">.</pc></l>
                <l n="84"><lb n="26"/><w>an</w><w>im</w><w>ſo</w><w>wart</w><w>erzeiget</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="85"><lb n="27"/><w>alſe</w><w>an</w><w><choice><orig>abſalone</orig><reg>Abſalone</reg></choice></w><pc ana="editorial">,</pc></l>
+               <l n="85"><lb n="27"/><w><hi rendition="hc:Versal">a</hi>lſe</w><w>an</w><w><choice><orig>abſalone</orig><reg>Abſalone</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="86"><lb n="28"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>die</w><w><choice><orig>vppige</orig><reg>uppige</reg></choice></w><w>chrone</w></l>
             </lg>
             <lg>
-               <l n="87"><lb n="29"/><w><choice><orig><choice><abbr>v<am>n̄</am></abbr><expan>v<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>der</w><w>werlde</w><w><choice><orig>ſvze</orig><reg>ſuze</reg></choice></w></l>
+               <l n="87"><lb n="29"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">v</hi><am>n̄</am></abbr><expan><hi rendition="hc:Versal">v</hi><ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w><choice><orig>ovch</orig><reg>ouch</reg></choice></w><w>der</w><w>werlde</w><w><choice><orig>ſvze</orig><reg>ſuze</reg></choice></w></l>
                <l n="88"><lb n="30"/><w><choice><orig>Gezvckete</orig><reg>gezuckete</reg></choice></w><w><choice><orig>vnder</orig><reg>under</reg></choice></w><w>die</w><w><choice><orig>vûze</orig><reg>vüze</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="89"><lb n="31"/><w>von</w><w>ſiner</w><w><choice><orig>hoͤſten</orig><reg>höſten</reg></choice></w><w>werdikeit</w></l>
+               <l n="89"><lb n="31"/><w><hi rendition="hc:Versal">v</hi>on</w><w>ſiner</w><w><choice><orig>hoͤſten</orig><reg>höſten</reg></choice></w><w>werdikeit</w></l>
                <l n="118"><lb n="32"/><w>an</w><w>ein</w><w>ſmeliches</w><w>leit</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
@@ -239,20 +239,20 @@
                <l n="92"><lb n="34"/><w xml:lang="lat"><choice><orig>Media</orig><reg>media</reg></choice></w><w xml:lang="lat">vita</w></l>
             </lg>
             <lg>
-               <l n="93"><lb n="35"/><w xml:lang="lat"><choice><orig>Jn</orig><reg>in</reg></choice></w><w xml:lang="lat">morte</w><w xml:lang="lat"><choice><orig>ſvmus</orig><reg>ſumus</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="93"><lb n="35"/><w xml:lang="lat"><choice><orig><hi rendition="hc:Versal">J</hi>n</orig><reg>in</reg></choice></w><w xml:lang="lat">morte</w><w xml:lang="lat"><choice><orig>ſvmus</orig><reg>ſumus</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="94"><lb n="36"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w><choice><orig>bedevtet</orig><reg>bedeutet</reg></choice></w><w><choice><orig>vnſ</orig><reg>unſ</reg></choice></w><w><choice><orig>alſvs</orig><reg>alſus</reg></choice></w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="95"><lb n="37"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>wir</w><w>in</w><w>dem</w><w>tode</w><w>ſweben</w></l>
+               <l n="95"><lb n="37"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w>wir</w><w>in</w><w>dem</w><w>tode</w><w>ſweben</w></l>
                <l n="96"><lb n="38"/><w><choice><orig>So</orig><reg>so</reg></choice></w><w>wir</w><w>allerbeſt</w><w>wenen</w><w>leben</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="97"><lb n="39"/><w><choice><orig>Dirre</orig><reg>dirre</reg></choice></w><w>werlde</w><w>veſte</w><pc ana="editorial">,</pc></l>
+               <l n="97"><lb n="39"/><w><choice><orig><hi rendition="hc:Versal">D</hi>irre</orig><reg>dirre</reg></choice></w><w>werlde</w><w>veſte</w><pc ana="editorial">,</pc></l>
                <l n="98"><lb n="40"/><w><choice><orig>Stete</orig><reg>stete</reg></choice></w><w><choice><orig>vnde</orig><reg>unde</reg></choice></w><w>beſte</w><pc ana="editorial">,</pc></l>
             </lg>
             <cb n="b"/>
             <lg>
-               <l n="99"><lb n="1"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>aller</w><w><choice><orig>hoͤſte</orig><reg>höſte</reg></choice></w><w>mancraft</w><pc ana="editorial">,</pc></l>
+               <l n="99"><lb n="1"/><w><choice><orig><hi rendition="hc:Versal">D</hi>ie</orig><reg>die</reg></choice></w><w>aller</w><w><choice><orig>hoͤſte</orig><reg>höſte</reg></choice></w><w>mancraft</w><pc ana="editorial">,</pc></l>
                <l n="100"><lb n="2"/><w><choice><orig>Die</orig><reg>die</reg></choice></w><w>ſtet</w><w>ane</w><w>meiſterſchaft</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
@@ -432,7 +432,7 @@
             </lg>
             <lg>
                <l n="193"><lb n="9"/><w><choice><orig>Jch</orig><reg>ich</reg></choice></w><w>entrewe</w><w>iz</w><w>wol</w><w>vol</w><w><choice><abbr>bring<am>ē</am></abbr><expan>bring<ex>en</ex></expan></choice></w><pc ana="editorial">,</pc></l>
-               <l n="194"><lb n="10"/><w>an</w><w>deheiner</w><w>ſlachte</w><w>dingen</w><pc ana="editorial">.</pc></l>
+               <l n="193a"><lb n="10"/><w>an</w><w>deheiner</w><w>ſlachte</w><w>dingen</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
                <l n="209"><lb n="11"/><w><choice><orig>Jrn</orig><reg>Irn</reg></choice></w><w>wolt</w><w>denne</w><w>ewer</w><w>recht</w><w><choice><abbr>brech<am>ē</am></abbr><expan>brech<ex>en</ex></expan></choice></w></l>
