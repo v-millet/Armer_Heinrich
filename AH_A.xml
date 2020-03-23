@@ -237,7 +237,7 @@
                <l n="88"><lb n="9"/><w><choice><orig>Vellet</orig><reg>vellet</reg></choice></w><w>nider</w><w>under</w><w>die</w><w><choice><orig>fu͑ze</orig><reg>füze</reg></choice></w><pc>·</pc></l>
             </lg>
             <lg>
-               <l n="89"><lb n="10"/><w><choice><orig>Ab</orig><reg>ab</reg></choice></w><w>ir</w><w>beſten</w><w><choice><orig>wu͑rdikeit</orig><reg>würdikeit</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
+               <l n="89" hei:replicates="#xpath(//l[@n='117'])"><lb n="10"/><w><choice><orig>Ab</orig><reg>ab</reg></choice></w><w>ir</w><w>beſten</w><w><choice><orig>wu͑rdikeit</orig><reg>würdikeit</reg></choice></w><pc>·</pc><pc ana="editorial">,</pc></l>
                <l n="90"><lb n="11"/><w><choice><orig>Als</orig><reg>als</reg></choice></w><w>uns</w><w>die</w><w>geſchrift</w><w>hat</w><w>geſeit</w><pc>·</pc><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
