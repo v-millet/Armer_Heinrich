@@ -48,7 +48,7 @@
       <front>
          <pb n="256r"/>
          <cb n="a"/>
-         <titlePart><lb n="1"/><hi hei:color="Red"><w>Ditz</w><w>iſt</w><w>ein</w><w>mere</w><w>rich</w></hi><num value="125">Cxxv</num><lb n="2"/><hi hei:color="Red"><w>von</w><w>dem</w><w>armen</w><w>Heinrich</w></hi></titlePart>
+         <titlePart><lb n="1"/><hi hei:color="Red"><w>Ditz</w><w>iſt</w><w>ein</w><w>mere</w><w>rich</w></hi><lb n="2"/><hi hei:color="Red"><w>von</w><w>dem</w><w>armen</w><w>Heinrich</w></hi></titlePart>
       </front>
       <body>
          <div>
@@ -57,39 +57,39 @@
                <l n="2"><lb n="4"/><w>daz</w><w>er</w><w>an</w><w>den</w><w><choice><orig>bvchen</orig><reg>buchen</reg></choice></w><w>las</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="3"><lb n="5"/><w>waz</w><w>er</w><w>dar</w><w>an</w><w>geſchriben</w><w>vant</w><pc ana="editorial">.</pc></l>
+               <l n="3"><lb n="5"/><w><hi rendition="hc:Versal">w</hi>az</w><w>er</w><w>dar</w><w>an</w><w>geſchriben</w><w>vant</w><pc ana="editorial">.</pc></l>
                <l n="4"><lb n="6"/><w>der</w><w>was</w><w><choice><orig>hartman</orig><reg>Hartman</reg></choice></w><w>genant</w></l>
             </lg>
             <lg>
-               <l n="5"><lb n="7"/><w><choice><orig>vnde</orig><reg>unde</reg></choice></w><w>was</w><w>ein</w><w>dienſtman</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="5"><lb n="7"/><w><choice><orig><hi rendition="hc:Versal">v</hi>nde</orig><reg>unde</reg></choice></w><w>was</w><w>ein</w><w>dienſtman</w><w>von</w><w><choice><orig>owe</orig><reg>Owe</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="6"><lb n="8"/><w>der</w><w>nam</w><w>im</w><w>eine</w><w>ſchowe</w></l>
             </lg>
             <lg>
-               <l n="7"><lb n="9"/><w>an</w><w>einem</w><w>itſlichen</w><w><choice><orig>bvchen</orig><reg>buchen</reg></choice></w><pc ana="editorial">;</pc></l>
+               <l n="7"><lb n="9"/><w><hi rendition="hc:Versal">a</hi>n</w><w>einem</w><w>itſlichen</w><w><choice><orig>bvchen</orig><reg>buchen</reg></choice></w><pc ana="editorial">;</pc></l>
                <l n="8"><lb n="10"/><w>dar</w><w>an</w><w>begonde</w><w>er</w><w><choice><orig>ſvchen</orig><reg>ſuchen</reg></choice></w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="9"><lb n="11"/><w><choice><orig>Ob</orig><reg>ob</reg></choice></w><w>er</w><w>iht</w><w>des</w><w><choice><orig>fvnde</orig><reg>funde</reg></choice></w><pc ana="editorial">,</pc></l>
+               <l n="9"><lb n="11"/><w><choice><orig><hi rendition="hc:Versal">O</hi>b</orig><reg>ob</reg></choice></w><w>er</w><w>iht</w><w>des</w><w><choice><orig>fvnde</orig><reg>funde</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="10"><lb n="12"/><w>do</w><w>mit</w><w>er</w><w>ſwere</w><w><choice><orig>ſtvnde</orig><reg>ſtunde</reg></choice></w></l>
             </lg>
             <lg>
-               <l n="11"><lb n="13"/><w><choice><orig>Senfter</orig><reg>senfter</reg></choice></w><w>mohte</w><w>machen</w></l>
+               <l n="11"><lb n="13"/><w><choice><orig><hi rendition="hc:Versal">S</hi>enfter</orig><reg>senfter</reg></choice></w><w>mohte</w><w>machen</w></l>
                <l n="12"><lb n="14"/><w><choice><orig>Mit</orig><reg>mit</reg></choice></w><w>ſo</w><w>geweren</w><w>ſachen</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="13"><lb n="15"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w><choice><orig>zv</orig><reg>zu</reg></choice></w><w>gotes</w><w>eren</w><w>tochte</w><pc ana="editorial">,</pc></l>
+               <l n="13"><lb n="15"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w><choice><orig>zv</orig><reg>zu</reg></choice></w><w>gotes</w><w>eren</w><w>tochte</w><pc ana="editorial">,</pc></l>
                <l n="14"><lb n="16"/><w>do</w><w>mit</w><w>er</w><w>ſich</w><w>mohte</w></l>
             </lg>
             <lg>
-               <l n="15"><lb n="17"/><w><choice><orig>Ge lieben</orig><reg>gelieben</reg></choice></w><w>den</w><w><choice><orig>levten</orig><reg>leuten</reg></choice></w><pc ana="editorial">.</pc></l>
+               <l n="15"><lb n="17"/><w><choice><orig><hi rendition="hc:Versal">G</hi>e lieben</orig><reg>gelieben</reg></choice></w><w>den</w><w><choice><orig>levten</orig><reg>leuten</reg></choice></w><pc ana="editorial">.</pc></l>
                <l n="16"><lb n="18"/><w>hie</w><w>beginnet</w><w>er</w><w>unſ</w><w><choice><orig>devten</orig><reg>deuten</reg></choice></w><pc ana="editorial">;</pc></l>
             </lg>
             <lg>
-               <l n="17"><lb n="19"/><w><choice><orig>Ein</orig><reg>ein</reg></choice></w><w>rede</w><w>er</w><w>hie</w><w>geſchriben</w><w>vant</w><pc ana="editorial">.</pc></l>
+               <l n="17"><lb n="19"/><w><choice><orig><hi rendition="hc:Versal">E</hi>in</orig><reg>ein</reg></choice></w><w>rede</w><w>er</w><w>hie</w><w>geſchriben</w><w>vant</w><pc ana="editorial">.</pc></l>
                <l n="18"><lb n="20"/><w>dar</w><w><choice><orig>vmbe</orig><reg>umbe</reg></choice></w><w>hat</w><w>er</w><w>ſich</w><w>genant</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
-               <l n="19"><lb n="21"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>er</w><w>ſiner</w><w>arbeit</w><pc ana="editorial">,</pc></l>
+               <l n="19"><lb n="21"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w>er</w><w>ſiner</w><w>arbeit</w><pc ana="editorial">,</pc></l>
                <l n="20"><lb n="22"/><w>die</w><w>er</w><w>an</w><w>ditz</w><w><choice><orig>bvch</orig><reg>buch</reg></choice></w><w>hat</w><w>geleit</w><pc ana="editorial">,</pc></l>
             </lg>
             <lg>
@@ -3058,8 +3058,8 @@
             </lg>
             <lg>
                <l n="1493"><lb n="39"/><pc ana="editorial">›</pc><w><choice><orig>Nv</orig><reg>nu</reg></choice></w><w>iſt</w><w><choice><orig>vch</orig><reg>uch</reg></choice></w><w>allen</w><w>wol</w><w>geſait</w><pc ana="editorial">,</pc></l>
-              <cb n="b"/>
-              <l n="1494"><lb n="1"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>ich</w><w>von</w><w>dirre</w><w>ſchonen</w><w>mait</w></l>
+               <cb n="b"/>
+               <l n="1494"><lb n="1"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>ich</w><w>von</w><w>dirre</w><w>ſchonen</w><w>mait</w></l>
             </lg>
             <lg>
                <l n="1495"><lb n="2"/><w><choice><orig>Minen</orig><reg>minen</reg></choice></w><w>lip</w><w><choice><orig>geſvnden</orig><reg>geſunden</reg></choice></w><w>han</w><pc ana="editorial">,</pc></l>
