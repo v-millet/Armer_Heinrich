@@ -1,0 +1,3091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Der arme Heinrich. Textgeschichtliche elektronische Ausgabe</title>
+            <author>Hartmann von Aue</author>
+            <respStmt> <resp>hrsg. von</resp> <persName ref="https://orcid.org/0000-0002-7683-8892">Victor Millet</persName> <persName ref="https://orcid.org/0000-0002-2202-6354">Gustavo Fernández Riva</persName> </respStmt>
+            <respStmt> <resp>unter Mitarbeit von</resp> <persName ref="http://d-nb.info/gnd/1037976495">Jakub Šimek</persName> </respStmt>
+            <respStmt> <resp>Übersetzungen von</resp> <persName>Dietmar Peschel</persName> </respStmt>
+            <sponsor>Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R</sponsor>
+            <sponsor>Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020</sponsor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Heidelberg University Publishing</publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <idno>https://doi.org/10.11588/edition.ahd</idno>
+            <availability>
+               <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="tr_A"/>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+   </teiHeader>
+   <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
+      <front>
+         <pb n="197"/>
+         <titlePart>Dies ist von dem armen Heinriche</titlePart>
+      </front>
+      <body>
+         <div>
+            <cb n="a"/>
+            <lg>
+               <l n="1">Ein Ritter war so gelehrt,</l>
+               <l n="2">dass er an den Büchern lesen konnte,</l>
+            </lg>
+            <lg>
+               <l n="3">alles, was er daran geschrieben fand.</l>
+               <l n="4">Der war Hartman genannt,</l>
+            </lg>
+            <lg>
+               <l n="5">dienstverpflichtet war er zu Aue.</l>
+               <l n="6">Er schaute sich vielfältig um</l>
+            </lg>
+            <lg>
+               <l n="7">in den verschiedenartigsten Büchern;</l>
+               <l n="8">er begann daran zu suchen,</l>
+            </lg>
+            <lg>
+               <l n="9">ob er etwas der Art fände,</l>
+               <l n="10">womit er schwere Stunde</l>
+            </lg>
+            <lg>
+               <l n="11">sanfter zu machen vermöchte,</l>
+               <l n="12">und von solcherlei Sachen,</l>
+            </lg>
+            <lg>
+               <l n="13">dass es zu Ehren Gottes taugte,</l>
+               <l n="14">und womit er sich vermöchte</l>
+            </lg>
+            <lg>
+               <l n="15">bei den Leuten beliebt zu machen.</l>
+               <l n="16">Er beginnt nun, euch zu deuten und zu verdeutschen</l>
+            </lg>
+            <lg>
+               <l n="17">eine Erzählung, die er geschrieben fand.</l>
+               <l n="18">Er hat sich deswegen mit Namen genannt,</l>
+            </lg>
+            <lg>
+               <l n="19">dass er für seine Arbeit,</l>
+               <l n="20">die er hineingesteckt hat,</l>
+            </lg>
+            <lg>
+               <l n="21">nicht ohne Lohn bliebe,</l>
+               <l n="22">und wenn jemand nach seinem Ableben</l>
+            </lg>
+            <lg>
+               <l n="23">sie sagen hört oder lesen,</l>
+               <l n="24">dass er für ihn ein Gebet sende</l>
+            </lg>
+            <lg>
+               <l n="25">um das Heil seiner Seele, hinauf zu Gott.</l>
+               <l n="26">Man sagt, der sei sein eigner Bote</l>
+            </lg>
+            <lg>
+               <l n="27">und erlöse sich damit,</l>
+               <l n="28">wenn jemand für des andern Schuld betet.</l>
+            </lg>
+            <lg>
+               <l n="29">Er las eben diese Geschichte,</l>
+               <l n="30">wie ein Herr hätte</l>
+            </lg>
+            <lg>
+               <l n="31">in Schwaben seinen Besitz gehabt.</l>
+               <l n="32">An dem war nichts vergessen worden,</l>
+            </lg>
+            <lg>
+               <l n="33">keine einzige Tugend,</l>
+               <l n="34">die ein Ritter in seiner Jugend,</l>
+            </lg>
+            <lg>
+               <l n="35">hochzuloben, haben soll.</l>
+               <l n="36">Man sprach damals von niemandem so gut</l>
+            </lg>
+            <lg>
+               <l n="37">rings in allen Landen.</l>
+               <l n="38">Er hatte zu seiner Verfügung:</l>
+            </lg>
+            <lg>
+               <l n="39">Geburt und dazu Macht und Reichtum;</l>
+               <l n="40">auch war ihm seine Tugend jederzeit bereit;</l>
+            </lg>
+            <lg>
+               <l n="41">aber wie vollkommen alles, was er hatte, auch war –</l>
+               <l n="42">an Geburt ohne jeden Makel</l>
+            </lg>
+            <lg>
+               <l n="43">und sehr wohl den Fürsten zu vergleichen –</l>
+               <l n="44">so war er doch nicht annähernd so reich und mächtig</l>
+            </lg>
+            <lg>
+               <l n="45">nach Geburt und Hab und Gut</l>
+               <l n="46">wie an Ehren und an Selbstbewusstsein, Verstand und Gemüt.</l>
+            </lg>
+            <lg>
+               <l n="47">Sein Name war allgemein bekannt</l>
+               <l n="48">und hieß: der Herr Heinrich,</l>
+            </lg>
+            <lg>
+               <l n="49">und war von der Aue gebürtig.</l>
+               <l n="50">Sein Herz hatte einen Schwur geleistet</l>
+            </lg>
+            <lg>
+               <l n="51">gegen Falsch und alles Bäurische</l>
+               <l n="52">und hielt sich auch fest an diesen Eid,</l>
+            </lg>
+            <lg>
+               <l n="53">stetig, bis an sein Ende,</l>
+               <l n="54">ohne allen Fehltritt,</l>
+            </lg>
+            <lg>
+               <l n="55">und seine Ehre und sein Leben war stets standhaft.</l>
+               <l n="56">Alles, was man nur wünschen konnte</l>
+            </lg>
+            <lg>
+               <l n="57">zu weltlichen Ehren, war ihm gegeben worden;</l>
+               <l n="58">die wusste er wohl zu mehren</l>
+            </lg>
+            <lg>
+               <l n="59">mit all der reinen Tugend.</l>
+               <l n="60">Er war eine Blüte der Jugend,</l>
+            </lg>
+            <lg>
+               <l n="61">ein Spiegelglas der Weltfreude,</l>
+               <l n="62">ein Diamant steter Treue,</l>
+            </lg>
+            <lg>
+               <l n="63">eine ganze Krone feiner Erziehung.</l>
+               <l n="64">Er war die Zuflucht der Bedrängten,</l>
+            </lg>
+            <lg>
+               <l n="65">ein Schutzschild seiner Verwandten,</l>
+               <l n="66">wie eine Waage ausgeglichen in seiner Gebefreude,</l>
+            </lg>
+            <lg>
+               <l n="67">an ihm ward nichts zuviel, noch fehlte je etwas.</l>
+               <l n="68">Er trug der Ehrsamen Last</l>
+            </lg>
+            <lg>
+               <l n="69">der Ehren überm Rücken.</l>
+               <l n="70">Er war wie eine Brücke für Rat und Hilfe</l>
+            </lg>
+            <lg>
+               <l n="71">und sang ganz wunderbar von Minne.</l>
+               <l n="72">Und so wusste er zu gewinnen</l>
+            </lg>
+            <lg>
+               <l n="73">der Welt Lob und Preis.</l>
+               <l n="74">Ein Mann vom Hof und obendrein von großer Erfahrung.</l>
+            </lg>
+            <lg>
+               <l n="75">Als der Heinrich</l>
+               <l n="76">sich also derart freuen konnte</l>
+            </lg>
+            <lg>
+               <l n="77">über Ansehen und Hab und Gut</l>
+               <l n="78">und fröhliches Gemüt</l>
+            </lg>
+            <lg>
+               <l n="79">und der Welt Wonne –</l>
+               <l n="80">er war über all sein Geschlecht hinaus</l>
+            </lg>
+            <lg>
+               <l n="81">gepriesen und geehrt –,</l>
+               <l n="82">da wurde sein hohes Selbstbewusstsein verkehrt</l>
+            </lg>
+            <lg>
+               <l n="83">in ein ganz heruntergebeugtes Leben.</l>
+               <l n="84">An ihm ward gezeigt,</l>
+            </lg>
+            <lg>
+               <l n="85">wie schon an Absalom,</l>
+               <l n="86">dass die üppig-eitle Krone</l>
+            </lg>
+            <lg>
+               <l n="87">des süßen Weltlebens</l>
+               <l n="88">herniederfällt unter die Füße,</l>
+            </lg>
+            <lg>
+               <l n="89">herunter aus ihrer besten Würde,</l>
+               <l n="90">wie uns die Schrift gesagt hat.</l>
+            </lg>
+            <lg>
+               <l n="91">Es heißt an einer Stelle dort:</l>
+               <l n="92">›Media vita</l>
+            </lg>
+            <lg>
+               <l n="93">in morte sumus.‹</l>
+               <l n="94">Und das deutet sich so:</l>
+            </lg>
+            <lg>
+               <l n="95">dass wir im Tod dahinschweben,</l>
+               <l n="96">wenn wir bestens zu leben glauben.</l>
+            </lg>
+            <lg>
+               <l n="97">Diese Welt-Veste</l>
+               <l n="98">und ihre beständige und ihre allerbeste</l>
+            </lg>
+            <lg>
+               <l n="99">und ihre allergrößte Macht und Kraft,</l>
+               <l n="100">die steht da und ist kein Meisterwerk.</l>
+            </lg>
+            <lg>
+               <l n="101">An der Kerze vermögen wir zu sehen,</l>
+               <l n="102">wie ihr Geschick ein wahres Abbild davon ist,</l>
+            </lg>
+            <lg>
+               <l n="103">indem sie zur Asche wird,</l>
+               <l n="104">genau in dem Punkt, da sie gebiert.</l>
+            </lg>
+            <lg>
+               <l n="105">Wir sind aus schwachem Material.</l>
+               <l n="106">Nun seht doch, wie unser Lachen</l>
+            </lg>
+            <lg>
+               <l n="107">mit Weinen erlischt!</l>
+               <l n="108">Was uns süß ist, ist vermischt</l>
+            </lg>
+            <lg>
+               <l n="109">mit bittrer Galle.</l>
+               <l n="110">Unsre Blüte, die muss fallen,</l>
+            </lg>
+            <lg>
+               <l n="111">wenn sie glaubt, im grünsten Grün zu sein.</l>
+               <l n="112">An Herrn Heinrich ward wohl augenscheinlich:</l>
+            </lg>
+            <lg>
+               <l n="113">Der in höchster Wertschätzung</l>
+               <l n="114">auf dieser Erde lebte,</l>
+            </lg>
+            <lg>
+               <l n="115">der ist der Verschmähte vor Gott.</l>
+               <l n="116">Er fiel durch sein Gebot</l>
+            </lg>
+            <lg>
+               <l n="117">herab aus seiner allerbesten Würde</l>
+               <l n="118">in ein schmachvolles Leiden:</l>
+            </lg>
+            <lg>
+               <l n="119">Ihn ergriff der Aussatz.</l>
+               <l n="120">Als man die schwere Züchtigung Gottes</l>
+            </lg>
+            <lg>
+               <l n="121">an seinem Leib erblickte –</l>
+               <l n="122">Männern wie Frauen</l>
+            </lg>
+            <lg>
+               <l n="123">ward er da widerwärtig.</l>
+               <l n="124">Seht doch, wie so angenehm</l>
+            </lg>
+            <lg>
+               <l n="125">er ehedem aller Welt war –</l>
+               <l n="126">und wurde jetzt, im selben Maß, wie einer, den man nie kannte –</l>
+            </lg>
+            <lg>
+               <l n="127">so dass ihn niemand freiwillig ansah,</l>
+               <l n="128">wie es schon Hiob geschehen,</l>
+            </lg>
+            <lg>
+               <l n="129">dem edlen und reichen und mächtigen,</l>
+               <l n="130">der auch höchst jammervoll</l>
+            </lg>
+            <lg>
+               <l n="131">plötzlich nur noch zum Mist gehörte,</l>
+               <l n="132">mitten auf dem Höhepunkt seines Heils.</l>
+            </lg>
+            <lg>
+               <l n="133">Und als der arme Heinrich</l>
+               <l n="134">zum ersten Mal an sich verstand,</l>
+            </lg>
+            <lg>
+               <l n="135">dass er der Welt zuwider war,</l>
+               <l n="136">wie alle, die seinesgleichen sind,</l>
+            </lg>
+            <lg>
+               <l n="137">da unterschied ihn sein verbittertes Leiden</l>
+               <l n="138">von Hiobs Geduld,</l>
+            </lg>
+            <lg>
+               <l n="139">denn es erlitt Hiob, der Gute,</l>
+               <l n="140">mit einem geduldigen Gemüt,</l>
+            </lg>
+            <lg>
+               <l n="141">als ihm das Leiden zum Schicksal wurde,</l>
+               <l n="142">um der Seele Frieden</l>
+            </lg>
+            <lg>
+               <l n="143">die Krankheit und die Demütigung,</l>
+               <l n="144">die er von der Welt erlitt.</l>
+            </lg>
+            <lg>
+               <l n="145">Dafür lobte er Gott und freute sich.</l>
+               <l n="146">Der arme Heinrich aber tat</l>
+            </lg>
+            <lg>
+               <l n="147">leider nichts dergleichen:</l>
+               <l n="148">Denn er war traurig und unfroh.</l>
+            </lg>
+            <lg>
+               <l n="149">Sein hochschwebendes Herz, das schwand dahin,</l>
+               <l n="150">seine hochfliegende Freude ward aufgelöst,</l>
+            </lg>
+            <lg>
+               <l n="151">sein Emporstreben musste zusammenfallen,</l>
+               <l n="152">sein Honig wurde zu Galle.</l>
+            </lg>
+            <lg>
+               <l n="153">Ein heftig finsterer Donnerschlag</l>
+               <l n="154">zerbrach ihm seinen hohen Mittag,</l>
+            </lg>
+            <lg>
+               <l n="155">ein trübes Gewölk, und dicht,</l>
+               <l n="156">verdeckte ihm seiner Sonne blitzenden Blick.</l>
+            </lg>
+            <lg>
+               <l n="157">Voll schmerzlicher Sehnsucht wurde ihm bewusst,</l>
+               <l n="158">dass er so manche Ehre</l>
+            </lg>
+            <lg>
+               <l n="159">nun hinter sich lassen müsste.</l>
+               <l n="160">Verflucht und verwünscht</l>
+            </lg>
+            <lg>
+               <l n="161">ward oftmals der Tag,</l>
+               <l n="162">auf den seine Geburt gefallen war.</l>
+            </lg>
+            <lg>
+               <l n="163">Ein wenig freute er sich doch</l>
+               <l n="164">immer noch über einen Trost,</l>
+            </lg>
+            <lg>
+               <l n="165">denn ihm wurde oft gesagt,</l>
+               <l n="166">dass eben diese Krankheit</l>
+            </lg>
+            <lg>
+               <l n="167">sehr verschiedenartig sei</l>
+               <l n="168">und zuweilen heilbar.</l>
+            </lg>
+            <lg>
+               <l n="169">Darüber machte er sich mancherlei</l>
+               <l n="170">Hoffnungen und Beobachtungen zurecht.</l>
+            </lg>
+            <lg>
+               <l n="171">Er dachte bei sich, er wäre</l>
+               <l n="172">vielleicht doch heilbar,</l>
+            </lg>
+            <lg>
+               <l n="173">und also reiste er eilends</l>
+               <l n="174">auf den Rat der Ärzte hin</l>
+            </lg>
+            <lg>
+               <l n="175">nach Montpellier.</l>
+               <l n="176">Dort fand er aber sehr schnell</l>
+            </lg>
+            <lg>
+               <l n="177">nichts als den Untrost</l>
+               <l n="178">und dass er niemals mehr erlöst werden würde.</l>
+            </lg>
+            <lg>
+               <l n="179">Das hörte er höchst ungern</l>
+               <l n="180">und reiste nach Salerno</l>
+            </lg>
+            <lg>
+               <l n="181">und suchte auch dort für eine Heilung</l>
+               <l n="182">die Kunst der erfahrenen Ärzte.</l>
+            </lg>
+            <lg>
+               <l n="183">Den besten Gelehrten fand er dort,</l>
+               <l n="184">der gab ihm sogleich</l>
+            </lg>
+            <lg>
+               <l n="185">eine seltsame Auskunft,</l>
+               <l n="186">dass er nämlich heilbar wäre,</l>
+            </lg>
+            <lg>
+               <l n="187">und doch immer ungeheilt bleiben würde.</l>
+               <l n="188">Da sprach er: ›Wie kann das sein?</l>
+            </lg>
+            <lg>
+               <l n="189">Du redest ganz unmöglich!</l>
+               <l n="190">Wenn ich heilbar bin, so werde ich geheilt;</l>
+            </lg>
+            <lg>
+               <l n="191">und alles, was man von mir verlangt</l>
+               <l n="192">an Hab und Gut oder an Anstrengung,</l>
+            </lg>
+            <lg>
+               <l n="193">das traue ich mich aufzubringen.‹</l>
+               <l n="194">›Nun lasst die Hoffnung,‹</l>
+            </lg>
+            <lg>
+               <l n="195">sprach darauf der Gelehrte noch einmal.</l>
+               <l n="196">›Mit eurer Krankheit steht es so –</l>
+            </lg>
+            <lg>
+               <l n="197">was nützt es, dass ich euch das zur Kenntnis bringe? –</l>
+               <l n="198">da braucht es eine bestimmte Arznei,</l>
+            </lg>
+            <lg>
+               <l n="199">deswegen könntet ihr geheilt werden.</l>
+               <l n="200">Nun ist aber niemand so reich und mächtig,</l>
+            </lg>
+            <lg>
+               <l n="201">noch hat er einen so starken Sinn,</l>
+               <l n="202">dass er sie zu beschaffen vermöchte.</l>
+            </lg>
+            <lg>
+               <l n="203">Deshalb werdet ihr immer ungeheilt bleiben,</l>
+               <l n="204">es sei denn, Gott selber wollte der Arzt sein.‹</l>
+            </lg>
+            <lg>
+               <l n="205">Darauf sprach der arme Heinrich:</l>
+               <l n="206">›Warum nehmt ihr mir den Trost?</l>
+            </lg>
+            <lg>
+               <l n="207">Wirklich, Hab und Gut besitz ich die Genüge.</l>
+               <l n="208">Wenn ihr nicht gegen eure Wissenschaft</l>
+            </lg>
+            <lg>
+               <l n="209">und auch gegen euren Eid verstoßen wollt</l>
+               <l n="210">und darüberhinaus mein Silber</l>
+            </lg>
+            <lg>
+               <l n="211">wie mein Gold verschmähen,</l>
+               <l n="212">dann mache ich euch mir so gewogen,</l>
+            </lg>
+            <lg>
+               <l n="213">dass ihr mich nur allzugerne rettet.‹</l>
+               <l n="214">›Am Willen fehlte es mir nicht‹,</l>
+            </lg>
+            <lg>
+               <l n="215">erwiderte der Gelehrte darauf,</l>
+               <l n="216">›und wäre die Arznei der Art,</l>
+            </lg>
+            <lg>
+               <l n="217">dass man sie kaufen könnte,</l>
+               <l n="218">oder dass man sie wüsste</l>
+            </lg>
+            <lg>
+               <l n="219">auf irgendeine Weise zu erwerben,</l>
+               <l n="220">ich ließe euch nicht ins Verderben gehen.</l>
+            </lg>
+            <lg>
+               <l n="221">Nun ist das leider nicht möglich.</l>
+               <l n="222">Deshalb muss euch meine Hilfe,</l>
+            </lg>
+            <lg>
+               <l n="223">weil alles dawider ist, versagt bleiben.</l>
+               <l n="224">Ihr müsst eine Jungfrau haben,</l>
+            </lg>
+            <lg>
+               <l n="225">die in jeder Hinsicht ehrbar</l>
+               <l n="226">und außerdem des festen Willens wäre,</l>
+            </lg>
+            <lg>
+               <l n="227">den Tod für euch zu erleiden.</l>
+               <l n="228">Nun ist es aber nicht der Menschen Gewohnheit,</l>
+            </lg>
+            <lg>
+               <l n="229">dass jemand so etwas freiwillig tut.</l>
+               <l n="230">Es braucht nämlich nicht mehr und nicht weniger</l>
+            </lg>
+            <lg>
+               <l n="231">als das Blut dieser Jungfrau –</l>
+               <l n="232">das wäre für eure Krankheit gut.‹</l>
+            </lg>
+            <lg>
+               <l n="233">Nun erkannte der arme Heinrich,</l>
+               <l n="234">dass das unmöglich wäre,</l>
+            </lg>
+            <lg>
+               <l n="235">jemanden dazu zu bringen,</l>
+               <l n="236">dass er freiwillig für ihn stürbe.</l>
+            </lg>
+            <lg>
+               <l n="237">So also war ihm der Trost genommen,</l>
+               <l n="238">um dessentwillen er dorthingekommen war.</l>
+            </lg>
+            <lg>
+               <l n="239">Und ab da, von Stund an,</l>
+               <l n="240">hatte er auf seine Heilung</l>
+            </lg>
+            <lg>
+               <l n="241">keinerlei Hoffnung mehr.</l>
+               <l n="242">Davon ward ihm der Schmerz im Herzen</l>
+            </lg>
+            <lg>
+               <l n="243">so kräftig und so groß,</l>
+               <l n="244">dass es ihn zutiefst verdross,</l>
+            </lg>
+            <lg>
+               <l n="245">dass er noch länger leben sollte.</l>
+               <l n="246">Nun reiste er heim und fing an dahinzugeben</l>
+            </lg>
+            <lg>
+               <l n="247">sein Erbe und all seine bewegliche Habe,</l>
+               <l n="248">wie ihn da sein eigner Gemütszustand</l>
+            </lg>
+            <lg>
+               <l n="249">und weiser Ratschlag lehrte,</l>
+               <l n="250">und wo es am besten angelegt war.</l>
+            </lg>
+            <lg>
+               <l n="251">Er fing an, nach genauer Überlegung,</l>
+               <l n="252">seine armen Freunde reich zu machen,</l>
+            </lg>
+            <lg>
+               <l n="253">und gab auch unbekannten Armen zu ihrem Trost,</l>
+               <l n="254">auf dass sich Gott zu erbarmen</l>
+            </lg>
+            <lg>
+               <l n="255">geruhte über das Heil seiner Seele.</l>
+               <l n="256">Der andere Teil fiel an Gottes Häuser.</l>
+            </lg>
+            <lg>
+               <l n="257">So also tat er von sich</l>
+               <l n="258">seine Habe, nach genauer Überlegung,</l>
+            </lg>
+            <lg>
+               <l n="259">bis auf ein Stück gerodetes Land.</l>
+               <l n="260">Dorthin floh er vor den Menschen.</l>
+            </lg>
+            <lg>
+               <l n="261">Über dieses bejammernswerte Schicksal,</l>
+               <l n="262">über das klagte er nicht als einziger:</l>
+            </lg>
+            <lg>
+               <l n="263">sie klagten um ihn in allen Landen,</l>
+               <l n="264">in denen er bekannt war,</l>
+            </lg>
+            <lg>
+               <l n="265">und auch in den Ländern,</l>
+               <l n="266">wo man ihn vom Hörensagen kannte.</l>
+            </lg>
+            <lg>
+               <l n="267">Der dies gerodet hatte</l>
+               <l n="268">und der es immer noch bebaute,</l>
+            </lg>
+            <lg>
+               <l n="269">das war ein freier Bauer,</l>
+               <l n="270">der kaum jemals</l>
+            </lg>
+            <lg>
+               <l n="271">irgend größeres Unheil erfahren hatte,</l>
+               <l n="272">wie’s andern Bauern immer wieder geschah,</l>
+            </lg>
+            <lg>
+               <l n="273">die mit schlechteren Herren versehen waren,</l>
+               <l n="274">und die sie da nicht verschonten</l>
+            </lg>
+            <lg>
+               <l n="275">mit Steuern und mit Abgaben.</l>
+               <l n="276">Alles, was dieser Bauer freiwillig tat,</l>
+            </lg>
+            <lg>
+               <l n="277">das dünkte seinen Herrn genug;</l>
+               <l n="278">außerdem sorgte er dafür,</l>
+            </lg>
+            <lg>
+               <l n="279">dass er keinerlei Übergriffe</l>
+               <l n="280">von fremder Gewalt zu leiden hatte.</l>
+            </lg>
+            <lg>
+               <l n="281">Deshalb war keiner ihm gleich</l>
+               <l n="282">in diesem Lande, was Macht und Reichtum betraf.</l>
+            </lg>
+            <lg>
+               <l n="283">Zu dem zog sich</l>
+               <l n="284">sein Herr, der arme Heinrich, zurück.</l>
+            </lg>
+            <lg>
+               <l n="285">Alles, was er ihnen erspart hatte,</l>
+               <l n="286">wie wohl ward das nun verdient</l>
+            </lg>
+            <lg>
+               <l n="287">und welch schönen Nießnutz hatte er davon!</l>
+               <l n="288">Denn es bereitete ihm den geringsten Verdruss,</l>
+            </lg>
+            <lg>
+               <l n="289">was ihm um seinetwillen hinzunehmen geschah.</l>
+               <l n="290">Er besaß die Treue und auch die feste Absicht,</l>
+            </lg>
+            <lg>
+               <l n="291">dass er ganz mit freiem Willen erlitt</l>
+               <l n="292">allen Kummer und alle Anstrengung,</l>
+            </lg>
+            <lg>
+               <l n="293">die das Schicksal ihm als Leiden gab:</l>
+               <l n="294">Er schuf ihm reiche Annehmlichkeit.</l>
+            </lg>
+            <lg>
+               <l n="295">Gott hatte dem Meier geschenkt</l>
+               <l n="296">ein reines Leben, nach Acht und Stand ihm gemäß.</l>
+            </lg>
+            <lg>
+               <l n="297">Er hatte einen Leib, der jede Anstrengung vertrug,</l>
+               <l n="298">und ein Weib, das gut wirtschaftete,</l>
+            </lg>
+            <lg>
+               <l n="299">dazu hatte er schöne Kinder,</l>
+               <l n="300">die so recht des Mannes Freude sind,</l>
+            </lg>
+            <lg>
+               <l n="301">und hatte, wie man erzählt,</l>
+               <l n="302">unter den Kindern eine Jungfer,</l>
+            </lg>
+            <lg>
+               <l n="303">ein Kind von acht Jahren,</l>
+               <l n="304">das wusste sich so richtig,</l>
+            </lg>
+            <lg>
+               <l n="305">so von Grund auf gut zu betragen.</l>
+               <l n="306">Die wollte niemals auch nur einen Fußbreit</l>
+            </lg>
+            <lg>
+               <l n="307">von ihrem Herrn weichen.</l>
+               <l n="308">Um seine Huld und seinen Gruß</l>
+            </lg>
+            <lg>
+               <l n="309">diente sie ihm so auf Schritt und Tritt</l>
+               <l n="310">mit ihrer grundgütigen Fürsorge.</l>
+            </lg>
+            <lg>
+               <l n="311">Auch war sie so ansehnlich,</l>
+               <l n="312">dass sie als Kind gut</l>
+            </lg>
+            <lg>
+               <l n="313">zu Kaiser und Reich gepasst hätte,</l>
+               <l n="314">wie sie war – bestimmt.</l>
+            </lg>
+            <lg>
+               <l n="315">Alle andern sannen darauf,</l>
+               <l n="316">wie sie ihn in taktvoller Weise</l>
+            </lg>
+            <lg>
+               <l n="317">wohl meiden konnten.</l>
+               <l n="318">Sie hingegen flog zu aller Stund</l>
+            </lg>
+            <lg>
+               <l n="319">zu ihm und und sonst nirgendwo hin.</l>
+               <l n="320">Sie war all seine Kurzweil;</l>
+            </lg>
+            <lg>
+               <l n="321">sie hatte all ihr Gemüt</l>
+               <l n="322">mit der reinen Güte eines Kindes</l>
+            </lg>
+            <lg>
+               <l n="323">ihrem Herrn zugewandt,</l>
+               <l n="324">so dass man sie zu jeder Zeit fand</l>
+            </lg>
+            <lg>
+               <l n="325">zu ihres Herren Füßen.</l>
+               <l n="326">So wohnte die Süße</l>
+            </lg>
+            <lg>
+               <l n="327">ihrem Herrn zu aller Zeit bei.</l>
+               <l n="328">Und so war er auch lieb zu ihr,</l>
+            </lg>
+            <lg>
+               <l n="329">mit allem, was in seiner Macht lag</l>
+               <l n="330">und was für Mädchen taugte</l>
+            </lg>
+            <lg>
+               <l n="331">zu ihrem kindlichen Spiel,</l>
+               <l n="332">davon gab ihr der Herr so viel wie möglich.</l>
+            </lg>
+            <lg>
+               <l n="333">Auch half ihm sehr, dass Kinder</l>
+               <l n="334">so leicht zu gewöhnen sind.</l>
+            </lg>
+            <lg>
+               <l n="335">Er besorgte ihr, was er kaufen konnte:</l>
+               <l n="336">Spiegel und Haarbänder</l>
+            </lg>
+            <lg>
+               <l n="338">Gürtel und Fingerringe.</l>
+               <l n="337">und was sonst Kindern lieb sein sollte,</l>
+            </lg>
+            <lg>
+               <l n="339">Mit seinem Liebesdienst brachte er sie dahin,</l>
+               <l n="340">dass sie ihm so vertraut ward,</l>
+            </lg>
+            <lg>
+               <l n="341">dass er sie sein Gemahlchen nannte.</l>
+               <l n="342">Das gute Mädchen ließ ihn</l>
+            </lg>
+            <lg>
+               <l n="343">selten einsam bleiben:</l>
+               <l n="344">Er dünkte sie die Reinheit selbst.</l>
+            </lg>
+            <lg>
+               <l n="345">Wie stark das auch immer kam</l>
+               <l n="346">von dem, was er für das Kind ausgab </l>
+            </lg>
+            <lg>
+               <l n="347">der tiefste Grund ihrer Liebe war doch</l>
+               <l n="348">ein süßer Geist, den Gott ihr schenkte.</l>
+            </lg>
+            <lg>
+               <l n="349">So war ihr Dienen von Grund auf gut.</l>
+               <l n="350">Als dann der arme Heinrich</l>
+            </lg>
+            <lg>
+               <l n="351">drei Jahre dort gewohnt</l>
+               <l n="352">und Gott ihm mit großem Jammer</l>
+            </lg>
+            <lg>
+               <l n="353">seinen Leib gequält hatte,</l>
+               <l n="354">da saß einmal der Meier und sein Weib</l>
+            </lg>
+            <lg>
+               <l n="355">und ihre Tochter, das Mädchen,</l>
+               <l n="356">von der ich euch schon erzählt habe,</l>
+            </lg>
+            <lg>
+               <l n="357">bei ihm in ihrer Unruhe,</l>
+               <l n="358">und sie fing an zu klagen über das Leiden ihres Herrn.</l>
+            </lg>
+            <lg>
+               <l n="359">Zu solcher Klage wurden sie schwer gedrängt,</l>
+               <l n="360">denn sie fürchteten, dass sein Tod</l>
+            </lg>
+            <lg>
+               <l n="361">ihnen Schmerz und Verletzung zufügen</l>
+               <l n="362">und sie ganz hinausstoßen würde</l>
+            </lg>
+            <lg>
+               <l n="363">aus Ansehen, Hab und Gut,</l>
+               <l n="364">und dass von härterem Gemüt</l>
+            </lg>
+            <lg>
+               <l n="365">ein anderer Herr sein würde.</l>
+               <l n="366">Sie hatten so lange darüber hin und her gedacht,</l>
+            </lg>
+            <lg>
+               <l n="367">bis dass besagter Bauer</l>
+               <l n="368">zu folgender Frage anhob.</l>
+            </lg>
+            <lg>
+               <l n="369">Er sprach: ›Mein lieber Herr,</l>
+               <l n="370">wenn es mit eurer Huld möglich ist,</l>
+            </lg>
+            <lg>
+               <l n="371">so wollt’ ich gerne fragen:</l>
+               <l n="372">Wenn es doch zu Salerno so viele</l>
+            </lg>
+            <lg>
+               <l n="373">Magister der Arzneikunst gibt,</l>
+               <l n="374">wie kommt es, dass die Gelehrsamkeit von keinem</l>
+            </lg>
+            <lg>
+               <l n="375">für euren Mangel an Gesundheit</l>
+               <l n="376">irgendeine Abhilfe wusste?</l>
+            </lg>
+            <lg>
+               <l n="377">Herr, das würde ich gern wissen!‹</l>
+               <l n="378">Darauf holte der arme Heinrich</l>
+            </lg>
+            <lg>
+               <l n="379">tiefes Seufzen aus dem Herzen.</l>
+               <l n="380">Mit bitterem Schmerz,</l>
+            </lg>
+            <lg>
+               <l n="381">mit solcher Trauer sprach er dann,</l>
+               <l n="382">dass der Seufzer ihm das Wort zerbrach:</l>
+            </lg>
+            <lg>
+               <l n="383">›Ich habe diese beschämende Verspottung</l>
+               <l n="384">um Gottes Willen ganz gewiss verdient!</l>
+            </lg>
+            <lg>
+               <l n="385">Denn du hast früher gewiss bemerkt,</l>
+               <l n="386">dass mein Tor hoch offen stand</l>
+            </lg>
+            <lg>
+               <l n="387">für die Wonne der Welt,</l>
+               <l n="388">und dass keiner in seinem Geschlechte</l>
+            </lg>
+            <lg>
+               <l n="389">mehr seinen Willen hatte als ich.</l>
+               <l n="390">Und doch war das ein Ding der Unmöglichkeit,</l>
+            </lg>
+            <lg>
+               <l n="391">denn ich hatte eigentlich gar nichts.</l>
+               <l n="392">Damals habe ich nur wenig von dem bemerkt,</l>
+            </lg>
+            <lg>
+               <l n="393">der mir all dies Wunschleben</l>
+               <l n="394">in seiner Gnade geschenkt hat.</l>
+            </lg>
+            <lg>
+               <l n="395">Das Herz stand mir damals so,</l>
+               <l n="396">wie alle Welt-Toren handeln,</l>
+            </lg>
+            <lg>
+               <l n="397">denen ihr Bewusstsein eingibt,</l>
+               <l n="398">dass sie Ansehen, Hab und Gut</l>
+            </lg>
+            <lg>
+               <l n="399">ohne Gott haben können.</l>
+               <l n="400">So trog auch mich meine ahnungslose Vorstellung,</l>
+            </lg>
+            <lg>
+               <l n="401">denn ich habe nur wenig auf ihn geschaut.</l>
+               <l n="402">Von der Gnade ist mir</l>
+            </lg>
+            <lg>
+               <l n="403">so viel an Ansehen, Hab und Gut geschehen.</l>
+               <l n="404">Als dann diese hohe Selbsteinschätzung</l>
+            </lg>
+            <lg>
+               <l n="405">dem hohen Pförtner zum Verdruss wurde,</l>
+               <l n="406">verschloss er die Pforte der Glückseligkeit vor mir;</l>
+            </lg>
+            <lg>
+               <l n="407">da komm ich leider nimmermehr hinein – </l>
+               <l n="408">das hat mein ahnungsloser Verstand mir verwirkt.</l>
+            </lg>
+            <lg>
+               <l n="409">Gott hat mir zur Strafe eine Krankheit</l>
+               <l n="410">auferlegt, die so geartet ist,</l>
+            </lg>
+            <lg>
+               <l n="411">dass sie niemand von mir loszumachen vermag.</l>
+               <l n="412">Nun bin ich für die Niedrigen eine Schmach</l>
+            </lg>
+            <lg>
+               <l n="413">und die Hohen kümmern sich nicht um mich.</l>
+               <l n="414">Wie niedrig der auch ist, der mich ansieht,</l>
+            </lg>
+            <lg>
+               <l n="415">ich muss ihm noch viel niedriger sein.</l>
+               <l n="416">Seinen Unwert zeigt er an mir:</l>
+            </lg>
+            <lg>
+               <l n="417">Er wendet die Augen weg von mir.</l>
+               <l n="418">Nun erst zeigt sich an dir</l>
+            </lg>
+            <lg>
+               <l n="419">deine Treue, die du hast,</l>
+               <l n="420">dass du einen Kranken wie mich bei dir sein lässt</l>
+            </lg>
+            <lg>
+               <l n="421">und nie vor mir fliehst.</l>
+               <l n="422">Wie du keine Scheu vor mir hast,</l>
+            </lg>
+            <lg>
+               <l n="423">und wie ich niemandem angenehm bin außer dir,</l>
+               <l n="424">wie sehr dein Heil auch an mir hängt –</l>
+            </lg>
+            <lg>
+               <l n="425">du würdest doch wohl meinen Tod ertragen!</l>
+               <l n="426">Wessen Geringschätzung und wessen Not</l>
+            </lg>
+            <lg>
+               <l n="427">ward je größer in dieser Welt?</l>
+               <l n="428">Vordem war ich dein Herr,</l>
+            </lg>
+            <lg>
+               <l n="429">und jetzt bin ich der, der deiner bedarf.</l>
+               <l n="430">Mein lieber Freund, du erkaufst dir jetzt,</l>
+            </lg>
+            <lg>
+               <l n="431">und so auch mein Gemahlchen und dein Weib,</l>
+               <l n="432">das ewige Leben an mir,</l>
+            </lg>
+            <lg>
+               <l n="433">indem du mich Kranken bei dir bleiben lässt.</l>
+               <l n="434">Das, was du mich gefragt hast,</l>
+            </lg>
+            <lg>
+               <l n="435">das will ich dir sehr gern sagen:</l>
+               <l n="436">Ich kam nach Salerno,</l>
+            </lg>
+            <lg>
+               <l n="437">da konnte ich keinen Magister finden,</l>
+               <l n="438">der sich meiner anzunehmen</l>
+            </lg>
+            <lg>
+               <l n="439">getraut oder gewollt hätte.</l>
+               <l n="440">Denn das, womit ich hätte sollen</l>
+            </lg>
+            <lg>
+               <l n="441">genesen von meiner Krankheit,</l>
+               <l n="442">das hätte eine solche Sache sein müssen,</l>
+            </lg>
+            <lg>
+               <l n="443">die in dieser Welt niemand</l>
+               <l n="444">und auf keine Art und Weise gewinnen kann.</l>
+            </lg>
+            <lg>
+               <l n="445">Nichts andres ward mir da gesagt,</l>
+               <l n="446">als dass ich eine Jungfrau haben müsste,</l>
+            </lg>
+            <lg>
+               <l n="447">die gerade ganz mannbar</l>
+               <l n="448">und außerdem des festen Willens wäre,</l>
+            </lg>
+            <lg>
+               <l n="449">den Tod für mich zu erleiden,</l>
+               <l n="450">und man sie bis zum Herzen aufschneiden müsste,</l>
+            </lg>
+            <lg>
+               <l n="451">und nichts andres wäre für mich gut,</l>
+               <l n="452">als das Blut von ihrem Herzen.</l>
+            </lg>
+            <lg>
+               <l n="453">Nun ist das aber unmöglich genug,</l>
+               <l n="454">dass eine von ihnen für mich</l>
+            </lg>
+            <lg>
+               <l n="455">freiwillig den Tod erleiden wollte.</l>
+               <l n="456">Deshalb muss ich diese schändliche Not</l>
+            </lg>
+            <lg>
+               <l n="457">bis an mein Ende tragen.</l>
+               <l n="458">Dass Gott mir das bald sende!‹</l>
+            </lg>
+            <lg>
+               <l n="459">Was er dem Vater gesagt hatte,</l>
+               <l n="460">das hatte auch die reine Jungfrau gehört;</l>
+            </lg>
+            <lg>
+               <l n="461">denn es hatte diese Allersüßeste</l>
+               <l n="462">die Füße ihres geliebten Herrn</l>
+            </lg>
+            <lg>
+               <l n="463">in ihrem Schoße stehen.</l>
+               <l n="464">Es ließe sich wohl vergleichen</l>
+            </lg>
+            <lg>
+               <l n="465">ihr kindliches Gemüt</l>
+               <l n="466">damit, wie gut die Engel sind.</l>
+            </lg>
+            <lg>
+               <l n="467">Sie nahm alles, was er sagte, wahr</l>
+               <l n="468">und merkte es sich auch gut,</l>
+            </lg>
+            <lg>
+               <l n="469">es kam nicht mehr aus ihrem Herzen</l>
+               <l n="470">bis man zur Nacht schlafen ging.</l>
+            </lg>
+            <lg>
+               <l n="471">Als sie zu Füßen ihres Vaters lag,</l>
+               <l n="472">und auch ihrer Mutter, wie sie immer tat,</l>
+            </lg>
+            <lg>
+               <l n="473">und die beiden eingeschlafen waren,</l>
+               <l n="474">holte sie so manchen tiefen Seufzer</l>
+            </lg>
+            <lg>
+               <l n="475">aus ihrem Herzen herauf.</l>
+               <l n="476">Um die Schmerzen ihres Herrn</l>
+            </lg>
+            <lg>
+               <l n="477">ward ihre Trauer so groß,</l>
+               <l n="478">dass ihr Augenregen begoss</l>
+            </lg>
+            <lg>
+               <l n="479">die Füße der Schlafenden.</l>
+               <l n="480">So weckte die Süße sie auf.</l>
+            </lg>
+            <lg>
+               <l n="481">Als sie die Tränen spürten,</l>
+               <l n="482">erwachten sie und fingen an,</l>
+            </lg>
+            <lg>
+               <l n="483">sie zu fragen, was ihr wäre</l>
+               <l n="484">und über welcherlei Beschwerden</l>
+            </lg>
+            <lg>
+               <l n="485">sie wohl so stille vor sich hin klagte.</l>
+               <l n="486">Nun wollte sie’s ihnen nicht sagen.</l>
+            </lg>
+            <lg>
+               <l n="487">Und da ihr Vater sie aber</l>
+               <l n="488">vielmals bedrohte und bat,</l>
+            </lg>
+            <lg>
+               <l n="489">dass sie’s ihm sagen wolle,</l>
+               <l n="490">sprach sie: ›Ihr solltet mit mir wehklagen!</l>
+            </lg>
+            <lg>
+               <l n="491">Was könnte uns schlimmer sein</l>
+               <l n="492">als das mit unserm Herrn?</l>
+            </lg>
+            <lg>
+               <l n="494">und mit ihm nichts mehr sehen</l>
+               <l n="493">Dass wir den verlieren sollen</l>
+            </lg>
+            <lg>
+               <l n="495">von unserm Hab und Gut und unsrer Ehre!</l>
+               <l n="496">Wir bekommen niemals mehr</l>
+            </lg>
+            <lg>
+               <l n="497">einen so guten Herrn,</l>
+               <l n="498">der das für uns tut, was er uns tut.‹</l>
+            </lg>
+            <lg>
+               <l n="499">Sie sprachen: ›Tochter, du hast recht.</l>
+               <l n="500">Nun hilft uns leider nicht um ein Haar</l>
+            </lg>
+            <lg>
+               <l n="501">unsre Trauer und die Klage.</l>
+               <l n="502">Liebes Kind, schweig also davon!</l>
+            </lg>
+            <lg>
+               <l n="503">Es bereitet uns so viel Leid wie dir.</l>
+               <l n="504">Leider können wir ihm nun</l>
+            </lg>
+            <lg>
+               <l n="505">mit nichts helfen.</l>
+               <l n="506">Gott, der hat ihn uns genommen –</l>
+            </lg>
+            <lg>
+               <l n="507">und hätte es jemand anders getan,</l>
+               <l n="508">der müsste unsern Fluch tragen.‹</l>
+            </lg>
+            <lg>
+               <l n="509">So brachten sie sie dann zum Schweigen.</l>
+               <l n="510">Die Nacht wurde sie nicht mehr froh,</l>
+            </lg>
+            <lg>
+               <l n="511">und so auch den ganzen folgenden Tag.</l>
+               <l n="512">Was immer jemand sonst machte,</l>
+            </lg>
+            <lg>
+               <l n="513">ihr kam dies nie aus dem Herzen,</l>
+               <l n="514">bis man die andere Nacht</l>
+            </lg>
+            <lg>
+               <l n="515">wie gewöhnlich schlafen ging.</l>
+               <l n="516">Als sie sich niedergelegt hatte</l>
+            </lg>
+            <lg>
+               <l n="517">an ihrer alten Stelle im Bett,</l>
+               <l n="518">bereitete sie wieder ein Bad</l>
+            </lg>
+            <lg>
+               <l n="519">mit weinenden Augen;</l>
+               <l n="520">denn insgeheim trug sie,</l>
+            </lg>
+            <lg>
+               <l n="521">ganz nah in ihrem Gemüt,</l>
+               <l n="522">die allergrößte Güte,</l>
+            </lg>
+            <lg>
+               <l n="523">die ich je von einem Kinde gehört habe.</l>
+               <l n="524">Welches Kind würde sich auch je so verhalten?</l>
+            </lg>
+            <lg>
+               <l n="525">Sie sah nur ein Einziges, das ihr wichtig war:</l>
+               <l n="526">Wenn sie den morgigen Tag erleben sollte,</l>
+            </lg>
+            <lg>
+               <l n="527">dass sie wirklich und wahrhaftig ihr Leben</l>
+               <l n="528">um ihren Herrn geben wollte.</l>
+            </lg>
+            <lg>
+               <l n="529">Von diesem Gedanken ward sie dann</l>
+               <l n="530">ganz leichten Muts und froh</l>
+            </lg>
+            <lg>
+               <l n="531">und hatte keinerlei Sorgen mehr,</l>
+               <l n="532">bis auf eine Befürchtung, die ihr weh tat:</l>
+            </lg>
+            <lg>
+               <l n="533">Wenn sie’s ihrem Herrn sagen würde,</l>
+               <l n="534">dass der darüber verzagen könnte,</l>
+            </lg>
+            <lg>
+               <l n="535">und wenn sie’s ihnen allen dreien</l>
+               <l n="536">bekannt gäbe, dass sie bei ihnen</l>
+            </lg>
+            <lg>
+               <l n="537">keinen willfährigen Zügel finden</l>
+               <l n="538">und man’s ihr nicht vergönnen würde.</l>
+            </lg>
+            <lg>
+               <l n="539">Davon wurde sie so unruhig,</l>
+               <l n="540">dass ihr Vater davon,</l>
+            </lg>
+            <lg>
+               <l n="541">und ihre Mutter, geweckt wurden,</l>
+               <l n="542">wie schon in der Nacht zuvor.</l>
+            </lg>
+            <lg>
+               <l n="543">Sie richteten sich auf zu ihr</l>
+               <l n="544">und sprachen: ›Jetzt schau, was hast du denn Schlimmes?</l>
+            </lg>
+            <lg>
+               <l n="545">Du bist doch albern,</l>
+               <l n="546">dass du so viel Beschwerden</l>
+            </lg>
+            <lg>
+               <l n="547">mit solcher Klage dir auflädst,</l>
+               <l n="548">die doch niemand zu einem Ziel führen kann.</l>
+            </lg>
+            <lg>
+               <l n="549">Warum lässt du uns nicht schlafen!‹</l>
+               <l n="550">So begannen sie, sie zu schimpfen:</l>
+            </lg>
+            <lg>
+               <l n="551">Was ihr denn die Klage brächte,</l>
+               <l n="552">für die doch niemand</l>
+            </lg>
+            <lg>
+               <l n="553">ein Ziel noch Abhilfe hätte?</l>
+               <l n="554">So glaubten sie, die Süße</l>
+            </lg>
+            <lg>
+               <l n="555">umgehend zum Schweigen zu bringen.</l>
+               <l n="556">Aber sie wussten nichts von ihrem Willen.</l>
+            </lg>
+            <lg>
+               <l n="557">So antwortete ihnen also das Mädchen:</l>
+               <l n="558">›Wie uns mein Herr gesagt hat,</l>
+            </lg>
+            <lg>
+               <l n="559">so kann man ihn sehr wohl retten.</l>
+               <l n="560">Wahrlich, wenn ihr’s mir nicht verwehren wollt,</l>
+            </lg>
+            <lg>
+               <l n="561">dann bin ich für ihn als Arznei gut.</l>
+               <l n="562">Ich bin eine Jungfrau und ich bringe den Mut auf,</l>
+            </lg>
+            <lg>
+               <l n="563">bevor ich ihn in seinem Verderben sehe,</l>
+               <l n="564">will ich eher für ihn sterben!‹</l>
+            </lg>
+            <lg>
+               <l n="565">Von diesem Reden wurden sie da</l>
+               <l n="566">traurig beide und freudlos,</l>
+            </lg>
+            <lg>
+               <l n="567">beide, Mutter und Vater.</l>
+               <l n="568">Er bat seine Tochter,</l>
+            </lg>
+            <lg>
+               <l n="569">dass sie solche Rede unterlassen solle</l>
+               <l n="570">und ihrem Herrn nur das verheißen,</l>
+            </lg>
+            <lg>
+               <l n="571">was sie auch zu leisten vermöchte,</l>
+               <l n="572">denn dies hier käme ihr nicht zu.</l>
+            </lg>
+            <lg>
+               <l n="573">Er sprach: ›Tochter, du bist ein Kind,</l>
+               <l n="574">und deine Treue ist</l>
+            </lg>
+            <lg>
+               <l n="575">in diesen Dingen allzu groß.</l>
+               <l n="576">Du kannst das nicht aufbringen,</l>
+            </lg>
+            <lg>
+               <l n="577">so wie du uns das hier vorgetragen hast.</l>
+               <l n="578">Du hast den Tod nicht gesehen.</l>
+            </lg>
+            <lg>
+               <l n="579">Wenn es für dich an die Zeit kommt,</l>
+               <l n="580">dass keine Hilfe mehr ist,</l>
+            </lg>
+            <lg>
+               <l n="581">und du sterben musst,</l>
+               <l n="582">und du könntest irgend erreichen –</l>
+            </lg>
+            <lg>
+               <l n="583">du würdest leben, viel lieber, trotz allem!</l>
+               <l n="584">Denn in ein schlimmeres Leidensgefängnis bist du nie gekommen.</l>
+            </lg>
+            <lg>
+               <l n="585">Halt also darüber den Mund!</l>
+               <l n="586">Und lässt du jetzt</l>
+            </lg>
+            <lg>
+               <l n="587">noch einmal solche Rede laut werden,</l>
+               <l n="588">dann gibt’s was auf die Haut!‹</l>
+            </lg>
+            <lg>
+               <l n="589">Gradso also glaubte er nun, sie</l>
+               <l n="590">mit Bitten und Drohen</l>
+            </lg>
+            <lg>
+               <l n="591">zum Schweigen zu bringen. Aber das konnte er nicht.</l>
+               <l n="592">Seine Tochter antwortete ihm so:</l>
+            </lg>
+            <lg>
+               <l n="593">›Vater mein, wie unerfahren ich auch bin,</l>
+               <l n="594">ich besitze doch soviel Verstand,</l>
+            </lg>
+            <lg>
+               <l n="595">dass ich vom Hörensagen von der Not</l>
+               <l n="596">weiß, dass der Tod für den Leib</l>
+            </lg>
+            <lg>
+               <l n="597">schwer und schlimm ist.</l>
+               <l n="598">Wenn einer aber auf die Dauer</l>
+            </lg>
+            <lg>
+               <l n="599">ein Leben voller Mühsal leben soll,</l>
+               <l n="600">dem ist gewiss auch nicht so wohl.</l>
+            </lg>
+            <lg>
+               <l n="601">Denn wenn er hier um’s Überleben ringt,</l>
+               <l n="602">und bringt bis ins Alter</l>
+            </lg>
+            <lg>
+               <l n="603">sein Leben mit großer Not,</l>
+               <l n="604">so muss er den Tod gleichwohl erleiden.</l>
+            </lg>
+            <lg>
+               <l n="605">Ist ihm aber dann die Seele verloren,</l>
+               <l n="606">so wäre er besser ungeboren.</l>
+            </lg>
+            <lg>
+               <l n="607">Ich aber sehe das Ziel –</l>
+               <l n="608">und dafür will ich Gott immer loben –</l>
+            </lg>
+            <lg>
+               <l n="609">dass ich Leib und Leben jung hingeben kann</l>
+               <l n="610">für das ewige Leben.</l>
+            </lg>
+            <lg>
+               <l n="611">Nun sollt ihr mir’s nicht verleiden!</l>
+               <l n="612">Ich will für mich und für euch zwei</l>
+            </lg>
+            <lg>
+               <l n="613">einen sehr, sehr guten Weg damit gehen.</l>
+               <l n="614">Ich vermag euch ganz allein wohl zu bewahren</l>
+            </lg>
+            <lg>
+               <l n="615">vor Schaden und vor Leid;</l>
+               <l n="616">wie, das setze ich euch jetzt auseinander.</l>
+            </lg>
+            <lg>
+               <l n="617">Ihr habt Ansehen und Hab und Gut –</l>
+               <l n="618">das heißt, so wie’s unsers Herrn Absicht ist,</l>
+            </lg>
+            <lg>
+               <l n="619">indem er euch nie etwas zu Leide gesagt,</l>
+               <l n="620">noch das Hab und Gut je auch nur angetastet hat.</l>
+            </lg>
+            <lg>
+               <l n="621">So lange er also leben wird,</l>
+               <l n="622">so steht’s um eure Sache gut.</l>
+            </lg>
+            <lg>
+               <l n="623">Und wenn wir den sterben lassen,</l>
+               <l n="624">so muss das unsrer Verderben sein.</l>
+            </lg>
+            <lg>
+               <l n="625">Ihn will ich uns erhalten</l>
+               <l n="626">mit einer so schönen Tat,</l>
+            </lg>
+            <lg>
+               <l n="627">mit der wir alle gerettet sind.</l>
+               <l n="628">Nun gönnt mir’s, denn es muss sein!‹</l>
+            </lg>
+            <lg>
+               <l n="629">Die Mutter sprach weinend,</l>
+               <l n="630">als sie den Ernst der Tochter sah:</l>
+            </lg>
+            <lg>
+               <l n="631">›Denke daran, Tochter, liebes Kind,</l>
+               <l n="632">wie groß die Mühen sind,</l>
+            </lg>
+            <lg>
+               <l n="633">die ich um dich erlitten habe,</l>
+               <l n="634">und lass mich bessern Lohn empfangen,</l>
+            </lg>
+            <lg>
+               <l n="635">als ich dich sagen höre.</l>
+               <l n="636">Du willst mir das Herz brechen!</l>
+            </lg>
+            <lg>
+               <l n="637">Mach mir deine Rede ein wenig sanfter.</l>
+               <l n="638">Wahrlich, du willst all dein Heil</l>
+            </lg>
+            <lg>
+               <l n="639">an uns verwirken, gegen Gott.</l>
+               <l n="640">Denkst du denn nicht an sein Gebot?</l>
+            </lg>
+            <lg>
+               <l n="641">Hat er doch wahrlich geboten und gebeten,</l>
+               <l n="642">dass man Mutter und Vater</l>
+            </lg>
+            <lg>
+               <l n="643">Liebe und Ehre erweise,</l>
+               <l n="644">und verheißt das als Gegengabe,</l>
+            </lg>
+            <lg>
+               <l n="645">dass der Seele Errettung zuteil wird</l>
+               <l n="646">und langes Leben auf der Erde.</l>
+            </lg>
+            <lg>
+               <l n="647">Du behauptest, du wollest dein Leben</l>
+               <l n="648">um unser beider Freude hingeben;</l>
+            </lg>
+            <lg>
+               <l n="649">du willst uns beiden in Wahrheit</l>
+               <l n="650">das Leben schwerst verleiden.</l>
+            </lg>
+            <lg>
+               <l n="651">Dass dein Vater und auch ich</l>
+               <l n="652">gerne leben, das ist um deinetwillen!</l>
+            </lg>
+            <lg>
+               <l n="653">Wahrlich, du sollst, meine liebe Tochter,</l>
+               <l n="654">unser beider Freude sein,</l>
+            </lg>
+            <lg>
+               <l n="655">nichts als unsers Lebens Wonne,</l>
+               <l n="656">eine Blüte in deinem Geschlecht,</l>
+            </lg>
+            <lg>
+               <l n="657">ein Stecken und Stab unsers Alters.</l>
+               <l n="658">Und lass uns nur über deinem Grab</l>
+            </lg>
+            <lg>
+               <l n="659">stehen durch deine eigene Schuld,</l>
+               <l n="660">so musst du von Gottes Hulden</l>
+            </lg>
+            <lg>
+               <l n="661">für ewig getrennt sein –</l>
+               <l n="662">das erkaufst du an uns beiden!‹</l>
+            </lg>
+            <lg>
+               <l n="663">Sie sprach: ›Mutter, ich traue dir</l>
+               <l n="664">und meinem Vater für mich</l>
+            </lg>
+            <lg>
+               <l n="665">all die Gnade wohl zu,</l>
+               <l n="666">die ein Vater und eine Mutter</l>
+            </lg>
+            <lg>
+               <l n="667">ihrem Kind gewähren soll,</l>
+               <l n="668">wie ich das wohl erfahre</l>
+            </lg>
+            <lg>
+               <l n="669">von euch beiden jeden einzelnen Tag.</l>
+               <l n="670">Von euern Gnaden habe ich</l>
+            </lg>
+            <lg>
+               <l n="671">die Seele und einen schönen Leib.</l>
+               <l n="672">Mann und Frau rühmt mich,</l>
+            </lg>
+            <lg>
+               <l n="673">und alle, die mich zu sehen bekommen,</l>
+               <l n="674">sprechen, ich sei das schönste Kind,</l>
+            </lg>
+            <lg>
+               <l n="675">das sie in der Welt gesehen haben.</l>
+               <l n="676">Wem sollte ich solche Gnade danken,</l>
+            </lg>
+            <lg>
+               <l n="677">mehr als euch zweien, nach Gott?</l>
+               <l n="678">Deshalb soll und werde ich zu eurem Gebot</l>
+            </lg>
+            <lg>
+               <l n="679">für immer mit allem Begehren stehen.</l>
+               <l n="680">Welch großes Recht muss mir das sein!</l>
+            </lg>
+            <lg>
+               <l n="681">Mutter, glückselige Frau,</l>
+               <l n="682">weil ich nun Seele und Leib</l>
+            </lg>
+            <lg>
+               <l n="683">von euern Gnaden habe,</l>
+               <l n="684">so lasst es mit euern Hulden zu,</l>
+            </lg>
+            <lg>
+               <l n="685">dass ich diese beiden auch</l>
+               <l n="686">vom Teufel fernhalte</l>
+            </lg>
+            <lg>
+               <l n="687">und mich Gott geben darf.</l>
+               <l n="688">Wahrlich, für diese Welt leben</l>
+            </lg>
+            <lg>
+               <l n="689">ist nichts als der Verlust der Seele!</l>
+               <l n="690">Auch hat mich weltliches Gelüsten</l>
+            </lg>
+            <lg>
+               <l n="691">bisher noch nicht angerührt,</l>
+               <l n="692">das da zur Hölle hinführt.</l>
+            </lg>
+            <lg>
+               <l n="693">Nun will ich Gottes Gnade danken,</l>
+               <l n="694">dass er in meinen jungen Tagen</l>
+            </lg>
+            <lg>
+               <l n="695">mir solche Sinne gegeben hat,</l>
+               <l n="696">dass ich auf dieses zerbrechliche Leben</l>
+            </lg>
+            <lg>
+               <l n="697">nur sehr wenig Acht gebe.</l>
+               <l n="698">Ich will mich, rein wie ich bin,</l>
+            </lg>
+            <lg>
+               <l n="699">in Gottes Walten überantworten.</l>
+               <l n="700">Ich fürchte, sollte ich alt werden,</l>
+            </lg>
+            <lg>
+               <l n="701">dass mich die Süße der Welt</l>
+               <l n="702">unter ihre Füße zerren würde,</l>
+            </lg>
+            <lg>
+               <l n="703">wohin sie schon so manchen gezerrt hat,</l>
+               <l n="704">den sie auch mit ihrer Süße betrogen hat.</l>
+            </lg>
+            <lg>
+               <l n="705">So würde man mich leicht Gott absprechen.</l>
+               <l n="706">Gott muss es geklagt sein,</l>
+            </lg>
+            <lg>
+               <l n="707">dass ich bis morgen leben soll –</l>
+               <l n="708">so wohl behagt mir diese Welt nicht!</l>
+            </lg>
+            <lg>
+               <l n="709">Das meiste ihrer Annehmlichkeit ist Herzeleid,</l>
+               <l n="710">das sei euch fürwahr gesagt,</l>
+            </lg>
+            <lg>
+               <l n="711">ihr süßer Lohn eine bittere Not,</l>
+               <l n="712">ihr Langleben ein bittrer Tod.</l>
+            </lg>
+            <lg>
+               <l n="713">Wir haben nicht mehr an Gewissheit,</l>
+               <l n="714">als heute wohl und morgen weh</l>
+            </lg>
+            <lg>
+               <l n="715">und zuletzt immer der Tod –</l>
+               <l n="716">das ist eine jammervolle Not!</l>
+            </lg>
+            <lg>
+               <l n="717">Es beschirmt einen weder Geburt noch Hab und Gut,</l>
+               <l n="718">Schönheit, Stärke, noch hohes Selbstbewusstsein,</l>
+            </lg>
+            <lg>
+               <l n="719">es helfen weder Tugend noch Ehre</l>
+               <l n="720">vor dem Tod, nicht mehr</l>
+               <l n="721">als Un-Geburt und Untugend.</l>
+               <l n="722">Unser Leben und unsere Jugend</l>
+            </lg>
+            <lg>
+               <l n="723">ist ein Nebel und ein Raub;</l>
+               <l n="724">unsre Beständigkeiten bibbern wie Laub.</l>
+            </lg>
+            <lg>
+               <l n="725">Der ist ein missgeschaffner Depp,</l>
+               <l n="726">der freiwillig Gefäß für den Rauch sein will –</l>
+            </lg>
+            <lg>
+               <l n="727">es sei Frau oder Mann –</l>
+               <l n="728">der dies nicht recht zu bedenken weiß</l>
+            </lg>
+            <lg>
+               <l n="729">und auch der Welt nachfolgen will;</l>
+               <l n="730">denn uns ist über den faulenden Mist</l>
+            </lg>
+            <lg>
+               <l n="731">seidenes Tuch hier gespreitet!</l>
+               <l n="732">Wen nun dieser Glanz verleitet,</l>
+            </lg>
+            <lg>
+               <l n="733">der ist zur Hölle geboren,</l>
+               <l n="734">und er hat nicht mehr verloren,</l>
+            </lg>
+            <lg>
+               <l n="735">als die Seele und Leib und Leben!</l>
+               <l n="736">Nun gedenkt, glückselige Frau,</l>
+            </lg>
+            <lg>
+               <l n="737">mütterlicher Treue</l>
+               <l n="738">und besänftigt eure Traurigkeit,</l>
+            </lg>
+            <lg>
+               <l n="739">die ihr da um mich habt;</l>
+               <l n="740">so bedenkt sich auch der Vater;</l>
+            </lg>
+            <lg>
+               <l n="741">ich weiß wohl, dass er mir alles Heil gönnt.</l>
+               <l n="742">Er ist so ein aufrechter Mann,</l>
+            </lg>
+            <lg>
+               <l n="743">dass er sehr wohl erkennt, dass ihr</l>
+               <l n="744">doch nur noch unlange mit mir</l>
+            </lg>
+            <lg>
+               <l n="745">eure Freude haben könnt,</l>
+               <l n="746">wenn ich weiter das Leben bestehe.</l>
+            </lg>
+            <lg>
+               <l n="747">Bleibe ich ohne Mann bei euch</l>
+               <l n="748">zwei Jahre oder drei,</l>
+            </lg>
+            <lg>
+               <l n="749">so ist mein Herr wahrscheinlich tot</l>
+               <l n="750">und wir kommen in so große Not,</l>
+            </lg>
+            <lg>
+               <l n="751">sehr wahrscheinlich, von Armut,</l>
+               <l n="752">dass ihr mir entsprechendes Gut</l>
+            </lg>
+            <lg>
+               <l n="753">zu einem Mann nicht zu geben vermögt,</l>
+               <l n="754">oder ich müsste dermaßen jämmerlich leben,</l>
+            </lg>
+            <lg>
+               <l n="755">dass ich lieber tot wäre.</l>
+               <l n="756">Nun schweigen wir aber von solcher Not,</l>
+            </lg>
+            <lg>
+               <l n="757">dass uns nichts passiert</l>
+               <l n="758">und uns mein lieber Herr</l>
+            </lg>
+            <lg>
+               <l n="759">bleibe und so lange lebe,</l>
+               <l n="760">bis dass man mich an einen Mann vergibt,</l>
+            </lg>
+            <lg>
+               <l n="761">der reich ist und würdig,</l>
+               <l n="762">dann wird das geschehen sein, was ihr da begehrt,</l>
+            </lg>
+            <lg>
+               <l n="763">und ihr werdet glauben, mir sei wohl geschehen.</l>
+               <l n="764">Mein Gemüt hat mir jedoch andres gesagt:</l>
+            </lg>
+            <lg>
+               <l n="765">Wird er mir lieb – das ist eine Not,</l>
+               <l n="766">wird er mir leid – das ist der Tod.</l>
+            </lg>
+            <lg>
+               <l n="767">Und ich werde immer Leid haben</l>
+               <l n="768">und bin mit nichts als Last</l>
+            </lg>
+            <lg>
+               <l n="769">geschieden von aller Bequemlichkeit</l>
+               <l n="770">mit mancherlei Angelegenheit,</l>
+            </lg>
+            <lg>
+               <l n="771">die den Frauen nicht zupass kommt</l>
+               <l n="772">und sie von Freuden abbringt.</l>
+            </lg>
+            <lg>
+               <l n="773">Drum versetzt mich in die Fülle von Haus- und Heirat,</l>
+               <l n="774">die da nimmer vergeht!</l>
+            </lg>
+            <lg>
+               <l n="775">Mich begehrt ein freier Bauer,</l>
+               <l n="776">dem ich wohl mein Leib und Leben vergönne.</l>
+            </lg>
+            <lg>
+               <l n="777">Dem, wahrlich, sollt ihr mich geben,</l>
+               <l n="778">So ist mit meinem Leben alles wohl beschaffen.</l>
+            </lg>
+            <lg>
+               <l n="779">Ihm geht sein Pflug einwandfrei,</l>
+               <l n="780">sein Hof ist voll mit allem, was man braucht,</l>
+            </lg>
+            <lg>
+               <l n="781">da stirbt das Roß nicht, noch das Rind,</l>
+               <l n="782">da machen keine weinenden Kinder Mühen</l>
+            </lg>
+            <lg>
+               <l n="783">da ist es nicht zu heiß und nicht zu kalt,</l>
+               <l n="784">da wird niemand alt an Jahren –</l>
+            </lg>
+            <lg>
+               <l n="785">der Alte wird wie ein Junger,</l>
+               <l n="786">da ist kein Frost noch Hunger,</l>
+            </lg>
+            <lg>
+               <l n="787">da ist kein wie immer geartetes Leid,</l>
+               <l n="788">da ist ganze Freude ohne Last.</l>
+            </lg>
+            <lg>
+               <l n="789">Bei dem will ich einziehen</l>
+               <l n="790">und all solchen Ackerbau fliehen,</l>
+            </lg>
+            <lg>
+               <l n="791">den das Feuer und der Hagel schlägt</l>
+               <l n="792">und die Wasserflut wegwäscht,</l>
+            </lg>
+            <lg>
+               <l n="793">mit der man ringt und immer gerungen hat.</l>
+               <l n="794">Was man so ein ganzes langes Jahr</l>
+            </lg>
+            <lg>
+               <l n="795">an Arbeit da aufwenden mag,</l>
+               <l n="796">das verliert im Handumdrehen ein halber Tag.</l>
+            </lg>
+            <lg>
+               <l n="797">Den Ackerbau will und werde ich lassen,</l>
+               <l n="798">er sei von mir verflucht!</l>
+            </lg>
+            <lg>
+               <l n="799">Ihr minnt mich, das ist recht und billig –</l>
+               <l n="800">nun seh ich gerne, dass mir</l>
+            </lg>
+            <lg>
+               <l n="801">eure Minne nicht zur Unminne wird.</l>
+               <l n="802">Wenn ihr euch zu rechtem Sinn</l>
+            </lg>
+            <lg>
+               <l n="803">für mich verstehen könnt</l>
+               <l n="804">und wenn ihr mir vergönnt</l>
+            </lg>
+            <lg>
+               <l n="805">Hab und Gut wie Ehren,</l>
+               <l n="806">so lasst mich heimkehren</l>
+            </lg>
+            <lg>
+               <l n="807">zu unserm Herrn Jesu Christ,</l>
+               <l n="808">dessen Gnade so stetig ist,</l>
+            </lg>
+            <lg>
+               <l n="809">dass sie nimmer zergeht,</l>
+               <l n="810">und auch für eine Arme wie mich</l>
+            </lg>
+            <lg>
+               <l n="811">eine so große Minne bereithält,</l>
+               <l n="812">wie für eine Königin.</l>
+            </lg>
+            <lg>
+               <l n="813">Ich werde nie schuld daran sein,</l>
+               <l n="814">dass ich aus euren Hulden</l>
+            </lg>
+            <lg>
+               <l n="815">komme, wenn Gott so will.</l>
+               <l n="816">Gewiss ist es sein Gebot,</l>
+            </lg>
+            <lg>
+               <l n="817">dass ich euch untertan sei,</l>
+               <l n="818">weil ich Leib und Leben von euch habe –</l>
+            </lg>
+            <lg>
+               <l n="819">das leiste ich und das reut mich nicht.</l>
+               <l n="820">Doch ich werde auch meine Treue </l>
+            </lg>
+            <lg>
+               <l n="821">zu mir selber nicht brechen.</l>
+               <l n="822">Ich hörte immer, dass die Leute sagen:</l>
+            </lg>
+            <lg>
+               <l n="823">wer den andern so erfreut,</l>
+               <l n="824">dass er selber unfroh wird,</l>
+            </lg>
+            <lg>
+               <l n="825">und wer den andern krönt</l>
+               <l n="826">und sich selber dabei verhöhnt –</l>
+            </lg>
+            <lg>
+               <l n="827">solcher Treue ist etwas zuviel.</l>
+               <l n="828">Gerne will ich euch darin folgen,</l>
+            </lg>
+            <lg>
+               <l n="829">dass ich euch Treue leiste,</l>
+               <l n="830">und mir selber doch die allermeiste!</l>
+            </lg>
+            <lg>
+               <l n="831">Wollt ihr mir mein Heil fortnehmen,</l>
+               <l n="832">so lasse ich euch womöglich</l>
+            </lg>
+            <lg>
+               <l n="833">eher um mich weinen,</l>
+               <l n="834">als dass ich mir nicht augenscheinlich machen wollte,</l>
+            </lg>
+            <lg>
+               <l n="835">was ich mir selber schuldig bin.</l>
+               <l n="836">Ich will für alle Zeit dort hin,</l>
+            </lg>
+            <lg>
+               <l n="837">wo ich ganze Freude finde.</l>
+               <l n="838">Ihr habt doch mehr Kinder;</l>
+            </lg>
+            <lg>
+               <l n="839">die lasst eure Freude sein</l>
+               <l n="840">und tröstet ihr euch über mich.</l>
+            </lg>
+            <lg>
+               <l n="841">Denn mir kann das niemand verwehren,</l>
+               <l n="842">wahrhaftig, dass ich retten will und werde</l>
+            </lg>
+            <lg>
+               <l n="843">meinen Herrn und mich.</l>
+               <l n="844">Mutter, ich hab dich doch gehört,</l>
+            </lg>
+            <lg>
+               <l n="845">wie du vorhin geklagt und gesprochen hast,</l>
+               <l n="846">es würde deinem Herzen weh tun,</l>
+            </lg>
+            <lg>
+               <l n="847">solltest du über meinem Grabe stehen.</l>
+               <l n="848">Das wird dir aufs beste erlassen:</l>
+            </lg>
+            <lg>
+               <l n="849">Du wirst nicht über meinem Grabe stehn,</l>
+               <l n="850">denn wenn mir der Tod geschieht,</l>
+            </lg>
+            <lg>
+               <l n="851">das lässt dich niemand sehen.</l>
+               <l n="852">Zu Salerno soll es geschehen,</l>
+               <lg>
+                  <l n="853">Von dem, von eben diesem Tod gehen wir ins Leben</l>
+                  <l n="854">und ich doch weit besser denn ihr.‹</l>
+               </lg>
+               <l n="852a">da soll uns vier der Tod erlösen</l>
+               <l n="852b">von der Hölle und von den bösen Geistern.</l>
+            </lg>
+            <lg>
+               <l n="855">Als sie das Kind da sahen,</l>
+               <l n="856">wie es so auf den Tod zueilte</l>
+            </lg>
+            <lg>
+               <l n="857">und wie es so klug und weise sprach</l>
+               <l n="858">und dabei Menschenrecht zerbrach,</l>
+            </lg>
+            <lg>
+               <l n="859">kamen sie alsbald überein,</l>
+               <l n="860">dass diese Weisheit und diesen Sinn</l>
+            </lg>
+            <lg>
+               <l n="861">nimmermehr zu zeigen wüsste</l>
+               <l n="862">irgendeine Zunge aus Kindermund.</l>
+            </lg>
+            <lg>
+               <l n="863">Sie sprachen, dass der Heilige Geist</l>
+               <l n="864">dieser Rede ihr Verfasser wäre,</l>
+            </lg>
+            <lg>
+               <l n="865">der sich auch Sankt Niklauses angenommen hatte,</l>
+               <l n="866">als er in der Wiege lag</l>
+            </lg>
+            <lg>
+               <l n="867">und die Weisheit ihn lehrte,</l>
+               <l n="868">dass er zu Gotte wendete</l>
+            </lg>
+            <lg>
+               <l n="869">all das Gute, das in ihm als Kind war.</l>
+               <l n="870">Und dachten in ihrem Gemüte,</l>
+            </lg>
+            <lg>
+               <l n="871">dass sie keinesfalls wollten</l>
+               <l n="872">sie abbringen (und sollten das auch nicht tun),</l>
+            </lg>
+            <lg>
+               <l n="873">von dem, was sie sich vorgenommen hatte –</l>
+               <l n="874">der Wille sei ihr schließlich von Gott gekommen.</l>
+            </lg>
+            <lg>
+               <l n="875">Von Jammer wurde ihnen der Leib kalt.</l>
+               <l n="876">Als der Meier und sein Weib</l>
+            </lg>
+            <lg>
+               <l n="877">an dem Bett saßen,</l>
+               <l n="878">und ganz und gar vergaßen,</l>
+            </lg>
+            <lg>
+               <l n="879">aus Minne zu dem Kind,</l>
+               <l n="880">auf die Zungen und auf die Sinne,</l>
+            </lg>
+            <lg>
+               <l n="881">in eben dem selben Moment</l>
+               <l n="882">wusste keins von beiden</l>
+            </lg>
+            <lg>
+               <l n="883">auch nur ein einziges Wort zu sprechen.</l>
+               <l n="884">Die Schmerzrede fing an</l>
+            </lg>
+            <lg>
+               <l n="885">die Mutter aus Leid zu brechen.</l>
+               <l n="886">So saßen sie da beide,</l>
+            </lg>
+            <lg>
+               <l n="887">trauervoll und unfroh,</l>
+               <l n="888">bis sie sich endlich bedachten,</l>
+            </lg>
+            <lg>
+               <l n="889">wozu ihr Trauern nütze wäre.</l>
+               <l n="890">Wenn man doch nicht vermöchte,</l>
+            </lg>
+            <lg>
+               <l n="891">ihr den Willen zu nehmen und ihren Mut, </l>
+               <l n="892">so wäre ihnen nichts zu gut,</l>
+            </lg>
+            <lg>
+               <l n="893">als dass sie ihr’s nicht wohlvergönnten,</l>
+               <l n="894">weil sie doch nicht wussten,</l>
+            </lg>
+            <lg>
+               <l n="895">wie sie sie je besser hergeben könnten.</l>
+               <l n="896">Würden sie mit Abwehr auf des Mädchens Rede reagieren,</l>
+            </lg>
+            <lg>
+               <l n="897">es könnte ihnen ihres Herren wegen</l>
+               <l n="898">wohl größten Schaden anrichten –</l>
+            </lg>
+            <lg>
+               <l n="899">und nichts anderes wäre die Wirkung davon.</l>
+               <l n="900">Ganz und gar willfährig geworden</l>
+            </lg>
+            <lg>
+               <l n="901">sprachen sie beide dann,</l>
+               <l n="902">dass sie über ihre Rede froh wären.</l>
+            </lg>
+            <lg>
+               <l n="903">Darüber freute sich das reine Mädchen.</l>
+               <l n="904">Und kaum war der Tag gekommen,</l>
+            </lg>
+            <lg>
+               <l n="905">ging sie dahin, wo ihr Herr schlief.</l>
+               <l n="906">Sein Trautgemahl rief ihn an,</l>
+            </lg>
+            <lg>
+               <l n="907">sie sprach: ›Herr, schlaft ihr?‹</l>
+               <l n="908">›Nicht doch, Gemahlchen, sage mir,</l>
+            </lg>
+            <lg>
+               <l n="909">wie bist du heute so früh auf!‹</l>
+               <l n="910">›Herr, da zwingt jetzt mich dazu</l>
+            </lg>
+            <lg>
+               <l n="911">der Jammer über eure Krankheit.‹</l>
+               <l n="912">Er sprach: ›Gemahlchen, das bereitet dir Leid,</l>
+            </lg>
+            <lg>
+               <l n="913">das erzeigst du so gut an mir,</l>
+               <l n="914">wie nur Gott dir’s vergelten soll.</l>
+            </lg>
+            <lg>
+               <l n="915">Da ist nun weiter keine Abhilfe möglich.‹</l>
+               <l n="916">›Meinertreu, lieber Herr mein,</l>
+            </lg>
+            <lg>
+               <l n="917">es wird euch eine sehr gute Abhilfe,</l>
+               <l n="918">da es so um euch steht,</l>
+            </lg>
+            <lg>
+               <l n="919">dass man euch zu helfen vermag,</l>
+               <l n="920">lasse ich euch keinen Tag mehr versäumen.</l>
+            </lg>
+            <lg>
+               <l n="921">Herr, ihr habt uns doch gesagt,</l>
+               <l n="922">wenn ihr ein Mädchen hättet,</l>
+            </lg>
+            <lg>
+               <l n="923">die gerne den Tod für euch leiden würde,</l>
+               <l n="924">da solltet ihr damit genesen.</l>
+            </lg>
+            <lg>
+               <l n="925">Die will ich, weißgott, selber sein.</l>
+               <l n="926">Euer Leben ist zu mehr nütze als das meine.‹</l>
+            </lg>
+            <lg>
+               <l n="927">Da dankte ihr der Herr</l>
+               <l n="928">für diese Absicht über alle Maßen</l>
+            </lg>
+            <lg>
+               <l n="929">und die Augen füllten sich ihm</l>
+               <l n="930">von Jammer ganz heimlich.</l>
+            </lg>
+            <lg>
+               <l n="931">Er sprach: ›Gemahlchen, es ist aber der Tod</l>
+               <l n="932">wahrlich keine so sanfte Not,</l>
+            </lg>
+            <lg>
+               <l n="933">wie du dir vielleicht gedacht hast.</l>
+               <l n="934">Du hast mir das wohl nahegebracht:</l>
+            </lg>
+            <lg>
+               <l n="935">Wenn’s dir möglich wäre, würdest du mir helfen –</l>
+               <l n="936">damit hast du weitaus genug für mich getan.</l>
+            </lg>
+            <lg>
+               <l n="937">Ich erkenne deinen süßen Mut,</l>
+               <l n="938">dein Wille ist rein und gut!</l>
+            </lg>
+            <lg>
+               <l n="939">Und ich soll und werde nicht mehr von dir begehren.</l>
+               <l n="940">Du kannst mir das beim besten Willen nicht gewähren,</l>
+            </lg>
+            <lg>
+               <l n="941">wovon du da gesprochen hast.</l>
+               <l n="942">Deine Treue, die du an mir begehst,</l>
+            </lg>
+            <lg>
+               <l n="943">die soll dir Gott vergelten.</l>
+               <l n="944">Das brächte uns den Spott der Leute hier:</l>
+            </lg>
+            <lg>
+               <l n="945">was ich bis diesen Moment</l>
+               <l n="946">mich auf Arzneien eingelassen habe,</l>
+            </lg>
+            <lg>
+               <l n="947">und wenn die dann bei mir nicht anschlügen</l>
+               <l n="948">und die Dinge ihren bisherigen Gang gingen!</l>
+            </lg>
+            <lg>
+               <l n="949">Gemahlchen, du tust wie die Kinder,</l>
+               <l n="950">die da spontanen Mutes sind:</l>
+            </lg>
+            <lg>
+               <l n="951">Was denen ins Gemüt kommt,</l>
+               <l n="952">es sei übel oder gut,</l>
+            </lg>
+            <lg>
+               <l n="953">da sind sie spontan dafür</l>
+               <l n="954">und danach reut es sie schmerzlich.</l>
+            </lg>
+            <lg>
+               <l n="955">Gemahlchen, genauso tust du auch.</l>
+               <l n="956">Nach solcher Rede ist dir jetzt zumut,</l>
+            </lg>
+            <lg>
+               <l n="957">und wenn sie einer von dir annehmen wollte</l>
+               <l n="958">und man es tatsächlich zuende brächte,</l>
+            </lg>
+            <lg>
+               <l n="959">dann reut es dich wahrscheinlich doch.‹</l>
+               <l n="960">Und dass sie sich ein bisschen noch</l>
+            </lg>
+            <lg>
+               <l n="961">mehr bedächte, darum bat er.</l>
+               <l n="962">Er sprach: ›Deine Mutter und dein Vater,</l>
+            </lg>
+            <lg>
+               <l n="963">die können dich nicht wohl entbehren.</l>
+               <l n="964">Und ich werde auch nicht deren Leid begehren,</l>
+            </lg>
+            <lg>
+               <l n="965">die nie etwas andres als gnädig mit mir waren.</l>
+               <l n="966">Was sie beide dir raten,</l>
+            </lg>
+            <lg>
+               <l n="967">liebes Gemahlchen, das tu.‹</l>
+               <l n="968">Und dazu lachte er,</l>
+            </lg>
+            <lg>
+               <l n="969">denn er wäre kaum auf das gekommen,</l>
+               <l n="970">das doch seither dann geschah.</l>
+            </lg>
+            <lg>
+               <l n="971">So sprach er zu der Guten. </l>
+               <l n="972">Der Vater und die Mutter</l>
+            </lg>
+            <lg>
+               <l n="973">sprachen: ›Lieber Herr,</l>
+               <l n="974">ihr habt uns weidlich</l>
+            </lg>
+            <lg>
+               <l n="975">geliebt und geehrt.</l>
+               <l n="976">Das wäre nun nicht wohlgetan,</l>
+            </lg>
+            <lg>
+               <l n="977">wenn wir euch das nicht mit allem Guten vergelten.</l>
+               <l n="978">Unserer Tochter ist danach zumut,</l>
+            </lg>
+            <lg>
+               <l n="979">dass sie den Tod um euretwillen erduldet.</l>
+               <l n="980">Das gönnen wir ihr in jeder Hinsicht.</l>
+            </lg>
+            <lg>
+               <l n="981">Es ist heute der dritte Tag,</l>
+               <l n="982">dass sie uns immer wieder in den Ohren gelegen hat,</l>
+            </lg>
+            <lg>
+               <l n="983">dass wir ihr das gönnen sollten.</l>
+               <l n="984">Nun hat sie’s an uns gefunden –</l>
+            </lg>
+            <lg>
+               <l n="985">nun lasse euch Gott mit ihr genesen.</l>
+               <l n="986">Wir wollen um euretwillen ohne sie sein.‹</l>
+            </lg>
+            <lg>
+               <l n="987">Als ihm sein Gemahlchen da geboten hatte</l>
+               <l n="988">ihren Tod für sein Siechtum,</l>
+            </lg>
+            <lg>
+               <l n="989">und man ihren Ernst wahrnahm,</l>
+               <l n="990">da ward da großes Ungemach</l>
+            </lg>
+            <lg>
+               <l n="991">und jammervolles Gebaren.</l>
+               <l n="992">Manch missliche Beschwernis</l>
+            </lg>
+            <lg>
+               <l n="993">erhob sich jetzt unter ihnen,</l>
+               <l n="994">zwischen dem Herrn und ihnen dreien.</l>
+            </lg>
+            <lg>
+               <l n="995">Ihr Vater und ihre Mutter, die</l>
+               <l n="996">erhoben hier großes Weinen.</l>
+            </lg>
+            <lg>
+               <l n="997">Große Not tat ihnen das Weinen an</l>
+               <l n="998">um den Tod ihres vielgeliebten Kindes.</l>
+            </lg>
+            <lg>
+               <l n="999">Nun begann auch der Herr</l>
+               <l n="1000">ganz nah in sein Denken kommen zu lassen</l>
+            </lg>
+            <lg>
+               <l n="1001">die Treue des Kindes</l>
+               <l n="1002">und es ergriff auch ihn ein Traurigsein,</l>
+            </lg>
+            <lg>
+               <l n="1003">dass er schmerzlich zu weinen begann,</l>
+               <l n="1004">und zweifelte zutiefst daran,</l>
+            </lg>
+            <lg>
+               <l n="1005">ob es besser getan</l>
+               <l n="1006">sein sollte oder unterlassen.</l>
+            </lg>
+            <lg>
+               <l n="1007">Aus einer bestimmten Furcht weinte auch das Mädchen:</l>
+               <l n="1008">sie glaubte, er wäre daran verzagt.</l>
+            </lg>
+            <lg>
+               <l n="1009">So waren sie alle unfroh,</l>
+               <l n="1010">sie begehrten niemands Eingedenken dafür.</l>
+            </lg>
+            <lg>
+               <l n="1011">Am Ende aber bedachte sich</l>
+               <l n="1012">ihr Herr, der arme Heinrich,</l>
+            </lg>
+            <lg>
+               <l n="1013">und begann ihnen zu sagen</l>
+               <l n="1014">großen Dank, allen dreien,</l>
+            </lg>
+            <lg>
+               <l n="1015">für die Treue und für das Gute –</l>
+               <l n="1016">das Mädchen ward reich in ihrem Gemüte,</l>
+            </lg>
+            <lg>
+               <l n="1017">dass er alles gern befolgen wollte,</l>
+               <l n="1018">und bereitete sich vor für Salerno</l>
+            </lg>
+            <lg>
+               <l n="1019">so schnell es ihm möglich war.</l>
+               <l n="1020">Was nun aber das Mädchen brauchte,</l>
+            </lg>
+            <lg>
+               <l n="1021">das ward ganz schnell bereitgestellt:</l>
+               <l n="1022">Schöne Reitpferde und reiche Kleider,</l>
+            </lg>
+            <lg>
+               <l n="1023">wie sie sie vor dieser Zeit nie getragen hatte,</l>
+               <l n="1024">Hermelin und Samt,</l>
+            </lg>
+            <lg>
+               <l n="1025">den besten Zobel, den man finden konnte,</l>
+               <l n="1026">das war das Gewand für das Mädchen.</l>
+            </lg>
+            <lg>
+               <l n="1027">Nun, wer vermöchte wohl zu sagen</l>
+               <l n="1028">die Herzenstrauer und das Klagen</l>
+            </lg>
+            <lg>
+               <l n="1029">und ihrer Mutter grimmes Leid</l>
+               <l n="1030">und auch des Vaters Last!</l>
+            </lg>
+            <lg>
+               <l n="1031">Es wäre wohl für sie beide</l>
+               <l n="1032">ein jammervoller Abschied gewesen,</l>
+            </lg>
+            <lg>
+               <l n="1033">als sie ihr vielgeliebtes Kind von sich</l>
+               <l n="1034">wegschenkten, so gesund wie es war,</l>
+            </lg>
+            <lg>
+               <l n="1035">auf Nimmerwiedersehen, in den Tod,</l>
+               <l n="1036">wenn ihnen nicht ihre Not sanfter gemacht hätte</l>
+            </lg>
+            <lg>
+               <l n="1037">die reine Gottesgüte,</l>
+               <l n="1038">von der doch das Gemüt</l>
+            </lg>
+            <lg>
+               <l n="1039">des jungen Mädchens auch den Anstoß bekommen hatte,</l>
+               <l n="1040">dass es den Tod gerne auf sich nahm.</l>
+            </lg>
+            <lg>
+               <l n="1041">Das war ohne ihre Mithilfe gekommen;</l>
+               <l n="1042">und daher ward von ihrem Herzen genommen</l>
+            </lg>
+            <lg>
+               <l n="1043">alle Klage und alle Schwere,</l>
+               <l n="1044">denn sonst wäre es ein Wunder gewesen,</l>
+            </lg>
+            <lg>
+               <l n="1045">dass ihnen das Herz nicht zerbrach.</l>
+               <l n="1046">Die Liebe ward ihr Ungemach,</l>
+            </lg>
+            <lg>
+               <l n="1047">dass sie danach keinerlei Not</l>
+               <l n="1048">litten um den Tod ihres Kindes.</l>
+            </lg>
+            <lg>
+               <l n="1049">So fuhr also gegen Salerno,</l>
+               <l n="1050">fröhlich und gerne,</l>
+            </lg>
+            <lg>
+               <l n="1051">das Mädchen mit ihrem Herrn.</l>
+               <l n="1052">Was könnte ihr nun noch etwas ausmachen,</l>
+            </lg>
+            <lg>
+               <l n="1053">was, dass der Weg so weit war,</l>
+               <l n="1054">dass sie so lange leben blieb?</l>
+            </lg>
+            <lg>
+               <l n="1055">Und als er sie endlich hingebracht hatte,</l>
+               <l n="1056">so wie er beabsichtigte,</l>
+            </lg>
+            <lg>
+               <l n="1057">und als er seinen studierten Mediziner fand,</l>
+               <l n="1058">da ward dem sogleich</l>
+            </lg>
+            <lg>
+               <l n="1059">voll Freude gesagt,</l>
+               <l n="1060">er hätte ein Mädchen gebracht,</l>
+            </lg>
+            <lg>
+               <l n="1061">die zu besorgen er ihn geheißen habe.</l>
+               <l n="1062">Worauf er ihn sie sehen ließ.</l>
+            </lg>
+            <lg>
+               <l n="1063">Das dünkte den unglaublich.</l>
+               <l n="1064">Er sprach: ›Kind, hast du dich</l>
+            </lg>
+            <lg>
+               <l n="1065">zu diesem Willen selbst bedacht</l>
+               <l n="1066">oder bist du auf den Einfall gebracht worden</l>
+            </lg>
+            <lg>
+               <l n="1067">durch Bitten oder deines Herren Drohung?‹</l>
+               <l n="1068">Das Mädchen antwortete ihm dahingehend,</l>
+            </lg>
+            <lg>
+               <l n="1069">dass sie die ganze Angelegenheit</l>
+               <l n="1070">aus ihrem eignen Herzen täte.</l>
+            </lg>
+            <lg>
+               <l n="1071">Das nahm ihn groß wunder</l>
+               <l n="1072">und er führte sie beiseite</l>
+            </lg>
+            <lg>
+               <l n="1073">und beschwor sie eindringlich,</l>
+               <l n="1074">ob ihr nicht doch ihr Herr</l>
+            </lg>
+            <lg>
+               <l n="1075">die Sache herausgedroht hätte.</l>
+               <l n="1076">Er sprach: ›Kind, dir ist nötig,</l>
+            </lg>
+            <lg>
+               <l n="1077">dass du dich noch besser bedenkst,</l>
+               <l n="1078">und ich sage dir genau, warum:</l>
+            </lg>
+            <lg>
+               <l n="1079">Wenn du den Tod leiden musst</l>
+               <l n="1080">und das nicht freiwillig und gerne tust,</l>
+            </lg>
+            <lg>
+               <l n="1081">so ist dein junger Leib tot</l>
+               <l n="1082">und freut uns leider nicht die Brotkrume. </l>
+            </lg>
+            <lg>
+               <l n="1083">Verbirg mir also deinen Willen nicht!</l>
+               <l n="1084">Ich sage, wie dir geschieht:</l>
+            </lg>
+            <lg>
+               <l n="1085">Ich ziehe dich aus, richtig entblößt,</l>
+               <l n="1086">und es wird deine Scham unermesslich groß,</l>
+            </lg>
+            <lg>
+               <l n="1087">die du mit Gründen dann hast,</l>
+               <l n="1088">wenn du ganz nackt vor mir stehst.</l>
+            </lg>
+            <lg>
+               <l n="1089">Ich binde dir Beine und Arme.</l>
+               <l n="1090">Wenn du Erbarmen mit deinem Leib hast,</l>
+            </lg>
+            <lg>
+               <l n="1091">so bedenke diesen Schmerz:</l>
+               <l n="1092">Ich schneide dich zum Herzen</l>
+            </lg>
+            <lg>
+               <l n="1093">und breche es lebend aus dir heraus.</l>
+               <l n="1094">Mein Fräulein, nun sage mir,</l>
+            </lg>
+            <lg>
+               <l n="1095">wie es in der Hinsicht um deinen Mut steht!</l>
+               <l n="1096">Keinem Kind ist dermaßen weh geschehen,</l>
+            </lg>
+            <lg>
+               <l n="1097">wie dir von mir geschehen muss.</l>
+               <l n="1098">Dass ich es tun soll und sehen,</l>
+            </lg>
+            <lg>
+               <l n="1099">das macht mir große Angst.</l>
+               <l n="1100">Denk also selber noch einmal darüber nach –</l>
+            </lg>
+            <lg>
+               <l n="1101">wenn es dich nur um Haaresbreite reut,</l>
+               <l n="1102">so ist für mich die Arbeit</l>
+            </lg>
+            <lg>
+               <l n="1103">und für dich Leib und Leben verloren.‹</l>
+               <l n="1104">Hoch und teuer ward sie wieder und wieder beschworen</l>
+            </lg>
+            <lg>
+               <l n="1105">– sie hingegen wusste sich als sicher und beständig –,</l>
+               <l n="1106">dass sie dann Abstand davon nehme.</l>
+            </lg>
+            <lg>
+               <l n="1107">Das Mädchen sprach lachend,</l>
+               <l n="1108">weil sie fest darauf hoffte,</l>
+            </lg>
+            <lg>
+               <l n="1109">dass ihr noch diesen Tag der Tod hülfe</l>
+               <l n="1110">aus aller weltlichen Not:</l>
+            </lg>
+            <lg>
+               <l n="1111">›Gott lohne euch, lieber Herr,</l>
+               <l n="1112">dass ihr mir so weit</l>
+            </lg>
+            <lg>
+               <l n="1113">die Wahrheit gesagt habt.</l>
+               <l n="1114">Ehrlich gesagt, ich bin ein bisschen verzagt,</l>
+            </lg>
+            <lg>
+               <l n="1115">mir ist Zweifel gekommen.</l>
+               <l n="1116">Ich will euch genau auseinandersetzen,</l>
+            </lg>
+            <lg>
+               <l n="1118">den ich jetzt bekommen habe:</l>
+               <l n="1117">wie der Zweifel beschaffen ist,</l>
+            </lg>
+            <lg>
+               <l n="1119">Ich fürchte, dass unsere Arbeit</l>
+               <l n="1120">aufgrund eurer Zagheit gänzlich</l>
+            </lg>
+            <lg>
+               <l n="1121">unterbleiben könnte.</l>
+               <l n="1122">Eure Rede würde gut zu einem Weibe passen,</l>
+            </lg>
+            <lg>
+               <l n="1123">ihr seid ein Hasengenosse;</l>
+               <l n="1124">eure Angst ist etwas zu groß,</l>
+            </lg>
+            <lg>
+               <l n="1125">bloß darum, dass ich sterben soll.</l>
+               <l n="1126">Wahr ist, ihr handhabt das nicht gut,</l>
+            </lg>
+            <lg>
+               <l n="1127">mitsamt eurer großen Gelehrsamkeit.</l>
+               <l n="1128">Ich bin ein Weib und habe die Kraft:</l>
+            </lg>
+            <lg>
+               <l n="1129">Traut ihr euch, mich zu schneiden,</l>
+               <l n="1130">ich trau mich wohl, es zu erleiden!</l>
+            </lg>
+            <lg>
+               <l n="1131">Die beängstigende Arbeit,</l>
+               <l n="1132">die ihr mir vorhin gesagt habt,</l>
+            </lg>
+            <lg>
+               <l n="1133">davon habe ich von euch und auch ohne euch wohl gehört.</l>
+               <l n="1134">Ich wäre wahrlich nicht hergekommen,</l>
+            </lg>
+            <lg>
+               <l n="1135">wenn ich mich nicht wüsste</l>
+               <l n="1136">von so festem Mut,</l>
+            </lg>
+            <lg>
+               <l n="1137">dass ich es gut aushalten kann.</l>
+               <l n="1138">Mir ist, bei eurer Huld,</l>
+            </lg>
+            <lg>
+               <l n="1139">der bleiche Teint ganz abhandengekommen</l>
+               <l n="1140">und ein so fester Mut hat mich erfasst,</l>
+            </lg>
+            <lg>
+               <l n="1141">dass ich grad so ängstlich dastehe,</l>
+               <l n="1142">als sollte ich zum Tanze gehen.</l>
+            </lg>
+            <lg>
+               <l n="1143">Denn so groß ist keine Not,</l>
+               <l n="1144">die sich in eines Tages Frist</l>
+            </lg>
+            <lg>
+               <l n="1145">an meinem Leib beenden lässt,</l>
+               <l n="1146">von der mich nicht dünkt, dass dieser eine Tag</l>
+            </lg>
+            <lg>
+               <l n="1147">teuer genug hingegeben wäre</l>
+               <l n="1148">für das ewige Leben,</l>
+            </lg>
+            <lg>
+               <l n="1149">das da nimmermehr zergeht.</l>
+               <l n="1150">Euch kann, so wie mir der Mut steht,</l>
+            </lg>
+            <lg>
+               <l n="1151">an mir nichts fehlen.</l>
+               <l n="1152">Traut euch, meinem Herrn</l>
+            </lg>
+            <lg>
+               <l n="1153">seine Gesünde wiederzugeben</l>
+               <l n="1154">und mir das ewige Leben.</l>
+            </lg>
+            <lg>
+               <l n="1155">Tut das, umgotteswillen, beizeiten.</l>
+               <l n="1156">Lasst sehen, welch Magister ihr seid!</l>
+            </lg>
+            <lg>
+               <l n="1157">Mich reizt heftig dazu –</l>
+               <l n="1158">und ich weiß wohl, für wen ich’s tu –</l>
+            </lg>
+            <lg>
+               <l n="1159">der, in dessen Namen es geschehen soll,</l>
+               <l n="1160">der erkennt einen Dienst sehr wohl</l>
+            </lg>
+            <lg>
+               <l n="1161">und lässt ihn auch nicht unbelohnt.</l>
+               <l n="1162">Ich weiß wohl, dass er selber feststellt:</l>
+            </lg>
+            <lg>
+               <l n="1163">wer großen Dienst leiste,</l>
+               <l n="1164">des Lohn sei auch der meiste!</l>
+            </lg>
+            <lg>
+               <l n="1165">Von daher also werde ich diesen Tod</l>
+               <l n="1166">für eine süße Not halten</l>
+            </lg>
+            <lg>
+               <l n="1167">um einen so gewissen Lohn.</l>
+               <l n="1168">Ließe ich die Himmelskrone fahren,</l>
+            </lg>
+            <lg>
+               <l n="1169">so hätte ich albernen Sinn und Verstand,</l>
+               <l n="1170">wenn ich auch aus leichtgewichtigem Geschlechte bin.‹</l>
+            </lg>
+            <lg>
+               <l n="1171">Da also vernahm er, dass sie wäre</l>
+               <l n="1172">genügend unbeeinflussbar,</l>
+            </lg>
+            <lg>
+               <l n="1173">und führte sie wieder zurück,</l>
+               <l n="1174">zu dem kranken Mann hin,</l>
+            </lg>
+            <lg>
+               <l n="1175">und sprach zu ihrem Herrn:</l>
+               <l n="1176">›Es gibt nichts, das uns schaden kann</l>
+            </lg>
+            <lg>
+               <l n="1177">und das an eurem Mädchen nicht voll zufriedenstellend wäre.</l>
+               <l n="1178">Nun habt fröhlichen Mut,</l>
+            </lg>
+            <lg>
+               <l n="1179">ich mache euch schnell gesund.‹</l>
+               <l n="1180">Auf der Stelle führte er sie davon,</l>
+            </lg>
+            <lg>
+               <l n="1181">in sein Privatgemach,</l>
+               <l n="1182">wo es ihr Herr nicht sah,</l>
+            </lg>
+            <lg>
+               <l n="1183">und schloss ihn aus vor der Tür</l>
+               <l n="1184">und warf einen Riegel vor.</l>
+            </lg>
+            <lg>
+               <l n="1185">Er wollte ihn nicht sehen lassen,</l>
+               <l n="1186">wie es mit ihrem Ende gehen sollte.</l>
+            </lg>
+            <lg>
+               <l n="1187">In einem Kaminzimmer,</l>
+               <l n="1188">das er sehr gut mit seinem Arztwerkzeug</l>
+            </lg>
+            <lg>
+               <l n="1189">ausgestattet fand,</l>
+               <l n="1190">hieß er das Mädchen allsogleich</l>
+            </lg>
+            <lg>
+               <l n="1191">die Kleider ausziehen.</l>
+               <l n="1192">Darüber war sie froh und bester Laune,</l>
+            </lg>
+            <lg>
+               <l n="1193">sie riss die Kleider geradezu aus den Nähten,</l>
+               <l n="1194">gleich stand sie ohne Gewand</l>
+            </lg>
+            <lg>
+               <l n="1195">und ward nackt und bloß;</l>
+               <l n="1196">sie schämte sich nicht um eines Haares Dicke.</l>
+            </lg>
+            <lg>
+               <l n="1197">Als der gelehrte Magister sie ansah,</l>
+               <l n="1198">gestand er sich in seinem Herzen ein,</l>
+            </lg>
+            <lg>
+               <l n="1199">dass schönere créature</l>
+               <l n="1200">in der ganzen Welt selten und teuer wäre.</l>
+            </lg>
+            <lg>
+               <l n="1201">Gar schmerzlich erbarmte sie ihn,</l>
+               <l n="1202">dass ihm das Herz und der Verstand</l>
+            </lg>
+            <lg>
+               <l n="1203">beinah daran verzagt war.</l>
+               <l n="1204">Nun sah das gute Mädchen</l>
+            </lg>
+            <lg>
+               <l n="1205">einen hohen Tisch da stehen.</l>
+               <l n="1206">Dort hieß der Magister sie hinaufgehen.</l>
+            </lg>
+            <lg>
+               <l n="1207">Da drauf band er sie ganz fest</l>
+               <l n="1208">und nahm gleich darauf in die Hand</l>
+            </lg>
+            <lg>
+               <l n="1209">ein scharfes Messer, das da lag,</l>
+               <l n="1210">das er zu solchen Zwecken verwendete.</l>
+            </lg>
+            <lg>
+               <l n="1211">Es war lang und breit,</l>
+               <l n="1212">nur dass es so gut nicht schnitt,</l>
+            </lg>
+            <lg>
+               <l n="1213">wie ihm wäre lieb gewesen.</l>
+               <l n="1214">Da sie nicht am Leben bleiben sollte,</l>
+            </lg>
+            <lg>
+               <l n="1215">da erbarmte ihn ihre Not</l>
+               <l n="1216">und er wollte ihn ihr sanft machen, den Tod.</l>
+            </lg>
+            <lg>
+               <l n="1217">Nun lag da neben ihnen ein</l>
+               <l n="1218">Wetzstein, ein sehr guter.</l>
+            </lg>
+            <lg>
+               <l n="1219">Daran begann er’s zu streichen,</l>
+               <l n="1220">sehr regelmäßig.</l>
+            </lg>
+            <lg>
+               <l n="1221">Dabei auch Wetzgeräusch. Das hörte,</l>
+               <l n="1222">der ihre Freude störte,</l>
+            </lg>
+            <lg>
+               <l n="1223">der arme Heinrich, von draußen,</l>
+               <l n="1224">wo er stand, vor der Tür,</l>
+            </lg>
+            <lg>
+               <l n="1225">und es erbarmte ihn so recht schmerzlich,</l>
+               <l n="1226">dass er sie niemals mehr</l>
+            </lg>
+            <lg>
+               <l n="1227">lebend sehen sollte.</l>
+               <l n="1228">Nun fing er an und suchte und spähte,</l>
+            </lg>
+            <lg>
+               <l n="1229">bis dass er durch die Wand</l>
+               <l n="1230">ein Loch gehen fand,</l>
+            </lg>
+            <lg>
+               <l n="1231">und er erblickte sie durch die Schrunde</l>
+               <l n="1232">nackt, und gebunden.</l>
+            </lg>
+            <lg>
+               <l n="1233">Nun sah er sie an und sich –</l>
+               <l n="1234">Nun sah er sie an und sich –</l>
+            </lg>
+            <lg>
+               <l n="1235">und geriet in einen völlig neuen Gemütszustand.</l>
+               <l n="1236">Ihn dünkte plötzlich das nicht mehr gut,</l>
+            </lg>
+            <lg>
+               <l n="1237">was er bis dahin gedacht hatte,</l>
+               <l n="1238">und er kehrte so manche Sicht um,</l>
+            </lg>
+            <lg>
+               <l n="1239">sein altes Gemüt</l>
+               <l n="1240">in eine neue Form von ‘gut’.</l>
+            </lg>
+            <lg>
+               <l n="1241">Als er jetzt sah, wie schön sie war,</l>
+               <l n="1242">da sprach er zu sich selbst:</l>
+            </lg>
+            <lg>
+               <l n="1243">›Ein tumber Gedanke, den du da hast,</l>
+               <l n="1244">dass du, ohne dass der dir’s dankt,</l>
+            </lg>
+            <lg>
+               <l n="1245">einen einzigen Tag zu leben begehrst,</l>
+               <l n="1246">gegen den keiner etwas vermag!</l>
+            </lg>
+            <lg>
+               <l n="1247">Du weißt doch gar nicht recht, was du tust,</l>
+               <l n="1248">während du wirklich sterben musst,</l>
+            </lg>
+            <lg>
+               <l n="1249">dass du diese Lebenslast,</l>
+               <l n="1250">die dir Gott gegeben hat,</l>
+            </lg>
+            <lg>
+               <l n="1251">nicht einfach willig trägst,</l>
+               <l n="1252">und dazu nicht einmal weißt,</l>
+            </lg>
+            <lg>
+               <l n="1253">ob dich dieses Kindes Tod rettet.</l>
+               <l n="1254">Was dir Gott beschert hat,</l>
+            </lg>
+            <lg>
+               <l n="1255">das lass dir alles geschehen –</l>
+               <l n="1256">ich will dieses Kindes Tod nicht sehn!‹</l>
+            </lg>
+            <lg>
+               <l n="1257">Das wurde ihm sogleich zum Entschluss</l>
+               <l n="1258">und er begann, an der Wand zu klopfen,</l>
+            </lg>
+            <lg>
+               <l n="1259">er befahl, ihn reinzulassen.</l>
+               <l n="1260">Der Magister sprach: ›Ich habe</l>
+            </lg>
+            <lg>
+               <l n="1261">gerade keine Zeit dafür,</l>
+               <l n="1262">dass ich auch noch euch aufmache.‹</l>
+            </lg>
+            <lg>
+               <l n="1263">›Nein, Herr Magister, ihr müsst mich sprechen!‹</l>
+               <l n="1264">›Herr‹, sprach er, ›ich kann wirklich nicht.</l>
+            </lg>
+            <lg>
+               <l n="1265">Wartet, bis das hier vorbei ist!‹</l>
+               <l n="1266">›Nein, Herr Magister, sprecht vorher mit mir.‹</l>
+            </lg>
+            <lg>
+               <l n="1267">›Dann sagt mir’s durch die Wand herein.‹</l>
+               <l n="1268">›Aber, das geht so nicht!‹</l>
+            </lg>
+            <lg>
+               <l n="1269">Da ließ er ihn alsbald herein.</l>
+               <l n="1270">Da ging der arme Heinrich hin,</l>
+            </lg>
+            <lg>
+               <l n="1271">wo er das Mädchen gebunden sah,</l>
+               <l n="1272">dann sprach er zu dem Magister:</l>
+            </lg>
+            <lg>
+               <l n="1273">Ihr Leib, der war überaus minniglich.</l>
+               <l n="1274">wahrhaftig, ja, es ist mir nicht möglich,</l>
+            </lg>
+            <lg>
+               <l n="1275">seinen Tod mitanzusehen.</l>
+               <l n="1276">Gottes Wille möge an mir geschehen.</l>
+            </lg>
+            <lg>
+               <l n="1277">Wir werden sie wieder aufstehen lassen.</l>
+               <l n="1278">Was ich mit euch ausgehandelt habe,</l>
+            </lg>
+            <lg>
+               <l n="1279">das Silber, das will ich euch geben.</l>
+               <l n="1280">Und wir, ihr werdet das Mädchen leben lassen.‹</l>
+            </lg>
+            <lg>
+               <l n="1281">Als das Mädchen recht wahrnahm,</l>
+               <l n="1282">dass es nicht ihr Schicksal war zu sterben,</l>
+            </lg>
+            <lg>
+               <l n="1283">da wurde ihr Gemüt schwer.</l>
+               <l n="1284">Sie brach ihre Zucht und ihre Sitte:</l>
+            </lg>
+            <lg>
+               <l n="1285">Voll Ingrimm zerrte sie sich und raufte sich,</l>
+               <l n="1286">ihre Gebärde ward so jammervoll,</l>
+            </lg>
+            <lg>
+               <l n="1287">dass sie niemand hätte anschauen können,</l>
+               <l n="1288">ohne dass ihm das Weinen gekommen wäre.</l>
+            </lg>
+            <lg>
+               <l n="1289">Bitterlich, sehr bitterlich schrie sie:</l>
+               <l n="1290">›Weh mir Allerärmsten und Ohweh!</l>
+            </lg>
+            <lg>
+               <l n="1291">Wie wird es mir nun vollends ergehen?</l>
+               <l n="1292">Muss ich auf diese Weise verloren haben</l>
+            </lg>
+            <lg>
+               <l n="1293">die reiche Himmelskrone?</l>
+               <l n="1294">Die wäre mir zum Lohn</l>
+            </lg>
+            <lg>
+               <l n="1295">geworden um diese Not.</l>
+               <l n="1296">Nun bin ich erst richtig tot!</l>
+            </lg>
+            <lg>
+               <l n="1297">Ohweh, gewaltiger Christ,</l>
+               <l n="1298">welche Ehren sind uns benommen,</l>
+            </lg>
+            <lg>
+               <l n="1299">meinem Herrn und mir!</l>
+               <l n="1300">Nun entbehrt er und ich entbehre</l>
+            </lg>
+            <lg>
+               <l n="1301">alle Ehren, die uns zugedacht waren,</l>
+               <l n="1302">wenn dies vollbracht worden wäre,</l>
+            </lg>
+            <lg>
+               <l n="1303">so wäre ihm der Leib genesen</l>
+               <l n="1304">und ich würde für alle Zeit selig sein.‹</l>
+            </lg>
+            <lg>
+               <l n="1305">So bat sie denn immer wieder um den Tod;</l>
+               <l n="1306">Da konnte ihr der nie so notwendig werden,</l>
+            </lg>
+            <lg>
+               <l n="1307">als dass nicht ihre Bitte ganz umsonst gewesen wäre.</l>
+               <l n="1308">Als da niemand etwas für sie tat,</l>
+            </lg>
+            <lg>
+               <l n="1309">da hob sie ein Schelten an,</l>
+               <l n="1310">sie sprach: ›Ich muss bezahlen</l>
+            </lg>
+            <lg>
+               <l n="1311">für meines Herrn Zagheit.</l>
+               <l n="1312">Mir haben die Leute das Falsche gesagt,</l>
+            </lg>
+            <lg>
+               <l n="1313">das hab ich selbst wohl gesehen.</l>
+               <l n="1314">Ständig hörte ich die Leute behaupten,</l>
+            </lg>
+            <lg>
+               <l n="1315">ihr wäret aufrecht und gut</l>
+               <l n="1316">und hättet festen Mannesmut –</l>
+            </lg>
+            <lg>
+               <l n="1317">so helfe mir Gott, sie haben gelogen!</l>
+               <l n="1318">Die Welt war an euch schon immer betrogen.</l>
+            </lg>
+            <lg>
+               <l n="1319">Ihr wart seit je und all euer Lebtag</l>
+               <l n="1320">und seid auch noch ein Weltfeigling!</l>
+            </lg>
+            <lg>
+               <l n="1321">Das nehm ich ganz gut wahr an dem:</l>
+               <l n="1322">Was ich mich doch leiden traue,</l>
+            </lg>
+            <lg>
+               <l n="1323">das traut ihr euch nicht erdulden.</l>
+               <l n="1324">Herr, aus welchen Gründen</l>
+            </lg>
+            <lg>
+               <l n="1325">erschrakt ihr, als man mich band?</l>
+               <l n="1326">Es war doch eine dichte Wand</l>
+            </lg>
+            <lg>
+               <l n="1327">zwischen euch und mir!</l>
+               <l n="1328">Mein Herr, traut ihr euch</l>
+            </lg>
+            <lg>
+               <l n="1329">nicht, einen fremden Tod auszuhalten?</l>
+               <l n="1330">Ich will euch verheißen und sagen,</l>
+            </lg>
+            <lg>
+               <l n="1331">dass euch niemand etwas tut,</l>
+               <l n="1332">und es ist nütze für euch und gut.‹</l>
+            </lg>
+            <lg>
+               <l n="1333">Wie viel sie Flüche und Bitten</l>
+               <l n="1334">und auch Beschimpfungen von sich gab,</l>
+            </lg>
+            <lg>
+               <l n="1335">das konnte ihr nichts frommen –</l>
+               <l n="1336">sie musste halt doch am Leben bleiben.</l>
+            </lg>
+            <lg>
+               <l n="1337">Was immer da an Beschimpfungen kam,</l>
+               <l n="1338">der arme Heinrich nahm es hin,</l>
+            </lg>
+            <lg>
+               <l n="1339">wie’s ein tüchtig-frommer Ritter soll,</l>
+               <l n="1340">tugendhaft und wohlgesittet,</l>
+            </lg>
+            <lg>
+               <l n="1341">dem es an schöner Zucht nicht fehlte.</l>
+               <l n="1342">Und als der ohne gnädige Erlösung gebliebene Fremde</l>
+            </lg>
+            <lg>
+               <l n="1343">sein Mädchen wieder angekleidet hatte</l>
+               <l n="1344">und den Arzt bezahlt,</l>
+            </lg>
+            <lg>
+               <l n="1345">wie er ausgemacht hatte,</l>
+               <l n="1346">da reiste er eiligst</l>
+            </lg>
+            <lg>
+               <l n="1347">zurück in sein Heimatland.</l>
+               <l n="1348">Wiewohl er sehr gut wusste,</l>
+            </lg>
+            <lg>
+               <l n="1349">dass er daheim würde finden,</l>
+               <l n="1350">aus jedermanns Munde,</l>
+            </lg>
+            <lg>
+               <l n="1351">nichts als Lästerei und Spott –</l>
+               <l n="1352">das überließ er komplett Gott.</l>
+            </lg>
+            <lg>
+               <l n="1353">Nun hatte sich das gute Mädchen</l>
+               <l n="1354">so völlig ausgeweint und ausgeklagt,</l>
+            </lg>
+            <lg>
+               <l n="1355">dass es dem Tod ganz nahe war.</l>
+               <l n="1356">Da erkannte ihre Treue und ihre Not</l>
+            </lg>
+            <lg>
+               <l n="1357">cordis speculator,</l>
+               <l n="1358">vor dem kein Herzenstor</l>
+            </lg>
+            <lg>
+               <l n="1359">nicht wirklich verschlossen ist.</l>
+               <l n="1360">Seit er durch sein süßes Kunststück</l>
+            </lg>
+            <lg>
+               <l n="1361">an ihnen beiden geruhte,</l>
+               <l n="1362">sie derart in Versuchung zu führen,</l>
+            </lg>
+            <lg>
+               <l n="1363">so richtig und vollends</l>
+               <l n="1364">wie Hiob, den reichen und mächtigen,</l>
+            </lg>
+            <lg>
+               <l n="1365">da erwies der Heilige Crist,</l>
+               <l n="1366">wie lieb ihm Treue und Erbärmde ist,</l>
+            </lg>
+            <lg>
+               <l n="1367">und schied sie darauf beide</l>
+               <l n="1368">von all ihrem Leide</l>
+            </lg>
+            <lg>
+               <l n="1369">und machte ihn da im Augenblick</l>
+               <l n="1370">rein und wohl und gesund.</l>
+            </lg>
+            <lg>
+               <l n="1371">So sehr besserte sichs</l>
+               <l n="1372">mit dem guten Herrn Heinrich,</l>
+            </lg>
+            <lg>
+               <l n="1373">dass er auf seinem Wege</l>
+               <l n="1374">von der Pflege unsers Herrn und Gottes</l>
+            </lg>
+            <lg>
+               <l n="1375">überaus schön geworden war,</l>
+               <l n="1376">indem er restlos genas,</l>
+            </lg>
+            <lg>
+               <l n="1377">und war wie vor zwanzig Jahren.</l>
+               <l n="1378">Als sie solchermaßen erfreut worden waren,</l>
+            </lg>
+            <lg>
+               <l n="1379">da schickte er Botschaft in sein Heimatland,</l>
+               <l n="1380">all denen, die er kannte,</l>
+            </lg>
+            <lg>
+               <l n="1381">von der Seligkeit und der Güte,</l>
+               <l n="1382">auf dass sie in ihrem Gemüt</l>
+            </lg>
+            <lg>
+               <l n="1383">über sein Glück froh wären.</l>
+               <l n="1384">Da hatten sie allen Grund,</l>
+            </lg>
+            <lg>
+               <l n="1385">über solche Gnade Freude zu haben,</l>
+               <l n="1386">wie sie Gott an ihm getan hat.</l>
+            </lg>
+            <lg>
+               <l n="1387">Seine Freunde, die besten,</l>
+               <l n="1388">die um seine Rückkunft wussten,</l>
+            </lg>
+            <lg>
+               <l n="1389">die ritten und gingen –</l>
+               <l n="1390">auf dass sie ihn empfingen –</l>
+            </lg>
+            <lg>
+               <l n="1391">ihm entgegen, gut drei Tage.</l>
+               <l n="1392">Sie glaubten niemandes Wort,</l>
+            </lg>
+            <lg>
+               <l n="1393">nur ihren eignen Augen:</l>
+               <l n="1394">Sie erblickten die Geheimnisse Gottes</l>
+            </lg>
+            <lg>
+               <l n="1395">an seinem schönen Leib.</l>
+               <l n="1396">Dem Meier und seinem Weibe,</l>
+            </lg>
+            <lg>
+               <l n="1397">denen kann man wohl erlauben,</l>
+               <l n="1398">wenn man sie nicht ihres Rechts berauben will,</l>
+            </lg>
+            <lg>
+               <l n="1399">dass sie nicht daheim blieben.</l>
+               <l n="1400">Sie wird für alle Zeit ungeschrieben sein,</l>
+            </lg>
+            <lg>
+               <l n="1401">die Freude, die sie hatten,</l>
+               <l n="1402">denn Gott hatte sie versehen</l>
+            </lg>
+            <lg>
+               <l n="1403">mit angenehmer Augenweide,</l>
+               <l n="1404">die ihnen die beiden gaben:</l>
+            </lg>
+            <lg>
+               <l n="1405">Ihre Tochter und ihr Herr.</l>
+               <l n="1406">Nie ward mehr Freude,</l>
+            </lg>
+            <lg>
+               <l n="1407">als ihnen beiden geschehen war.</l>
+               <l n="1408">Als sie gesehen hatten,</l>
+            </lg>
+            <lg>
+               <l n="1409">dass sie gesund waren,</l>
+               <l n="1410">wussten sie nicht, wie sich gebärden.</l>
+            </lg>
+            <lg>
+               <l n="1411">Ihr Gruß ward spektakulär gefleckelt</l>
+               <l n="1412">mit höchst seltsamem Schneiderwerk:</l>
+            </lg>
+            <lg>
+               <l n="1413">Ihre Herzeliebe ward dermaßen groß,</l>
+               <l n="1414">dass ihnen über das Lachen goss</l>
+            </lg>
+            <lg>
+               <l n="1415">der Regen von den Augen</l>
+               <l n="1416">(diese Rede ist ohne Lüge).</l>
+            </lg>
+            <lg>
+               <l n="1417">Sie küssten ihrer Tochter Mund,</l>
+               <l n="1418">achichweißnicht, mehr als dreimal!</l>
+            </lg>
+            <lg>
+               <l n="1419">Da empfingen sie die Schwobe</l>
+               <l n="1420">mit löblicher Gobe –</l>
+            </lg>
+            <lg>
+               <l n="1421">nämlich mit ihrem ganz eigenwilligen Gruß.</l>
+               <l n="1422">Gottweißwohl, den Schwaben muss</l>
+            </lg>
+            <lg>
+               <l n="1423">ein jeder Biedermann zugestehen,</l>
+               <l n="1424">der sie bei sich daheim gesehen hat,</l>
+            </lg>
+            <lg>
+               <l n="1425">dass es bessres an Willen nie gab</l>
+               <l n="1426">als ihm bei seiner Heimreise</l>
+            </lg>
+            <lg>
+               <l n="1427">sein Volk zum Empfang bot.</l>
+               <l n="1428">Und wie’s danach weitergegangen ist?</l>
+            </lg>
+            <lg>
+               <l n="1429">Was kann ich davon mehr erzählen?</l>
+               <l n="1430">Denn er ward viel reicher und mächtiger als zuvor,</l>
+            </lg>
+            <lg>
+               <l n="1431">an Gut und an Ehren.</l>
+               <l n="1432">Das alles fing er an zuzuwenden,</l>
+            </lg>
+            <lg>
+               <l n="1433">regelmäßig, Gott,</l>
+               <l n="1434">und achtete auf sein Gebot</l>
+            </lg>
+            <lg>
+               <l n="1435">mehr als er je getan hatte.</l>
+               <l n="1436">Darin ist seine Ehre beständig.</l>
+            </lg>
+            <lg>
+               <l n="1437">Der Meier und die Meierin,</l>
+               <l n="1438">die hatten auch, mit Recht, um ihn</l>
+            </lg>
+            <lg>
+               <l n="1439">Ehre und Gut verdient.</l>
+               <l n="1440">Und er war nicht von so falschem Gemüt,</l>
+            </lg>
+            <lg>
+               <l n="1441">dass sie’s nicht recht wohl getroffen hätten:</l>
+               <l n="1442">Er gab ihnen das Land zu Eigen,</l>
+            </lg>
+            <lg>
+               <l n="1443">das Gereute in aller Breite,</l>
+               <l n="1444">den Grund und Boden und die Leute dazu,</l>
+            </lg>
+            <lg>
+               <l n="1445">wo er damals als Kranker gelegen hatte.</l>
+               <l n="1446">Sein Gemahlchen versah er dann</l>
+            </lg>
+            <lg>
+               <l n="1447">mit Gut und mit Annehmlichkeiten</l>
+               <l n="1448">und mit allerlei Sachen,</l>
+            </lg>
+            <lg>
+               <l n="1449">grad wie seine Ehefrau oder noch besser.</l>
+               <l n="1450">Auch solches gebot ihm das Recht.</l>
+            </lg>
+            <lg>
+               <l n="1451">Nun fingen ihm die Neunmalklugen an,</l>
+               <l n="1452">Ratschläge vorzutragen und Lobeshymnen</l>
+            </lg>
+            <lg>
+               <l n="1453">von wegen legaler Verheiratung.</l>
+               <l n="1454">Ein Rat kam nicht zusammen.</l>
+            </lg>
+            <lg>
+               <l n="1455">Da sagte er ihnen, wie ihm zumute wäre:</l>
+               <l n="1456">Er wollte, wenn sie das gut dünkte,</l>
+            </lg>
+            <lg>
+               <l n="1457">nach seinen Freunden senden</l>
+               <l n="1458">und die Angelegenheit mit ihnen zu einem Ende bringen,</l>
+            </lg>
+            <lg>
+               <l n="1459">je nach dem, wozu sie ihm rieten.</l>
+               <l n="1460">Herbeibitten und aufbieten</l>
+            </lg>
+            <lg>
+               <l n="1461">hieß er allenthalben nach hier</l>
+               <l n="1462">alle, die ihm hörig waren.</l>
+            </lg>
+            <lg>
+               <l n="1463">Als er sie alle hier um sich hatte,</l>
+               <l n="1464">Verwandte wie auch Mannen,</l>
+            </lg>
+            <lg>
+               <l n="1465">machte er sie mit der Angelegenheit bekannt.</l>
+               <l n="1466">Nun ging die allgemeine Rede,</l>
+            </lg>
+            <lg>
+               <l n="1467">es wäre sowohl Recht wie auch Zeit.</l>
+               <l n="1468">An der Stelle erhob sich ein großes Streiten</l>
+            </lg>
+            <lg>
+               <l n="1469">unter ihnen, beim Beraten.</l>
+               <l n="1470">Dieser riet her, der andre riet hin,</l>
+            </lg>
+            <lg>
+               <l n="1471">wie’s die Leute schon immer machten,</l>
+               <l n="1472">da wo sie hätten raten sollen,</l>
+            </lg>
+            <lg>
+               <l n="1472a">um legale Verheiratung.</l>
+               <l n="1472b">Ein Rat kam nicht zusammen.</l>
+            </lg>
+            <lg>
+               <l n="1473">Als ihr Rat so unbrauchbar war,</l>
+               <l n="1474">da sprach der arme Heinrich:</l>
+            </lg>
+            <lg>
+               <l n="1475">›Euch Herren ist allen wohlbekannt,</l>
+               <l n="1476">dass ich vor kurzer Zeit</l>
+            </lg>
+            <lg>
+               <l n="1477">weit und breit unangenehm war,</l>
+               <l n="1478">den Leuten widerwärtig.</l>
+            </lg>
+            <lg>
+               <l n="1480">Einen gesunden Leib hat mir gegeben</l>
+               <l n="1479">Jetzt aber scheut mich weder Mann noch Weib.</l>
+            </lg>
+            <lg>
+               <l n="1481">das Gebot unsers Herrn.</l>
+               <l n="1482">Nun verhelft mir alle, um Gottes willen,</l>
+            </lg>
+            <lg>
+               <l n="1483">von dem ich die Gnade habe,</l>
+               <l n="1484">die Gott mir getan hat –</l>
+            </lg>
+            <lg>
+               <l n="1485">nämlich, dass ich gesund geworden bin –</l>
+               <l n="1486">zu dem, was ich ihm schuldig bin.‹</l>
+            </lg>
+            <lg>
+               <l n="1487">Sie sprachen: ›Nehmt euch zu Gemüte,</l>
+               <l n="1488">dass ihm Leib und Leben und Hab und Gut</l>
+            </lg>
+            <lg>
+               <l n="1489">für immer untertänig sei.‹</l>
+               <l n="1490">Sein Trautgemahl stand dabei</l>
+            </lg>
+            <lg>
+               <l n="1491">und er war ihr herzlich gut, als er sie ansah.</l>
+               <l n="1492">Er umarmte sie und sprach:</l>
+            </lg>
+            <lg>
+               <l n="1493">›Euch Herren ist allen wohl gesagt worden,</l>
+               <l n="1494">dass ich von diesem guten Mädchen</l>
+            </lg>
+            <lg>
+               <l n="1495">meine Gesundheit wiederhabe,</l>
+               <l n="1496">die ihr hier seht neben mir stehen.</l>
+            </lg>
+            <lg>
+               <l n="1497">Und sie ist frei, genau so wie ich es bin.</l>
+               <l n="1498">Und so rät mir mein Herz,</l>
+            </lg>
+            <lg>
+               <l n="1499">dass ich sie zum Weibe nehmen soll.</l>
+               <l n="1500">Gott gebe, dass das zu mir passt,</l>
+            </lg>
+            <lg>
+               <l n="1501">so will ich sie zum Weibe haben.</l>
+               <l n="1502">Und, wahrlich, wenn das nicht geht,</l>
+            </lg>
+            <lg>
+               <l n="1503">so will ich sterben ohne Weib.</l>
+               <l n="1504">Denn Ehre und Leib und Leben</l>
+            </lg>
+            <lg>
+               <l n="1505">habe ich durch sie.</l>
+               <l n="1506">Bei der Huld unsers Herrn</l>
+            </lg>
+            <lg>
+               <l n="1507">will ich euch alle bitten,</l>
+               <l n="1508">dass es euch wohlgefällig sei.‹</l>
+            </lg>
+            <lg>
+               <l n="1509">Nun sprachen sie alle gleichermaßen,</l>
+               <l n="1510">die Armen wie die Reichen,</l>
+            </lg>
+            <lg>
+               <l n="1511">das wäre ganz nach Fug und Recht.</l>
+               <l n="1512">Genügend Geistliche waren da,</l>
+            </lg>
+            <lg>
+               <l n="1513">die gaben sie ihm zum Weibe.</l>
+               <l n="1514">Nach süßem Langleben</l>
+            </lg>
+            <lg>
+               <l n="1515">da wohnten sie gleichzeitig</l>
+               <l n="1516">im ewigen Reich.</l>
+            </lg>
+            <lg>
+               <l n="1517">Also möge es uns allen</l>
+               <l n="1518">am Jüngsten Tag zufallen!</l>
+            </lg>
+            <lg>
+               <l n="1519">Zum Lohn, den sie da nahmen,</l>
+               <l n="1520">verhelfe uns Gott! Amen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

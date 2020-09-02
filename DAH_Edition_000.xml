@@ -3113,8 +3113,9 @@ type=”application/xml” schematypens=”http://purl.oclc.org/dsdl/schematron�
                      <rdg xml:id="Bb_257r-b.v_235_line_21" xml:space="preserve" wit="#Bb" n="0219" ana="tercet:235"><choice><orig>Daz</orig><reg>daz</reg></choice> ieman den erwurbe<pc type="editorial">,</pc></rdg>
                      <rdg xml:space="preserve" xml:id="E_5v-4v-b.v_235_line_38" wit="#E" n="0157"><choice><orig><choice><abbr>D<am>c</am></abbr><expan>D<ex>az</ex></expan></choice></orig><reg>daz</reg></choice> ieman den erw<gap reason="cut_off" extent="4" unit="chars"/></rdg>
                      <rdg wit="#tr_A">jemanden dazu zu bringen,</rdg>
-                     <rdg wit="#tr_Ba"/>
-                  <rdg wit="#tr_Bb"/></app>
+                     <rdg wit="#tr_Ba">daß jemand den einen beibringen könnte,</rdg>
+                     <rdg wit="#tr_Bb">daß jemand den einen beibringen könnte,</rdg>
+                  </app>
                </l>
                <l xml:id="v_236">
                   <app>
@@ -9807,7 +9808,7 @@ type=”application/xml” schematypens=”http://purl.oclc.org/dsdl/schematron�
                      <rdg xml:id="A_203-a.v_781_line_7" xml:space="preserve" wit="#A" n="0781"><choice><orig>Do</orig><reg>do</reg></choice> enſtirbet weder ros noch <choice><abbr>d<am>z</am></abbr><expan>d<ex>az</ex></expan></choice> rint<pc type="ms">·</pc><pc type="editorial">,</pc></rdg>
                      <rdg xml:id="Ba_253v-b.v_781_line_33" xml:space="preserve" wit="#Ba" n="0773"><choice><orig>Da</orig><reg>da</reg></choice> <choice><orig>en mevt</orig><reg>enmeut</reg></choice> ros noch rint<pc type="editorial">,</pc></rdg>
                      <rdg xml:id="Bb_260v-b.v_781_line_17" xml:space="preserve" wit="#Bb" n="0775"><choice><orig>Donen</orig><reg>donen</reg></choice> <choice><orig>mvet</orig><reg>muet</reg></choice> ros noch die rint<pc type="editorial">,</pc></rdg>
-                     <rdg wit="#tr_A"><choice><orig>en iſt</orig><reg>eniſt</reg></choice></rdg>
+                     <rdg wit="#tr_A">da stirbt das Roß nicht, noch das Rind,</rdg>
                      <rdg wit="#tr_Ba">da müht sich ab kein Ross noch Rind</rdg>
                      <rdg wit="#tr_Bb">da müht sich ab kein Ross noch Rind</rdg>
                   </app>

@@ -411,7 +411,7 @@
                <l n="180"><lb n="18"/><w><choice><orig>vnde</orig><reg>unde</reg></choice></w><w><choice><orig>fvr</orig><reg>fur</reg></choice></w><w>gegen</w><w>Salerne</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
-               <l n="184"><lb n="19"/><w><choice><orig><hi rendition="hc:Versal">D</hi>o</orig><reg>do</reg></choice></w><w>hiez</w><w>er</w><w>vragen</w><w>zehant</w></l>
+               <l n="182a"><lb n="19"/><w><choice><orig><hi rendition="hc:Versal">D</hi>o</orig><reg>do</reg></choice></w><w>hiez</w><w>er</w><w>vragen</w><w>zehant</w></l>
                <l n="183"><lb n="20"/><w>nach</w><w>den</w><w>beſten</w><w>meiſtern</w><pc ana="editorial">,</pc><w>die</w><w>man</w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="20a"/><w>vant</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
@@ -436,7 +436,7 @@
             </lg>
             <lg>
                <l n="193"><lb n="31"/><w><choice><orig><hi rendition="hc:Versal">J</hi>ch</orig><reg>ich</reg></choice></w><w join="right">en</w><w join="left">truwe</w><w>iz</w><w>wol</w><w><choice><orig>vol bringen</orig><reg>volbringen</reg></choice></w><pc ana="editorial">,</pc></l>
-               <l n="194"><lb n="32"/><w>an</w><w>deheiner</w><w>ſlahte</w><w>dingen</w><pc ana="editorial">.</pc></l>
+               <l n="193a"><lb n="32"/><w>an</w><w>deheiner</w><w>ſlahte</w><w>dingen</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
                <l n="209"><lb n="33"/><w><choice><orig><hi rendition="hc:Versal">J</hi>rn</orig><reg>Irn</reg></choice></w><w>wolt</w><w>denne</w><w>iwer</w><w>reht</w><w>brechen</w></l>
@@ -477,7 +477,7 @@
             </lg>
             <lg>
                <l n="227"><lb n="11"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w>ſie</w><w>den</w><w>tot</w><w>gerne</w><w>lide</w><pc ana="editorial">,</pc></l>
-               <l n="227a"><lb n="12"/><w>daz</w><w>man</w><w>ſie</w><w>zwiſchen</w><w>iren</w><w><choice><orig>brvſten</orig><reg>bruſten</reg></choice></w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="12a"/><w>ſnite</w><pc ana="editorial">.</pc></l>
+               <l n="227a" hei:replicates="#xpath(//l[@n='450'])"><lb n="12"/><w>daz</w><w>man</w><w>ſie</w><w>zwiſchen</w><w>iren</w><w><choice><orig>brvſten</orig><reg>bruſten</reg></choice></w><lb ana="hc:DependentLine hc:RunOverLineBelow" n="12a"/><w>ſnite</w><pc ana="editorial">.</pc></l>
             </lg>
             <lg>
                <l n="228"><lb n="13"/><w><choice><orig><hi rendition="hc:Versal">N</hi>v</orig><reg>nu</reg></choice></w><w>iſt</w><w>es</w><w>niht</w><w>der</w><w>werlde</w><w>ſite</w><pc ana="editorial">,</pc></l>

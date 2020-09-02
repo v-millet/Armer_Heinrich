@@ -487,7 +487,7 @@
                <l n="233"><lb n="36"/><w><choice><orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>O</orig><reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</reg></choice></w><w>ſprach</w><w>der</w><w>arme</w><w><choice><orig>heinrich</orig><reg>Heinrich</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="234"><lb n="37"/><w><choice><orig>Daz</orig><reg>daz</reg></choice></w><w>were</w><w>gar</w><w><choice><orig>vnmvgelich</orig><reg>unmugelich</reg></choice></w><pc ana="editorial">,</pc></l>
             </lg>
-            <lg>
+            <lg ana="hc:Tercet">
                <l n="235"><lb n="38"/><w><choice><orig><hi rendition="hc:Versal">D</hi>az</orig><reg>daz</reg></choice></w><w>ieman</w><w>den</w><w><choice><orig>er wurbe</orig><reg>erwurbe</reg></choice></w><pc ana="editorial">,</pc></l>
                <l n="236"><lb n="39"/><w><choice><orig>Der</orig><reg>der</reg></choice></w><w>gerne</w><w>vor</w><w>in</w><w><choice><orig>ſtvrbe</orig><reg>ſturbe</reg></choice></w></l>
                <l n="236a"><lb n="40"/><w><choice><orig><choice><abbr><hi rendition="hc:Versal">V</hi><am>n̄</am></abbr><expan>V<ex>nd</ex></expan></choice></orig><reg>und</reg></choice></w><w>gar</w><w><choice><orig>ver tvrbe</orig><reg>verturbe</reg></choice></w><pc ana="editorial">.</pc></l>
