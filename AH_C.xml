@@ -5,29 +5,33 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> Der  <w> arme </w>  Heinrich. Textgeschichtliche elektronische Ausgabe </title>
-            <author> Hartmann von Aue </author>
-            <respStmt><resp> hrsg. von </resp><persName ref="https://orcid.org/0000-0002-7683-8892"> Victor Millet </persName><persName ref="https://orcid.org/0000-0002-2202-6354"> Gustavo Fernández Riva </persName></respStmt>
-            <respStmt><resp> unter Mitarbeit von </resp><persName ref="http://d-nb.info/gnd/1037976495"> Jakub Šimek </persName></respStmt>
-            <respStmt><resp> Übersetzungen von </resp><persName> Dietmar Peschel </persName></respStmt>
-            <sponsor> Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R </sponsor>
-            <sponsor> Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020 </sponsor>
+            <title>Der arme Heinrich. Textgeschichtliche elektronische Ausgabe</title>
+            <author>Hartmann von Aue</author>
+            <respStmt><resp>hrsg. von</resp>
+               <persName ref="https://orcid.org/0000-0002-7683-8892">Victor Millet</persName>
+               <persName ref="https://orcid.org/0000-0002-2202-6354">Gustavo Fernández Riva </persName></respStmt>
+            <respStmt><resp>unter Mitarbeit von</resp>
+               <persName ref="http://d-nb.info/gnd/1037976495">Jakub Šimek</persName></respStmt>
+            <respStmt><resp>Übersetzungen von</resp>
+               <persName>Dietmar Peschel</persName></respStmt>
+            <sponsor>Ministerio de Economía y Competitividad, Spanien, FFI2015-67537-R</sponsor>
+            <sponsor>Europäischer Fonds für regionale Entwicklung (FEDER), Finanzierungsrahmen 2014–2020</sponsor>
          </titleStmt>
          <publicationStmt>
-            <publisher> Heidelberg University Publishing </publisher>
-            <pubPlace> Heidelberg </pubPlace>
-            <idno> https://doi.org/10.11588/edition.ahd </idno>
+            <publisher>Heidelberg University Publishing</publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <idno>https://doi.org/10.11588/edition.ahd</idno>
             <availability>
-               <p> Creative Commons-Lizenz 4.0 (CC BY-SA 4.0) </p>
+               <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <listWit>
                <witness xml:id="C"><msDesc>
                   <msIdentifier>
-                     <settlement> Berlin </settlement>
-                     <repository> Staatsbibliothek zu Berlin - Preußischer Kulturbesitz </repository>
-                     <idno> Ms. germ. fol. 923 Nr. 7a </idno>
+                     <settlement>Berlin</settlement>
+                     <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
+                     <idno>Ms. germ. fol. 923 Nr. 7a</idno>
                   </msIdentifier>
                   </msDesc></witness>
             </listWit>
