@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -43,6 +40,25 @@
          </listPrefixDef>
       </encodingDesc>
    </teiHeader>
+    <facsimile>
+        <surface xml:id="C_1r_2r" ana="hc:Page" n="1r/2r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf_923_7a/0001"/>
+            <zone xml:id="C_1r_2r-a" ana="hc:Column hc:TextZone" n="a"/>
+           <!-- Wir sollten unterschiedliche Zonen für die beiden Teile (oben / unten) anlegen!! -->
+        </surface>
+        <surface xml:id="C_1v_2v" ana="hc:Page" n="1v/2v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf_923_7a/0002"/>
+            <zone xml:id="C_1v_2v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="C_3r_4r" ana="hc:Page" n="3r/4r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf_923_7a/0003"/>
+            <zone xml:id="C_3r_4r-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="C_3v_4v" ana="hc:Page" n="3v/4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/sbb-pk_mgf_923_7a/0004"/>
+            <zone xml:id="C_3v_4v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+    </facsimile>
    <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
       <body>
          <div>

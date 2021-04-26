@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,7 +25,7 @@
             <pubPlace>Heidelberg</pubPlace>
             <idno>https://doi.org/10.11588/edition.ahd</idno>
             <availability>
-               <p> Creative Commons-Lizenz 4.0 (CC BY-SA 4.0) </p>
+               <p>Creative Commons-Lizenz 4.0 (CC BY-SA 4.0)</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -49,6 +46,35 @@
          </listPrefixDef>
       </encodingDesc>
    </teiHeader>
+   <facsimile>
+        <surface xml:id="E_4r_5r" ana="hc:Page" n="4r/5r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm5249_29b/0001"/>
+            <zone xml:id="E_4r_5r-" ana="hc:Column hc:TextZone" n=""/>
+        </surface>
+        <surface xml:id="E_5v_4v" ana="hc:Page" n="5v/4v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm5249_29b/0002"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="E_5v_4v-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="E_5v_4v-b" ana="hc:Column hc:TextZone" n="b"/>
+            </zone>
+        </surface>
+        <surface xml:id="E_10r" ana="hc:Page" n="10r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm5249_29b/0003"/>
+            <zone xml:id="E_10r-c" ana="hc:Column hc:TextZone" n="c"/>
+        </surface>
+        <surface xml:id="E_10v" ana="hc:Page" n="10v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm5249_29b/0004"/>
+            <zone xml:id="E_10v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+        <surface xml:id="E_6r" ana="hc:Page" n="6r">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm5249_29b/0005"/>
+            <zone xml:id="E_6r-c" ana="hc:Column hc:TextZone" n="c"/>
+        </surface>
+        <surface xml:id="E_6v" ana="hc:Page" n="6v">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/bsb_cgm5249_29b/0006"/>
+            <zone xml:id="E_6v-a" ana="hc:Column hc:TextZone" n="a"/>
+        </surface>
+    </facsimile>
    <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
       <front>
          <pb edRef="#E" facs="#E_4r-5r" n="4r/5r"/>
