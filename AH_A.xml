@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS/tei_hes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:hei="https://digi.ub.uni-heidelberg.de/schema/tei/heiEDITIONS" ana="hc:IWDDocument">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,6 +47,104 @@
          </listPrefixDef>
       </encodingDesc>
    </teiHeader>
+   <facsimile>
+        <surface xml:id="A_197" ana="hc:Page" n="197">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0519"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_197-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_197-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_197-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_198" ana="hc:Page" n="198">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0520"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_198-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_198-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_198-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_199" ana="hc:Page" n="199">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0521"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_199-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_199-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_199-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_200" ana="hc:Page" n="200">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0522"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_200-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_200-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_200-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_201" ana="hc:Page" n="201">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0523"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_201-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_201-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_201-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_202" ana="hc:Page" n="202">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0524"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_202-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_202-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_202-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_203" ana="hc:Page" n="203">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0525"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_203-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_203-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_203-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_204" ana="hc:Page" n="204">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0526"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_204-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_204-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_204-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_205" ana="hc:Page" n="205">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0527"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_205-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_205-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_205-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_206" ana="hc:Page" n="206">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0528"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_206-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_206-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_206-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_207" ana="hc:Page" n="207">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0529"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_207-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_207-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_207-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+        <surface xml:id="A_208" ana="hc:Page" n="208">
+            <graphic url="https://digi.ub.uni-heidelberg.de/diglit/mueller1784bd1/0530"/>
+            <zone ana="hc:HorizontalLayout">
+                <zone xml:id="A_208-a" ana="hc:Column hc:TextZone" n="a"/>
+                <zone xml:id="A_208-b" ana="hc:Column hc:TextZone" n="b"/>
+                <zone xml:id="A_208-c" ana="hc:Column hc:TextZone" n="c"/>
+            </zone>
+        </surface>
+    </facsimile>
    <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
       <front>
          <pb n="197"/>
