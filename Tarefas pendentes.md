@@ -6,4 +6,10 @@
 - Item
 
 
-Text
+## AHD Ba
+
+- Falta por resolver unha abreviatura de "ihm̄ cirst" no v. 807
+- Item
+- Item
+
+

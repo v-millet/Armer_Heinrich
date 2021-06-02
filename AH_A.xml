@@ -65,6 +65,7 @@
             <zone xml:id="A_197-a" ana="hc:Column hc:TextZone" n="a"/>
             <zone xml:id="A_197-b" ana="hc:Column hc:TextZone" n="b"/>
             <zone xml:id="A_197-c" ana="hc:Column hc:TextZone" n="c"/>
+            <zone xml:id="A_197-d" ana="hc:TextZone hc:MarginalZone" n="d"/>
          </zone>
       </surface>
       <surface xml:id="A_198" ana="hc:Page" n="198">
@@ -158,7 +159,7 @@
    </facsimile>
    <text ana="hc:CompleteExpression hc:ShortNarrativePoem">
       <front>
-         <pb n="197" facs="#A_197"/>
+         <pb n="197" facs="#A_197-d"/>
          <titlePart>
             <w>Dis</w>
             <c> </c>
@@ -29663,7 +29664,6 @@
                <cb n="b" facs="#A_207-b"/>
                <l n="1340" xml:id="l_1340" hei:altN="1342">
                   <lb n="1"/>
-
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
