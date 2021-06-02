@@ -7700,7 +7700,7 @@
                   <c> </c>
                   <w xml:id="w_391_5">mit</w>
                   <c> </c>
-                  <w xml:id="w_391_6">v<choice><am> &er;</am><ex>ro</ex></choice>we<choice><am>&bar;</am><ex>n</ex></choice></w>
+                  <w xml:id="w_391_6">v<choice><am>&er;</am><ex>ro</ex></choice>we<choice><am>&bar;</am><ex>n</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_391_7">gar</w>
                   <choice>
@@ -17285,7 +17285,7 @@
                   <c> </c>
                   <w xml:id="w_796_5">ein</w>
                   <c> </c>
-                  <w xml:id="w_796_6">halb<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_796_6">halb<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_796_7">tac</w>
                   <choice>
@@ -19866,7 +19866,7 @@
                   <w xml:id="w_931_5">en</w>
                   <w xml:id="w_931_6">iſt</w>
                   <c> </c>
-                  <w xml:id="w_931_7">d<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_931_7">d<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_931_8">tot</w>
                </l>
@@ -21543,7 +21543,7 @@
                   <c> </c>
                   <w xml:id="w_1005_5">gelaze<choice><am>&bar;</am><ex>n</ex></choice></w>
                   <c> </c>
-                  <w xml:id="w_1005_6">od<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1005_6">od<choice><am>&er;</am><ex>er</ex></choice></w>
                   <lb ana="hc:DependentLine hc:RunOverLineBelow" n="38a"/>
                   <metamark ana="hc:RunOverSign">|||</metamark>
                   <w xml:id="w_1005_7">getan</w>
@@ -25824,7 +25824,7 @@
                   <c> </c>
                   <w xml:id="w_1193_5">von</w>
                   <c> </c>
-                  <w xml:id="w_1193_6">d<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1193_6">d<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_1193_7">nat</w>
                   <choice>
@@ -26018,7 +26018,7 @@
                      <choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
-                  <w xml:id="w_1202_6">d<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1202_6">d<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_1202_7">ſin</w>
                </l>
@@ -27108,7 +27108,7 @@
                   <c> </c>
                   <w xml:id="w_1260_3">der</w>
                   <c> </c>
-                  <w xml:id="w_1260_4">meiſt<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1260_4">meiſt<choice><am>&er;</am><ex>er</ex></choice></w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -27793,7 +27793,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <w xml:id="w_1280j_4">meiſt<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1280j_4">meiſt<choice><am>&er;</am><ex>er</ex></choice></w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -30476,7 +30476,7 @@
                   <c> </c>
                   <w xml:id="w_1386e_5">eteſwen</w>
                   <c> </c>
-                  <w xml:id="w_1386e_6">d<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1386e_6">d<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_1386e_7">nit</w>
                   <choice>
@@ -32349,7 +32349,7 @@
                   <c> </c>
                   <w xml:id="w_1479_3">mich</w>
                   <c> </c>
-                  <w xml:id="w_1479_4">wed<choice><am> &er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_1479_4">wed<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_1479_5">ma<choice><am>&bar;</am><ex>n</ex></choice></w>
                   <c> </c>
