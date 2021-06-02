@@ -17372,10 +17372,8 @@
                   <w xml:id="w_807_3">hr<choice><am>&er;</am><ex/></choice><choice><am>ē</am><ex>n</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_807_4">
-                     <choice>
-                        <orig>ihm̄<choice><am/><ex>esu</ex></choice>m<choice><am>&bar;</am><ex/></choice></orig>
-                        <reg>Ihesum</reg>
-                     </choice>
+                     <choice><orig>i</orig><reg>J</reg></choice>h
+                     <choice><am>&bar;</am><ex>esu</ex></choice>m
                   </w>
                   <c> </c>
                   <w xml:id="w_807_5"><choice><orig>c</orig><reg>C</reg></choice>riſt</w>
