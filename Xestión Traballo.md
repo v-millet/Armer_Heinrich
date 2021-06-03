@@ -15,4 +15,5 @@ Decidimos compartir o OneDrive "Iwein_Victor" para intercambio de documentos. Gi
 - Tarefas 1 e 2 en Bb
 - choice intercaladas completo en Bb (terminado :))
 - choice intercaladas en A: 11 restantes (issue sic) e 107 solucionadas
+- (Victor) Arranxadas as orig-reg de inicio de verso que incluían toda a palabra
 
