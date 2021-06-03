@@ -284,10 +284,12 @@
                <l n="3" xml:id="l_3" hei:altN="3">
                   <lb n="21"/>
                   <w xml:id="w_3_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>as
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>as
                   </w>
                   <c> </c>
                   <w xml:id="w_3_2">er</w>
@@ -2383,10 +2385,12 @@
                <l n="105" xml:id="l_105" hei:altN="107">
                   <lb n="7"/>
                   <w xml:id="w_105_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ir
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ir
                   </w>
                   <c> </c>
                   <w xml:id="w_105_2">ſin</w>
@@ -2663,10 +2667,12 @@
                <l n="123" xml:id="l_123" hei:altN="121">
                   <lb n="21"/>
                   <w xml:id="w_123_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>art
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>art
                   </w>
                   <c> </c>
                   <w xml:id="w_123_2">er</w>
@@ -2901,10 +2907,12 @@
                <l n="141" xml:id="l_141" hei:altN="133">
                   <lb n="33"/>
                   <w xml:id="w_141_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>az
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>az
                   </w>
                   <c> </c>
                   <w xml:id="w_141_2">im</w>
@@ -3399,10 +3407,12 @@
                <l n="161" xml:id="l_161" hei:altN="157">
                   <lb n="17"/>
                   <w xml:id="w_161_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>art
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>art
                   </w>
                   <c> </c>
                   <w xml:id="w_161_2">vil</w>
@@ -3514,10 +3524,12 @@
                <l n="167" xml:id="l_167" hei:altN="163">
                   <lb n="23"/>
                   <w xml:id="w_167_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ere
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ere
                   </w>
                   <c> </c>
                   <w xml:id="w_167_2">vil</w>
@@ -4582,10 +4594,12 @@
                <l n="231" xml:id="l_231" hei:altN="214">
                   <lb n="34"/>
                   <w xml:id="w_231_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_231_2">der</w>
@@ -5943,10 +5957,12 @@
                <l n="303" xml:id="l_303" hei:altN="279">
                   <lb n="19"/>
                   <w xml:id="w_303_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ol
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ol
                   </w>
                   <c> </c>
                   <w xml:id="w_303_2">von</w>
@@ -6129,10 +6145,12 @@
                <l n="317" xml:id="l_317" hei:altN="289">
                   <lb n="29"/>
                   <w xml:id="w_317_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ol
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ol
                   </w>
                   <c> </c>
                   <w xml:id="w_317_2">gemiden</w>
@@ -6383,10 +6401,12 @@
                <l n="327" xml:id="l_327" hei:altN="303">
                   <lb n="3"/>
                   <w xml:id="w_327_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>onte
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>onte
                   </w>
                   <c> </c>
                   <w xml:id="w_327_2">ſi</w>
@@ -7154,10 +7174,12 @@
                <l n="365" xml:id="l_365" hei:altN="339">
                   <lb n="39"/>
                   <w xml:id="w_365_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>urde
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>urde
                   </w>
                   <c> </c>
                   <w xml:id="w_365_2">ein</w>
@@ -7883,10 +7905,12 @@
                <l n="399" xml:id="l_399" hei:altN="373">
                   <lb n="33"/>
                   <w xml:id="w_399_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ider
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ider
                   </w>
                   <c> </c>
                   <w xml:id="w_399_2">got</w>
@@ -8277,10 +8301,12 @@
                <l n="421" xml:id="l_421" hei:altN="389">
                   <lb n="9"/>
                   <w xml:id="w_421_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_421_2">wenic</w>
@@ -8320,10 +8346,12 @@
                <l n="423" xml:id="l_423" hei:altN="391">
                   <lb n="11"/>
                   <w xml:id="w_423_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_423_2">gerne</w>
@@ -8412,10 +8440,12 @@
                <l n="427" xml:id="l_427" hei:altN="395">
                   <lb n="15"/>
                   <w xml:id="w_427_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>art
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>art
                   </w>
                   <c> </c>
                   <w xml:id="w_427_2">z<choice><orig>v</orig><reg>u</reg></choice>r</w>
@@ -9564,10 +9594,12 @@
                <l n="483" xml:id="l_483" hei:altN="451">
                   <lb n="31"/>
                   <w xml:id="w_483_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>az
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>az
                   </w>
                   <c> </c>
                   <w xml:id="w_483_2">ir</w>
@@ -9639,10 +9671,12 @@
                <l n="487" xml:id="l_487" hei:altN="455">
                   <lb n="35"/>
                   <w xml:id="w_487_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_487_2">daz</w>
@@ -9749,10 +9783,12 @@
                <l n="491" xml:id="l_491" hei:altN="459">
                   <lb n="39"/>
                   <w xml:id="w_491_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>as
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>as
                   </w>
                   <c> </c>
                   <w xml:id="w_491_2">kan</w>
@@ -10446,10 +10482,12 @@
                <l n="525" xml:id="l_525" hei:altN="491">
                   <lb n="31"/>
                   <w xml:id="w_525_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_525_2">ſi</w>
@@ -11007,10 +11045,12 @@
                <l n="549" xml:id="l_549" hei:altN="517">
                   <lb n="17"/>
                   <w xml:id="w_549_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ar
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ar
                   </w>
                   <c> </c>
                   <w xml:id="w_549_2"><choice><orig>v</orig><reg>u</reg></choice>mbe</w>
@@ -11055,10 +11095,12 @@
                <l n="551" xml:id="l_551" hei:altN="519">
                   <lb n="19"/>
                   <w xml:id="w_551_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>az
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>az
                   </w>
                   <c> </c>
                   <w xml:id="w_551_2">ir</w>
@@ -12606,10 +12648,12 @@
                <l n="617" xml:id="l_617" hei:altN="587">
                   <lb n="7"/>
                   <w xml:id="w_617_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ir
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ir
                   </w>
                   <c> </c>
                   <w xml:id="w_617_2">haben</w>
@@ -12656,10 +12700,12 @@
                <l n="619" xml:id="l_619" hei:altN="589">
                   <lb n="9"/>
                   <w xml:id="w_619_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_619_2">er</w>
@@ -13687,10 +13733,12 @@
                <l n="662a" xml:id="l_662a" hei:altN="635">
                   <lb n="15"/>
                   <w xml:id="w_662a_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>il
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>il
                   </w>
                   <w xml:id="w_662a_2">tu</w>
                   <c> </c>
@@ -14119,10 +14167,12 @@
                <l n="677" xml:id="l_677" hei:altN="653">
                   <lb n="33"/>
                   <w xml:id="w_677_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_677_2">e<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -14784,10 +14834,12 @@
                <l n="695" xml:id="l_695" hei:altN="683">
                   <lb n="23"/>
                   <w xml:id="w_695_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ol
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ol
                   </w>
                   <c> </c>
                   <w xml:id="w_695_2">die</w>
@@ -15514,10 +15566,12 @@
                <l n="726" xml:id="l_726" hei:altN="713">
                   <lb n="13"/>
                   <w xml:id="w_726_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ir
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ir
                   </w>
                   <c> </c>
                   <w xml:id="w_726_2">ſin</w>
@@ -15731,10 +15785,12 @@
                <l n="735" xml:id="l_735" hei:altN="723">
                   <lb n="23"/>
                   <w xml:id="w_735_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_735_2">die</w>
@@ -16429,10 +16485,12 @@
                <l n="765" xml:id="l_765" hei:altN="753">
                   <lb n="13"/>
                   <w xml:id="w_765_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>irt
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>irt
                   </w>
                   <c> </c>
                   <w xml:id="w_765_2">er</w>
@@ -17284,10 +17342,12 @@
                <l n="795" xml:id="l_795" hei:altN="789">
                   <lb n="9"/>
                   <w xml:id="w_795_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>az
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>az
                   </w>
                   <c> </c>
                   <w xml:id="w_795_2">er</w>
@@ -17515,10 +17575,12 @@
                <l n="831" xml:id="l_831" hei:altN="800">
                   <lb n="19"/>
                   <w xml:id="w_831_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>old
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>old
                   </w>
                   <c> </c>
                   <w xml:id="w_831_2">ir</w>
@@ -19291,10 +19353,12 @@
                <l n="909" xml:id="l_909" hei:altN="882">
                   <lb n="21"/>
                   <w xml:id="w_909_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_909_2">biſ</w>
@@ -20735,10 +20799,12 @@
                <l n="969" xml:id="l_969" hei:altN="942">
                   <lb n="1"/>
                   <w xml:id="w_969_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_969_2">er</w>
@@ -20922,10 +20988,12 @@
                <l n="977" xml:id="l_977" hei:altN="950">
                   <lb n="9"/>
                   <w xml:id="w_977_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ir
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ir
                   </w>
                   <w xml:id="w_977_2">n</w>
                   <c> </c>
@@ -21023,10 +21091,12 @@
                <l n="980a" xml:id="l_980a" hei:altN="954">
                   <lb n="13"/>
                   <w xml:id="w_980a_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ir
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ir
                   </w>
                   <c> </c>
                   <w xml:id="w_980a_2">haben</w>
@@ -22485,10 +22555,12 @@
                <l n="1053" xml:id="l_1053" hei:altN="1022">
                   <lb n="1"/>
                   <w xml:id="w_1053_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_1053_2">daz</w>
@@ -23037,10 +23109,12 @@
                <l n="1059" xml:id="l_1059" hei:altN="1046">
                   <lb n="25"/>
                   <w xml:id="w_1059_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>erlichen
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>erlichen
                   </w>
                   <c> </c>
                   <w xml:id="w_1059_2">geſait</w>
@@ -23478,10 +23552,12 @@
                <l n="1079" xml:id="l_1079" hei:altN="1066">
                   <lb n="6"/>
                   <w xml:id="w_1079_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_1079_2">d<choice><orig>v</orig><reg>u</reg></choice></w>
@@ -23878,10 +23954,12 @@
                <l n="1095" xml:id="l_1095" hei:altN="1082">
                   <lb n="22"/>
                   <w xml:id="w_1095_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_1095_2">din</w>
@@ -24943,10 +25021,12 @@
                <l n="1135" xml:id="l_1135" hei:altN="1128">
                   <lb n="29"/>
                   <w xml:id="w_1135_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_1135_2">daz</w>
@@ -25185,10 +25265,12 @@
                <l n="1143" xml:id="l_1143" hei:altN="1138">
                   <lb n="39"/>
                   <w xml:id="w_1143_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_1143_2">groz</w>
@@ -29592,10 +29674,12 @@
                <l n="1332k" xml:id="l_1332k" hei:altN="1328">
                   <lb n="29"/>
                   <w xml:id="w_1332k_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_1332k_2">lange</w>
@@ -30724,10 +30808,12 @@
                <l n="1393" xml:id="l_1393" hei:altN="1384">
                   <lb n="5"/>
                   <w xml:id="w_1393_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>an
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>an
                   </w>
                   <c> </c>
                   <w xml:id="w_1393_2">irre</w>
@@ -31329,10 +31415,12 @@
                <l n="1429" xml:id="l_1429" hei:altN="1414">
                   <lb n="35"/>
                   <w xml:id="w_1429_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>as
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>as
                   </w>
                   <c> </c>
                   <w xml:id="w_1429_2">mag</w>
@@ -31416,10 +31504,12 @@
                <l n="1433" xml:id="l_1433" hei:altN="1418">
                   <lb n="39"/>
                   <w xml:id="w_1433_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>illiclichen
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>illiclichen
                   </w>
                   <c> </c>
                   <w xml:id="w_1433_2">hin</w>
@@ -31972,10 +32062,12 @@
                <l n="1463" xml:id="l_1463" hei:altN="1444">
                   <lb n="25"/>
                   <w xml:id="w_1463_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_1463_2">ſchire</w>
@@ -32509,10 +32601,12 @@
                <l n="1486" xml:id="l_1486" hei:altN="1466">
                   <lb n="7"/>
                   <w xml:id="w_1486_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>ie
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>ie
                   </w>
                   <c> </c>
                   <w xml:id="w_1486_2">ich</w>
@@ -33160,17 +33254,19 @@
                   <w xml:id="w_1513a_2">wertlicher</w>
                   <c> </c>
                   <w xml:id="w_1513a_3">wone</w>
-                  <note target="#Ba_w_1513a_2" ana="hc:TextCriticalNote">Das Wort wird immer in  <mentioned>werltlicher</mentioned> korrigiert, was Sinn macht, zumal auch Bb es so schreibt. Doch die Wiederholung des vermeintlichen ‘Fehlers’ wenige Verse später (V. 1513g) deutet auf Absicht und verbietet einen Eingriff</note>
+                  <note target="#Ba_w_1513a_2" ana="hc:TextCriticalNote">Das Wort wird immer in  <mentioned>werltlicher</mentioned> korrigiert, was Sinn macht, zumal auch Bb es so schreibt. Doch die Wiederholung des vermeintlichen ‘Fehlers’ wenige Verse später (V. 1513g) deutet auf Absicht hin und verbietet einen Eingriff</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
                <l n="1513b" xml:id="l_1513b" hei:altN="1494">
                   <lb n="35"/>
                   <w xml:id="w_1513b_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">W</hi></orig>
-                        <reg>w</reg>
-                     </choice>olden
+                     <hi rendition="hc:Versal">
+                        <choice>
+                            <orig>W</orig>
+                            <reg>w</reg>
+                         </choice>
+                     </hi>olden
                   </w>
                   <c> </c>
                   <w xml:id="w_1513b_2">ſie</w>
