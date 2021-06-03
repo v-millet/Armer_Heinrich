@@ -4909,9 +4909,9 @@
                   <lb n="5"/>
                   <w xml:id="w_255_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">G</hi>enediclichen</orig>
-                        <reg>genediclichen</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">G</hi></orig>
+                        <reg>g</reg>
+                     </choice>enediclichen
                   </w>
                   <c> </c>
                   <w xml:id="w_255_2"><choice><orig>v</orig><reg>u</reg></choice>ber</w>
@@ -28424,9 +28424,10 @@
                   <lb n="17"/>
                   <w xml:id="w_1340_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">G</hi>edvlticlichen</orig>
-                        <reg>gedulticlichen</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">G</hi></orig>
+                        <reg>g</reg>
+                     </choice>ed
+                     <choice><orig>v</orig><reg>u</reg></choice>lticlichen
                   </w>
                   <c> </c>
                   <w xml:id="w_1340_2"><choice><orig>v</orig><reg>u</reg></choice>nde</w>
