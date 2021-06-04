@@ -677,7 +677,7 @@
                   <lb n="2"/>
                   <w xml:id="w_23_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">h</hi>o&esup;re</orig>
+                        <orig><hi rendition="hc:Versal">H</hi>o&esup;re</orig>
                         <reg>höre</reg>
                      </choice>
                   </w>
@@ -4789,7 +4789,7 @@
                   <lb n="3"/>
                   <w xml:id="w_237_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">a</hi>lſvs</orig>
+                        <orig><hi rendition="hc:Versal">A</hi>lſvs</orig>
                         <reg>alſus</reg>
                      </choice>
                   </w>
@@ -5254,7 +5254,7 @@
                   <lb n="25"/>
                   <w xml:id="w_257_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">a</hi>lſvs</orig>
+                        <orig><hi rendition="hc:Versal">A</hi>lſvs</orig>
                         <reg>alſus</reg>
                      </choice>
                   </w>
@@ -25959,9 +25959,13 @@
                   <lb n="30"/>
                   <w xml:id="w_1194_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">a</hi>lſvſt</orig>
-                        <reg>alſuſt</reg>
-                     </choice>
+                        <orig>A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
+                     </choice>ſt
                   </w>
                   <c> </c>
                   <w xml:id="w_1194_2">beleip</w>
@@ -28486,7 +28490,7 @@
                   <lb n="19"/>
                   <w xml:id="w_1295_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">h</hi></orig>
+                        <orig><hi rendition="hc:Versal">H</hi></orig>
                         <reg>h</reg>
                      </choice>e<choice><orig>v</orig><reg>u</reg></choice>te
                   </w>
