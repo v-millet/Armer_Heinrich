@@ -1250,9 +1250,9 @@
                   <lb n="30"/>
                   <w xml:id="w_51_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">V</hi>alſch</orig>
-                        <reg>valſch</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">V</hi></orig>
+                        <reg>v</reg>
+                     </choice>alſch
                   </w>
                   <c> </c>
                   <w xml:id="w_51_2">
@@ -2028,9 +2028,9 @@
                   <lb n="27"/>
                   <w xml:id="w_85_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſe</orig>
-                        <reg>alſe</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſe
                   </w>
                   <c> </c>
                   <w xml:id="w_85_2">an</w>
@@ -5254,9 +5254,13 @@
                   <lb n="25"/>
                   <w xml:id="w_257_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſvs</orig>
-                        <reg>alſus</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
+                     </choice>s
                   </w>
                   <c> </c>
                   <w xml:id="w_257_2">tet</w>
@@ -8701,9 +8705,9 @@
                   <lb n="27"/>
                   <w xml:id="w_439_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">T</hi>orſte</orig>
-                        <reg>torſte</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">T</hi></orig>
+                        <reg>t</reg>
+                     </choice>orſte
                   </w>
                   <c> </c>
                   <w xml:id="w_439_2">oder</w>
@@ -9224,9 +9228,9 @@
                   <lb n="13"/>
                   <w xml:id="w_468_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">D</hi>iſe</orig>
-                        <reg>diſe</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">D</hi></orig>
+                        <reg>d</reg>
+                     </choice>iſe
                   </w>
                   <c> </c>
                   <w xml:id="w_468_2">rede</w>
@@ -9435,9 +9439,9 @@
                   <lb n="23"/>
                   <w xml:id="w_476a_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">W</hi>iſte</orig>
-                        <reg>wiſte</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">W</hi></orig>
+                        <reg>w</reg>
+                     </choice>iſte
                   </w>
                   <c> </c>
                   <w xml:id="w_476a_2">ſie</w>
@@ -10017,9 +10021,9 @@
                   <lb n="9"/>
                   <w xml:id="w_501_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">V</hi>nſer</orig>
-                        <reg>unſer</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">V</hi></orig>
+                        <reg>u</reg>
+                     </choice>nſer
                   </w>
                   <c> </c>
                   <w xml:id="w_501_2">weinen</w>
@@ -10409,9 +10413,9 @@
                   <lb n="27"/>
                   <w xml:id="w_521_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">N</hi>eheſt</orig>
-                        <reg>neheſt</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">N</hi></orig>
+                        <reg>n</reg>
+                     </choice>eheſt
                   </w>
                   <c> </c>
                   <w xml:id="w_521_2">irme</w>
@@ -10821,9 +10825,9 @@
                   <lb n="7"/>
                   <w xml:id="w_539_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſo</orig>
-                        <reg>alſo</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſo
                   </w>
                   <c> </c>
                   <w xml:id="w_539_2">groz</w>
@@ -11133,9 +11137,9 @@
                   <lb n="21"/>
                   <w xml:id="w_553_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">J</hi>r wenden</orig>
-                        <reg>irwenden</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">J</hi></orig>
+                        <reg>i</reg>
+                     </choice>r wenden
                   </w>
                   <c> </c>
                   <w xml:id="w_553_2">noch</w>
@@ -12001,9 +12005,9 @@
                   <lb n="19"/>
                   <w xml:id="w_591_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">G</hi>eſweiget</orig>
-                        <reg>geſweiget</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">G</hi></orig>
+                        <reg>g</reg>
+                     </choice>eſweiget
                   </w>
                   <c> </c>
                   <w xml:id="w_591_2">han</w>
@@ -12168,9 +12172,9 @@
                   <lb n="25"/>
                   <w xml:id="w_597_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">J</hi>ſt</orig>
-                        <reg>ist</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">J</hi></orig>
+                        <reg>i</reg>
+                     </choice>ſt
                   </w>
                   <c> </c>
                   <w xml:id="w_597_2">ſtark</w>
@@ -13542,9 +13546,9 @@
                   <lb n="5"/>
                   <w xml:id="w_654a_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">V</hi>nſer</orig>
-                        <reg>unſer</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">V</hi></orig>
+                        <reg>u</reg>
+                     </choice>nſer
                   </w>
                   <c> </c>
                   <w xml:id="w_654a_2">libe</w>
@@ -13583,9 +13587,9 @@
                   <lb n="7"/>
                   <w xml:id="w_655_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">V</hi>nſer</orig>
-                        <reg>unſer</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">V</hi></orig>
+                        <reg>u</reg>
+                     </choice>nſer
                   </w>
                   <c> </c>
                   <w xml:id="w_655_2">h<choice><am>&er;</am><ex>er</ex></choice>zen</w>
@@ -13622,9 +13626,9 @@
                   <lb n="9"/>
                   <w xml:id="w_657_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">V</hi>nſers</orig>
-                        <reg>unſers</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">V</hi></orig>
+                        <reg>u</reg>
+                     </choice>nſers
                   </w>
                   <c> </c>
                   <w xml:id="w_657_2">alders</w>
@@ -13951,9 +13955,9 @@
                   <lb n="23"/>
                   <w xml:id="w_667_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">L</hi>eiſten</orig>
-                        <reg>leiſten</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">L</hi></orig>
+                        <reg>l</reg>
+                     </choice>eiſten
                   </w>
                   <c> </c>
                   <w xml:id="w_667_2">eime</w>
@@ -14998,9 +15002,9 @@
                   <lb n="31"/>
                   <w xml:id="w_703_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſ</orig>
-                        <reg>alſ</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
                   </w>
                   <c> </c>
                   <w xml:id="w_703_2">ſie</w>
@@ -16320,9 +16324,9 @@
                   <lb n="7"/>
                   <w xml:id="w_759_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſo</orig>
-                        <reg>alſo</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſo
                   </w>
                   <c> </c>
                   <w xml:id="w_759_2">lange</w>
@@ -16590,9 +16594,9 @@
                   <lb n="17"/>
                   <w xml:id="w_769_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">G</hi>eſcheiden</orig>
-                        <reg>geſcheiden</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">G</hi></orig>
+                        <reg>g</reg>
+                     </choice>eſcheiden
                   </w>
                   <c> </c>
                   <w xml:id="w_769_2">von</w>
@@ -17537,9 +17541,9 @@
                   <lb n="17"/>
                   <w xml:id="w_811_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſo</orig>
-                        <reg>alſo</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſo
                   </w>
                   <c> </c>
                   <w xml:id="w_811_2">g<choice><orig>v</orig><reg>u</reg></choice>te</w>
@@ -18062,9 +18066,9 @@
                   <lb n="1"/>
                   <w xml:id="w_847_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">S</hi>oldeſ</orig>
-                        <reg>soldeſ</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">S</hi></orig>
+                        <reg>s</reg>
+                     </choice>oldeſ
                   </w>
                   <w xml:id="w_847_2">t<choice><orig>v</orig><reg>u</reg></choice></w>
                   <c> </c>
@@ -18898,9 +18902,9 @@
                   <lb n="1"/>
                   <w xml:id="w_891_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">E</hi>r wern</orig>
-                        <reg>erwern</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">E</hi></orig>
+                        <reg>e</reg>
+                     </choice>r wern
                   </w>
                   <c> </c>
                   <w xml:id="w_891_2">irn</w>
@@ -19989,9 +19993,9 @@
                   <lb n="7"/>
                   <w xml:id="w_933_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſ</orig>
-                        <reg>alſ</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
                   </w>
                   <c> </c>
                   <w xml:id="w_933_2">d<choice><orig>v</orig><reg>u</reg></choice></w>
@@ -23252,9 +23256,9 @@
                   <lb n="31"/>
                   <w xml:id="w_1065_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">D</hi>iſe</orig>
-                        <reg>diſe</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">D</hi></orig>
+                        <reg>d</reg>
+                     </choice>iſe
                   </w>
                   <c> </c>
                   <w xml:id="w_1065_2">rede</w>
@@ -24005,9 +24009,9 @@
                   <lb n="24"/>
                   <w xml:id="w_1097_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſ</orig>
-                        <reg>alſ</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
                   </w>
                   <c> </c>
                   <w xml:id="w_1097_2">dir</w>
@@ -24112,9 +24116,9 @@
                   <lb n="28"/>
                   <w xml:id="w_1101_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">G</hi>e rewet</orig>
-                        <reg>gerewet</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">G</hi></orig>
+                        <reg>g</reg>
+                     </choice>e rewet
                   </w>
                   <c> </c>
                   <w xml:id="w_1101_2">iz</w>
@@ -24651,9 +24655,9 @@
                   <lb n="13"/>
                   <w xml:id="w_1130c_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">D</hi>eſter</orig>
-                        <reg>deſter</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">D</hi></orig>
+                        <reg>d</reg>
+                     </choice>eſter
                   </w>
                   <c> </c>
                   <w xml:id="w_1130c_2">vorchtlicher</w>
@@ -25959,7 +25963,7 @@
                   <lb n="30"/>
                   <w xml:id="w_1194_1">
                      <choice>
-                        <orig>A</hi></orig>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
                         <reg>a</reg>
                      </choice>lſ
                      <choice>
@@ -26445,9 +26449,9 @@
                   <lb n="11"/>
                   <w xml:id="w_1213_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſ</orig>
-                        <reg>alſ</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
                   </w>
                   <c> </c>
                   <w xml:id="w_1213_2">im</w>
@@ -29259,9 +29263,9 @@
                   <lb n="11"/>
                   <w xml:id="w_1325_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">E</hi>rſchrachet</orig>
-                        <reg>erſchrachet</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">E</hi></orig>
+                        <reg>e</reg>
+                     </choice>rſchrachet
                   </w>
                   <c> </c>
                   <w xml:id="w_1325_2">ir</w>
@@ -29310,9 +29314,9 @@
                   <lb n="13"/>
                   <w xml:id="w_1327_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">Z</hi>wiſchen</orig>
-                        <reg>zwiſchen</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">Z</hi></orig>
+                        <reg>z</reg>
+                     </choice>wiſchen
                   </w>
                   <c> </c>
                   <w xml:id="w_1327_2">e<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -30205,9 +30209,9 @@
                   <lb n="15"/>
                   <w xml:id="w_1363_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſo</orig>
-                        <reg>alſo</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſo
                   </w>
                   <c> </c>
                   <w xml:id="w_1363_2">rechte</w>
@@ -32217,9 +32221,9 @@
                   <lb n="31"/>
                   <w xml:id="w_1469_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">Z</hi>wiſſchen</orig>
-                        <reg>zwiſſchen</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">Z</hi></orig>
+                        <reg>z</reg>
+                     </choice>wiſſchen
                   </w>
                   <c> </c>
                   <w xml:id="w_1469_2">dem</w>
@@ -32282,9 +32286,9 @@
                   <lb n="33"/>
                   <w xml:id="w_1471_1">
                      <choice>
-                        <orig><hi rendition="hc:Versal">A</hi>lſ</orig>
-                        <reg>alſ</reg>
-                     </choice>
+                        <orig><hi rendition="hc:Versal">A</hi></orig>
+                        <reg>a</reg>
+                     </choice>lſ
                   </w>
                   <c> </c>
                   <w xml:id="w_1471_2">die</w>
