@@ -6045,7 +6045,7 @@
                   <c> </c>
                   <w xml:id="w_307_4">einen</w>
                   <c> </c>
-                  <w xml:id="w_307_5">vu<choice><sic>&combcirc;t</sic><corr/></choice>z</w>
+                  <w xml:id="w_307_5">vu<choice><orig>&combcirc;</orig><reg>o</reg></choice><choice><sic>t</sic><corr/></choice>z</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -31872,9 +31872,8 @@
                   <w xml:id="w_1450a_1">
                      <choice>
                         <sic/>
-                        <corr></corr>
+                        <corr><hi rendition="hc:Versal">O</hi></corr>
                      </choice>
-                     <supplied><hi rendition="hc:Versal">O</hi></supplied>
                      <choice>
                         <sic><hi rendition="hc:Versal">V</hi></sic>
                         <corr>u</corr>
