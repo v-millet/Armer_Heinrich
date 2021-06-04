@@ -440,14 +440,12 @@
                   <lb n="14"/>
                   <w xml:id="w_14_1">
                      <choice>
-                        <sic>Un</sic>
-                        <corr>
-                           <choice>
                         <orig>U</orig>
                         <reg>u</reg>
                      </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
-                        </corr>
+                     <choice>
+                        <sic/>
+                        <corr>d</corr>
                      </choice>
                   </w>
                   <c> </c>
@@ -1770,12 +1768,10 @@
                   <lb n="36"/>
                   <w xml:id="w_77_1"><choice><orig>E</orig><reg>e</reg></choice>ren</w>
                   <c> </c>
-                  <w xml:id="w_77_2">
+                  <w xml:id="w_77_2">un
                      <choice>
-                        <sic>un</sic>
-                        <corr>un
-                           <choice><am>&bar;</am><ex>d</ex></choice>
-                        </corr>
+                        <sic/>
+                        <corr>d</corr>
                      </choice>
                   </w>
                   <c> </c>
@@ -13032,15 +13028,12 @@
                   <lb n="3"/>
                   <w xml:id="w_602_1">
                      <choice>
-                        <orig>
-                           <choice>
-                              <sic>Un</sic>
-                              <corr>Un
-                                 <choice><am>&bar;</am><ex>d</ex></choice>
-                              </corr>
-                           </choice>
-                        </orig>
-                        <reg>und</reg>
+                        <orig>U</orig>
+                        <reg>u</reg>
+                     </choice>n
+                     <choice>
+                        <sic/>
+                        <corr>d</corr>
                      </choice>
                   </w>
                   <c> </c>
@@ -17542,7 +17535,7 @@
             <lg ana="hc:Couplet">
                <l n="801" xml:id="l_801" hei:altN="801">
                   <lb n="27"/>
-                  <w xml:id="w_801_1"><choice><orig>U</orig><reg>u</reg></choice>wer</w>
+                  <w xml:id="w_801_1"><choice><orig>U</orig><reg>u</reg></choice><choice><sic/><corr>&combuml;</corr></choice>wer</w>
                   <c> </c>
                   <w xml:id="w_801_2">minne</w>
                   <c> </c>
@@ -17564,11 +17557,11 @@
                   <c> </c>
                   <w xml:id="w_802_2">ir</w>
                   <c> </c>
-                  <w xml:id="w_802_3">
+                  <w xml:id="w_802_3">u
                      <choice>
-                        <orig>u<choice><sic>&osup;</sic><corr>͑</corr></choice>ch</orig>
-                        <reg>üch</reg>
-                     </choice>
+                        <sic>o</sic>
+                        <corr>&combuml;</corr>
+                     </choice>ch
                   </w>
                   <c> </c>
                   <w xml:id="w_802_4">rehter</w>
@@ -25316,17 +25309,12 @@
                   <lb n="24"/>
                   <w xml:id="w_1147_1">
                      <choice>
-                        <sic>
-                           <choice>
-                              <orig>G</orig>
-                              <reg>g</reg>
-                           </choice>enu
-                           <choice>
-                              <orig>&osup;</orig>
-                              <reg>o</reg>
-                           </choice>
-                        </sic>
-                        <corr>genuog</corr>
+                        <orig>G</orig>
+                        <reg>g</reg>
+                     </choice>enuo
+                     <choice>
+                        <sic/>
+                        <corr>g</corr>
                      </choice>
                   </w>
                   <c> </c>
@@ -29484,16 +29472,11 @@
             <lg ana="hc:Couplet">
                <l n="1327" xml:id="l_1327" hei:altN="1329">
                   <lb n="34"/>
-                  <w xml:id="w_1327_1">
-                     <choice>
-                        <orig>Enzwu
-                           <choice>
-                              <sic/>
-                              <corr>͑</corr>
-                           </choice>ſchent
-                        </orig>
-                        <reg>enzwüſchent</reg>
-                     </choice>
+                  <w xml:id="w_1327_1">Enzwu
+                  <choice>
+                     <sic/>
+                     <corr>&combuml;</corr>
+                     </choice>ſchent
                   </w>
                   <c> </c>
                   <w xml:id="w_1327_2">u<choice><orig>͑</orig><reg>&combuml;</reg></choice>ch</w>
@@ -29580,16 +29563,11 @@
                   <lb n="38"/>
                   <w xml:id="w_1331_1"><choice><orig>D</orig><reg>d</reg></choice>az</w>
                   <c> </c>
-                  <w xml:id="w_1331_2">
+                  <w xml:id="w_1331_2">u
                      <choice>
-                        <orig>u
-                           <choice>
-                              <sic/>
-                              <corr>͑</corr>
-                           </choice>ch
-                        </orig>
-                        <reg>üch</reg>
-                     </choice>
+                        <sic/>
+                        <corr>&combuml;</corr>
+                     </choice>ch
                   </w>
                   <c> </c>
                   <w xml:id="w_1331_3">nieman</w>
@@ -31263,13 +31241,11 @@
                   <c> </c>
                   <w xml:id="w_1411_4">ſpehe</w>
                   <c> </c>
-                  <w xml:id="w_1411_5">
+                  <w xml:id="w_1411_5">und
                      <choice>
-                        <orig>und
-                           <choice><am>&er;</am><ex>er</ex></choice> ſnitten
-                        </orig>
-                        <reg>underſnitten</reg>
-                     </choice>
+                        <am>&er;</am>
+                        <ex>er</ex>
+                     </choice> ſnitten
                   </w>
                   <choice>
                      <orig>
