@@ -235,8 +235,7 @@
             <lg ana="hc:Couplet">
                <l n="1" xml:id="l_1" hei:altN="1">
                   <lb n="3"/>
-                  <w xml:id="w_1_1"><hei:initial ana="hc:Lombard" hei:color="Red"
-                     hei:heightLines="3"><choice><orig>E</orig><reg>e</reg></choice></hei:initial>in</w>
+                  <w xml:id="w_1_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="3">E</hei:initial>in</w>
                   <c> </c>
                   <w xml:id="w_1_2">ritter</w>
                   <c> </c>
@@ -650,10 +649,12 @@
                <l n="23" xml:id="l_23" hei:altN="23">
                   <lb n="25"/>
                   <w xml:id="w_23_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal"><choice><orig>H</orig><reg>h</reg></choice></hi></orig>
-                        <reg>h</reg>
-                     </choice>ore
+                     <hi rendition="hc:Versal">
+                        <choice>
+                           <orig>H</orig>
+                           <reg>h</reg>
+                        </choice>
+                     </hi>ore
                   </w>
                   <c> </c>
                   <w xml:id="w_23_2">ſagen</w>
@@ -1818,10 +1819,12 @@
                <l n="81" xml:id="l_81" hei:altN="83">
                   <lb n="5"/>
                   <w xml:id="w_81_1">
+                  <hi rendition="hc:Versal">
                      <choice>
-                        <orig><hi rendition="hc:Versal"><choice><orig>G</orig><reg>g</reg></choice></hi>e hohet</orig>
-                        <reg>gehohet</reg>
+                        <orig>G</orig>
+                        <reg>g</reg>
                      </choice>
+                  </hi>e hohet
                   </w>
                   <c> </c>
                   <w xml:id="w_81_2"><choice><orig>v</orig><reg>u</reg></choice>nde</w>
@@ -4196,7 +4199,7 @@
             <lg ana="hc:Couplet">
                <l n="225" xml:id="l_225" hei:altN="207">
                   <lb n="9"/>
-                  <w xml:id="w_225_1"><hi rendition="hc:Versal"<choice><orig>V</orig><reg>v</reg></choice></hi>ollen</w>
+                  <w xml:id="w_225_1"><hi rendition="hc:Versal"><choice><orig>V</orig><reg>v</reg></choice></hi>ollen</w>
                   <c> </c>
                   <w xml:id="w_225_2">vriebere</w>
                   <choice>
@@ -20032,10 +20035,16 @@
                      </reg>
                   </choice>
                   <w xml:id="w_973_1">
-                     <choice>
-                        <orig><hi rendition="hc:Versal">T</hi>re&vsup;wen</orig>
-                        <reg>treuwen</reg>
-                     </choice>
+                     <hi rendition="hc:Versal">
+                        <choice>
+                           <orig>T</orig>
+                           <reg>t</reg>
+                        </choice>
+                     </hi>r
+                        <choice>
+                           <orig>e&vsup;</orig>
+                           <reg>e</reg>
+                     </choice>wen
                   </w>
                   <choice>
                      <orig/>
@@ -23103,10 +23112,16 @@
                <l n="1101" xml:id="l_1101" hei:altN="1091">
                   <lb n="13"/>
                   <w xml:id="w_1101_1">
+                     <hi rendition="hc:Versal">
+                        <choice>
+                           <orig>G</orig>
+                           <reg>g</reg>
+                        </choice>
+                     </hi>er
                      <choice>
-                        <orig><hi rendition="hc:Versal">G</hi></orig>
-                        <reg>g</reg>
-                     </choice>ere&vsup;wet
+                        <orig>e&vsup;</orig>
+                        <reg>e</reg>
+                     </choice>wet
                   </w>
                   <c> </c>
                   <w xml:id="w_1101_2">is</w>
