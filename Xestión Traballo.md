@@ -16,4 +16,9 @@ Decidimos compartir o OneDrive "Iwein_Victor" para intercambio de documentos. Gi
 - choice intercaladas completo en Bb (terminado :))
 - choice intercaladas en A: 11 restantes (issue sic) e 107 solucionadas
 - (Victor) Arranxadas as orig-reg de inicio de verso que incluían toda a palabra
+## 04/06
+
+- Regularización de maiúsculas: Ba e Bb
+- Palabras con dobre s sacadas de choice: Ba e Bb
+
 
