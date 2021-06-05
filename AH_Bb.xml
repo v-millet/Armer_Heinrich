@@ -217,9 +217,7 @@
                <w>mere</w>
                <c> </c>
                <w>rich</w>
-            </hi>
             <lb n="2"/>
-            <hi hei:color="Red">
                <w>von</w>
                <c> </c>
                <w>dem</w>
@@ -5085,7 +5083,7 @@
                   <c> </c>
                   <w xml:id="w_260a_7">gezoch</w>
                   <c> </c>
-                  <note target="#Bb_w_260a_7" ana="hc:TextCriticalNote">Man beachte den Wechsel der Verbalpräfixe in den beiden Reimwörtern. Ba: <mentioned>zoch : gevloch</mentioned>, Bb: <mentioned>gezoch : vloch</mentioned></note>
+                  <note target="#w_260a_7" ana="hc:TextCriticalNote">Man beachte den Wechsel der Verbalpräfixe in den beiden Reimwörtern. Ba: <mentioned>zoch : gevloch</mentioned>, Bb: <mentioned>gezoch : vloch</mentioned></note>
                </l>
                <l n="260b" xml:id="l_260b" hei:altN="252">
                   <lb n="14"/>
@@ -6459,7 +6457,7 @@
                   <c> </c>
                   <w xml:id="w_345_6">riet</w>
                   <c> </c>
-                  <note target="#Bb_w_345_5" ana="hc:TextCriticalNote">Die Hs. hat <mentioned>im</mentioned>, doch der Bezug auf Heinrich ergibt hier keinen Sinn; hier hat <mentioned>Ba</mentioned> die richtige Lesart: <mentioned>ir riet</mentioned></note>
+                  <note target="#_w_345_5" ana="hc:TextCriticalNote">Die Hs. hat <mentioned>im</mentioned>, doch der Bezug auf Heinrich ergibt hier keinen Sinn; hier hat <mentioned>Ba</mentioned> die richtige Lesart: <mentioned>ir riet</mentioned></note>
                </l>
                <l n="346" xml:id="l_346" hei:altN="322">
                   <lb n="4"/>
@@ -6704,8 +6702,7 @@
                   <c> </c>
                   <w xml:id="w_357_6">m<choice><orig>v</orig><reg>u</reg></choice>zikeit</w>
                   <c> </c>
-                  <note target="#Bb_w_357_3" ana="hc:TextCriticalNote"
-                     >Das lose  <mentioned>e</mentioned> der Handschrift ist offenbar ein falscher Wortansatz, daher streichen wir es. Tilgungsmarkierungen fehlen generell in dieser Handschrift</note>
+                  <note target="#w_357_3" ana="hc:TextCriticalNote">Das lose <mentioned>e</mentioned> der Handschrift ist offenbar ein falscher Wortansatz, daher streichen wir es. Tilgungsmarkierungen fehlen generell in dieser Handschrift</note>
                </l>
                <l n="358" xml:id="l_358" hei:altN="334">
                   <lb n="16"/>
@@ -12173,8 +12170,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_618_4" ana="hc:TextCriticalNote"
-                     >Obschon A <mentioned>herren mut</mentioned> hat und in den folgenden Versen tatsächlich vom herren die Rede ist, passt <mentioned>herzen mvt</mentioned> ebenso gut und den Schreiber von Bb, der es in Ba so las, hat es auch nicht gestört</note>
+                  <note target="#w_618_4" ana="hc:TextCriticalNote">Obschon A <mentioned>herren mut</mentioned> hat und in den folgenden Versen tatsächlich vom Herren die Rede ist, passt <mentioned>herzen mvt</mentioned> ebenso gut und den Schreiber von Bb, der es in Ba so las, hat es auch nicht gestört</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -12293,8 +12289,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_623_2a" ana="hc:TextCriticalNote"
-                     >Bb scheint das <mentioned>in</mentioned> von Ba in ein <mentioned>vnſ</mentioned> geändert zu haben. Doch das ergibt keinen Sinn. Wir meinen, dass der Schreiber beim Hinzufügen des  <mentioned>vnſ</mentioned>  das <mentioned>in</mentioned> vergessen hat, und tragen es nach</note>
+                  <note target="#w_623_2a" ana="hc:TextCriticalNote">Bb scheint das <mentioned>in</mentioned> von Ba in ein <mentioned>vnſ</mentioned> geändert zu haben. Doch das ergibt keinen Sinn. Wir meinen, dass der Schreiber beim Hinzufügen des <mentioned>vnſ</mentioned>  das <mentioned>in</mentioned> vergessen hat, und tragen es nach</note>
                </l>
                <l n="624" xml:id="l_624" hei:altN="596">
                   <lb n="38"/>
@@ -14767,8 +14762,7 @@
                   <w xml:id="w_719_5"><choice><orig>v</orig><reg>u</reg></choice>nd</w>
                   <c> </c>
                   <w xml:id="w_719_6">ere</w>
-                  <note target="#Bb_w_719_2" ana="hc:TextCriticalNote"
-                     >Seltener Fall einer Variante von Bb gegenüber Ba. <mentioned>enfvret,</mentioned> wohl zu swV <mentioned>vuoren</mentioned> gehörend, bedeutet ‘unterhalten, nähren, speisen’, hier natürlich im übertragenen Sinne</note>
+                  <note target="#w_719_2" ana="hc:TextCriticalNote">Seltener Fall einer Variante von Bb gegenüber Ba. <mentioned>enfvret,</mentioned> wohl zu swV <mentioned>vuoren</mentioned> gehörend, bedeutet ‘unterhalten, nähren, speisen’, hier natürlich im übertragenen Sinne</note>
                </l>
                <l n="720" xml:id="l_720" hei:altN="710">
                   <lb n="32"/>
@@ -18138,8 +18132,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_893_6" ana="hc:TextCriticalNote"
-                     >Wieder steht in der Handschrift ein Ansatz zu einem falschem Buchstaben, ein Tilgungszeichen fehlt</note>
+                  <note target="#w_893_6" ana="hc:TextCriticalNote">Wieder steht in der Handschrift ein Ansatz zu einem falschem Buchstaben, ein Tilgungszeichen fehlt</note>
                </l>
                <l n="894" xml:id="l_894" hei:altN="868">
                   <lb n="30"/>
@@ -22684,8 +22677,7 @@
                         <pc>!</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1083_3" ana="hc:TextCriticalNote"
-                     >Wahrscheinlich hat der Schreiber versehentlich <mentioned>ich</mentioned> geschrieben, dann das <mentioned>mich</mentioned> nachgetragen und den Rest, wie bei ihm üblich, ungetilgt stehengelassen</note>
+                  <note target="#w_1083_3" ana="hc:TextCriticalNote">Wahrscheinlich hat der Schreiber versehentlich <mentioned>ich</mentioned> geschrieben, dann das <mentioned>mich</mentioned> nachgetragen und den Rest, wie bei ihm üblich, ungetilgt stehengelassen</note>
                </l>
                <l n="1084" xml:id="l_1084" hei:altN="1074">
                   <lb n="36"/>
@@ -24398,7 +24390,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1172_2" ana="hc:TextCriticalNote"><mentioned>wandelbere</mentioned> ist in den Editionen immer in <mentioned>unwandelbaere</mentioned> emendiert worden; wie uns scheint, unnötigerweise: <mentioned>genvc wandelbere</mentioned> ist das Mädchen in dem Sinne, dass sie die natürliche Neigung zum Erhalt des Lebens gewandelt hat; in diesem Sinne könnte die Lesung von B sogar als <mentioned>lectio difficilior</mentioned> gedeutet werden</note>
+                  <note target="#w_1172_2" ana="hc:TextCriticalNote"><mentioned>wandelbere</mentioned> ist in den Editionen immer in <mentioned>unwandelbaere</mentioned> emendiert worden; wie uns scheint, unnötigerweise: <mentioned>genvc wandelbere</mentioned> ist das Mädchen in dem Sinne, dass sie die natürliche Neigung zum Erhalt des Lebens gewandelt hat; in diesem Sinne könnte die Lesung von B sogar als <mentioned>lectio difficilior</mentioned> gedeutet werden</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -24908,9 +24900,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1196_6" ana="hc:TextCriticalNote">
-                     <mentioned>Die Wiederholung des Reimworts ergibt keinen Sinn ergibt, daher haben wir nach Ba korrigiert</mentioned>
-                  </note>
+                  <note target="#w_1196_6" ana="hc:TextCriticalNote">Die Wiederholung des Reimworts ergibt keinen Sinn ergibt, daher haben wir nach Ba korrigiert</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -28800,8 +28790,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1357_2" ana="hc:TextCriticalNote"
-                     >Die übliche Lesung dieses Wortes als  <mentioned>peccator</mentioned> scheint uns nicht richtig; wir lesen in beiden Handschriften <mentioned>pectator</mentioned> und schließen auf ein ausgelassenes <mentioned>s</mentioned> am Wortanfang</note>
+                  <note target="#w_1357_2" ana="hc:TextCriticalNote">Die übliche Lesung dieses Wortes als  <mentioned>peccator</mentioned> scheint uns nicht richtig; wir lesen in beiden Handschriften <mentioned>pectator</mentioned> und schließen auf ein ausgelassenes <mentioned>s</mentioned> am Wortanfang</note>
                </l>
                <l n="1358" xml:id="l_1358" hei:altN="1352">
                   <lb n="34"/>
@@ -29384,7 +29373,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1388_3" ana="hc:TextCriticalNote">Möglicherweise hat der Schreiber in seiner Vorlage <mentioned>kvnſt</mentioned> gelesen, anstatt <mentioned>kvnft</mentioned>, und aus welchen Gründen auch immer daraus <mentioned>kraft</mentioned> gemacht</note>
+                  <note target="#w_1388_3" ana="hc:TextCriticalNote">Möglicherweise hat der Schreiber in seiner Vorlage <mentioned>kvnſt</mentioned> gelesen, anstatt <mentioned>kvnft</mentioned>, und aus welchen Gründen auch immer daraus <mentioned>kraft</mentioned> gemacht</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -29577,8 +29566,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1397_3" ana="hc:TextCriticalNote"
-                     >Offenbar hat der Schreiber das Tilgungszeichen über dem <mentioned>r</mentioned> in seiner Vorlage nicht erkannt</note>
+                  <note target="#w_1397_3" ana="hc:TextCriticalNote">Offenbar hat der Schreiber das Tilgungszeichen über dem <mentioned>r</mentioned> in seiner Vorlage nicht erkannt</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -29688,8 +29676,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1404_4" ana="hc:TextCriticalNote"
-                     >Der Vers entspricht V. 1409, wurde aber mit höchst forciertem Reimwort an diese Stelle gelegt</note>
+                  <note target="#w_1404_4" ana="hc:TextCriticalNote">Der Vers entspricht V. 1409, wurde aber mit höchst forciertem Reimwort an diese Stelle gelegt</note>
                </l>
                <l n="1405" xml:id="l_1405" hei:altN="1398">
                   <lb n="40"/>
@@ -30040,8 +30027,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1427_5" ana="hc:TextCriticalNote"
-                     >Zu den reimbedingten endungslosen Infinitva vgl. V. 8, 110, 643, 686</note>
+                  <note target="#w_1427_5" ana="hc:TextCriticalNote">Zu den reimbedingten endungslosen Infinitva vgl. V. 8, 110, 643, 686</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -31842,9 +31828,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Bb_w_1513h_6" ana="hc:TextCriticalNote">
-                     <mentioned>Die (beinahe parodistisch klingende) reimbedingte Endung auf -r ist grammatisch nicht haltbar</mentioned>
-                  </note>
+                  <note target="#w_1513h_6" ana="hc:TextCriticalNote">Die (beinahe parodistisch klingende) reimbedingte Endung auf -r ist grammatisch nicht haltbar</note>
                </l>
                <l n="1513i" xml:id="l_1513i" hei:altN="1504">
                   <lb n="27"/>

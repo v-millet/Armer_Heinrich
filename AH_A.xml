@@ -218,7 +218,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_2_5" ana="hc:TextCriticalNote">Myller hat <mentioned>buchen</mentioned>; die Grimms schreiben kommentarlos <mentioned>bu&osup;chen</mentioned>. Auch in anderen Fällen, z.B. in den Reimwörtern von V. 5 und 6, <mentioned>o&vsup;we / ſcho&vsup;we</mentioned> fügen die Grimms Diphtonge ein, die nicht in Myller stehen. Da sie generell sprachlich vereinheitlichen und auch die Abkürzungen auflösen, halten wir uns an Myller. Doch in solchen Fällen ist nicht zu entscheiden, was in der Handschrift stand</note>
+                  <note target="#w_2_5" ana="hc:TextCriticalNote">Myller hat <mentioned>buchen</mentioned>; die Grimms schreiben kommentarlos <mentioned>bu&osup;chen</mentioned>. Auch in anderen Fällen, z.B. in den Reimwörtern von V. 5 und 6, <mentioned>o&vsup;we / ſcho&vsup;we</mentioned> fügen die Grimms Diphtonge ein, die nicht in Myller stehen. Da sie generell sprachlich vereinheitlichen und auch die Abkürzungen auflösen, halten wir uns an Myller. Doch in solchen Fällen ist nicht zu entscheiden, was in der Handschrift stand</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -527,7 +527,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#xpath(//l[@n='17'])">Das pronominale Subjekt <mentioned>er</mentioned> steht nicht in A, ist aber mitzudenken. Weitere Ellisionen der Subjektpronomina V. 44, 55, 163, 316, 358, 480 u.ö. Eine Emmendation ist daher nicht nötig. Vgl. dazu Mhd. Gramm.§ S 35 und § S 110, mit auffallend vielen Hartmann-Beispielen. Vgl. auch dasselbe Phänomen in Hartmanns <mentioned>Ereck</mentioned>, hg. Hammer / Millet / Reuvekamp-Felber, Anm. zu V. 17</note>
+                  <note ana="hc:TextCriticalNote" target="#l_17">Das pronominale Subjekt <mentioned>er</mentioned> steht nicht in A, ist aber mitzudenken. Weitere Ellisionen der Subjektpronomina V. 44, 55, 163, 316, 358, 480 u.ö. Eine Emmendation ist daher nicht nötig. Vgl. dazu Mhd. Gramm.§ S 35 und § S 110, mit auffallend vielen Hartmann-Beispielen. Vgl. auch dasselbe Phänomen in Hartmanns <mentioned>Ereck</mentioned>, hg. Hammer / Millet / Reuvekamp-Felber, Anm. zu V. 17</note>
                </l>
                <l n="18" xml:id="l_18" hei:altN="18">
                   <lb n="18"/>
@@ -999,7 +999,7 @@
                </l>
                <l n="40" xml:id="l_40" hei:altN="40">
                   <lb n="40"/>
-                  <w xml:id="w_40_1"><choice><orig>O&vsup;</orig><reg>ou</reg></choice>ch</w>
+                  <w xml:id="w_40_1"><choice><orig>O</orig><reg>o</reg></choice><choice><orig>&vsup;</orig><reg>u</reg></choice>ch</w>
                   <c> </c>
                   <w xml:id="w_40_2">was</w>
                   <c> </c>
@@ -1101,7 +1101,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#xpath(//l[@n='44'])">Fehlendes Subjektpronomen, vgl. Anm. zu V. 17</note>
+                  <note ana="hc:TextCriticalNote" target="#l_44">Fehlendes Subjektpronomen, vgl. Anm. zu V. 17</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -1201,7 +1201,7 @@
                   <c> </c>
                   <w xml:id="w_49_4">der</w>
                   <c> </c>
-                  <w xml:id="w_49_5"><choice><orig>o&vsup;</orig><reg>Ou</reg></choice>we</w>
+                  <w xml:id="w_49_5"><choice><orig>O</orig><reg>o</reg></choice><choice><orig>&vsup;</orig><reg>u</reg></choice>we</w>
                   <c> </c>
                   <w xml:id="w_49_6">geborn</w>
                   <choice>
@@ -1342,7 +1342,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_55_1">Dieses erste <mentioned>und</mentioned> fehlt bei den Grimms kommentarlos</note>
+                  <note ana="hc:TextCriticalNote" target="#w_55_1">Dieses erste <mentioned>und</mentioned> fehlt bei den Grimms kommentarlos</note>
                </l>
                <l n="56" xml:id="l_56" hei:altN="56">
                   <lb n="16"/>
@@ -1911,7 +1911,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_84_4">Die Grimms schreiben kommentarlos <mentioned>gezöiget</mentioned></note>
+                  <note ana="hc:TextCriticalNote" target="#w_84_4">Die Grimms schreiben kommentarlos <mentioned>gezöiget</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -2109,7 +2109,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_95_2" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>wu͑r</mentioned>, was die gewöhnliche Form der Hs. ist</note>
+                  <note target="#w_95_2" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>wu͑r</mentioned>, was die gewöhnliche Form der Hs. ist</note>
                </l>
                <l n="96" xml:id="l_96" hei:altN="96">
                   <lb n="16"/>
@@ -2230,7 +2230,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_101_3" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>wu͑r</mentioned>. Vgl. Anm. zu V. 95</note>
+                  <note target="#w_101_3" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>wu͑r</mentioned>. Vgl. Anm. zu V. 95</note>
                </l>
                <l n="102" xml:id="l_102" hei:altN="102">
                   <lb n="22"/>
@@ -2290,7 +2290,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_104_4">Seit den Grimms wird aus der Hs. Ba das Substantiv <mentioned>licht</mentioned> vor <mentioned>birt</mentioned> ergänzt. Doch eine Elision des Objekts scheint nicht Grund genug für einen Eingriff</note>
+                  <note ana="hc:TextCriticalNote" target="#w_104_4">Seit den Grimms wird aus der Hs. Ba das Substantiv <mentioned>licht</mentioned> vor <mentioned>birt</mentioned> ergänzt. Doch eine Elision des Objekts scheint nicht Grund genug für einen Eingriff</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -3109,7 +3109,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_144_1">Der Mask. Sing. <mentioned>den</mentioned> bezieht sich grammatisch auf <mentioned>siechtag</mentioned> des Vorverses</note>
+                  <note ana="hc:TextCriticalNote" target="#w_144_1">Der Mask. Sing. <mentioned>den</mentioned> bezieht sich grammatisch auf <mentioned>siechtag</mentioned> des Vorverses</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -3207,7 +3207,7 @@
                   <c> </c>
                   <w xml:id="w_149_4">dz</w>
                   <c> </c>
-                  <w xml:id="w_149_5"><choice><am>v&er;</am><ex>er</ex></choice>ſwant</w>
+                  <w xml:id="w_149_5">v<choice><am>&er;</am><ex>er</ex></choice>ſwant</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -3236,7 +3236,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_150_2">Myller schreibt <mentioned>ſwinnende</mentioned> . Die Grimms notieren jedoch, dass die Hs. <mentioned>ſvinnende</mentioned> hat. Für ihren Texte emendieren sie in Anlehnung an Ba zu <mentioned>ſvimende</mentioned>. Doch Freude 'schwimmt' nicht, die Emendation ist daher semantisch unpassend (und auch nicht weiter Belegt), weshalb wir eine Korrektur zu <mentioned>ſvimende</mentioned> vorschlagen, das in Kombination mit <mentioned>herz</mentioned> immerhin zwölfmal in der MHDBDB bezeugt ist</note>
+                  <note ana="hc:TextCriticalNote" target="#w_150_2">Myller schreibt <mentioned>ſwinnende</mentioned> . Die Grimms notieren jedoch, dass die Hs. <mentioned>ſvinnende</mentioned> hat. Für ihren Texte emendieren sie in Anlehnung an Ba zu <mentioned>ſvimende</mentioned>. Doch Freude 'schwimmt' nicht, die Emendation ist daher semantisch unpassend (und auch nicht weiter Belegt), weshalb wir eine Korrektur zu <mentioned>ſvimende</mentioned> vorschlagen, das in Kombination mit <mentioned>herz</mentioned> immerhin zwölfmal in der MHDBDB bezeugt ist</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -3489,7 +3489,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#xpath(//l[@n='163'])">Fehlendes Subjektpronomen; vgl. Anm. zu V. 17</note>
+                  <note ana="hc:TextCriticalNote" target="#l_163">Fehlendes Subjektpronomen; vgl. Anm. zu V. 17</note>
                </l>
                <l n="164" xml:id="l_164" hei:altN="164">
                   <lb n="44"/>
@@ -3592,7 +3592,7 @@
                   <c> </c>
                   <w xml:id="w_169_4">vil</w>
                   <c> </c>
-                  <w xml:id="w_169_5">mani<choice><am>g&er;</am><ex>er</ex></choice></w>
+                  <w xml:id="w_169_5">manig<choice><am>&er;</am><ex>er</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_169_6">ſlahte</w>
                   <choice>
@@ -3844,7 +3844,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_181_2"><mentioned>ſu͑ht</mentioned> Myller, <mentioned>ſu&osup;ht</mentioned> Grimms; die Deutung der Diakritika ist oft schwierig</note>
+                  <note ana="hc:TextCriticalNote" target="#w_181_2"><mentioned>ſu͑ht</mentioned> Myller, <mentioned>ſu&osup;ht</mentioned> Grimms</note>
                </l>
                <l n="182" xml:id="l_182" hei:altN="182">
                   <lb n="18"/>
@@ -6008,7 +6008,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_281_2" ana="hc:TextCriticalNote">Die Grimms ergänzen kommentarlos ein bei Myller fehlendes <mentioned>was</mentioned>. Ob sie hier stillschweigend die Hs. emendieren oder ein von Myller vergessenes Wort nach der Hs. einfügen, ist, wie so oft, unsicher. Die Einfügung übernehmen wir, denn <mentioned>gelich</mentioned> als Präteritum eines starken Verbs <mentioned>gelichen</mentioned> zu deuten, bereitet Schwierigkeiten , weil das Reflexivum dieses Verbs sonst nur mit Dativ belegt ist</note>
+                  <note target="#w_281_2" ana="hc:TextCriticalNote">Die Grimms ergänzen kommentarlos ein bei Myller fehlendes <mentioned>was</mentioned>. Ob sie hier stillschweigend die Hs. emendieren oder ein von Myller vergessenes Wort nach der Hs. einfügen, ist, wie so oft, unsicher. Die Einfügung übernehmen wir, denn <mentioned>gelich</mentioned> als Präteritum eines starken Verbs <mentioned>gelichen</mentioned> zu deuten, bereitet Schwierigkeiten, weil das Reflexivum dieses Verbs sonst nur mit Dativ belegt ist</note>
                </l>
                <l n="282" xml:id="l_282" hei:altN="282">
                   <lb n="31"/>
@@ -7086,7 +7086,7 @@
             <lg ana="hc:Couplet">
                <l n="333" xml:id="l_333" hei:altN="333">
                   <lb n="39"/>
-                  <w xml:id="w_333_1"><choice><orig>O&vsup;</orig><reg>ou</reg></choice>ch</w>
+                  <w xml:id="w_333_1"><choice><orig>O</orig><reg>o</reg></choice><choice><orig>&vsup;</orig><reg>u</reg></choice>ch</w>
                   <c> </c>
                   <w xml:id="w_333_2">half</w>
                   <c> </c>
@@ -7161,7 +7161,7 @@
                         <pc>:</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_335_4" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>ſwaz</mentioned></note>
+                  <note target="#w_335_4" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>ſwaz</mentioned></note>
                </l>
                <l n="336" xml:id="l_336" hei:altN="336">
                   <lb n="42"/>
@@ -7366,7 +7366,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_345_5">Die Endung auf <mentioned>r</mentioned> hier und im folgenden Vers ergibt keinen ersichtlichen Sinn; wir tilgen sie daher im Editionsmodus</note>
+                  <note ana="hc:TextCriticalNote" target="#w_345_5">Die Endung auf <mentioned>r</mentioned> hier und im folgenden Vers ergibt keinen ersichtlichen Sinn; wir tilgen sie daher im Editionsmodus</note>
                </l>
                <l n="346" xml:id="l_346" hei:altN="346">
                   <lb n="8"/>
@@ -8595,7 +8595,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_402_2" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos<mentioned>von des</mentioned></note>
+                  <note target="#w_402_2" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos<mentioned>von des</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -9364,7 +9364,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_436_3" ana="hc:TextCriticalNote">Bei den Grimms <mentioned>zu&osup;</mentioned></note>
+                  <note target="#w_436_3" ana="hc:TextCriticalNote">Bei den Grimms <mentioned>zu&osup;</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -10199,7 +10199,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_476_4" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>ſmerzen</mentioned></note>
+                  <note target="#w_476_4" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>ſmerzen</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -10263,7 +10263,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_479_3">Myller hat <mentioned>ſu͑fze</mentioned>, wass offensichtlich falsch ist; die Grimms korrigieren die Lesung</note>
+                  <note ana="hc:TextCriticalNote" target="#w_479_3">Myller hat <mentioned>ſu͑fze</mentioned>, wass offensichtlich falsch ist; die Grimms korrigieren die Lesung</note>
                </l>
                <l n="480" xml:id="l_480" hei:altN="480">
                   <lb n="10"/>
@@ -10285,7 +10285,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_480_3" ana="hc:TextCriticalNote">Im Unterschied zu den Subjektpronomina (vgl. Anm. zu V. 17) ist das Fehlen eines Objektpronomens einzigartig, daher ergänzen wir es hier</note>
+                  <note target="#w_480_3" ana="hc:TextCriticalNote">Im Unterschied zu den Subjektpronomina (vgl. Anm. zu V. 17) ist das Fehlen eines Objektpronomens einzigartig, daher ergänzen wir es hier</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -10484,8 +10484,8 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_489_4">Myller liest <mentioned>e ime</mentioned>, die Grimms korrigieren zu <mentioned>ime</mentioned>, stellen aber in Anm. schon den Bezug zu V. 494 her. Wir deuten beide <mentioned>eime</mentioned> als Form von <mentioned>ime</mentioned> und bewahren sie</note>
-                  <note target="#A_w_489_5" ana="hc:TextCriticalNote">Myller schreibt <mentioned>wolle</mentioned>, die Grimms machen daraus kommentarlos <mentioned>wollte</mentioned> und diese Form hat sich bis heute in allen Ausgaben gehalten, obwohl <mentioned>wolle</mentioned> besser passt</note>
+                  <note ana="hc:TextCriticalNote" target="#w_489_4">Myller liest <mentioned>e ime</mentioned>, die Grimms korrigieren zu <mentioned>ime</mentioned>, stellen aber in Anm. schon den Bezug zu V. 494 her. Wir verstehen beide <mentioned>eime</mentioned> als mundartliche Form von <mentioned>ime</mentioned> und bewahren sie</note>
+                  <note target="#w_489_5" ana="hc:TextCriticalNote">Myller schreibt <mentioned>wolle</mentioned>, die Grimms machen daraus kommentarlos <mentioned>wollte</mentioned> und diese Form hat sich bis heute in allen Ausgaben gehalten, obwohl <mentioned>wolle</mentioned> besser passt</note>
                </l>
                <l n="490" xml:id="l_490" hei:altN="490">
                   <lb n="20"/>
@@ -11373,7 +11373,7 @@
                   <c> </c>
                   <w xml:id="w_530_4">
                      <choice>
-                        <sic xml:id="sic_A_530_4">unfro</sic>
+                        <sic>unfro</sic>
                         <corr>
                            <w>und</w>
                            <w>fro</w>
@@ -11386,7 +11386,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_530_4">Myller liest <mentioned>unfro</mentioned>, die Grimms schreiben kommentarlos <mentioned>und fro</mentioned>; möglicherweise stand in der Hs. <mentioned>un&bar; fro</mentioned> und Myller sah die Abkürzung nicht</note>
+                  <note ana="hc:TextCriticalNote" target="#w_530_4">Myller liest <mentioned>unfro</mentioned>, die Grimms schreiben kommentarlos <mentioned>und fro</mentioned>; möglicherweise stand in der Hs. <mentioned>un&bar; fro</mentioned> und Myller sah die Abkürzung nicht</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -12277,7 +12277,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_568_4">Die Zusammenschreibung von <mentioned>batter</mentioned> ist bei den Grimms kommentarlos aufgelöst</note>
+                  <note ana="hc:TextCriticalNote" target="#w_568_4">Die Zusammenschreibung von <mentioned>batter</mentioned> ist bei den Grimms kommentarlos aufgelöst</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -14822,11 +14822,11 @@
             <lg ana="hc:Couplet">
                <l n="681" xml:id="l_681" hei:altN="681">
                   <lb n="40"/>
-                  <w xml:id="w_681_1">
+                  <w xml:id="w_681_1"><hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">M</hei:initial>u
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">M</hei:initial>u&osup;ter</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">M</hei:initial>uoter</reg>
-                     </choice>
+                        <orig>&osup;</orig>
+                        <reg>o</reg>
+                     </choice>ter
                   </w>
                   <choice>
                      <orig/>
@@ -15009,7 +15009,7 @@
                </l>
                <l n="690" xml:id="l_690" hei:altN="690">
                   <lb n="4"/>
-                  <w xml:id="w_690_1"><choice><orig>O&vsup;</orig><reg>ou</reg></choice>ch</w>
+                  <w xml:id="w_690_1"><choice><orig>O</orig></choice><reg>o</reg><choice><orig>&vsup;</orig><reg>u</reg></choice>ch</w>
                   <c> </c>
                   <w xml:id="w_690_2">hette</w>
                   <c> </c>
@@ -15433,7 +15433,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_709_4">Myller schreibt <mentioned>ir</mentioned>, notiert aber, dass in der Hs. auch <mentioned>iſt</mentioned> stehen könnte. Die Grimms übernehmen letzteres kommentarlos. Was in der Hs. wirklich stand, lässt sich nicht mehr bestimmen; doch gestützt auf Myllers Zweifel übernehmen auch wir das <mentioned>ist</mentioned>, zumal der Satz sonst kein Verb hätte</note>
+                  <note ana="hc:TextCriticalNote" target="#w_709_4">Myller schreibt <mentioned>ir</mentioned>, notiert aber, dass in der Hs. auch <mentioned>iſt</mentioned> stehen könnte. Die Grimms übernehmen letzteres kommentarlos. Was in der Hs. wirklich stand, lässt sich nicht mehr bestimmen; doch gestützt auf Myllers Zweifel übernehmen auch wir das <mentioned>ist</mentioned>, zumal der Satz sonst kein Verb hätte</note>
                </l>
                <l n="710" xml:id="l_710" hei:altN="710">
                   <lb n="24"/>
@@ -15512,7 +15512,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#xpath(//l[@n='712'])">Vers nicht in Myller; von den Grimms nach der Hs. ergänzt. Die Grimms korrigieren jedoch nach Ba zu <mentioned>ein geher tot</mentioned>, weil sie die Wortwiederholung für unecht halten; dem folgen wir nicht</note>
+                  <note ana="hc:TextCriticalNote" target="#l_712">Vers nicht in Myller; von den Grimms nach der Hs. ergänzt. Die Grimms korrigieren jedoch nach Ba zu <mentioned>ein geher tot</mentioned>, weil sie die Wortwiederholung für unecht halten; dem folgen wir nicht</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -16215,7 +16215,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_743_3" ana="hc:TextCriticalNote">Myller hat <mentioned>erkannet</mentioned>, die Grimms <mentioned>erkennet</mentioned></note>
+                  <note target="#w_743_3" ana="hc:TextCriticalNote">Myller hat <mentioned>erkannet</mentioned>, die Grimms <mentioned>erkennet</mentioned></note>
                </l>
                <l n="744" xml:id="l_744" hei:altN="744">
                   <lb n="13"/>
@@ -16237,7 +16237,7 @@
             <lg ana="hc:Couplet">
                <l n="745" xml:id="l_745" hei:altN="745">
                   <lb n="14"/>
-                  <w xml:id="w_745_1"><choice><orig>U&esup;</orig><reg>ü</reg></choice>wer</w>
+                  <w xml:id="w_745_1"><choice><orig>U</orig><reg>u</reg></choice><choice><orig>&esup;</orig><reg>&combuml;</reg></choice>wer</w>
                   <c> </c>
                   <w xml:id="w_745_2">fro<choice><orig>&esup;</orig><reg>&combuml;</reg></choice>ide</w>
                   <c> </c>
@@ -16522,7 +16522,7 @@
                      <c> </c>
                      <w xml:id="w_758_5">herre</w>
                   </supplied>
-                  <note ana="hc:TextCriticalNote" target="#xpath(//l[@n='758'])">Zeile fehlte in der Hs., von Myller und den Grimms gekennzeichnet. Der entsprechende Vers der Fassung B passt hier syntaktisch wie vom Reim her sehr gut und wird daher gewöhnlich übernommen, weil sonst das Verb im folgenden Vers kein Subjekt hätte</note>
+                  <note ana="hc:TextCriticalNote" target="l_758">Zeile fehlte in der Hs., von Myller und den Grimms gekennzeichnet. Der entsprechende Vers der Fassung B passt hier syntaktisch wie vom Reim her sehr gut und wird daher gewöhnlich übernommen, weil sonst das Verb im folgenden Vers kein Subjekt hätte</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -16873,7 +16873,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_772_3">Die Konstruktion mit <mentioned>zu&osup;</mentioned> ist ein wenig apart. Damit könnte ein Irrweg zu falschen Freuden gemeint sein</note>
+                  <note ana="hc:TextCriticalNote" target="#w_772_3">Die Konstruktion mit <mentioned>zu&osup;</mentioned> ist ein wenig apart. Damit könnte ein Irrweg zu falschen Freuden gemeint sein</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -17404,7 +17404,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_795_3" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>geerbeiten</mentioned></note>
+                  <note target="#w_795_3" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>geerbeiten</mentioned></note>
                </l>
                <l n="796" xml:id="l_796" hei:altN="796">
                   <lb n="22"/>
@@ -17573,7 +17573,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_802_3" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>u͑ch</mentioned>, was sinnvoller ist; möglicherweise hat Myller das Diakritikum der Handschrift falsch aufgelöst</note>
+                  <note target="#w_802_3" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>u͑ch</mentioned>, was sinnvoller ist; möglicherweise hat Myller das Diakritikum der Handschrift falsch aufgelöst</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -17927,7 +17927,7 @@
                </l>
                <l n="820" xml:id="l_820" hei:altN="820">
                   <lb n="2"/>
-                  <w xml:id="w_820_1"><choice><orig>O&vsup;</orig><reg>ou</reg></choice>ch</w>
+                  <w xml:id="w_820_1"><choice><orig>O</orig><reg>o</reg></choice><choice><orig>&vsup;</orig><reg>u</reg></choice>ch</w>
                   <c> </c>
                   <w xml:id="w_820_2">ſol</w>
                   <c> </c>
@@ -19210,7 +19210,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_876_3" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend zu <mentioned>meiger</mentioned></note>
+                  <note target="#w_876_3" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend zu <mentioned>meiger</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -20631,7 +20631,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_937_3" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend, wir schließen uns dem an</note>
+                  <note target="#w_937_3" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend, wir schließen uns dem an</note>
                </l>
                <l n="938" xml:id="l_938" hei:altN="940">
                   <lb n="36"/>
@@ -22514,7 +22514,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1022_1" ana="hc:TextCriticalNote">Das  <mentioned>Schono</mentioned> der Handschrift wurde von den Grimms bereits korrigiert mit dem Argument, die alte Form sei bei der Sprache der Handschrift fehl am Platz; dem schließen wir uns an</note>
+                  <note target="#w_1022_1" ana="hc:TextCriticalNote">Das  <mentioned>Schono</mentioned> der Handschrift wurde von den Grimms bereits korrigiert mit dem Argument, die alte Form sei bei der Sprache der Handschrift fehl am Platz; dem schließen wir uns an</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -22824,7 +22824,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_1036_4">Myller liest <mentioned>ſeftert</mentioned>, die Grimms schreiben kommentarlos <mentioned>ſenftert</mentioned></note>
+                  <note ana="hc:TextCriticalNote" target="#w_1036_4">Myller liest <mentioned>ſeftert</mentioned>, die Grimms schreiben kommentarlos <mentioned>ſenftert</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -23188,7 +23188,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1053_1" ana="hc:TextCriticalNote">Die Grimms korrigieren mit Ba zu <mentioned>wan</mentioned>; ihnen folgen alle späteren Ausgaben. Wir halten jedoch einen Eingriff nicht für nötig; vgl. die Übersetzung</note>
+                  <note target="#w_1053_1" ana="hc:TextCriticalNote">Die Grimms korrigieren mit Ba zu <mentioned>wan</mentioned>; ihnen folgen alle späteren Ausgaben. Wir halten einen Eingriff aber nicht für nötig; vgl. die Übersetzung</note>
                </l>
                <l n="1054" xml:id="l_1054" hei:altN="1056">
                   <lb n="19"/>
@@ -23583,7 +23583,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_1071_5" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend Myllers <mentioned>wnnder</mentioned> in <mentioned>wunder</mentioned></note>
+                  <note target="#w_1071_5" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend Myllers <mentioned>wnnder</mentioned> in <mentioned>wunder</mentioned></note>
                </l>
                <l n="1072" xml:id="l_1072" hei:altN="1074">
                   <lb n="37"/>
@@ -23606,7 +23606,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_1072_4" ana="hc:TextCriticalNote">Bei Myller getrennt gedruckt, bei den Grimms kommentarlos zusammen geschrieben</note>
+                  <note target="#w_1072_4" ana="hc:TextCriticalNote">Bei Myller getrennt gedruckt, bei den Grimms kommentarlos zusammen geschrieben</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -24254,7 +24254,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1099_4" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend in <mentioned>michel</mentioned></note>
+                  <note target="#w_1099_4" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend in <mentioned>michel</mentioned></note>
                </l>
                <l n="1100" xml:id="l_1100" hei:altN="1102">
                   <lb n="21"/>
@@ -25329,7 +25329,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_1147_1" ana="hc:TextCriticalNote">Die Grimms korrigieren kommentarlos von <mentioned>genuo</mentioned> in <mentioned>genuog</mentioned></note>
+                  <note target="#w_1147_1" ana="hc:TextCriticalNote">Die Grimms korrigieren kommentarlos von <mentioned>genuo</mentioned> in <mentioned>genuog</mentioned></note>
                </l>
                <l n="1148" xml:id="l_1148" hei:altN="1150">
                   <lb n="25"/>
@@ -26707,7 +26707,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#A_w_1209_3">Die Grimms korrigieren kommentarlos Myllers <mentioned>meſſe</mentioned> in <mentioned>meſſer</mentioned></note>
+                  <note ana="hc:TextCriticalNote" target="#w_1209_3">Die Grimms korrigieren kommentarlos Myllers <mentioned>meſſe</mentioned> in <mentioned>meſſer</mentioned></note>
                </l>
                <l n="1210" xml:id="l_1210" hei:altN="1212">
                   <lb n="42"/>
@@ -27132,7 +27132,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1228_1" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>ſu&osup;chin</mentioned></note>
+                  <note target="#w_1228_1" ana="hc:TextCriticalNote">Die Grimms schreiben kommentarlos <mentioned>ſu&osup;chin</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -28393,7 +28393,7 @@
                         <pc>!‹</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1280_1" ana="hc:TextCriticalNote">Seit den Grimms (die allerdings <mentioned>wu͑r</mentioned> lesen) wird hier emmendiert in <mentioned>ir sult</mentioned>. Zweifellos liegt es nahe, die fehlende Nummerus-Übereinstimmung zwischen Personalpronomen und Verb als Verschreibung zu deuten. Doch das Ergebnis ist sprachlich so reizvoll –der adelige Herr, der dem Arzt einen Befehl erteilt, damit dieser ihn ausführt, der sich aber gleichzeitig im Personalpronomen als Entscheidungsträger mit einbezieht– dass ein poetischer Wille nicht auszuschließen ist und sich ein Eingriff nicht empfiehlt</note>
+                  <note target="#w_1280_1" ana="hc:TextCriticalNote">Seit den Grimms (die allerdings <mentioned>wu͑r</mentioned> lesen) wird hier emmendiert in <mentioned>ir sult</mentioned>. Zweifellos liegt es nahe, die fehlende Nummerus-Übereinstimmung zwischen Personalpronomen und Verb als Verschreibung zu deuten. Doch das Ergebnis ist sprachlich so reizvoll –der adelige Herr, der dem Arzt einen Befehl erteilt, damit dieser ihn ausführt, der sich aber gleichzeitig im Personalpronomen als Entscheidungsträger mit einbezieht– dass ein poetischer Wille nicht auszuschließen ist und sich ein Eingriff nicht empfiehlt</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -29251,7 +29251,7 @@
                         <pc>!</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1317_1" ana="hc:TextCriticalNote">Ausnahmsweise hat bereits Myller diese Verschreibung stillschweigend korrigiert; die Grimms geben die Lesung der Handschrift in der Anmerkung an</note>
+                  <note target="#w_1317_1" ana="hc:TextCriticalNote">Ausnahmsweise hat bereits Myller diese Verschreibung stillschweigend korrigiert; die Grimms geben die Lesung der Handschrift in der Anmerkung an</note>
                </l>
                <l n="1318" xml:id="l_1318" hei:altN="1320">
                   <lb n="25"/>
@@ -29417,7 +29417,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_1324_3" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend Myllers <mentioned>welen</mentioned> in <mentioned>welhen</mentioned></note>
+                  <note target="#w_1324_3" ana="hc:TextCriticalNote">Die Grimms korrigieren stillschweigend Myllers <mentioned>welen</mentioned> in <mentioned>welhen</mentioned></note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -29492,7 +29492,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1327_1" ana="hc:TextCriticalNote">Die Grimms fügen stillschweigend das diakritische Zeichen hinzu</note>
+                  <note target="#w_1327_1" ana="hc:TextCriticalNote">Die Grimms fügen stillschweigend das diakritische Zeichen hinzu</note>
                </l>
                <l n="1328" xml:id="l_1328" hei:altN="1330">
                   <lb n="35"/>
@@ -29582,7 +29582,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <note target="#A_w_1331_2" ana="hc:TextCriticalNote">Die Grimms fügen stillschweigend das Diakritikum hinzu</note>
+                  <note target="#w_1331_2" ana="hc:TextCriticalNote">Die Grimms fügen stillschweigend das Diakritikum hinzu</note>
                </l>
                <l n="1332" xml:id="l_1332" hei:altN="1334">
                   <lb n="39"/>
@@ -31271,7 +31271,7 @@
                         <pc>:</pc>
                      </reg>
                   </choice>
-                  <note target="#A_w_1412_3" ana="hc:TextCriticalNote">Die Form mit <mentioned>h</mentioned> (statt mit Nasale, wie in Ba <mentioned>ſeltzenen</mentioned> oder in Bb <mentioned>ſeltſenen</mentioned>) ist zumindest belegt in V. 1578 von Rudolfs von Ems <mentioned>Weltchronik</mentioned> nach der Wernigeroder Handschrift; eine Emmendation ist daher nicht notwendig</note>
+                  <note target="#w_1412_3" ana="hc:TextCriticalNote">Die Form mit <mentioned>h</mentioned> (statt mit Nasale, wie in Ba <mentioned>ſeltzenen</mentioned> oder in Bb <mentioned>ſeltſenen</mentioned>) ist zumindest belegt in V. 1578 von Rudolfs von Ems <mentioned>Weltchronik</mentioned> nach der Wernigeroder Handschrift; eine Emmendation ist daher nicht notwendig</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -31841,7 +31841,7 @@
                </l>
                <l n="1440" xml:id="l_1440" hei:altN="1442">
                   <lb n="13"/>
-                  <w xml:id="w_1440_1"><choice><orig>O&vsup;</orig><reg>ou</reg></choice>ch</w>
+                  <w xml:id="w_1440_1"><choice><orig>O</orig><reg>o</reg></choice><choice><orig>&vsup;</orig><reg>u</reg></choice>ch</w>
                   <c> </c>
                   <w xml:id="w_1440_2">het</w>
                   <c> </c>
@@ -32562,7 +32562,7 @@
                         <pc>;</pc>
                      </reg>
                   </choice>
-                  <note target="#xpath(//l[@n='1472a'])" ana="hc:TextCriticalNote">Dieser Vers und der folgende sind eine Wiederholung von V. 1453 f.; daher werden sie in den Ausgaben normalerweise getilgt. Sie passen jedoch sehr gut hier in den Kontext und stehen in einem Umfeld weiterer Wiederholungen, daher lassen wir sie stehen</note>
+                  <note target="#l_1472a" ana="hc:TextCriticalNote">Dieser Vers und der folgende sind eine Wiederholung von V. 1453 f.; daher werden sie in den Ausgaben normalerweise getilgt. Sie passen jedoch sehr gut hier in den Kontext und stehen in einem Umfeld weiterer Wiederholungen, daher lassen wir sie stehen</note>
                </l>
                <l n="1472b" corresp="#xpath(//l[@n='1454'])" xml:id="l_1472b" hei:altN="1476">
                   <lb n="17"/>

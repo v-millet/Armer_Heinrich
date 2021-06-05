@@ -218,9 +218,7 @@
                      <pc>,</pc>
                   </reg>
                </choice>
-            </hi>
             <lb n="18"/>
-            <hi hei:color="Red">
                <w>Got</w>
                <c> </c>
                <w>mach</w>
@@ -398,7 +396,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#Ba_w_8_5">Den (ostmitteldeutschen) endungslosen Infinitiv behalten wir bei, denn zum einen wiederholt er sich in V. 110, 643 und 686 (hat also System) und zum anderen ist er durch das singularisierte <mentioned>bvche</mentioned> im vorangehenden Vers reimmäßig vorbereitet</note>
+                  <note ana="hc:TextCriticalNote" target="#w_8_5">Den (ostmitteldeutschen) endungslosen Infinitiv behalten wir bei, denn zum einen wiederholt er sich in V. 110, 643 und 686 (hat also System) und zum anderen ist er durch das singularisierte <mentioned>bvche</mentioned> im vorangehenden Vers reimmäßig vorbereitet</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -1276,7 +1274,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:Gloss" hei:placeRef="hc:ColumnMarginRight" target="#Ba_w_51_4" xml:lang="lat">
+                  <note ana="hc:Gloss" hei:placeRef="hc:ColumnMarginRight" target="#w_51_4" xml:lang="lat">
                      <w xml:id="w_51_5">
                         <choice>
                            <am>·ı·</am>
@@ -1334,7 +1332,7 @@
                   <c> </c>
                   <w xml:id="w_54_3">miſſewende</w>
                   <c> </c>
-                  <note ana="hc:Gloss" hei:placeRef="hc:AboveLine" xml:lang="lat" target="#Ba_w_54_3">
+                  <note ana="hc:Gloss" hei:placeRef="hc:AboveLine" xml:lang="lat" target="#w_54_3">
                      <w xml:id="w_54_4">ſine</w>
                      <c> </c>
                      <w xml:id="w_54_5">d<choice><orig>v</orig><reg>u</reg></choice>bio</w>
@@ -2478,8 +2476,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#Ba_w_109_3">Der (ostmitteldeutsche) endungslose Infinitiv im
- Folgevers hat wohl dazu geführt, dass hier <mentioned>galle</mentioned> nach Klasse 6 flektiert wurde, was nicht unmöglich ist (Mhd. Gram. § M 18.2)</note>
+                  <note ana="hc:TextCriticalNote" target="#w_109_3">Der (ostmitteldeutsche) endungslose Infinitiv im Folgevers hat wohl dazu geführt, dass hier <mentioned>galle</mentioned> nach Klasse 6 flektiert wurde, was nicht unmöglich ist (Mhd. Gram. § M 18.2)</note>
                </l>
                <l n="110" xml:id="l_110" hei:altN="112">
                   <lb n="12"/>
@@ -5345,7 +5342,7 @@
                   <w xml:id="w_260a_6">le<choice><orig>v</orig><reg>u</reg></choice>ten</w>
                   <c> </c>
                   <w xml:id="w_260a_7">zoch</w>
-                  <note target="#Ba_w_260a_7" ana="hc:TextCriticalNote">Man beachte den Wechsel der Verbalpräfixe in den beiden Reimwörtern. Ba: <mentioned>zoch : gevloch</mentioned>, Bb: <mentioned>gezoch : vloch</mentioned></note>
+                  <note target="#w_260a_7" ana="hc:TextCriticalNote">Man beachte den Wechsel der Verbalpräfixe in den beiden Reimwörtern. Ba: <mentioned>zoch : gevloch</mentioned>, Bb: <mentioned>gezoch : vloch</mentioned></note>
                </l>
                <l n="260b" xml:id="l_260b" hei:altN="250">
                   <lb n="30"/>
@@ -6052,7 +6049,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note ana="hc:TextCriticalNote" target="#Ba_w_307_5"><mentioned>vûz / vuoz</mentioned> ist in den Wörterbüchern, im Belegarchiv des MHW und in der mhd. Begriffsdatenbank kein einziges Mal mit <mentioned>tz</mentioned> belegt. Nur der schwach gezeichnete Zirkumflex erlaubt es, hier noch ein langes /u/ und die Bedeutung "Fuß" zu erkennen</note>
+                  <note ana="hc:TextCriticalNote" target="#w_307_5"><mentioned>vûz / vuoz</mentioned> ist in den Wörterbüchern, im Belegarchiv des MHW und in der mhd. Begriffsdatenbank kein einziges Mal mit <mentioned>tz</mentioned> belegt. Nur der schwach gezeichnete Zirkumflex erlaubt es, hier noch ein langes /u/ und die Bedeutung "Fuß" zu erkennen</note>
                </l>
                <l n="308" xml:id="l_308" hei:altN="284">
                   <lb n="24"/>
@@ -12701,7 +12698,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_618_4" ana="hc:TextCriticalNote">Obschon A <mentioned>herren mut</mentioned> hat und in den folgenden Versen tatsächlich vom <mentioned>herren</mentioned> die Rede ist, passt <mentioned>herzen mvt</mentioned> ebenso gut und wird auch von Bb bestätigt</note>
+                  <note target="#w_618_4" ana="hc:TextCriticalNote">Obschon A <mentioned>herren mut</mentioned> hat und in den folgenden Versen tatsächlich vom <mentioned>herren</mentioned> die Rede ist, passt <mentioned>herzen mvt</mentioned> ebenso gut und wird auch von Bb bestätigt</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -13287,8 +13284,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_643_3" ana="hc:TextCriticalNote">Zum endungslosen Infinitiv <w xml:id="w_643_4">im</w><c> </c>
- Reim vgl. Anm. <w xml:id="w_643_5">zu</w> V. 8 und 110</note>
+                  <note target="#w_643_3" ana="hc:TextCriticalNote">Zum endungslosen Infinitiv im Reim vgl. Anm. zu V. 8 und 110</note>
                </l>
                <l n="644" xml:id="l_644" hei:altN="614">
                   <lb n="34"/>
@@ -14659,7 +14655,7 @@
                   <w xml:id="w_686_3">te<choice><orig>v</orig><reg>u</reg></choice>fel</w>
                   <c> </c>
                   <w xml:id="w_686_4">ſcheide</w>
-                  <note target="#Ba_w_686_4" ana="hc:TextCriticalNote">Vgl. Anm. zu V. 8, 110, 643</note>
+                  <note target="#w_686_4" ana="hc:TextCriticalNote">Vgl. Anm. zu V. 8, 110, 643</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -25265,7 +25261,7 @@
                         <pc>.</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_1142b_4" ana="hc:TextCriticalNote">Die bereits vom Bb-Schreiber korrigierte Nasale in <mentioned>kvmpfer</mentioned> könnte darauf hinweisen, dass der Ba-Schreiber zunächst versehentlich an <mentioned>kumber</mentioned> dachte, was hier auch nicht ganz unpassend gewesen wäre</note>
+                  <note target="#w_1142b_4" ana="hc:TextCriticalNote">Die bereits vom Bb-Schreiber korrigierte Nasale in <mentioned>kvmpfer</mentioned> könnte darauf hinweisen, dass der Ba-Schreiber zunächst versehentlich an <mentioned>kumber</mentioned> dachte, was hier auch nicht ganz unpassend gewesen wäre</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -25487,7 +25483,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_1172_2" ana="hc:TextCriticalNote"><mentioned>wandelbere</mentioned> ist in den Editionen immer in <mentioned>unwandelbaere</mentioned> emendiert worden; wie uns scheint, unnötigerweise: <mentioned>genvc wandelbere</mentioned> ist das Mädchen in dem Sinne, dass sie die natürliche Neigung zum Erhalt des Lebens gewandelt hat; in diesem Sinne könnte die Lesung von B sogar als <mentioned>lectio difficilior</mentioned> gedeutet werden</note>
+                  <note target="#w_1172_2" ana="hc:TextCriticalNote"><mentioned>wandelbere</mentioned> ist in den Editionen immer in <mentioned>unwandelbaere</mentioned> emendiert worden; wie uns scheint, unnötigerweise: <mentioned>genvc wandelbere</mentioned> ist das Mädchen in dem Sinne, dass sie die natürliche Neigung zum Erhalt des Lebens gewandelt hat; in diesem Sinne könnte die Lesung von B sogar als <mentioned>lectio difficilior</mentioned> gedeutet werden</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -27887,7 +27883,7 @@
                   <w xml:id="w_1280h_4">ditz</w>
                   <c> </c>
                   <w xml:id="w_1280h_5"><choice><orig>v</orig><reg>u</reg></choice>ngemach</w>
-                  <note target="#Ba_w_1280h_2" ana="hc:TextCriticalNote">Es fehlt das Hilfsverb; <mentioned>wold</mentioned> ist in Bb an dieser Stelle über der Zeile nachgetragen, der Schreiber jener Handschrift hat somit das Fehlen des Hilfsverbs bemerkt und behoben. Dem schließen wir uns an</note>
+                  <note target="#w_1280h_2" ana="hc:TextCriticalNote">Es fehlt das Hilfsverb; <mentioned>wold</mentioned> ist in Bb an dieser Stelle über der Zeile nachgetragen, der Schreiber jener Handschrift hat somit das Fehlen des Hilfsverbs bemerkt und behoben. Dem schließen wir uns an</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -30125,7 +30121,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_1357_2" ana="hc:TextCriticalNote">Die übliche Lesung dieses Wortes als  <mentioned>peccator</mentioned> scheint uns nicht richtig; wir lesen in beiden Handschriften <mentioned>pectator</mentioned> und schließen auf ein ausgelassenes s am Wortanfang</note>
+                  <note target="#w_1357_2" ana="hc:TextCriticalNote">Die übliche Lesung dieses Wortes als <mentioned>peccator</mentioned> scheint uns nicht richtig; wir lesen in beiden Handschriften <mentioned>pectator</mentioned> und schließen auf ein ausgelassenes <mentioned>s</mentioned> am Wortanfang</note>
                </l>
                <l n="1358" xml:id="l_1358" hei:altN="1349">
                   <lb n="10"/>
@@ -30930,7 +30926,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_1398_3" ana="hc:TextCriticalNote">Bb korrigiert die offensichtliche Verschreibung von Ba</note>
+                  <note target="#w_1398_3" ana="hc:TextCriticalNote">Bb korrigiert die offensichtliche Verschreibung von Ba</note>
                </l>
                <l n="1397" xml:id="l_1397" hei:altN="1389">
                   <lb n="10"/>
@@ -31064,7 +31060,7 @@
                         <pc>,</pc>
                      </reg>
                   </choice>
-                  <note target="#Ba_w_1404_4" ana="hc:TextCriticalNote">Der Vers entspricht A 1409, wurde aber mit höchst forciertem Reimwort an diese Stelle gelegt</note>
+                  <note target="#w_1404_4" ana="hc:TextCriticalNote">Der Vers entspricht A 1409, wurde aber mit höchst forciertem Reimwort an diese Stelle gezogen</note>
                </l>
                <l n="1405" xml:id="l_1405" hei:altN="1395">
                   <lb n="16"/>
@@ -33274,7 +33270,7 @@
                   <w xml:id="w_1513a_2">wertlicher</w>
                   <c> </c>
                   <w xml:id="w_1513a_3">wone</w>
-                  <note target="#Ba_w_1513a_2" ana="hc:TextCriticalNote">Das Wort wird immer in  <mentioned>werltlicher</mentioned> korrigiert, was Sinn macht, zumal auch Bb es so schreibt. Doch die Wiederholung des vermeintlichen ‘Fehlers’ wenige Verse später (V. 1513g) deutet auf Absicht hin und verbietet einen Eingriff</note>
+                  <note target="#w_1513a_2" ana="hc:TextCriticalNote">Das Wort wird immer in  <mentioned>werltlicher</mentioned> korrigiert, was Sinn macht, zumal auch Bb es so schreibt. Doch die Wiederholung des vermeintlichen ‘Fehlers’ wenige Verse später (V. 1513g) deutet auf Absicht hin und verbietet einen Eingriff</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
