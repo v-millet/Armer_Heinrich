@@ -4257,10 +4257,12 @@
                <l n="209" xml:id="l_209" hei:altN="191">
                   <lb n="11"/>
                   <w xml:id="w_209_1">
+                     <hi rendition="hc:Versal">
                      <choice>
-                        <orig><hi rendition="hc:Versal">J</hi></orig>
-                        <reg>I</reg>
-                     </choice>r
+                        <orig>J</orig>
+                        <reg>i</reg>
+                     </choice>
+                     </hi>r
                   </w>
                   <w xml:id="w_209_2">n</w>
                   <c> </c>
