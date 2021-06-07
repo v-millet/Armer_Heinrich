@@ -1983,7 +1983,7 @@
                </l>
             </lg>
             <lg ana="hc:Couplet">
-               <l n="89" hei:replicates="#xpath(//l[@n='117'])" xml:id="l_89" hei:altN="89">
+               <l n="89" hei:replicates="#l_117" xml:id="l_89" hei:altN="89">
                   <lb n="10"/>
                   <w xml:id="w_89_1"><choice><orig>A</orig><reg>a</reg></choice>b</w>
                   <c> </c>
@@ -2542,7 +2542,7 @@
                </l>
             </lg>
             <lg ana="hc:Couplet">
-               <l n="117" hei:replicates="#xpath(//l[@n='89'])" xml:id="l_117" hei:altN="117">
+               <l n="117" hei:replicates="#l_89" xml:id="l_117" hei:altN="117">
                   <lb n="37"/>
                   <w xml:id="w_117_1"><choice><orig>A</orig><reg>a</reg></choice>be</w>
                   <c> </c>
@@ -32547,7 +32547,7 @@
                </l>
             </lg>
             <lg ana="hc:Couplet">
-               <l n="1472a" corresp="#xpath(//l[@n='1453'])" xml:id="l_1472a" hei:altN="1475">
+               <l n="1472a" corresp="#l_1453" xml:id="l_1472a" hei:altN="1475">
                   <lb n="16"/>
                   <w xml:id="w_1472a_1"><choice><orig>U</orig><reg>u</reg></choice>mb</w>
                   <c> </c>
@@ -32564,7 +32564,7 @@
                   </choice>
                   <note target="#l_1472a" ana="hc:TextCriticalNote">Dieser Vers und der folgende sind eine Wiederholung von V. 1453 f.; daher werden sie in den Ausgaben normalerweise getilgt. Sie passen jedoch sehr gut hier in den Kontext und stehen in einem Umfeld weiterer Wiederholungen, daher lassen wir sie stehen</note>
                </l>
-               <l n="1472b" corresp="#xpath(//l[@n='1454'])" xml:id="l_1472b" hei:altN="1476">
+               <l n="1472b" corresp="#l_1454" xml:id="l_1472b" hei:altN="1476">
                   <lb n="17"/>
                   <w xml:id="w_1472b_1"><choice><orig>U</orig><reg>u</reg></choice>ngeſament</w>
                   <c> </c>

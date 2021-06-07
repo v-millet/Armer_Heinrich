@@ -4252,7 +4252,7 @@
                      </reg>
                   </choice>
                </l>
-               <l n="227a" hei:replicates="#xpath(//l[@n='450'])" xml:id="l_227a" hei:altN="210">
+               <l n="227a" hei:replicates="#l_450" xml:id="l_227a" hei:altN="210">
                   <lb n="12"/>
                   <w xml:id="w_227a_1">daz</w>
                   <c> </c>

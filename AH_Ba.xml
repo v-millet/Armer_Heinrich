@@ -4488,7 +4488,7 @@
                      </reg>
                   </choice>
                </l>
-               <l n="227a" hei:replicates="#xpath(//l[@n='450'])" xml:id="l_227a" hei:altN="210">
+               <l n="227a" hei:replicates="#l_450" xml:id="l_227a" hei:altN="210">
                   <lb n="30"/>
                   <w xml:id="w_227a_1"><choice><orig>D</orig><reg>d</reg></choice>az</w>
                   <c> </c>
@@ -8934,7 +8934,7 @@
                      </reg>
                   </choice>
                </l>
-               <l n="450" hei:replicates="#xpath(//l[@n='227a'])" xml:id="l_450" hei:altN="418">
+               <l n="450" hei:replicates="#l_227a" xml:id="l_450" hei:altN="418">
                   <lb n="38"/>
                   <w xml:id="w_450_1"><choice><orig>D</orig><reg>d</reg></choice>az</w>
                   <c> </c>
