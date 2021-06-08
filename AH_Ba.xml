@@ -327,8 +327,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_5_2">was</w>
@@ -698,8 +697,7 @@
                         <orig>H</orig>
                         <reg>h</reg>
                      </choice>
-                     </hi>o
-                     <choice>
+                     </hi>o<choice>
                         <orig>&esup;</orig>
                         <reg>e</reg>
                      </choice>re
@@ -787,8 +785,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_27_2">lo<choice><orig>&esup;</orig><reg>&combuml;</reg></choice>se</w>
@@ -1021,16 +1018,14 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                     </hi>eb
-                     <choice><orig>v</orig><reg>u</reg></choice>rt
+                     </hi>eb<choice><orig>v</orig><reg>u</reg></choice>rt
                   </w>
                   <c> </c>
                   <w xml:id="w_39_2">
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_39_3">wiſheit</w>
@@ -1107,8 +1102,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>nwandelb
-                     <choice>
+                     </choice>nwandelb<choice>
                         <am>&er;</am>
                         <ex>er</ex>
                      </choice>e
@@ -1174,8 +1168,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_45_4">des</w>
@@ -1194,8 +1187,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_46_5">des</w>
@@ -1259,8 +1251,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_49_2">was</w>
@@ -1308,8 +1299,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_51_3">alle</w>
@@ -1397,8 +1387,7 @@
                         <orig>S</orig>
                         <reg>s</reg>
                      </choice>
-                     </hi>t
-                     <choice><orig>v</orig><reg>u</reg></choice>nt
+                     </hi>t<choice><orig>v</orig><reg>u</reg></choice>nt
                   </w>
                   <c> </c>
                   <w xml:id="w_55_2">ſin</w>
@@ -1409,8 +1398,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_55_5">ſin</w>
@@ -1742,8 +1730,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_71_2">ſanch</w>
@@ -1793,8 +1780,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_73_5">iren</w>
@@ -1853,8 +1839,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_74_7">wis</w>
@@ -1908,8 +1893,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_77_3">g<choice><orig>v</orig><reg>u</reg></choice>tes</w>
@@ -1920,8 +1904,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_78_2">vroliches</w>
@@ -1938,8 +1921,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_78a_2">in</w>
@@ -2028,8 +2010,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_81_3">ge<choice><orig> </orig><reg/></choice>eret</w>
@@ -2146,8 +2127,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_87_2">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -2766,8 +2746,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_122_3">wibe</w>
@@ -2917,8 +2896,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_129_4">dem</w>
@@ -3078,8 +3056,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_143_4">die</w>
@@ -3135,8 +3112,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_145_6">vrewete</w>
@@ -3196,8 +3172,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_148_5"><choice><orig>v</orig><reg>u</reg></choice>nvro</w>
@@ -3473,8 +3448,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_157_2">ſchemte</w>
@@ -3537,8 +3511,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_160_3">ver<choice><orig>
@@ -3688,8 +3661,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_168_2">etſliche</w>
@@ -3725,8 +3697,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_170_6">ſin</w>
@@ -3751,8 +3722,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_171_2">dachte</w>
@@ -3918,8 +3888,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_180_2">vur</w>
@@ -4030,8 +3999,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_187_2">were</w>
@@ -4285,8 +4253,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_210_2">wolt</w>
@@ -4318,8 +4285,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_211_5">min</w>
@@ -4691,12 +4657,8 @@
                   <c> </c>
                   <w xml:id="w_227a_5">ir<choice><am>ē</am><ex>n</ex></choice></w>
                   <c> </c>
-                  <w xml:id="w_227a_6">br
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>ſte
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                  <w xml:id="w_227a_6">br<choice><orig>v</orig><reg>u</reg>
+                     </choice>ſte<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_227a_7">ſnite</w>
@@ -4921,8 +4883,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_236a_2">gar</w>
@@ -5007,12 +4968,8 @@
                   <c> </c>
                   <w xml:id="w_237_5">troſt</w>
                   <c> </c>
-                  <w xml:id="w_237_6">ben
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>m
-                     <choice><am>&bar;</am><ex>en</ex></choice>
+                  <w xml:id="w_237_6">ben<choice><orig>v</orig><reg>u</reg>
+                     </choice>m<choice><am>&bar;</am><ex>en</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -5128,8 +5085,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_243_2">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -5211,8 +5167,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_246_5">begonde</w>
@@ -5268,8 +5223,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_249_2">wiſer</w>
@@ -5341,8 +5295,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_253_2">beriet</w>
@@ -5461,8 +5414,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_256b_6">la<choice><am>&bar;</am><ex>n</ex></choice>t</w>
@@ -5518,8 +5470,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_260_2">vloch</w>
@@ -5580,8 +5531,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_260b_2">verre</w>
@@ -5779,8 +5729,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_275_5">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -5975,8 +5924,7 @@
                      <choice>
                         <orig>h</orig>
                         <reg>H</reg>
-                     </choice>ei
-                     <choice><am>&bar;</am><ex>in</ex></choice>rich
+                     </choice>ei<choice><am>&bar;</am><ex>in</ex></choice>rich
                   </w>
                   <choice>
                      <orig/>
@@ -6097,8 +6045,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_298_2">ein</w>
@@ -6323,8 +6270,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_308_5">ſinen</w>
@@ -6466,8 +6412,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_319_4">nirgen</w>
@@ -6502,8 +6447,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_311_2">waz</w>
@@ -6847,8 +6791,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_336_3">harbant</w>
@@ -6876,8 +6819,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_338_3">vingerlin</w>
@@ -7247,8 +7189,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_354_7">ſin</w>
@@ -7265,8 +7206,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_355_2">ir</w>
@@ -7335,8 +7275,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_358_2">weinten</w>
@@ -7433,8 +7372,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_362_2">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -7470,8 +7408,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_364_2">daz</w>
@@ -7878,12 +7815,8 @@
                   <c> </c>
                   <w xml:id="w_380b_6">ane</w>
                   <c> </c>
-                  <w xml:id="w_380b_7">lo
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>ge
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                  <w xml:id="w_380b_7">lo<choice><orig>v</orig><reg>u</reg>
+                     </choice>ge<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -8213,10 +8146,7 @@
                   <c> </c>
                   <w xml:id="w_397_4">ir</w>
                   <c> </c>
-                  <w xml:id="w_397_5">t
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
+                  <w xml:id="w_397_5">t<choice><orig>v</orig><reg>u</reg>
                      </choice>
                      <choice><am>&bar;</am><ex>m</ex></choice>mer
                   </w>
@@ -8241,8 +8171,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_398_5">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -8282,13 +8211,8 @@
                   <c> </c>
                   <w xml:id="w_400_4">min</w>
                   <c> </c>
-                  <w xml:id="w_400_5">t
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>
-                     <choice><am>&bar;</am><ex>m</ex></choice>m
-                     <choice><am>&er;</am><ex>er</ex></choice>
+                  <w xml:id="w_400_5">t<choice><orig>v</orig><reg>u</reg></choice>
+                     <choice><am>&bar;</am><ex>m</ex></choice>m<choice><am>&er;</am><ex>er</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_400_6">wan</w>
@@ -8387,11 +8311,7 @@
                   <c> </c>
                   <w xml:id="w_408_4">min</w>
                   <c> </c>
-                  <w xml:id="w_408_5">t
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>
+                  <w xml:id="w_408_5">t<choice><orig>v</orig><reg>u</reg></choice>
                      <choice><am>&bar;</am><ex>m</ex></choice>mer
                   </w>
                   <c> </c>
@@ -8922,8 +8842,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_431_4">din</w>
@@ -9646,8 +9565,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_467_2">nam</w>
@@ -9747,8 +9665,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_472_2">z<choice><orig>v</orig><reg>u</reg></choice></w>
@@ -10122,8 +10039,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_488_5">mit</w>
@@ -10271,8 +10187,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_493_2">ouch</w>
@@ -10465,8 +10380,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_501_4"><choice><orig>v</orig><reg>u</reg></choice>nſer</w>
@@ -11053,8 +10967,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_530_4">vro</w>
@@ -11069,8 +10982,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_531_2">hatte</w>
@@ -11332,8 +11244,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_541_2">ir</w>
@@ -11506,12 +11417,7 @@
                   <c> </c>
                   <w xml:id="w_548_5">ende</w>
                   <c> </c>
-                  <w xml:id="w_548_6">k
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>m
-                     <choice><am>&bar;</am><ex>en</ex></choice>
+                  <w xml:id="w_548_6">k<choice><orig>v</orig><reg>u</reg></choice>m<choice><am>&bar;</am><ex>en</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -11818,8 +11724,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_562_6">han</w>
@@ -12015,8 +11920,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_570_2">irem</w>
@@ -12191,11 +12095,7 @@
                   <c> </c>
                   <w xml:id="w_576_5">niht</w>
                   <c> </c>
-                  <w xml:id="w_576_6">vol bringe
-                     <choice>
-                        <am>&bar;</am>
-                        <ex>n</ex>
-                     </choice>
+                  <w xml:id="w_576_6">vol bringe<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -12513,8 +12413,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_590_5">mit</w>
@@ -12874,8 +12773,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_605_2">hat</w>
@@ -12943,17 +12841,12 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_606b_2">alſ</w>
                   <c> </c>
-                  <w xml:id="w_606b_3">t
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>
+                  <w xml:id="w_606b_3">t<choice><orig>v</orig><reg>u</reg></choice>
                      <choice><am>&bar;</am><ex>m</ex></choice>me
                   </w>
                   <c> </c>
@@ -13101,8 +12994,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_612_5">e<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -13167,8 +13059,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_615_4">vor</w>
@@ -13218,8 +13109,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_617_5">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -13278,8 +13168,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_620_2"><choice><orig>v</orig><reg>u</reg></choice>nſ</w>
@@ -13815,8 +13704,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_641_4">bat</w>
@@ -13841,8 +13729,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_642_5">vater</w>
@@ -13877,8 +13764,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_644_2">geheizet</w>
@@ -13924,8 +13810,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_646_2">ein</w>
@@ -14055,8 +13940,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_651_5">ich</w>
@@ -14391,8 +14275,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_662b_7">o<choice><orig>v</orig><reg>u</reg></choice>ch</w>
@@ -14439,12 +14322,7 @@
                   <c> </c>
                   <w xml:id="w_662d_4">dir</w>
                   <c> </c>
-                  <w xml:id="w_662d_5">v
-                     <choice><am>&er;</am><ex>er</ex></choice>n
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>men
+                  <w xml:id="w_662d_5">v<choice><am>&er;</am><ex>er</ex></choice>n<choice><orig>v</orig><reg>u</reg></choice>men
                   </w>
                   <c> </c>
                   <w xml:id="w_662d_6">han</w>
@@ -14502,8 +14380,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_664_2">min<choice><am>ē</am><ex>m</ex></choice></w>
@@ -14551,8 +14428,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_666_4">m<choice><orig>v</orig><reg>u</reg></choice>ter</w>
@@ -14650,8 +14526,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_671_3">einen</w>
@@ -14678,8 +14553,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_672_5">wip</w>
@@ -14694,8 +14568,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_673_2">alle</w>
@@ -15039,8 +14912,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_826_2">ſich</w>
@@ -15146,8 +15018,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_830_2">mir</w>
@@ -15216,8 +15087,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_682_5">lip</w>
@@ -15311,8 +15181,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_687_2">ſie</w>
@@ -15479,8 +15348,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>nge
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                     </choice>nge<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_694_7">tag<choice><am>ē</am><ex>n</ex></choice></w>
@@ -15601,8 +15469,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_700_4">wurde</w>
@@ -15942,8 +15809,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_714_5">morgen</w>
@@ -15960,8 +15826,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_715_2">doch</w>
@@ -16027,11 +15892,7 @@
                         <choice>
                            <orig>v</orig>
                            <reg>u</reg>
-                        </choice>n
-                        <choice>
-                           <am>&bar;</am>
-                           <ex>d</ex>
-                        </choice>
+                        </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                      </w>
                   </add>
                   <w xml:id="w_717_6">noch</w>
@@ -16107,8 +15968,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_719_6">ere</w>
@@ -16150,8 +16010,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_721_4"><choice><orig>v</orig><reg>u</reg></choice>nt<choice><orig>v</orig><reg>u</reg></choice>gent</w>
@@ -16172,8 +16031,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_722_4"><choice><orig>v</orig><reg>u</reg></choice>nſer</w>
@@ -16209,8 +16067,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_723_6">iſt</w>
@@ -16268,8 +16125,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_726_6">ein</w>
@@ -16351,8 +16207,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_729_2">dirre</w>
@@ -16453,8 +16308,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_734_2">en</w>
@@ -16493,8 +16347,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_735_5">den</w>
@@ -16553,8 +16406,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_738_2">ſenftet</w>
@@ -16861,8 +16713,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_752_2">daz</w>
@@ -17020,8 +16871,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_758_2"><choice><orig>v</orig><reg>u</reg></choice>nſ</w>
@@ -17103,8 +16953,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_761_6">wert</w>
@@ -17190,12 +17039,7 @@
                   <c> </c>
                   <w xml:id="w_764_5">m<choice><orig>v</orig><reg>u</reg></choice>t</w>
                   <c> </c>
-                  <w xml:id="w_764_6">ver 
-                     <choice>
-                        <orig>i</orig>
-                        <reg>j</reg>
-                     </choice>ehe
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                  <w xml:id="w_764_6">ver<choice><orig>i</orig><reg>j</reg></choice>ehe<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -17298,8 +17142,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_768_2">bin</w>
@@ -17333,8 +17176,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_770_2">lebe</w>
@@ -17376,8 +17218,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_772_2">ſie</w>
@@ -17465,8 +17306,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_772d_2">gevart</w>
@@ -17644,8 +17484,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_779_6">wol</w>
@@ -17823,12 +17662,7 @@
                   <c> </c>
                   <w xml:id="w_786_6">noch</w>
                   <c> </c>
-                  <w xml:id="w_786_7">h
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>ng
-                     <choice><am>&er;</am><ex>er</ex></choice>
+                  <w xml:id="w_786_7">h<choice><orig>v</orig><reg>u</reg></choice>ng<choice><am>&er;</am><ex>er</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -17968,8 +17802,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_790_2">wil</w>
@@ -18007,8 +17840,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_791_5">der</w>
@@ -18023,8 +17855,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_792_2">der</w>
@@ -18223,8 +18054,7 @@
                   <w xml:id="w_807_3">hr<choice><am>&er;</am><ex/></choice><choice><am>ē</am><ex>n</ex></choice></w>
                   <c> </c>
                   <w xml:id="w_807_4">
-                     <choice><orig>i</orig><reg>J</reg></choice>h
-                     <choice><am>&bar;</am><ex>esu</ex></choice>m
+                     <choice><orig>i</orig><reg>J</reg></choice>h<choice><am>&bar;</am><ex>esu</ex></choice>m
                   </w>
                   <c> </c>
                   <w xml:id="w_807_5"><choice><orig>c</orig><reg>C</reg></choice>riſt</w>
@@ -18279,8 +18109,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_810_2">daz</w>
@@ -18584,8 +18413,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_840a_5">der</w>
@@ -18683,8 +18511,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_854_2">ich</w>
@@ -18761,8 +18588,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_843_4">mich</w>
@@ -18805,8 +18631,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_845_3">ſprechen</w>
@@ -19063,8 +18888,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_858_2">menſchliche</w>
@@ -19118,8 +18942,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_860_5">den</w>
@@ -19263,8 +19086,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_867_2">in</w>
@@ -19464,8 +19286,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_876_5">ſin</w>
@@ -19531,8 +19352,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_880_4">der</w>
@@ -19677,8 +19497,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_889_2">dachten</w>
@@ -19744,8 +19563,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_891_5">irn</w>
@@ -19907,8 +19725,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_899_2">gewu<choice><am>&bar;</am><ex>n</ex></choice>nen</w>
@@ -19992,8 +19809,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_902a_2">daz</w>
@@ -21179,8 +20995,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_947_2">mich</w>
@@ -21335,8 +21150,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_954_2">gerewet</w>
@@ -21536,8 +21350,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_962_4">din</w>
@@ -21777,8 +21590,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_972_4">ir</w>
@@ -21873,8 +21685,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_975_3">ge<choice><orig> </orig><reg/></choice>eret</w>
@@ -22326,8 +22137,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_992_2">miſliche</w>
@@ -22375,8 +22185,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_994_5">den</w>
@@ -22667,8 +22476,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1013_2">be<choice><orig> </orig><reg/></choice>gonde</w>
@@ -22716,8 +22524,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1015_4">des</w>
@@ -22869,8 +22676,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1022_4">kleit</w>
@@ -22920,8 +22726,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1024_3">ſamit</w>
@@ -23074,8 +22879,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1028_5">o<subst><del rendition="hc:Adapted">c</del><add rendition="hc:Adapted">u</add></subst>h</w>
@@ -23115,8 +22919,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1030_2">o<choice><orig>v</orig><reg>u</reg></choice>h</w>
@@ -23332,12 +23135,7 @@
                   <c> </c>
                   <w xml:id="w_1042_5">in</w>
                   <c> </c>
-                  <w xml:id="w_1042_6">ben
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>m
-                     <choice><am>&bar;</am><ex>en</ex></choice>
+                  <w xml:id="w_1042_6">ben<choice><orig>v</orig><reg>u</reg></choice>m<choice><am>&bar;</am><ex>en</ex></choice>
                   </w>
                </l>
             </lg>
@@ -23436,8 +23234,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1047_2">en</w>
@@ -23492,8 +23289,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1050_3">gerne</w>
@@ -23859,8 +23655,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1054k_5">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -23895,8 +23690,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1054m_2">ſol</w>
@@ -24026,11 +23820,7 @@
                   <c> </c>
                   <w xml:id="w_1054r_4">vollen</w>
                   <c> </c>
-                  <w xml:id="w_1054r_5">gr
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>
+                  <w xml:id="w_1054r_5">gr<choice><orig>v</orig><reg>u</reg></choice>
                      <choice><am>&bar;</am><ex>n</ex></choice>t
                   </w>
                   <choice>
@@ -24446,8 +24236,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1074_2">vragete</w>
@@ -24659,8 +24448,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1082_2">vr<choice><orig>v</orig><reg>u</reg></choice>met</w>
@@ -24866,8 +24654,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1089_6">arm</w>
@@ -24956,8 +24743,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1093_2">breche</w>
@@ -25092,8 +24878,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1098_7">ſehen</w>
@@ -25209,8 +24994,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1103_2">d<choice><orig>v</orig><reg>u</reg></choice></w>
@@ -25580,8 +25364,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1127_4">ewer</w>
@@ -25608,8 +25391,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1128_6">han</w>
@@ -25699,8 +25481,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1130b_2">wenet</w>
@@ -25773,8 +25554,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1157_2">reitzet</w>
@@ -25989,8 +25769,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1130f_2">diſe</w>
@@ -26009,8 +25788,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1131_2">diſe</w>
@@ -26089,12 +25867,7 @@
                   <c> </c>
                   <w xml:id="w_1134_6">here</w>
                   <c> </c>
-                  <w xml:id="w_1134_7">k
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>m
-                     <choice><am>&bar;</am><ex>en</ex></choice>
+                  <w xml:id="w_1134_7">k<choice><orig>v</orig><reg>u</reg></choice>m<choice><am>&bar;</am><ex>en</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -26215,8 +25988,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1140_2">ein</w>
@@ -26227,12 +25999,7 @@
                   <c> </c>
                   <w xml:id="w_1140_5">m<choice><orig>v</orig><reg>u</reg></choice>t</w>
                   <c> </c>
-                  <w xml:id="w_1140_6">bek
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>m
-                     <choice><am>&bar;</am><ex>en</ex></choice>
+                  <w xml:id="w_1140_6">bek<choice><orig>v</orig><reg>u</reg></choice>m<choice><am>&bar;</am><ex>en</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -26327,11 +26094,7 @@
                   <c> </c>
                   <w xml:id="w_1142b_3">min</w>
                   <c> </c>
-                  <w xml:id="w_1142b_4">k
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>
+                  <w xml:id="w_1142b_4">k<choice><orig>v</orig><reg>u</reg></choice>
                      <choice>
                         <sic>m</sic>
                         <corr/>
@@ -26736,10 +26499,7 @@
                   <c> </c>
                   <w xml:id="w_1180_6">der</w>
                   <c> </c>
-                  <w xml:id="w_1180_7">ſt
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
+                  <w xml:id="w_1180_7">ſt<choice><orig>v</orig><reg>u</reg>
                      </choice>
                      <choice><am>&bar;</am><ex>n</ex></choice>t
                   </w>
@@ -26993,8 +26753,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1192_6">gemeit</w>
@@ -27055,8 +26814,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1193_2">raiz</w>
@@ -27129,8 +26887,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1196_2">en</w>
@@ -27272,8 +27029,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1202_6">d<choice><am>&er;</am><ex>er</ex></choice></w>
@@ -27395,8 +27151,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1206a_6">lanc</w>
@@ -27549,8 +27304,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1211_5">breit</w>
@@ -27840,8 +27594,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1224a_2">gedacht</w>
@@ -27882,8 +27635,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1225_2">erbarmte</w>
@@ -27945,8 +27697,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1228_5">ſpehen</w>
@@ -28032,8 +27783,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1232_3">geb<choice><orig>v</orig><reg>u</reg></choice>nden</w>
@@ -28218,8 +27968,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1252_2">d<choice><orig>v</orig><reg>u</reg></choice></w>
@@ -28392,8 +28141,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1259_2">hiez</w>
@@ -28573,8 +28321,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1269_4">liez</w>
@@ -29304,8 +29051,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1280t_2">reichte</w>
@@ -29427,8 +29173,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1284_6">ire</w>
@@ -29506,8 +29251,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1285_4">cratzte</w>
@@ -29625,8 +29369,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1290_4">owi</w>
@@ -29836,8 +29579,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1299_4">mir</w>
@@ -29869,8 +29611,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1300_5">ich</w>
@@ -29956,8 +29697,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1304_2">ich</w>
@@ -30250,8 +29990,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1315_6">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -30262,8 +30001,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1316_2">tr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&esup;</orig><reg>&combuml;</reg></choice>ge</w>
@@ -30365,8 +30103,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1320_2">iſt</w>
@@ -30453,8 +30190,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1322t_2">ane</w>
@@ -30489,12 +30225,7 @@
                   <c> </c>
                   <w xml:id="w_1323_5">niht</w>
                   <c> </c>
-                  <w xml:id="w_1323_6">v
-                     <choice><am>&er;</am><ex>er</ex></choice>d
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>lden
+                  <w xml:id="w_1323_6">v<choice><am>&er;</am><ex>er</ex></choice>d<choice><orig>v</orig><reg>u</reg></choice>lden
                   </w>
                   <choice>
                      <orig/>
@@ -30523,12 +30254,7 @@
                   <c> </c>
                   <w xml:id="w_1324_4">welchen</w>
                   <c> </c>
-                  <w xml:id="w_1324_5">ſch
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>lde
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                  <w xml:id="w_1324_5">ſch<choice><orig>v</orig><reg>u</reg></choice>lde<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                </l>
             </lg>
@@ -30607,8 +30333,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1327_4">mir</w>
@@ -30725,8 +30450,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1332_7">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -30848,8 +30572,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1332e_2">mines</w>
@@ -31073,16 +30796,14 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                     </hi>ed
-                     <choice><orig>v</orig><reg>u</reg></choice>ldiclichen
+                     </hi>ed<choice><orig>v</orig><reg>u</reg></choice>ldiclichen
                   </w>
                   <c> </c>
                   <w xml:id="w_1340_2">
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1340_3">wol</w>
@@ -31173,8 +30894,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1343_2">ſine</w>
@@ -31294,8 +31014,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1351_5">ſpot</w>
@@ -31363,8 +31082,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1354_4">v<choice><am>&er;</am><ex>er</ex></choice>clait</w>
@@ -31412,8 +31130,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1356_6">ire</w>
@@ -31626,8 +31343,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1367_2">ſchiet</w>
@@ -31658,8 +31374,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1373_2">machte</w>
@@ -32087,8 +31802,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1389_4">giengen</w>
@@ -32232,8 +31946,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1396_4">ſinem</w>
@@ -32267,12 +31980,7 @@
                   <c> </c>
                   <w xml:id="w_1398_5">rechtes</w>
                   <c> </c>
-                  <w xml:id="w_1398_6">ro
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>be
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                  <w xml:id="w_1398_6">ro<choice><orig>v</orig><reg>u</reg></choice>be<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -32343,8 +32051,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>ngeſchribe
-                     <choice><am>&bar;</am><ex>n</ex></choice>
+                     </choice>ngeſchribe<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <choice>
                      <orig/>
@@ -32432,8 +32139,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1405_4">ir</w>
@@ -32861,8 +32567,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1431_4">der</w>
@@ -32912,8 +32617,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1434_2">leiſte</w>
@@ -33000,8 +32704,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1437_4">die</w>
@@ -33136,8 +32839,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1444_4">die</w>
@@ -33224,8 +32926,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1449_5">baz</w>
@@ -33293,8 +32994,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1450b_5">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -33334,8 +33034,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1452_3">priſen</w>
@@ -33458,8 +33157,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1458_2">die</w>
@@ -33543,8 +33241,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1465_2">tet</w>
@@ -33602,8 +33299,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1467_5">zit</w>
@@ -33649,8 +33345,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>n</ex></choice>der
+                     </choice>n<choice><am>&bar;</am><ex>n</ex></choice>der
                   </w>
                   <c> </c>
                   <w xml:id="w_1469_5">in</w>
@@ -33858,8 +33553,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1478_2">der</w>
@@ -34058,12 +33752,7 @@
                   <c> </c>
                   <w xml:id="w_1486_3">iz</w>
                   <c> </c>
-                  <w xml:id="w_1486_4">v
-                     <choice><am>&er;</am><ex>er</ex></choice>ſch
-                     <choice>
-                        <orig>v</orig>
-                        <reg>u</reg>
-                     </choice>lde
+                  <w xml:id="w_1486_4">v<choice><am>&er;</am><ex>er</ex></choice>ſch<choice><orig>v</orig><reg>u</reg></choice>lde
                   </w>
                   <c> </c>
                   <w xml:id="w_1486_5">wider</w>
@@ -34124,8 +33813,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1488_5">g<choice><orig>v</orig><reg>u</reg></choice>t</w>
@@ -34237,8 +33925,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1492_5">sp<choice><am>&ra;</am><ex>ra</ex></choice>ch</w>
@@ -34558,8 +34245,7 @@
                      <choice>
                         <orig>v</orig>
                         <reg>u</reg>
-                     </choice>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1504_6">lip</w>
@@ -34896,8 +34582,7 @@
                         <orig>V</orig>
                         <reg>u</reg>
                      </choice>
-                     </hi>n
-                     <choice><am>&bar;</am><ex>d</ex></choice>
+                     </hi>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_1513j_2">bevalch</w>
