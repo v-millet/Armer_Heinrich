@@ -10691,9 +10691,10 @@
                <l n="499" xml:id="l_499" hei:altN="499">
                   <lb n="29"/>
                   <w xml:id="w_499_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>u͑</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>ü</reg>
+                        <orig>u͑</orig>
+                        <reg>ü</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -25886,7 +25887,7 @@
                </l>
                <l n="1172" xml:id="l_1172" hei:altN="1174">
                   <lb n="4"/>
-                  <w xml:id="w_1172_1"><choice><orig>G</orig><reg>ge</reg></choice>nu<choice><orig>&osup;</orig><reg>o</reg></choice>g</w>
+                  <w xml:id="w_1172_1"><choice><orig>G</orig><reg>g</reg></choice>nu<choice><orig>&osup;</orig><reg>o</reg></choice>g</w>
                   <c> </c>
                   <w xml:id="w_1172_2">unwandelbere</w>
                   <choice>

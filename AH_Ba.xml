@@ -237,9 +237,10 @@
                <l n="1" xml:id="l_1" hei:altN="1">
                   <lb n="19"/>
                   <w xml:id="w_1_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>J</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>i</reg>
+                        <orig>J</orig>
+                        <reg>i</reg>
                      </choice>n
                   </w>
                   <c> </c>
@@ -831,9 +832,10 @@
                <l n="29" xml:id="l_29" hei:altN="29">
                   <lb n="8"/>
                   <w xml:id="w_29_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>E</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>e</reg>
+                        <orig>E</orig>
+                        <reg>e</reg>
                      </choice>r
                   </w>
                   <c> </c>
@@ -1211,9 +1213,10 @@
                <l n="47" xml:id="l_47" hei:altN="47">
                   <lb n="26"/>
                   <w xml:id="w_47_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>J</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</reg>
+                        <orig>J</orig>
+                        <reg>i</reg>
                      </choice>n
                   </w>
                   <c> </c>
@@ -1867,9 +1870,10 @@
                <l n="75" xml:id="l_75" hei:altN="75">
                   <lb n="15"/>
                   <w xml:id="w_75_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -4835,9 +4839,10 @@
                <l n="233" xml:id="l_233" hei:altN="216">
                   <lb n="36"/>
                   <w xml:id="w_233_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -11021,9 +11026,10 @@
                <l n="529" xml:id="l_529" hei:altN="495">
                   <lb n="35"/>
                   <w xml:id="w_529_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>n
                   </w>
                   <c> </c>
@@ -14454,9 +14460,10 @@
                <l n="663" xml:id="l_663" hei:altN="639">
                   <lb n="19"/>
                   <w xml:id="w_663_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>I</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>i</reg>
+                        <orig>I</orig>
+                        <reg>i</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -22219,9 +22226,10 @@
                <l n="987" xml:id="l_987" hei:altN="962">
                   <lb n="21"/>
                   <w xml:id="w_987_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -23463,9 +23471,10 @@
                <l n="1049" xml:id="l_1049" hei:altN="1018">
                   <lb n="37"/>
                   <w xml:id="w_1049_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>V</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>u</reg>
+                        <orig>V</orig>
+                        <reg>u</reg>
                      </choice>ſt
                   </w>
                   <c> </c>
@@ -24036,9 +24045,10 @@
                <l n="1055" xml:id="l_1055" hei:altN="1042">
                   <lb n="21"/>
                   <w xml:id="w_1055_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -25279,9 +25289,10 @@
                <l n="1107" xml:id="l_1107" hei:altN="1094">
                   <lb n="34"/>
                   <w xml:id="w_1107_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>E</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>e</reg>
+                        <orig>E</orig>
+                        <reg>e</reg>
                      </choice>s
                   </w>
                   <c> </c>
@@ -25961,9 +25972,10 @@
                <l n="1130e" xml:id="l_1130e" hei:altN="1122">
                   <lb n="23"/>
                   <w xml:id="w_1130e_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>J</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i</reg>
+                        <orig>J</orig>
+                        <reg>i</reg>
                      </choice>ſen
                   </w>
                   <c> </c>
@@ -27143,9 +27155,10 @@
                <l n="1197" xml:id="l_1197" hei:altN="1172">
                   <lb n="33"/>
                   <w xml:id="w_1197_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -28334,9 +28347,10 @@
                <l n="1257" xml:id="l_1257" hei:altN="1224">
                   <lb n="5"/>
                   <w xml:id="w_1257_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>J</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i</reg>
+                        <orig>J</orig>
+                        <reg>i</reg>
                      </choice>e
                   </w>
                   <c> </c>
@@ -29026,9 +29040,10 @@
                <l n="1280g" xml:id="l_1280g" hei:altN="1250">
                   <lb n="31"/>
                   <w xml:id="w_1280g_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>E</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>e</reg>
+                        <orig>E</orig>
+                        <reg>e</reg>
                      </choice>r
                   </w>
                   <c> </c>
@@ -29330,9 +29345,10 @@
                <l n="1281" xml:id="l_1281" hei:altN="1262">
                   <lb n="3"/>
                   <w xml:id="w_1281_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -29965,9 +29981,10 @@
                <l n="1305" xml:id="l_1305" hei:altN="1288">
                   <lb n="29"/>
                   <w xml:id="w_1305_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>J</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>i</reg>
+                        <orig>J</orig>
+                        <reg>i</reg>
                      </choice>e
                   </w>
                   <c> </c>
@@ -31755,9 +31772,10 @@
                <l n="1377a" xml:id="l_1377a" hei:altN="1366">
                   <lb n="27"/>
                   <w xml:id="w_1377a_1">
+                     <hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>O</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>o</reg>
+                        <orig>O</orig>
+                        <reg>o</reg>
                      </choice>
                   </w>
                   <c> </c>
