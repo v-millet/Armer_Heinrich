@@ -1864,7 +1864,11 @@
                   <c> </c>
                   <w xml:id="w_75_2">der</w>
                   <c> </c>
-                  <w xml:id="w_75_3">hr<choice><am>&er;</am><ex>r</ex></choice>e</w>
+                  <w xml:id="w_75_3">h<choice>
+                     <seg ana="hc:AbbreviatedTokenSegment">r<am>&er;</am></seg>
+                     <seg ana="hc:ExpandedTokenSegment"><ex>er</ex>r</seg>
+                  </choice>e
+                  </w>
                   <c> </c>
                   <w xml:id="w_75_4"><choice><orig>h</orig><reg>H</reg></choice>einrich</w>
                </l>
@@ -18051,7 +18055,13 @@
                   <c> </c>
                   <w xml:id="w_807_2"><choice><orig>v</orig><reg>u</reg></choice>nſern</w>
                   <c> </c>
-                  <w xml:id="w_807_3">hr<choice><am>&er;</am><ex/></choice><choice><am>ē</am><ex>n</ex></choice></w>
+                  <w xml:id="w_807_3">h<choice>
+                     <seg ana="hc:AbbreviatedTokenSegment">r<am>&er;</am></seg>
+                     <seg ana="hc:ExpandedTokenSegment"><ex>er</ex>r</seg>
+                  </choice>e<choice>
+                     <am>&bar;</am><ex>n</ex>
+                  </choice>
+                  </w>
                   <c> </c>
                   <w xml:id="w_807_4">
                      <choice><orig>i</orig><reg>J</reg></choice>h<choice><am>&bar;</am><ex>esu</ex></choice>m
