@@ -238,9 +238,9 @@
                   <lb n="19"/>
                   <w xml:id="w_1_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>Jn</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>in</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>J</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">E</hei:initial>i</reg>
+                     </choice>n
                   </w>
                   <c> </c>
                   <w xml:id="w_1_2"><choice><orig>R</orig><reg>r</reg></choice>itter</w>
@@ -832,9 +832,9 @@
                   <lb n="8"/>
                   <w xml:id="w_29_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>Er</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>er</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>E</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="3">H</hei:initial>e</reg>
+                     </choice>r
                   </w>
                   <c> </c>
                   <w xml:id="w_29_2">las</w>
@@ -1212,9 +1212,9 @@
                   <lb n="26"/>
                   <w xml:id="w_47_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>Jn</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>in</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>J</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">S</hei:initial>i</reg>
+                     </choice>n
                   </w>
                   <c> </c>
                   <w xml:id="w_47_2">name</w>
@@ -1504,7 +1504,7 @@
                   <c> </c>
                   <w xml:id="w_60_5">der</w>
                   <c> </c>
-                  <w xml:id="w_60_6"><choice><orig>Jv</orig><reg>ju</reg></choice>gent</w>
+                  <w xml:id="w_60_6"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>gent</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -1824,8 +1824,7 @@
                      </orig>
                      <reg ana="hc:PunctuationRegularization"/>
                   </choice>
-                  <w xml:id="w_74_4"><choice><orig>Jv</orig><reg>ju</reg></choice>nc<choice><orig>
-                     </orig><reg/></choice></w>
+                  <w xml:id="w_74_4"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nc</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -3042,7 +3041,7 @@
                </l>
                <l n="142" xml:id="l_142" hei:altN="134">
                   <lb n="34"/>
-                  <w xml:id="w_142_1"><choice><orig>Dv</orig><reg>du</reg></choice>rch</w>
+                  <w xml:id="w_142_1"><choice><orig>D</orig><reg>d</reg></choice><choice><orig>v</orig><reg>u</reg></choice>rch</w>
                   <c> </c>
                   <w xml:id="w_142_2">der</w>
                   <c> </c>
@@ -3823,7 +3822,7 @@
                      </hi>egen
                   </w>
                   <c> </c>
-                  <w xml:id="w_175_2"><choice><orig>mv</orig><reg>Mu</reg></choice>nbaſilire</w>
+                  <w xml:id="w_175_2"><choice><orig>m</orig><reg>M</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nbaſilire</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -6837,7 +6836,7 @@
                </l>
                <l n="336" xml:id="l_336" hei:altN="310">
                   <lb n="10"/>
-                  <w xml:id="w_336_1"><choice><orig>Gv</orig><reg>gu</reg></choice>rtel</w>
+                  <w xml:id="w_336_1"><choice><orig>G</orig><reg>g</reg></choice><choice><orig>v</orig><reg>u</reg></choice>rtel</w>
                   <c> </c>
                   <w xml:id="w_336_2">
                      <choice>
@@ -8476,8 +8475,12 @@
                   <lb n="2"/>
                   <w xml:id="w_412_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -10414,8 +10417,12 @@
                   <lb n="8"/>
                   <w xml:id="w_500_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -11015,9 +11022,9 @@
                   <lb n="35"/>
                   <w xml:id="w_529_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial>On</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>on</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial>O</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial>o</reg>
+                     </choice>n
                   </w>
                   <c> </c>
                   <w xml:id="w_529_2">dem</w>
@@ -11539,7 +11546,7 @@
                </l>
                <l n="550" xml:id="l_550" hei:altN="518">
                   <lb n="18"/>
-                  <w xml:id="w_550_1"><choice><orig>Sv</orig><reg>su</reg></choice>ſt</w>
+                  <w xml:id="w_550_1"><choice><orig>S</orig><reg>s</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ſt</w>
                   <c> </c>
                   <w xml:id="w_550_2">begonden</w>
                   <c> </c>
@@ -11619,7 +11626,7 @@
                </l>
                <l n="554" xml:id="l_554" hei:altN="522">
                   <lb n="22"/>
-                  <w xml:id="w_554_1"><choice><orig>Sv</orig><reg>su</reg></choice>ſt</w>
+                  <w xml:id="w_554_1"><choice><orig>S</orig><reg>s</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ſt</w>
                   <c> </c>
                   <w xml:id="w_554_2">wanten</w>
                   <c> </c>
@@ -12162,8 +12169,12 @@
                   <lb n="4"/>
                   <w xml:id="w_576_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <w xml:id="w_576_2">ne</w>
@@ -12351,8 +12362,12 @@
                   <lb n="12"/>
                   <w xml:id="w_584_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -13437,8 +13452,12 @@
                   <lb n="18"/>
                   <w xml:id="w_628_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -13651,8 +13670,12 @@
                   <lb n="26"/>
                   <w xml:id="w_636_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -13703,8 +13726,12 @@
                   <lb n="28"/>
                   <w xml:id="w_638_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -15059,7 +15086,7 @@
                </l>
                <l n="828" xml:id="l_828" hei:altN="666">
                   <lb n="6"/>
-                  <w xml:id="w_828_1"><choice><orig>Dv</orig><reg>du</reg></choice>rch</w>
+                  <w xml:id="w_828_1"><choice><orig>D</orig><reg>d</reg></choice><choice><orig>v</orig><reg>u</reg></choice>rch</w>
                   <del rend="erasure">t</del>
                   <w xml:id="w_828_2">recht</w>
                   <c> </c>
@@ -15165,8 +15192,12 @@
                   <lb n="10"/>
                   <w xml:id="w_682_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -15930,7 +15961,7 @@
                   <c> </c>
                   <w xml:id="w_715_3">z<choice><orig>v</orig><reg>u</reg></choice></w>
                   <c> </c>
-                  <w xml:id="w_715_4"><choice><orig>Jv</orig><reg>ju</reg></choice>ngeſt</w>
+                  <w xml:id="w_715_4"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ngeſt</w>
                   <c> </c>
                   <w xml:id="w_715_5">tot</w>
                   <choice>
@@ -15942,7 +15973,7 @@
                </l>
                <l n="716" xml:id="l_716" hei:altN="704">
                   <lb n="4"/>
-                  <w xml:id="w_716_1"><choice><orig>Mv</orig><reg>mu</reg></choice>ter</w>
+                  <w xml:id="w_716_1"><choice><orig>M</orig><reg>m</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ter</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -16140,7 +16171,7 @@
                   <c> </c>
                   <w xml:id="w_722_4"><choice><orig>v</orig><reg>u</reg></choice>nſer</w>
                   <c> </c>
-                  <w xml:id="w_722_5"><choice><orig>Jv</orig><reg>ju</reg></choice>gent</w>
+                  <w xml:id="w_722_5"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>gent</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -16471,7 +16502,7 @@
                </l>
                <l n="736" xml:id="l_736" hei:altN="724">
                   <lb n="24"/>
-                  <w xml:id="w_736_1"><choice><orig>Mv</orig><reg>mu</reg></choice>ter</w>
+                  <w xml:id="w_736_1"><choice><orig>M</orig><reg>m</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ter</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -16928,8 +16959,12 @@
                   <lb n="4"/>
                   <w xml:id="w_756_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -17759,7 +17794,7 @@
                   <c> </c>
                   <w xml:id="w_785_5">wirt</w>
                   <c> </c>
-                  <w xml:id="w_785_6"><choice><orig>Jv</orig><reg>ju</reg></choice>nger</w>
+                  <w xml:id="w_785_6"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nger</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -18506,7 +18541,7 @@
                </l>
                <l n="840" xml:id="l_840" hei:altN="809">
                   <lb n="28"/>
-                  <w xml:id="w_840_1"><choice><orig>Dv</orig><reg>du</reg></choice>rch</w>
+                  <w xml:id="w_840_1"><choice><orig>D</orig><reg>d</reg></choice><choice><orig>v</orig><reg>u</reg></choice>rch</w>
                   <c> </c>
                   <w xml:id="w_840_2">got</w>
                   <choice>
@@ -18733,7 +18768,7 @@
                </l>
                <l n="844" xml:id="l_844" hei:altN="819">
                   <lb n="38"/>
-                  <w xml:id="w_844_1"><choice><orig>Mv</orig><reg>mu</reg></choice>ter</w>
+                  <w xml:id="w_844_1"><choice><orig>M</orig><reg>m</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ter</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -18829,8 +18864,12 @@
                   <lb n="2"/>
                   <w xml:id="w_848_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -19501,7 +19540,7 @@
                </l>
                <l n="879" xml:id="l_879" hei:altN="853">
                   <lb n="32"/>
-                  <w xml:id="w_879_1"><choice><orig>Dv</orig><reg>du</reg></choice>rch</w>
+                  <w xml:id="w_879_1"><choice><orig>D</orig><reg>d</reg></choice><choice><orig>v</orig><reg>u</reg></choice>rch</w>
                   <c> </c>
                   <w xml:id="w_879_2">des</w>
                   <c> </c>
@@ -19658,8 +19697,12 @@
                   <lb n="40"/>
                   <w xml:id="w_890_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -20837,8 +20880,12 @@
                   <lb n="8"/>
                   <w xml:id="w_934_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -20951,8 +20998,12 @@
                   <lb n="12"/>
                   <w xml:id="w_940_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -21930,8 +21981,12 @@
                   <lb n="12"/>
                   <w xml:id="w_980_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -22083,8 +22138,12 @@
                   <lb n="18"/>
                   <w xml:id="w_984_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -22558,7 +22617,7 @@
                      <choice><orig>v</orig><reg>u</reg></choice>
                   </w>
                   <c> </c>
-                  <w xml:id="w_1011_2"><choice><orig>Jv</orig><reg>ju</reg></choice>ngeſt</w>
+                  <w xml:id="w_1011_2"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ngeſt</w>
                   <c> </c>
                   <w xml:id="w_1011_3">do</w>
                   <c> </c>
@@ -23405,9 +23464,9 @@
                   <lb n="37"/>
                   <w xml:id="w_1049_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>Vſt</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>uſt</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>V</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial>u</reg>
+                     </choice>ſt
                   </w>
                   <c> </c>
                   <w xml:id="w_1049_2">vur</w>
@@ -24578,7 +24637,7 @@
                   <c> </c>
                   <w xml:id="w_1081_3">din</w>
                   <c> </c>
-                  <w xml:id="w_1081_4"><choice><orig>Jv</orig><reg>ju</reg></choice>nger</w>
+                  <w xml:id="w_1081_4"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>nger</w>
                   <c> </c>
                   <w xml:id="w_1081_5">lip</w>
                   <c> </c>
@@ -25221,9 +25280,9 @@
                   <lb n="34"/>
                   <w xml:id="w_1107_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>Es</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>es</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>E</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>e</reg>
+                     </choice>s
                   </w>
                   <c> </c>
                   <w xml:id="w_1107_2">antworte</w>
@@ -25903,9 +25962,9 @@
                   <lb n="23"/>
                   <w xml:id="w_1130e_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>Jſen</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>isen</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>J</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i</reg>
+                     </choice>ſen
                   </w>
                   <c> </c>
                   <w xml:id="w_1130e_2">grimmiclichen</w>
@@ -28244,8 +28303,12 @@
                   <lb n="4"/>
                   <w xml:id="w_1256_1">
                      <choice>
-                        <orig>Dv</orig>
-                        <reg>du</reg>
+                        <orig>D</orig>
+                        <reg>d</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <w xml:id="w_1256_2">nen</w>
@@ -28272,9 +28335,9 @@
                   <lb n="5"/>
                   <w xml:id="w_1257_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>Je</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>ie</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>J</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">D</hei:initial>i</reg>
+                     </choice>e
                   </w>
                   <c> </c>
                   <w xml:id="w_1257_2">rede</w>
@@ -28964,9 +29027,9 @@
                   <lb n="31"/>
                   <w xml:id="w_1280g_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>Er</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>er</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>E</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">D</hei:initial>e</reg>
+                     </choice>r
                   </w>
                   <c> </c>
                   <w xml:id="w_1280g_2">arme</w>
@@ -29152,7 +29215,7 @@
                </l>
                <l n="1280n" xml:id="l_1280n" hei:altN="1257">
                   <lb n="38"/>
-                  <w xml:id="w_1280n_1"><choice><orig>Sv</orig><reg>su</reg></choice>ſt</w>
+                  <w xml:id="w_1280n_1"><choice><orig>S</orig><reg>s</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ſt</w>
                   <c> </c>
                   <w xml:id="w_1280n_2">wart</w>
                   <c> </c>
@@ -29589,8 +29652,12 @@
                   <lb n="16"/>
                   <w xml:id="w_1292_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -29670,8 +29737,12 @@
                   <lb n="20"/>
                   <w xml:id="w_1296_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -29765,8 +29836,12 @@
                   <lb n="24"/>
                   <w xml:id="w_1300_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -29891,9 +29966,9 @@
                   <lb n="29"/>
                   <w xml:id="w_1305_1">
                      <choice>
-                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>Je</orig>
-                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>ie</reg>
-                     </choice>
+                        <orig><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>J</orig>
+                        <reg><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">W</hei:initial>i</reg>
+                     </choice>e
                   </w>
                   <c> </c>
                   <w xml:id="w_1305_2">vil</w>
@@ -30477,8 +30552,12 @@
                   <lb n="12"/>
                   <w xml:id="w_1326_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -30912,8 +30991,12 @@
                   <lb n="30"/>
                   <w xml:id="w_1332l_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -31079,7 +31162,7 @@
                   <c> </c>
                   <w xml:id="w_1343_2">ſine</w>
                   <c> </c>
-                  <w xml:id="w_1343_3"><choice><orig>Jv</orig><reg>ju</reg></choice>ncvrowen</w>
+                  <w xml:id="w_1343_3"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ncvrowen</w>
                   <c> </c>
                   <w xml:id="w_1343_4">gecleit</w>
                   <choice>
@@ -33810,8 +33893,12 @@
                   <lb n="2"/>
                   <w xml:id="w_1479_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -33862,8 +33949,12 @@
                   <lb n="4"/>
                   <w xml:id="w_1482_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -34276,8 +34367,12 @@
                   <lb n="20"/>
                   <w xml:id="w_1498_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -34480,7 +34575,7 @@
                </l>
                <l n="1506" xml:id="l_1506" hei:altN="1487">
                   <lb n="28"/>
-                  <w xml:id="w_1506_1"><choice><orig>Dv</orig><reg>du</reg></choice>rch</w>
+                  <w xml:id="w_1506_1"><choice><orig>D</orig><reg>d</reg></choice><choice><orig>v</orig><reg>u</reg></choice>rch</w>
                   <c> </c>
                   <w xml:id="w_1506_2"><choice><orig>v</orig><reg>u</reg></choice>nſers</w>
                   <c> </c>
@@ -34920,7 +35015,7 @@
                   <lb n="10"/>
                   <w xml:id="w_1518_1">z<choice><orig>v</orig><reg>u</reg></choice></w>
                   <c> </c>
-                  <w xml:id="w_1518_2"><choice><orig>Jv</orig><reg>ju</reg></choice>ngeſt</w>
+                  <w xml:id="w_1518_2"><choice><orig>J</orig><reg>j</reg></choice><choice><orig>v</orig><reg>u</reg></choice>ngeſt</w>
                   <c> </c>
                   <w xml:id="w_1518_3">gevallen</w>
                   <choice>
@@ -35008,8 +35103,12 @@
                   <lb n="14"/>
                   <w xml:id="w_1520b_1">
                      <choice>
-                        <orig>Nv</orig>
-                        <reg>nu</reg>
+                        <orig>N</orig>
+                        <reg>n</reg>
+                     </choice>
+                     <choice>
+                        <orig>v</orig>
+                        <reg>u</reg>
                      </choice>
                   </w>
                   <c> </c>
