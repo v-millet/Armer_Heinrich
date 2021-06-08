@@ -21,4 +21,11 @@ Decidimos compartir o OneDrive "Iwein_Victor" para intercambio de documentos. Gi
 - Regularización de maiúsculas: Ba e Bb
 - Palabras con dobre s sacadas de choice: Ba e Bb
 
+## 07/06 e 08/06
+
+
+- Sacamos "hi Versal" fora de choice: Ba e Bb
+- Sacamos "hei initial" fora de choice: Bb, Ba e A
+- Buscamos palabra enteira en "choice": Ba, Bb e A
+- Quitamos espazo entre palabra e "choice": Ba, Bb e A
 
