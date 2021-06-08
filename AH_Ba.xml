@@ -284,10 +284,10 @@
                   <lb n="21"/>
                   <w xml:id="w_3_1">
                      <hi rendition="hc:Versal">
-                     <choice>
-                        <orig>W</orig>
-                        <reg>w</reg>
-                         </choice>
+                        <choice>
+                           <orig>W</orig>
+                           <reg>w</reg>
+                        </choice>
                      </hi>as
                   </w>
                   <c> </c>
