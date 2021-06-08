@@ -11357,12 +11357,11 @@
                <l n="563" xml:id="l_563" hei:altN="533">
                   <lb n="15"/>
                   <w xml:id="w_563_1">
+                     <hi rendition="hc:Versal">
                      <choice>
-                        <orig>
-                           <hi rendition="hc:Versal">E</hi>
-                        </orig>
+                        <orig>E</orig>
                         <reg>e</reg>
-                     </choice>
+                     </choice></hi>
                   </w>
                   <metamark ana="hc:TokenMarker">·</metamark>
                   <w xml:id="w_563_2">ich</w>
@@ -17518,12 +17517,11 @@
                <l n="833" xml:id="l_833" hei:altN="805">
                   <lb n="7"/>
                   <w xml:id="w_833_1">
+                     <hi rendition="hc:Versal">
                      <choice>
-                        <orig>
-                           <hi rendition="hc:Versal">E</hi>
-                        </orig>
+                        <orig>E</orig>
                         <reg>e</reg>
-                     </choice>
+                     </choice></hi>
                   </w>
                   <c> </c>
                   <w xml:id="w_833_2">nach</w>
@@ -25759,12 +25757,11 @@
                <l n="1192a" xml:id="l_1192a" hei:altN="1169">
                   <lb n="11"/>
                   <w xml:id="w_1192a_1">
+                     <hi rendition="hc:Versal">
                      <choice>
-                        <orig>
-                           <hi rendition="hc:Versal">E</hi>
-                        </orig>
+                        <orig>E</orig>
                         <reg>e</reg>
-                     </choice>
+                     </choice></hi>
                   </w>
                   <c> </c>
                   <w xml:id="w_1192a_2">er</w>
