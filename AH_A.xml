@@ -10391,7 +10391,7 @@
                   <c> </c>
                   <w xml:id="w_487_5">aber</w>
                   <c> </c>
-                  <w xml:id="w_487_6">te<choice><orig>&combcirc;te</orig><reg/></choice></w>
+                  <w xml:id="w_487_6">te<choice><orig>&combcirc;</orig><reg/></choice>te</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -23478,7 +23478,7 @@
                   <c> </c>
                   <w xml:id="w_1070_4">herzen</w>
                   <c> </c>
-                  <w xml:id="w_1070_5">te<choice><orig>͑te</orig><reg/></choice></w>
+                  <w xml:id="w_1070_5">te<choice><orig>͑</orig><reg/></choice>te</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -24321,7 +24321,7 @@
                   <c> </c>
                   <w xml:id="w_1106_5">abe</w>
                   <c> </c>
-                  <w xml:id="w_1106_6">te<choice><orig>͑te</orig><reg/></choice></w>
+                  <w xml:id="w_1106_6">te<choice><orig>͑</orig><reg/></choice>te</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -28326,10 +28326,10 @@
                         <orig>D</orig>
                         <reg>d</reg>
                      </choice>
-                     <chocie>
+                     <choice>
                         <am/>
                         <ex>a</ex>
-                     </chocie>z
+                     </choice>z
                   </w>
                   <c> </c>
                   <w xml:id="w_1282_2">ir</w>
@@ -31625,7 +31625,7 @@
                   <c> </c>
                   <w xml:id="w_1435_4">e</w>
                   <c> </c>
-                  <w xml:id="w_1435_5">te<choice><orig>͑te</orig><reg/></choice></w>
+                  <w xml:id="w_1435_5">te<choice><orig>͑</orig><reg/></choice>te</w>
                   <choice>
                      <orig>
                         <pc>·</pc>

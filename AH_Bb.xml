@@ -12832,8 +12832,7 @@
                   <c> </c>
                   <w xml:id="w_627_5">ſin</w>
                   <c> </c>
-                  <w xml:id="w_627_6">ge<subst><del rendition="hc:Adapted">w</del><add
-                     rendition="hc:Adapted">n</add></subst>eſen</w>
+                  <w xml:id="w_627_6">ge<subst><del rendition="hc:Adapted">w</del><add rendition="hc:Adapted">n</add></subst>eſen</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -16475,11 +16474,9 @@
                   <c> </c>
                   <w xml:id="w_770_3">in</w>
                   <c> </c>
-                  <w xml:id="w_770_4">
-                     <choice>
-                        <sic>ſvlche<subst><del rendition="hc:Adapted hc:Erased">m</del><add
-                           rendition="hc:Adapted">n</add></subst></sic>
-                        <corr>ſulcher</corr>
+                  <w xml:id="w_770_4">ſ<choice><orig>v</orig><reg>u</reg></choice>lche<choice>
+                        <sic><subst><del rendition="hc:Adapted hc:Erased">m</del><add rendition="hc:Adapted">n</add></subst></sic>
+                        <corr>r</corr>
                      </choice>
                   </w>
                   <c> </c>

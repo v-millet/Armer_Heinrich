@@ -2992,7 +2992,7 @@
                   <c> </c>
                   <w xml:id="w_140_2">ged<choice><orig>v</orig><reg>u</reg></choice>ldeclichem</w>
                   <c> </c>
-                  <w xml:id="w_140_3">m<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>te</w>
+                  <w xml:id="w_140_3">m<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>te</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -5804,7 +5804,7 @@
                   <c> </c>
                   <w xml:id="w_278_5"><choice><orig>v</orig><reg>u</reg></choice>ber</w>
                   <c> </c>
-                  <w xml:id="w_278_6">tr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>c</w>
+                  <w xml:id="w_278_6">tr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>c</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -6249,7 +6249,7 @@
                   <c> </c>
                   <w xml:id="w_307_4">einen</w>
                   <c> </c>
-                  <w xml:id="w_307_5">vu<choice><orig>&combcirc;</orig><reg>o</reg></choice><choice><sic>t</sic><corr/></choice>z</w>
+                  <w xml:id="w_307_5">vu<choice><orig>&combcirc;</orig><reg/></choice><choice><sic>t</sic><corr/></choice>z</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -6275,7 +6275,7 @@
                   <c> </c>
                   <w xml:id="w_308_5">ſinen</w>
                   <c> </c>
-                  <w xml:id="w_308_6">gr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>z</w>
+                  <w xml:id="w_308_6">gr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>z</w>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -6537,7 +6537,7 @@
                   <c> </c>
                   <w xml:id="w_322_3">kindes</w>
                   <c> </c>
-                  <w xml:id="w_322_4">g<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>te</w>
+                  <w xml:id="w_322_4">g<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>te</w>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -9459,7 +9459,7 @@
                   <c> </c>
                   <w xml:id="w_462_3">herren</w>
                   <c> </c>
-                  <w xml:id="w_462_4">f<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>ze</w>
+                  <w xml:id="w_462_4">f<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>ze</w>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -17298,7 +17298,7 @@
                   <c> </c>
                   <w xml:id="w_772c_4">z<choice><orig>v</orig><reg>u</reg></choice></w>
                   <c> </c>
-                  <w xml:id="w_772c_5">g<choice><orig>v</orig><reg>u</reg></choice>&combcirc;te</w>
+                  <w xml:id="w_772c_5">g<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>te</w>
                </l>
                <l n="772d" xml:id="l_772d" hei:altN="764">
                   <lb n="24"/>
@@ -17315,7 +17315,7 @@
                   <c> </c>
                   <w xml:id="w_772d_4">min<choice><am>ē</am><ex>m</ex></choice></w>
                   <c> </c>
-                  <w xml:id="w_772d_5">m<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>te</w>
+                  <w xml:id="w_772d_5">m<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>te</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -19150,7 +19150,7 @@
                   <c> </c>
                   <w xml:id="w_870_5">irre</w>
                   <c> </c>
-                  <w xml:id="w_870_6">g<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>te</w>
+                  <w xml:id="w_870_6">g<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>te</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -20545,10 +20545,12 @@
                   <w xml:id="w_926c_3">mir</w>
                   <c> </c>
                   <w xml:id="w_926c_4">vor</w>
-                  <reg>drin</reg>
-                  <w xml:id="w_926c_5"><choice><orig>i</orig><reg>j</reg></choice>aren</w>
                   <c> </c>
-                  <w xml:id="w_926c_6">k<choice><orig>v</orig><reg>u</reg></choice>nt</w>
+                  <w xml:id="w_926c_5">drin</w>
+                  <c> </c>
+                  <w xml:id="w_926c_6"><choice><orig>i</orig><reg>j</reg></choice>aren</w>
+                  <c> </c>
+                  <w xml:id="w_926c_7">k<choice><orig>v</orig><reg>u</reg></choice>nt</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -28887,7 +28889,8 @@
                      </reg>
                   </choice>
                   <w xml:id="w_1280j_5">vor</w>
-                  <reg>war</reg>
+                  <c> </c>
+                  <w xml:id="w_1280j_6">war</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -32402,7 +32405,7 @@
                   <c> </c>
                   <w xml:id="w_1421_4">williclicher</w>
                   <c> </c>
-                  <w xml:id="w_1421_5">gr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>z</w>
+                  <w xml:id="w_1421_5">gr<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>z</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -32961,20 +32964,21 @@
                   <lb n="15"/>
                   <w xml:id="w_1450a_1">
                      <choice>
-                        <sic/>
-                        <corr><hi rendition="hc:Versal">O</hi></corr>
-                     </choice>
+                        <sic corresp="#w_1450a_1"/>
+                        <corr corresp="#w_1450a_2">O</corr>
+                     </choice><hi rendition="hc:Versal">
                      <choice>
-                        <sic><hi rendition="hc:Versal">V</hi></sic>
+                        <sic>V</sic>
                         <corr>u</corr>
-                     </choice>ch
+                     </choice></hi>ch
                   </w>
+                  <w xml:id="w_1450a_2" copyOf="#w_1450a_1"></w>
                   <c> </c>
-                  <w xml:id="w_1450a_2">ſin</w>
+                  <w xml:id="w_1450a_3">ſin</w>
                   <c> </c>
-                  <w xml:id="w_1450a_3">t<choice><orig>v</orig><reg>u</reg></choice>genthafter</w>
+                  <w xml:id="w_1450a_4">t<choice><orig>v</orig><reg>u</reg></choice>genthafter</w>
                   <c> </c>
-                  <w xml:id="w_1450a_4">m<choice><orig>v</orig><reg>u</reg></choice>t</w>
+                  <w xml:id="w_1450a_5">m<choice><orig>v</orig><reg>u</reg></choice>t</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -33834,7 +33838,7 @@
                   <c> </c>
                   <w xml:id="w_1488a_4">ſteter</w>
                   <c> </c>
-                  <w xml:id="w_1488a_5">m<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg>o</reg></choice>t</w>
+                  <w xml:id="w_1488a_5">m<choice><orig>v</orig><reg>u</reg></choice><choice><orig>&combcirc;</orig><reg/></choice>t</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -34415,7 +34419,7 @@
                   <w xml:id="w_1513a_2">wertlicher</w>
                   <c> </c>
                   <w xml:id="w_1513a_3">wone</w>
-                  <note target="#w_1513a_2" ana="hc:TextCriticalNote">Das Wort wird immer in  <mentioned>werltlicher</mentioned> korrigiert, was Sinn macht, zumal auch Bb es so schreibt. Doch die Wiederholung des vermeintlichen ‘Fehlers’ wenige Verse später (V. 1513g) deutet auf Absicht hin und verbietet einen Eingriff</note>
+                  <note target="#w_1513a_2" ana="hc:TextCriticalNote">Das Wort wird immer in <mentioned>werltlicher</mentioned> korrigiert, was Sinn macht, zumal auch Bb es so schreibt. Doch die Wiederholung des vermeintlichen ‘Fehlers’ wenige Verse später (V. 1513g) deutet auf Absicht hin und verbietet einen Eingriff</note>
                </l>
             </lg>
             <lg ana="hc:Couplet">
