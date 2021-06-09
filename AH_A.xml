@@ -2410,7 +2410,7 @@
                   <c> </c>
                   <w xml:id="w_111_4">gru<choice><orig>&esup;</orig><reg>&combuml;</reg></choice>neſt</w>
                   <c> </c>
-                  <w xml:id="w_111_5">w<choice><orig>e͑</orig><reg>æ</reg></choice>net</w>
+                  <w xml:id="w_111_5">we<choice><orig>e͑</orig><reg>æ</reg></choice>net</w>
                   <c> </c>
                   <w xml:id="w_111_6">ſin</w>
                   <choice>
@@ -10649,10 +10649,9 @@
                <l n="499" xml:id="l_499" hei:altN="499">
                   <lb n="29"/>
                   <w xml:id="w_499_1">
-                     <hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>
-                     <choice>
-                        <orig>u͑</orig>
-                        <reg>ü</reg>
+                     <hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>u<choice>
+                        <orig>͑</orig>
+                        <reg>&combuml;</reg>
                      </choice>
                   </w>
                   <c> </c>
@@ -28834,7 +28833,7 @@
                   <c> </c>
                   <w xml:id="w_1304_5">ſelig</w>
                   <c> </c>
-                  <w xml:id="w_1304_6">we<choice><orig>͑ſ</orig><reg>s</reg></choice>en</w>
+                  <w xml:id="w_1304_6">we<choice><orig>͑</orig><reg/></choice>ſen</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
