@@ -2410,7 +2410,7 @@
                   <c> </c>
                   <w xml:id="w_111_4">gru<choice><orig>&esup;</orig><reg>&combuml;</reg></choice>neſt</w>
                   <c> </c>
-                  <w xml:id="w_111_5">we<choice><orig>e͑</orig><reg>æ</reg></choice>net</w>
+                  <w xml:id="w_111_5">we<choice><orig>͑</orig><reg/></choice>net</w>
                   <c> </c>
                   <w xml:id="w_111_6">ſin</w>
                   <choice>
@@ -2693,7 +2693,7 @@
                   <c> </c>
                   <w xml:id="w_125_4">welte</w>
                   <c> </c>
-                  <w xml:id="w_125_5">w<choice><orig>e͑</orig><reg>æ</reg></choice>re</w>
+                  <w xml:id="w_125_5">we<choice><orig>͑</orig><reg/></choice>re</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -10213,7 +10213,7 @@
                   <c> </c>
                   <w xml:id="w_479_2">ſlaffenden</w>
                   <c> </c>
-                  <w xml:id="w_479_3">ſ<choice><sic>u͑f</sic><corr/></choice>ze</w>
+                  <w xml:id="w_479_3"><choice><sic>ſ</sic><corr>f</corr></choice>u<choice><orig>͑</orig><reg>&combuml;</reg></choice>fze</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -11406,21 +11406,14 @@
                   <lb n="20"/>
                   <w xml:id="w_533_1"><choice><orig>S</orig><reg>s</reg></choice>o</w>
                   <c> </c>
-                  <w xml:id="w_533_2">
-                     <choice>
-                        <orig>ſu͑z</orig>
-                        <reg>
-                           <w join="right">ſü</w>
-                           <w join="left">z</w>
-                        </reg>
-                     </choice>
-                  </w>
+                  <w xml:id="w_533_2">ſu<choice><orig>͑</orig><reg>&combuml;</reg></choice></w>
+                  <w xml:id="w_533_3">z</w>
                   <c> </c>
-                  <w xml:id="w_533_5">irme</w>
+                  <w xml:id="w_533_4">irme</w>
                   <c> </c>
-                  <w xml:id="w_533_6">herren</w>
+                  <w xml:id="w_533_5">herren</w>
                   <c> </c>
-                  <w xml:id="w_533_7">ſagete</w>
+                  <w xml:id="w_533_6">ſagete</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -11463,21 +11456,14 @@
                   <c> </c>
                   <w xml:id="w_535_2">ſwenne</w>
                   <c> </c>
-                  <w xml:id="w_535_3">
-                     <choice>
-                        <orig>ſu͑z</orig>
-                        <reg>
-                           <w join="right">ſü</w>
-                           <w join="left">z</w>
-                        </reg>
-                     </choice>
-                  </w>
+                  <w xml:id="w_535_3">ſu<choice><orig>͑</orig><reg>&combuml;</reg></choice></w>
+                  <w xml:id="w_535_4">z</w>
                   <c> </c>
-                  <w xml:id="w_535_6">in</w>
+                  <w xml:id="w_535_5">in</w>
                   <c> </c>
-                  <w xml:id="w_535_7">allen</w>
+                  <w xml:id="w_535_6">allen</w>
                   <c> </c>
-                  <w xml:id="w_535_8">drin</w>
+                  <w xml:id="w_535_7">drin</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
