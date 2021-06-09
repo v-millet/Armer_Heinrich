@@ -177,6 +177,7 @@
          <zone ana="hc:HorizontalLayout">
             <zone xml:id="Bb_263v-a" ana="hc:Column hc:TextZone" n="a"/>
             <zone xml:id="Bb_263v-b" ana="hc:Column hc:TextZone" n="b"/>
+            <zone xml:id="Bb_263v-c" ana="hc:MarginalZone" n="c"/>
          </zone>
       </surface>
       <surface xml:id="Bb_264r" ana="hc:Page" n="264r">
@@ -28235,6 +28236,9 @@
                   <w xml:id="w_1292_5">verlorn</w>
                </l>
             </lg>
+            <fw ana="hc:QuireSignature"><lb facs="#Bb_263v-c" n="1"/>
+               <num value="33">xxxıııꝰ</num>
+            </fw>
             <pb n="264r" facs="#Bb_264r"/>
             <cb n="a" facs="#Bb_264r-a"/>
             <lg ana="hc:Couplet">
