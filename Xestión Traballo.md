@@ -29,3 +29,8 @@ Decidimos compartir o OneDrive "Iwein_Victor" para intercambio de documentos. Gi
 - Buscamos palabra enteira en "choice": Ba, Bb e A
 - Quitamos espazo entre palabra e "choice": Ba, Bb e A
 
+## 09/06
+
+- Correximos últimos erros, dobles letras en 'orig' e 'sic'
+- Cambiado o diacrítico ' en A 
+- Iniciación á lectura do manuscrito d e a súa corrección
