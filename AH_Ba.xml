@@ -31752,10 +31752,12 @@
                <l n="1387" xml:id="l_1387" hei:altN="1378">
                   <lb n="39"/>
                   <w xml:id="w_1387_1">
-                     <choice>
-                        <sic><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">R</hei:initial></sic>
-                        <corr><hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">S</hei:initial></corr>
-                     </choice>
+                     <hei:initial ana="hc:Lombard" hei:color="Blue" hei:heightLines="2">
+                        <choice>
+                           <sic>R</sic>
+                           <corr>S</corr>
+                        </choice>
+                     </hei:initial>
                      <choice>
                           <orig>J</orig>
                           <reg>i</reg>
