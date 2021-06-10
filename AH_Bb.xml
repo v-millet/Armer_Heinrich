@@ -21104,14 +21104,16 @@
                   <w xml:id="w_984_2">hat</w>
                   <c> </c>
                   <w xml:id="w_984_3">ſie</w>
-                  <del rendition="hc:Erased"><w>vr</w></del>
-                  <w xml:id="w_984_4">is</w>
                   <c> </c>
-                  <w xml:id="w_984_5">an</w>
+                  <del rendition="hc:Erased"><w xml:id="w_984_4">vr</w></del>
                   <c> </c>
-                  <w xml:id="w_984_6"><choice><orig>v</orig><reg>u</reg></choice>ns</w>
+                  <w xml:id="w_984_5">is</w>
                   <c> </c>
-                  <w xml:id="w_984_7">f<choice><orig>v</orig><reg>u</reg></choice>nden</w>
+                  <w xml:id="w_984_6">an</w>
+                  <c> </c>
+                  <w xml:id="w_984_7"><choice><orig>v</orig><reg>u</reg></choice>ns</w>
+                  <c> </c>
+                  <w xml:id="w_984_8">f<choice><orig>v</orig><reg>u</reg></choice>nden</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
