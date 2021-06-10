@@ -7356,9 +7356,10 @@
                   <c> </c>
                   <w xml:id="w_347_2">geliebet</w>
                   <c> </c>
-                  <w xml:id="w_347_3">irs</w>
+                  <w xml:id="w_347_3">ir</w>
+                  <w xml:id="w_347_4">s</w>
                   <c> </c>
-                  <w xml:id="w_347_4">allermeiſt</w>
+                  <w xml:id="w_347_5">allermeiſt</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -8888,7 +8889,7 @@
                </l>
                <l n="418" xml:id="l_418" hei:altN="418">
                   <lb n="36"/>
-                  <w xml:id="w_418_1"><choice><orig>N</orig><reg>n</reg></choice>u<choice><orig>&combgrave;</orig><reg>&combuml;</reg></choice></w>
+                  <w xml:id="w_418_1"><choice><orig>N</orig><reg>n</reg></choice>u<choice><orig>&combgrave;</orig><reg/></choice></w>
                   <c> </c>
                   <w xml:id="w_418_2">ſchinet</w>
                   <c> </c>
@@ -9246,7 +9247,7 @@
                   <c> </c>
                   <w xml:id="w_433_5">bi</w>
                   <c> </c>
-                  <w xml:id="w_433_6">du</w>
+                  <w xml:id="w_433_6">dir</w>
                   <c> </c>
                   <w xml:id="w_433_7">laſt</w>
                   <choice>
@@ -10296,7 +10297,7 @@
                   <c> </c>
                   <w xml:id="w_483_4">ir</w>
                   <c> </c>
-                  <w xml:id="w_483_5">w<choice><orig>ê</orig><reg>æ</reg></choice>re</w>
+                  <w xml:id="w_483_5">w<choice><orig>ê</orig><reg>e</reg></choice>re</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -10312,7 +10313,7 @@
                   <c> </c>
                   <w xml:id="w_484_3">hande</w>
                   <c> </c>
-                  <w xml:id="w_484_4">ſw<choice><orig>ê</orig><reg>æ</reg></choice>re</w>
+                  <w xml:id="w_484_4">ſw<choice><orig>ê</orig><reg>e</reg></choice>re</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -10644,10 +10645,7 @@
                <l n="499" xml:id="l_499" hei:altN="499">
                   <lb n="29"/>
                   <w xml:id="w_499_1">
-                     <hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>u<choice>
-                        <orig>&combgrave;</orig>
-                        <reg>&combuml;</reg>
-                     </choice>
+                     <hei:initial ana="hc:Lombard" hei:color="Black" hei:heightLines="2">S</hei:initial>u<choice><orig>&combgrave;</orig><reg>&combuml;</reg></choice>
                   </w>
                   <c> </c>
                   <w xml:id="w_499_2">ſprachent</w>
@@ -12558,7 +12556,7 @@
                   <w xml:id="w_584_2">du</w>
                   <c> </c>
                   <w xml:id="w_584_3">en</w>
-                  <w xml:id="w_584_4">k<choice><orig>ê</orig><reg>æ</reg></choice>me</w>
+                  <w xml:id="w_584_4">k<choice><orig>ê</orig><reg>e</reg></choice>me</w>
                   <c> </c>
                   <w xml:id="w_584_5">in</w>
                   <c> </c>
@@ -16556,7 +16554,7 @@
                      </choice>n<choice><am>&bar;</am><ex>d</ex></choice>
                   </w>
                   <c> </c>
-                  <w xml:id="w_763_2">w<choice><orig>ê</orig><reg>æ</reg></choice>nent</w>
+                  <w xml:id="w_763_2">w<choice><orig>ê</orig><reg>e</reg></choice>nent</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -32561,7 +32559,7 @@
             <lg ana="hc:Couplet">
                <l n="1479" xml:id="l_1479" hei:altN="1483">
                   <lb n="25"/>
-                  <w xml:id="w_1479_1"><choice><orig>N</orig><reg>n</reg></choice>u<choice><orig>&combgrave;</orig><reg>&combuml;</reg></choice></w>
+                  <w xml:id="w_1479_1"><choice><orig>N</orig><reg>n</reg></choice>u<choice><orig>&combgrave;</orig><reg/></choice></w>
                   <c> </c>
                   <w xml:id="w_1479_2">enſchu<choice><orig>&combgrave;</orig><reg>&combuml;</reg></choice>het</w>
                   <c> </c>
