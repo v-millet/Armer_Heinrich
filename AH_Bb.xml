@@ -501,7 +501,7 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                     </hi>e lieben
+                     </hi>e<choice><orig> </orig><reg/></choice>lieben
                   </w>
                   <c> </c>
                   <w xml:id="w_15_2">den</w>
@@ -1880,7 +1880,7 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                  </hi>e hohet
+                  </hi>e<choice><orig> </orig><reg/></choice>hohet
                   </w>
                   <c> </c>
                   <w xml:id="w_81_2"><choice><orig>v</orig><reg>u</reg></choice>nde</w>
@@ -11108,7 +11108,7 @@
                         <orig>E</orig>
                         <reg>e</reg>
                      </choice>
-                     </hi>r wenden
+                     </hi>r<choice><orig> </orig><reg/></choice>wenden
                   </w>
                   <c> </c>
                   <w xml:id="w_553_2">noch</w>
@@ -12941,7 +12941,7 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                     </hi>e denket
+                     </hi>e<choice><orig> </orig><reg/></choice>denket
                   </w>
                   <choice>
                      <orig/>
@@ -15717,7 +15717,7 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                     </hi>e denket
+                     </hi>e<choice><orig> </orig><reg/></choice>denket
                   </w>
                   <c> </c>
                   <w xml:id="w_737_2">an</w>
@@ -18750,7 +18750,7 @@
                         <orig>E</orig>
                         <reg>e</reg>
                      </choice>
-                     </hi>r weren
+                     </hi>r<choice><orig> </orig><reg/></choice>weren
                   </w>
                   <c> </c>
                   <w xml:id="w_891_2">irn</w>
@@ -20495,7 +20495,7 @@
                         <orig>B</orig>
                         <reg>b</reg>
                      </choice>
-                     </hi>e dechte
+                     </hi>e<choice><orig> </orig><reg/></choice>dechte
                   </w>
                   <choice>
                      <orig/>
@@ -20841,7 +20841,7 @@
                         <orig>G</orig>
                         <reg>g</reg>
                      </choice>
-                     </hi>e liebet
+                     </hi>e<choice><orig> </orig><reg/></choice>liebet
                   </w>
                   <c> </c>
                   <w xml:id="w_975_2"><choice><orig>v</orig><reg>u</reg></choice>nde</w>
@@ -31353,7 +31353,7 @@
                         <orig>V</orig>
                         <reg>v</reg>
                      </choice>
-                     </hi>er dienet
+                     </hi>er<choice><orig> </orig><reg/></choice>dienet
                   </w>
                   <c> </c>
                   <w xml:id="w_1439_2">ere</w>
