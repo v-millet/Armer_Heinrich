@@ -60,10 +60,9 @@
       </fileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="hc" matchPattern="(.+)"
-               replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"
-            />
+            <prefixDef ident="hc" matchPattern="(.+)" replacementPattern="https://lod.ub.uni-heidelberg.de/ontologies/heieditions/hc/current/$1"/>
          </listPrefixDef>
+         <hei:elementsWithTokenizedContent include="l head ab trailer fw"/>
       </encodingDesc>
    </teiHeader>
    <facsimile>
@@ -174,10 +173,12 @@
       </surface>
       <surface xml:id="Bb_263v" ana="hc:Page" n="263v">
          <graphic url="https://digi.ub.uni-heidelberg.de/diglit/fmb_cb72_fol256-265/0016"/>
-         <zone ana="hc:HorizontalLayout">
-            <zone xml:id="Bb_263v-a" ana="hc:Column hc:TextZone" n="a"/>
-            <zone xml:id="Bb_263v-b" ana="hc:Column hc:TextZone" n="b"/>
-            <zone xml:id="Bb_263v-c" ana="hc:MarginalZone" n="c"/>
+         <zone ana="hc:VerticalLayout">
+            <zone ana="hc:HorizontalLayout">
+               <zone xml:id="Bb_263v-a" ana="hc:MainColumn hc:TextZone" n="a"/>
+               <zone xml:id="Bb_263v-b" ana="hc:MainColumn hc:TextZone" n="b"/>
+            </zone>
+            <zone xml:id="Bb_263v-c" ana="hc:MarginalZone hc:TextZone" rendition="hc:SelfAlignmentCentered" hei:placeRef="hc:PageBottom"/>
          </zone>
       </surface>
       <surface xml:id="Bb_264r" ana="hc:Page" n="264r">
@@ -21103,7 +21104,7 @@
                   <w xml:id="w_984_2">hat</w>
                   <c> </c>
                   <w xml:id="w_984_3">ſie</w>
-                  <del rendition="hc:Erased">vr</del>
+                  <del rendition="hc:Erased"><w>vr</w></del>
                   <w xml:id="w_984_4">is</w>
                   <c> </c>
                   <w xml:id="w_984_5">an</w>
@@ -28236,8 +28237,22 @@
                   <w xml:id="w_1292_5">verlorn</w>
                </l>
             </lg>
-            <fw ana="hc:QuireSignature"><lb facs="#Bb_263v-c" n="1"/>
-               <num value="33">xxxıııꝰ</num>
+            <milestone ana="hc:ZoneBeginning" facs="#Bb_263v-c"/>
+            <lb n="1"/>
+            <fw ana="hc:QuireSignature">
+               <metamark ana="hc:NumberMark">·</metamark>
+               <num value="33">
+                  <w>
+                     <choice>
+                        <orig>XXXIII</orig>
+                        <reg>trigesimus terti</reg>
+                     </choice><choice>
+                        <am>&us;</am>
+                        <ex>us</ex>
+                     </choice>
+                  </w>
+               </num>
+               <metamark ana="hc:NumberMark">·</metamark>
             </fw>
             <pb n="264r" facs="#Bb_264r"/>
             <cb n="a" facs="#Bb_264r-a"/>
