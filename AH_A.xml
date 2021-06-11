@@ -17353,7 +17353,7 @@
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
-                        <pc ana="editorial"/> <!-- missing punctuation character? -->
+                        <pc ana="editorial">,</pc>
                      </reg>
                   </choice>
                   <w xml:id="w_797_3">den</w>
@@ -17773,9 +17773,7 @@
                   <c> </c>
                   <w xml:id="w_817_4">ſi</w>
                   <c> </c>
-                  <w xml:id="w_817_5">under</w>
-                  <c> </c>
-                  <w xml:id="w_817_6">tan</w>
+                  <w xml:id="w_817_5">under<choice><orig> </orig><reg/></choice>tan</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -18420,15 +18418,16 @@
             <lg ana="hc:Couplet">
                <l n="847" xml:id="l_847" hei:altN="847">
                   <lb n="29"/>
-                  <w xml:id="w_847_1"><choice><orig>S</orig><reg>s</reg></choice>olteſtu</w>
+                  <w xml:id="w_847_1"><choice><orig>S</orig><reg>s</reg></choice>olteſ</w>
+                  <w xml:id="w_847_2">tu</w>
                   <c> </c>
-                  <w xml:id="w_847_2">obe</w>
+                  <w xml:id="w_847_3">obe</w>
                   <c> </c>
-                  <w xml:id="w_847_3">mime</w>
+                  <w xml:id="w_847_4">mime</w>
                   <c> </c>
-                  <w xml:id="w_847_4">grabe</w>
+                  <w xml:id="w_847_5">grabe</w>
                   <c> </c>
-                  <w xml:id="w_847_5">ſtan</w>
+                  <w xml:id="w_847_6">ſtan</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -18859,12 +18858,7 @@
                   <c> </c>
                   <w xml:id="w_865_2">o<choice><orig>&vsup;</orig><reg>u</reg></choice>ch</w>
                   <c> </c>
-                  <w xml:id="w_865_3">
-                     <choice>
-                        <abbr>ſ<am>c</am>en</abbr>
-                        <expan>ſ<ex>an</ex>c<ex>t</ex>en</expan>
-                     </choice>
-                  </w>
+                  <w xml:id="w_865_3">ſ<choice><am>c</am><ex>anct</ex></choice>en</w>
                   <c> </c>
                   <w xml:id="w_865_4"><choice><orig>n</orig><reg>N</reg></choice>iclaweſes</w>
                   <c> </c>
@@ -19678,12 +19672,7 @@
                   <c> </c>
                   <w xml:id="w_904_5">was</w>
                   <c> </c>
-                  <w xml:id="w_904_6">
-                     <choice>
-                        <abbr>getag<am>&etfin;</am></abbr>
-                        <expan>getag<am>et</am></expan>
-                     </choice>
-                  </w>
+                  <w xml:id="w_904_6">getag<choice><am>&etfin;</am><ex>et</ex></choice></w>
                   <choice>
                      <orig>
                         <pc>·</pc>
@@ -21415,13 +21404,14 @@
                   <lb n="29"/>
                   <w xml:id="w_976_1"><choice><orig>D</orig><reg>d</reg></choice>as</w>
                   <c> </c>
-                  <w xml:id="w_976_2">enwere</w>
+                  <w xml:id="w_976_2">en</w>
+                  <w xml:id="w_976_3">were</w>
                   <c> </c>
-                  <w xml:id="w_976_3">niht</w>
+                  <w xml:id="w_976_4">niht</w>
                   <c> </c>
-                  <w xml:id="w_976_4">wol</w>
+                  <w xml:id="w_976_5">wol</w>
                   <c> </c>
-                  <w xml:id="w_976_5">bekeret</w>
+                  <w xml:id="w_976_6">bekeret</w>
                   <choice>
                      <orig>
                         <pc>·</pc>
