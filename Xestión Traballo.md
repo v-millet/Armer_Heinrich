@@ -34,3 +34,12 @@ Decidimos compartir o OneDrive "Iwein_Victor" para intercambio de documentos. Gi
 - Correximos últimos erros, dobles letras en 'orig' e 'sic'
 - Cambiado o diacrítico ' en A 
 - Iniciación á lectura do manuscrito d e a súa corrección
+
+## 10 e 11/06
+
+En manuscrito A de Iwein:
+- Tarefas 1 e 2
+- sustitución de @ part
+- cambio do superscript 'n' de 'add' a 'seg'
+- tarefa 16
+- sustitución de # xpath por # l
