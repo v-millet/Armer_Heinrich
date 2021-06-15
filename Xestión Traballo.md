@@ -42,4 +42,13 @@ En manuscrito A de Iwein:
 - sustitución de @ part
 - cambio do superscript 'n' de 'add' a 'seg'
 - tarefa 16
-- sustitución de # xpath por # l
+- sustitución de # xpath por # target
+
+## 14/06
+- ``<choice>`` en lugar de espazos no interior de palabras
+- corrección de xml:id 
+- Item
+- Item
+
+
+

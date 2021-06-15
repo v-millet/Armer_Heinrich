@@ -3944,9 +3944,9 @@
                   </choice>
                   <w xml:id="w_183_5">di</w>
                   <c> </c>
-                  <w xml:id="w_183_6">m<choice><am>ā</am><ex>n</ex></choice></w>
+                  <w xml:id="w_183_6">ma<choice><am>&bar;</am><ex>n</ex></choice></w>
                   <c> </c>
-                  <w xml:id="w_183_7">v<choice><am>ā</am><ex>n</ex></choice>t</w>
+                  <w xml:id="w_183_7">va<choice><am>&bar;</am><ex>n</ex></choice>t</w>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
