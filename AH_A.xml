@@ -11320,15 +11320,13 @@
                   <c> </c>
                   <w xml:id="w_530_3">mu<choice><orig>&osup;</orig><reg>o</reg></choice>tes</w>
                   <c> </c>
-                  <w xml:id="w_530_4">
                      <choice>
-                        <sic>unfro</sic>
+                        <sic><w xml:id="w_530_4">unfro</w></sic>
                         <corr>
-                           <w>und</w>
-                           <w>fro</w>
+                           <w xml:id="w_530_5">und</w>
+                           <w xml:id="w_530_6">fro</w>
                         </corr>
                      </choice>
-                  </w>
                   <choice>
                      <orig>
                         <pc>·</pc>
