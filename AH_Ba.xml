@@ -7023,7 +7023,7 @@
             <lg ana="hc:Couplet">
                <l n="529" xml:id="l_529" hei:altN="495">
                   <lb n="35"/>
-                  <w xml:id="w_529_1"><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial><choice><orig>O</orig><reg>o</reg></choice>n</w>
+                  <w xml:id="w_529_1"><choice><orig><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">U</hei:initial></orig><reg><hei:initial ana="hc:Lombard" hei:color="Red" hei:heightLines="2">V</hei:initial></reg></choice><choice><orig>O</orig><reg>o</reg></choice>n</w>
                   <c> </c>
                   <w xml:id="w_529_2">dem</w>
                   <c> </c>
