@@ -5501,7 +5501,7 @@
                   <w xml:id="w_419_2">grozen</w>
                   <c> </c>
                   <w xml:id="w_419_3">tre<choice><orig>v</orig><reg>u</reg></choice>we</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc><c> </c></reg></choice>
                   <w xml:id="w_419_4">die</w>
                   <c> </c>
                   <w xml:id="w_419_5">d<choice><orig>v</orig><reg>u</reg></choice></w>
@@ -5674,7 +5674,7 @@
                   <w xml:id="w_430_2">liber</w>
                   <c> </c>
                   <w xml:id="w_430_3">vre<choice><orig>v</orig><reg>u</reg></choice>nt</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc><c> </c></reg></choice>
                   <w xml:id="w_430_4">n<choice><orig>v</orig><reg>u</reg></choice></w>
                   <c> </c>
                   <w xml:id="w_430_5">ko<choice><orig>v</orig><reg>u</reg></choice>fes</w>
@@ -5810,7 +5810,7 @@
                   <w xml:id="w_440_2">der</w>
                   <c> </c>
                   <w xml:id="w_440_3">geniſt</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc><c> </c></reg></choice>
                   <w xml:id="w_440_4">der</w>
                   <c> </c>
                   <w xml:id="w_440_5">ich</w>
@@ -6043,7 +6043,7 @@
                   <w xml:id="w_458_4">ſchire</w>
                   <c> </c>
                   <w xml:id="w_458_5">geſende</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>.‹</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>.</pc><pc>‹</pc></reg></choice>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -6071,7 +6071,7 @@
                   <w xml:id="w_460_3">ir</w>
                   <c> </c>
                   <w xml:id="w_460_4">tochter</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc><c> </c></reg></choice>
                   <w xml:id="w_460_5">die</w>
                   <c> </c>
                   <w xml:id="w_460_6">mait</w>
@@ -6241,7 +6241,7 @@
                   <w xml:id="w_472_3">irre</w>
                   <c> </c>
                   <w xml:id="w_472_4">m<choice><orig>v</orig><reg>u</reg></choice>ter</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc><c> </c></reg></choice>
                   <w xml:id="w_472_5">alſe</w>
                   <c> </c>
                   <w xml:id="w_472_6">ſie</w>
@@ -6499,9 +6499,7 @@
                   <w xml:id="w_490_1"><choice><orig>S</orig><reg>s</reg></choice>i</w>
                   <c> </c>
                   <w xml:id="w_490_2">ſprach</w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>:</pc></reg></choice>
-
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>›</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>:</pc><c> </c><pc>›</pc></reg></choice>
                   <w xml:id="w_490_3">ir</w>
                   <c> </c>
                   <w xml:id="w_490_4">mochtet</w>
@@ -6612,7 +6610,7 @@
                   <w xml:id="w_498_2"><choice><orig>v</orig><reg>u</reg></choice>ns</w>
                   <c> </c>
                   <w xml:id="w_498_3">t<choice><orig>v</orig><reg>u</reg></choice></w>
-                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
+                  <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc><c> </c></reg></choice>
                   <w xml:id="w_498_4">daz</w>
                   <c> </c>
                   <w xml:id="w_498_5">er</w>
