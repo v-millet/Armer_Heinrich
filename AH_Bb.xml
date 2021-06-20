@@ -2488,7 +2488,7 @@
                      </choice>einriche<choice><am>&bar;</am><ex>n</ex></choice>
                   </w>
                   <lb ana="hc:DependentLine hc:RunOverLineBelow" n="36a"/>
-                  <metamark ana="hc:RunOverSign">¶ </metamark>
+                  <metamark ana="hc:RunOverMark">¶ </metamark>
                   <w xml:id="w_112_7">ſchin</w>
                   <choice>
                      <orig/>
@@ -8888,7 +8888,7 @@
                   <c> </c>
                   <w part="I" xml:id="w_450_7">ſni</w>
                   <lb ana="hc:DependentLine hc:RunOverLineBelow" n="22a" break="no"/>
-                  <metamark ana="hc:RunOverSign">||</metamark>
+                  <metamark ana="hc:RunOverMark">||</metamark>
                   <w part="F" xml:id="w_450_8">te</w>
                   <choice>
                      <orig/>
@@ -9739,7 +9739,7 @@
                   <c> </c>
                   <w part="I" xml:id="w_490_8">kla</w>
                   <lb ana="hc:DependentLine hc:RunOverLineBelow" n="22a" break="no"/>
-                  <metamark ana="hc:RunOverSign">||</metamark>
+                  <metamark ana="hc:RunOverMark">||</metamark>
                   <w part="F" xml:id="w_490_9">gen</w>
                   <choice>
                      <orig/>
@@ -11344,7 +11344,7 @@
                         <reg>e</reg>
                      </choice></hi>
                   </w>
-                  <metamark ana="hc:TokenMarker">·</metamark>
+                  <metamark ana="hc:TokenMark">·</metamark>
                   <w xml:id="w_563_2">ich</w>
                   <c> </c>
                   <w xml:id="w_563_3">in</w>
@@ -11366,7 +11366,7 @@
                   <w xml:id="w_564_2">wolde</w>
                   <c> </c>
                   <w xml:id="w_564_3">e</w>
-                  <metamark ana="hc:TokenMarker">|</metamark>
+                  <metamark ana="hc:TokenMark">|</metamark>
                   <w xml:id="w_564_4">vor</w>
                   <c> </c>
                   <w xml:id="w_564_5">in</w>
@@ -17882,7 +17882,7 @@
                   <w xml:id="w_845_3">ſprechen</w>
                   <c> </c>
                   <w xml:id="w_845_4">e</w>
-                  <metamark ana="hc:TokenMarker">|</metamark>
+                  <metamark ana="hc:TokenMark">|</metamark>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -27152,7 +27152,7 @@
                   <w xml:id="w_1266_4">mich</w>
                   <c> </c>
                   <w xml:id="w_1266_5">e</w>
-                  <metamark ana="hc:TokenMarker">|</metamark>
+                  <metamark ana="hc:TokenMark">|</metamark>
                   <choice>
                      <orig/>
                      <reg ana="hc:PunctuationRegularization">
@@ -27665,7 +27665,7 @@
                      </reg>
                   </choice>
                   <w xml:id="w_1280h_1">e</w>
-                  <metamark ana="hc:TokenMarker">|</metamark>
+                  <metamark ana="hc:TokenMark">|</metamark>
                   <add hei:placeRef="hc:AboveLine">
                      <w xml:id="w_1280h_2">wold</w>
                   </add>
@@ -31191,7 +31191,7 @@
                   <w xml:id="w_1430_5">dan</w>
                   <c> </c>
                   <w xml:id="w_1430_6">e</w>
-                  <metamark ana="hc:TokenMarker">|</metamark>
+                  <metamark ana="hc:TokenMark">|</metamark>
                </l>
             </lg>
             <lg ana="hc:Couplet">
@@ -31275,7 +31275,7 @@
                   <w xml:id="w_1435_3">er</w>
                   <c> </c>
                   <w xml:id="w_1435_4">e</w>
-                  <metamark ana="hc:TokenMarker">|</metamark>
+                  <metamark ana="hc:TokenMark">|</metamark>
                   <w xml:id="w_1435_5">tete</w>
                   <choice>
                      <orig/>
