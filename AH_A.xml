@@ -480,7 +480,7 @@
             <lg ana="hc:Couplet">
                <l n="23" xml:id="l_23" hei:altN="23">
                   <lb n="23"/>
-                  <w xml:id="w_23_1"><choice><orig>S</orig><reg>s</reg></choice>u<choice><orig>&combgrave;</orig><reg>&combuml;</reg></choice></w>
+                  <w xml:id="w_23_1"><choice><orig>S</orig><reg>s</reg></choice><choice><orig>u&combgrave;</orig><reg>i</reg></choice></w>
                   <c> </c>
                   <w xml:id="w_23_2">ho<choice><orig>&esup;</orig><reg>&combuml;</reg></choice>re</w>
                   <c> </c>

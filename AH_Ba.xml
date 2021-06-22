@@ -19208,7 +19208,7 @@
             <lg ana="hc:Couplet">
                <l n="1332i" xml:id="l_1332i" hei:altN="1326">
                   <lb n="27"/>
-                  <w xml:id="w_1332i_1"><hi rendition="hc:Versal"><choice><orig>V</orig><reg>v</reg></choice></hi>er ſprechet</w>
+                  <w xml:id="w_1332i_1"><hi rendition="hc:Versal"><choice><orig>V</orig><reg>v</reg></choice></hi>er<choice><orig><c> </c></orig><reg/></choice>ſprechet</w>
                   <c> </c>
                   <w xml:id="w_1332i_2">ir</w>
                   <c> </c>
@@ -19519,7 +19519,7 @@
                   <lb n="9"/>
                   <w xml:lang="lat" xml:id="w_1357_1"><hi rendition="hc:Versal"><choice><orig>C</orig><reg>c</reg></choice></hi>ordis</w>
                   <c> </c>
-                  <w xml:lang="lat" xml:id="w_1357_2">pectator</w>
+                  <w xml:lang="lat" xml:id="w_1357_2"><choice><sic/><corr>s</corr></choice>pectator</w>
                   <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
                   <note target="#w_1357_2" ana="hc:TextCriticalNote">Die übliche Lesung dieses Wortes als <mentioned>peccator</mentioned> scheint uns nicht richtig; wir lesen in beiden Handschriften <mentioned>pectator</mentioned> und schließen auf ein ausgelassenes <mentioned>s</mentioned> am Wortanfang</note>
                </l>
