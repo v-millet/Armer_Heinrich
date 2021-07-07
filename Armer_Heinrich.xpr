@@ -20,6 +20,14 @@
                         <documentTypeEntry-array>
                             <documentTypeEntry>
                                 <field name="documentTypeID">
+                                    <String>3/framework/pruz.framework/Armer Heinrich</String>
+                                </field>
+                                <field name="enable">
+                                    <Boolean>false</Boolean>
+                                </field>
+                            </documentTypeEntry>
+                            <documentTypeEntry>
+                                <field name="documentTypeID">
                                     <String>6/ant/ant.framework/ANT</String>
                                 </field>
                                 <field name="enable">
