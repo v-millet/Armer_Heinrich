@@ -14104,7 +14104,7 @@
                   <c> </c>
                   <w xml:id="w_1005_6">od<choice><am>&er;</am><ex>er</ex></choice></w>
                   <lb ana="hc:DependentLine hc:RunOverLineBelow" n="38a"/>
-                  <metamark ana="hc:RunOverMark">|||</metamark>
+                  <metamark ana="hc:RunOverMark">||</metamark>
                   <w xml:id="w_1005_7">getan</w>
                   <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>.</pc></reg></choice>
                </l>
@@ -17995,7 +17995,7 @@
                   <c> </c>
                   <w xml:id="w_1280a_7">trewe</w>
                   <lb ana="hc:DependentLine hc:RunOverLineAbove" n="25a"/>
-                  <metamark ana="hc:RunOverMark">|||</metamark>
+                  <metamark ana="hc:RunOverMark">||</metamark>
                   <w xml:id="w_1280a_8">pflege<choice><am>&bar;</am><ex>n</ex></choice></w>
                   <choice><orig/><reg ana="hc:PunctuationRegularization"><pc>,</pc></reg></choice>
                </l>
